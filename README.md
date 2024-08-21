@@ -1,3 +1,5 @@
+![upc-logo](images/upc-logo.png)
+
 # Informe del proyecto
 
 ## Registro de Versiones del Informe
