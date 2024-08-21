@@ -9,7 +9,7 @@
     <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>  
 <br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
-    <br> <strong>INFORME DE TRABAJO FINAL - TF1 </strong> 
+    <br> <strong>INFORME DE TRABAJO FINAL - TB1 </strong> 
 </p>
 
 <p align="center">
@@ -26,11 +26,11 @@
         </tr>
         <tr>
                 <td>Gabriel Anthony Braithuaite Toledo</td>
-            <td></td>
+            <td>U20201e889</td>
         </tr>
         <tr>
             <td>Adrian Alonso Calle Huayanca</td>
-            <td></td>
+            <td>u202011657</td>
         </tr>
         <tr>
                 <td>Hardie Alfonso Holguín Gamarra</td>
@@ -38,16 +38,16 @@
         </tr>
         <tr>
             <td>Mateo Italo Loechle Arias</td>
-            <td></td>
+            <td>U202215004</td>
         </tr>
         <tr>
             <td>David Bryan Rodriguez Santos</td>
-            <td></td>
+            <td>u202212236</td>
         </tr>
     </table>
 
 <tr>
-    <td><b>Mes y año: </b> 05/08/2024</td>
+    <td><b>Mes y año: </b> 05/09/2024</td>
 </tr>
 </div>
 <br>
