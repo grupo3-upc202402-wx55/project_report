@@ -1,4 +1,57 @@
-![upc-logo](images/upc-logo.png)
+
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+<br>
+<img src="/images/upc-logo.png"></img><br>
+<br>
+    <strong>Ingeniería de Software - 5to Ciclo</strong><br>
+<br>
+    <strong>Desarrollo de Aplicaciones Open Source - WX55</strong><br>  
+<br>
+    <strong>Profesor: Angel Augusto Velasquez Nuñez</strong><br>
+    <br> <strong>INFORME DE TRABAJO FINAL - TF1 </strong> 
+</p>
+
+<p align="center">
+    <strong>Startup: </strong><br>
+    <strong>Producto: </strong>
+</p>
+
+<h3 align="center" >Team Members:</h3>
+<div>
+    <table align="center">
+        <tr>
+            <th style="text-aling:center;">Member</th>
+            <th style="text-align:center;">Code</th>
+        </tr>
+        <tr>
+                <td>Gabriel Anthony Braithuaite Toledo</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Adrian Alonso Calle Huayanca</td>
+            <td></td>
+        </tr>
+        <tr>
+                <td>Hardie Alfonso Holguín Gamarra</td>
+            <td>U202220250</td>
+        </tr>
+        <tr>
+            <td>Mateo Italo Loechle Arias</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>David Bryan Rodriguez Santos</td>
+            <td></td>
+        </tr>
+    </table>
+
+<tr>
+    <td><b>Mes y año: </b> 05/08/2024</td>
+</tr>
+</div>
+<br>
+
 
 # Informe del proyecto
 
