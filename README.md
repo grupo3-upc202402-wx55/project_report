@@ -206,6 +206,459 @@
 | EP14               	 |                               | 	                                                                                                                                                                                           | No Corresponde| No Corresponde|
 | EP15               	 |                              | 	                                                                                                                                                                                           | No Corresponde| No Corresponde|
 
+<table>
+    <tr>
+        <th>Epic / Story ID</th>
+        <th>Título</th>
+        <th>Descripción</th>
+        <th>Criterios de Aceptación</th>
+        <th>Relacionado con (Epic ID)</th>
+    </tr>
+<tr>
+    <td>US-01</td> 
+    <td>Ver descripción clara y concisa de los servicios en la landing page</td>
+    <td>Como visitante, quiero ver una descripción clara y concisa de los servicios ofrecidos en la landing page, para comprender rápidamente cómo pueden beneficiar a mi operación agrícola o ganadera.</td>
+    <td>
+        <b>Scenario 01:</b> Contactar a los desarrolladores<br>
+        <b>Dado</b> que el visitante tiene una consulta <br>
+        <b>Cuando</b> redacte un mensaje y su correo electronico para contactar a los desarrolladores<br>
+        <b>Entonces</b> el mensaje le llegara a los desarrolladores.<br><br>
+    </td>
+    <td>EP01</td> 
+</tr>
+<tr>
+    <td>US-02</td> 
+    <td>Vinculo entre el Landing Page y la Aplicación Web</td>
+    <td>Como visitante interesado en la aplicación, quiero probar la aplicación web desde la Landing Page.</td>
+    <td>
+        <b>Scenario 01:</b> El visitante ingresa a la aplicación<br>
+        <b>Dado</b> que el visitante desea usar la aplicación<br>
+        <b>Cuando</b> ingrese a la landing page y encuentre el botón para acceder a la aplicación. <br>
+        <b>Entonces</b> el visitante será redirigido a la aplicación web y podrá convertirse en nuestro usuario.<br><br>
+   </td>
+    <td>EP02</td> 
+</tr>
+
+
+
+<tr>
+    <td>US-03</td> 
+    <td>Acceso a Cantidades de Stock</td>
+    <td>Como administrador, quiero acceder a las cantidades actuales de stock para planificar la producción y las compras.</td>
+    <td>
+        <b>Scenario 01:</b> Ver Cantidades Disponibles<br>
+        <b>Dado</b> que soy administrador<br>
+        <b>Cuando</b> acceda al sistema de gestión de inventario<br>
+        <b>Entonces</b>  podré ver las cantidades actuales de cada ingrediente en stock, y el sistema mostrará alertas cuando el stock esté por debajo de un nivel predefinido.<br><br>
+        <b>Scenario 02:</b> Recibir Notificación de Bajo Stock<br>
+        <b>Dado</b>  que el stock de un ingrediente está bajo,<br>
+        <b>Cuando</b>  acceda al sistema de gestión de inventario,<br>
+        <b>Entonces</b> recibiré una notificación de bajo stock para que pueda tomar medidas inmediatas.
+    </td> 
+    <td>EP03</td> 
+</tr>
+<tr>
+    <td>US-04</td> 
+    <td>Ingreso de Stock</td>
+    <td>Como administrador, quiero registrar nuevas entradas de inventario para mantener un registro actualizado de los ingredientes disponibles.</td>
+    <td>
+        <b>Scenario 01:</b> Registrar Nuevas Entradas<br>
+        <b>Dado</b>  que soy administrador<br>
+        <b>Cuando</b> reciba un nuevo lote de ingredientes,<br>
+        <b>Entonces</b>puedo registrar esta entrada en el sistema con la cantidad y la fecha de ingreso, y el sistema actualizará automáticamente el stock disponible.<br><br>
+        <b>Scenario 02:</b> Verificar Registro de Entrada<br>
+        <b>Dado</b> que he registrado una nueva entrada de stock,<br>
+        <b>Cuando</b> revise el registro<br>
+        <b>Entonces</b>  podré ver la nueva entrada registrada con todos los detalles correspondientes.<br><br>
+    </td> 
+    <td>EP12</td> 
+</tr>
+<tr>
+    <td>US-05</td> 
+    <td> Cálculo del Costo de Producción</td>
+    <td>Como administrador, quiero consultar el costo de los ingredientes por plato para ajustar precios o recetas según sea necesario.</td>
+    <td>
+        <b>Scenario 01:</b> Consultar Costos de Producción<br>
+        <b>Dado</b> que soy administrador,<br>
+        <b>Cuando</b> acceda a un plato específico<br>
+        <b>Entonces</b>el sistema debe mostrar el costo detallado de cada ingrediente y el costo total de producción del plato.<br><br>
+        <b>Scenario 02:</b> Modificar Receta y Recalcular Costos<br>
+        <b>Dado</b>  que quiero ajustar una receta,<br>
+        <b>Cuando</b> modifique los ingredientes en el sistema,<br>
+        <b>Entonces</b>  el sistema debe recalcular automáticamente el costo de producción del plato y actualizarlo en la base de datos.<br><br>
+    </td> 
+    <td>EP12</td> 
+</tr>
+<tr>
+    <td>US-06</td> 
+    <td>Gestión de Facturación</td>
+    <td> Como cajero, quiero generar y gestionar facturas para los clientes de manera rápida y eficiente.</td>
+    <td>
+        <b>Scenario 01:</b> Generar Facturas para Clientes<br>
+        <b>Dado</b> que soy cajero,<br>
+        <b>Cuando</b> un cliente finaliza su comida,<br>
+        <b>Entonces</b> puedo generar una factura detallada que incluya todos los ítems consumidos.<br><br>
+        <b>Scenario 02:</b> Enviar Factura Electrónica<br>
+        <b>Dado</b> que el cliente ha solicitado una factura electrónica,<br>
+        <b>Cuando</b>  la factura se genere,s<br>
+        <b>Entonces</b>  el sistema debe permitir la emisión de la factura electrónica y su envío por correo electrónico al cliente.<br><br>
+    </td> 
+    <td>EP09</td> 
+</tr>
+<tr>
+    <td>US-07</td> 
+    <td>Registro de Merma</td>
+    <td>Como administrador, quiero registrar y monitorear las mermas de ingredientes para ajustar las compras futuras y reducir pérdidas.</td>
+    <td>
+        <b>Scenario 01:</b>Registrar y Monitorear Merma<br>
+        <b>Dado</b>  que se produce una merma en los ingredientes,<br>
+        <b>Cuando</b> registre la merma en el sistema,<br>
+        <b>Entonces</b> el sistema debe permitir el registro de la cantidad perdida y generar un reporte semanal que muestre las mermas acumuladas.<br><br>
+        <b>Scenario 02:</b> Analizar Datos de Merma<br>
+        <b>Dado</b> que he registrado las mermas en el sistema,<br>
+        <b>Cuando</b>  acceda al reporte semanal,<br>
+        <b>Entonces</b> podré analizar los datos de merma y ajustar las órdenes de compra en consecuencia.<br><br>
+    </td>
+    <td>EP09</td>
+<tr>
+    <td>US-08</td> 
+    <td>Reporte de Uso de Ingredientes</td>
+    <td> Como administrador, quiero ver estadísticas sobre el uso de ingredientes para ajustar los pedidos y optimizar la producción.</td>
+    <td>
+        <b>Scenario 01:</b> Generar Reporte de Uso de Ingredientes<br>
+        <b>Dado</b> que soy administrador,<br>
+        <b>Cuando</b>  acceda a los reportes de uso de ingredientes,<br>
+        <b>Entonces</b> el sistema debe mostrar gráficos y estadísticas detalladas del uso de cada ingrediente durante un período específico.<br><br>
+        <b>Scenario 02:</b>  Ajustar Pedidos Basado en el Reporte<br>
+        <b>Dado</b>  que he revisado el reporte de uso de ingredientes,<br>
+        <b>Cuando</b> note un aumento en el uso de ciertos ingredientes,<br>
+        <b>Entonces</b> podré ajustar los pedidos para evitar la escasez y optimizar la producción.<br><br>
+    </td> 
+    <td>EP09</td> 
+</tr>
+
+<tr>
+    <td>US-09</td> 
+    <td>Cierre de Caja Detallado</td>
+    <td>Como cajero, quiero generar reportes de cierre de caja diario con detalles de transacciones para asegurar que todo esté en orden al final del día.</td>
+    <td>
+        <b>Scenario 01:</b> Generar Reporte de Cierre de Caja<br>
+        <b>Dado</b> que es el final del día,<br>
+        <b>Cuando</b> realice el cierre de caja,<br>
+        <b>Entonces</b>el sistema debe generar un reporte detallado con todas las transacciones realizadas, incluyendo efectivo, tarjetas y otros métodos de pago.<br><br>
+        <b>Scenario 02:</b> Exportar o Imprimir Reporte de Cierre<br>
+        <b>Dado</b> que he generado el reporte de cierre de caja,<br>
+        <b>Cuando</b>  lo necesite para mis archivos,<br>
+        <b>Entonces</b> el sistema debe permitir la impresión o exportación del reporte para su archivo.<br><br>
+    </td> 
+    <td>EP13</td> 
+</tr>
+
+<tr>
+    <td>US-10</td> 
+    <td>Tomar Pedidos desde la Mesa</td>
+    <td>Como mesero, quiero introducir pedidos directamente en la aplicación desde la mesa para que estos se envíen automáticamente a la cocina.</td>
+    <td>
+        <b>Scenario 01:</b>Tomar Pedidos desde la Mesa<br>
+        <b>Dado</b> que estoy tomando un pedido,<br>
+        <b>Cuando</b> introduzca los ítems en la aplicación,<br>
+        <b>Entonces</b> estos deben enviarse automáticamente al sistema de cocina.<br><br>
+        <b>Scenario 02:</b> Modificar Pedido Antes de Enviar<br>
+        <b>Dado</b>  que he tomado un pedido,<br>
+        <b>Cuando</b>  el cliente haga una modificación,<br>
+        <b>Entonces</b>  el sistema debe permitir la modificación del pedido antes de enviarlo a la cocina.<br><br>
+    </td> 
+    <td>EP07</td> 
+</tr>
+
+<tr>
+    <td>US-11</td> 
+    <td>Asignación de Mesas</td>
+    <td>Como dueño de la granja, quiere saber información detallada sobre el estado de sus cultivos y ganado, para poder administrarlos de manera rápida e informada.</td>
+    <td>
+        <b>Scenario 01:</b> Acceso a la información detallada<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede al panel de control de cultivos y ganado<br>
+        <b>Entonces</b> el sistema le muestra una lista de todos sus cultivos y ganado con su información detallada.<br><br>
+        <b>Scenario 02:</b> Visualización de detalles de cultivos<br>
+        <b>Dado</b> que está viendo la información detallada<br>
+        <b>Cuando</b> selecciona un cultivo específico<br>
+        <b>Entonces</b> el sistema le muestra información detallada sobre el cultivo, como fecha de siembra, variedades, estado de crecimiento, necesidades de riego y fertilización, etc.<br><br>
+        <b>Scenario 03:</b> Visualización de detalles de ganado<br>
+        <b>Dado</b> que está viendo la información detallada<br>
+        <b>Cuando</b> selecciona un animal o grupo de animales específico<br>
+        <b>Entonces</b> el sistema le muestra información detallada sobre el ganado, como edad, raza, historial de salud, dieta, y cualquier otro detalle relevante.<br><br>
+        <b>Scenario 04:</b> Seguimiento de cambios en el estado<br>
+        <b>Dado</b> que está viendo la información detallada<br>
+        <b>Cuando</b> los cultivos o el ganado experimentan cambios en su estado, como crecimiento, enfermedad, o reproducción<br>
+        <b>Entonces</b> el sistema actualiza automáticamente la información mostrada para reflejar los cambios recientes.
+    </td> 
+    <td>EP07</td> 
+</tr>
+
+<tr>
+    <td>US-12</td> 
+    <td>Ver estadísticas financieras</td>
+    <td>Como dueño de la granja, quiere saber estadísticas financieras, para poder administrar correctamente la economía de su granja.</td>
+    <td>
+        <b>Scenario 01:</b> Acceso a las estadísticas financieras<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede al panel de control financiero<br>
+        <b>Entonces</b> el sistema le muestra una variedad de estadísticas financieras relevantes para su granja.<br><br>
+        <b>Scenario 02:</b> Visualización de ingresos y gastos<br>
+        <b>Dado</b> que está viendo las estadísticas financieras<br>
+        <b>Cuando</b> revisa la sección de ingresos y gastos<br>
+        <b>Entonces</b> el sistema le muestra un desglose detallado de los ingresos y gastos de su granja, clasificados por categoría y período de tiempo.<br><br>
+        <b>Scenario 03:</b> Análisis de rentabilidad<br>
+        <b>Dado</b> que está viendo las estadísticas financieras<br>
+        <b>Cuando</b> revisa la sección de análisis de rentabilidad<br>
+        <b>Entonces</b> el sistema le muestra métricas y gráficos que le ayudan a evaluar la rentabilidad de su granja, como margen de beneficio, retorno sobre la inversión, etc.
+    </td> 
+    <td>EP05</td> 
+</tr>
+
+<tr>
+    <td>US-13</td> 
+    <td>Registrar el cumplimiento de tareas con detalles de producción</td>
+    <td>Como trabajador en la granja, quiere registrar el cumplimiento de sus tareas con detalles como la cantidad, calidad y fecha de cosecha, para mantener un registro preciso de la producción de la granja.</td>
+    <td>
+        <b>Scenario 01:</b> Acceso al registro de cumplimiento de tareas<br>
+        <b>Dado</b> que es un trabajador autenticado en el sistema<br>
+        <b>Cuando</b> accede a su panel de control de tareas<br>
+        <b>Entonces</b> el sistema le muestra una lista de tareas asignadas y un formulario para registrar el cumplimiento de las mismas.<br><br>
+        <b>Scenario 02:</b> Registro de detalles de producción<br>
+        <b>Dado</b> que está registrando el cumplimiento de una tarea<br>
+        <b>Cuando</b> ingresa los detalles de producción, como cantidad cosechada, calidad del producto, fecha de cosecha, etc.<br>
+        <b>Entonces</b> el sistema registra estos detalles junto con la tarea cumplida.<br><br>
+        <b>Scenario 03:</b> Registro de calidad del producto<br>
+        <b>Dado</b> que está registrando el cumplimiento de una tarea relacionada con la producción<br>
+        <b>Cuando</b> ingresa la calidad del producto, como grado de madurez, tamaño, estado de frescura, etc.<br>
+        <b>Entonces</b> el sistema registra esta información para proporcionar un registro detallado de la calidad de la producción.<br><br>
+        <b>Scenario 04:</b> Seguimiento de fechas de cosecha<br>
+        <b>Dado</b> que está registrando el cumplimiento de una tarea de cosecha<br>
+        <b>Cuando</b> ingresa la fecha de cosecha<br>
+        <b>Entonces</b> el sistema registra la fecha de cosecha junto con los demás detalles de producción.<br><br>
+        <b>Scenario 05:</b> Revisión y edición de registros<br>
+        <b>Dado</b> que es un trabajador y desea revisar o editar registros de cumplimiento de tareas anteriores<br>
+        <b>Cuando</b> accede al historial de registros de cumplimiento de tareas<br>
+        <b>Entonces</b> el sistema le permite ver y editar los detalles registrados previamente, manteniendo un registro preciso y actualizado de la producción de la granja.
+    </td> 
+    <td>EP12</td> 
+</tr>
+
+<tr>
+    <td>US-14</td> 
+    <td>Emitir alertas de emergencia de manera eficaz</td>
+    <td>Como trabajador en la granja, quiere emitir alertas sobre cualquier emergencia a sus colegas y supervisores de manera eficaz e inmediata.</td>
+    <td>
+        <b>Scenario 01:</b> Acceso rápido a la función de alerta de emergencia<br>
+        <b>Dado</b> que es un trabajador en la granja<br>
+        <b>Cuando</b> se encuentra en una situación de emergencia<br>
+        <b>Entonces</b> quiere acceder rápidamente a la función de alerta de emergencia en la aplicación o dispositivo proporcionado.<br><br>
+        <b>Scenario 02:</b> Selección del tipo de emergencia<br>
+        <b>Dado</b> que está emitiendo una alerta de emergencia<br>
+        <b>Cuando</b> selecciona el tipo de emergencia que está enfrentando, como incendio, accidente, lesión, etc.<br>
+        <b>Entonces</b> el sistema registra el tipo de emergencia para una respuesta adecuada.<br><br>
+        <b>Scenario 03:</b> Notificación a colegas y supervisores<br>
+        <b>Dado</b> que emite una alerta de emergencia<br>
+        <b>Cuando</b> envía la alerta<br>
+        <b>Entonces</b> el sistema notifica automáticamente a sus colegas y supervisores designados sobre la emergencia, utilizando métodos como notificaciones push, mensajes de texto o llamadas de voz.<br><br>
+        <b>Scenario 04:</b> Inclusión de detalles adicionales<br>
+        <b>Dado</b> que está emitiendo una alerta de emergencia<br>
+        <b>Cuando</b> necesita proporcionar detalles adicionales, como ubicación exacta, número de personas involucradas, gravedad de la situación, etc.<br>
+        <b>Entonces</b> el sistema le permite incluir esta información para una mejor comprensión de la emergencia.<br><br>
+        <b>Scenario 05:</b> Confirmación de recepción de alerta<br>
+        <b>Dado</b> que emite una alerta de emergencia<br>
+        <b>Cuando</b> sus colegas y supervisores reciben la alerta<br>
+        <b>Entonces</b> el sistema muestra una confirmación de recepción para garantizar que la alerta haya sido recibida y comprendida.
+    </td> 
+    <td>EP06</td> 
+</tr>
+
+<tr>
+    <td>US-15</td> 
+    <td>Crear un anuncio de la granja</td>
+    <td>Como dueño de la granja, quiere crear un anuncio de su granja, para proporcionar información relevante a empresarios interesados en establecer una alianza estratégica.</td>
+    <td>
+        <b>Scenario 01:</b> Creación de anuncio exitosa<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede a la sección de creación de anuncios<br>
+        <b>Entonces</b> el sistema le permite crear un anuncio proporcionando detalles como descripción de la granja, ubicación, tipo de cultivos, y contacto.<br><br>
+        <b>Scenario 02:</b> Falla en la creación del anuncio<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> completa el formulario de creación de anuncio con información incompleta o inválida<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error e indica los campos que necesitan ser corregidos.
+    </td> 
+    <td>EP08</td>
+</tr>
+
+<tr>
+    <td>US-16</td> 
+    <td>Editar un anuncio publicado</td>
+    <td>Como dueño de la granja, quiere editar un anuncio publicado, para actualizar la información de su granja cuando sea necesario.</td>
+    <td>
+        <b>Scenario 01:</b> Edición de anuncio exitosa<br>
+        <b>Dado</b> que tiene un anuncio publicado<br>
+        <b>Cuando</b> accede a la sección de anuncios y selecciona un anuncio para editar<br>
+        <b>Entonces</b> el sistema le permite modificar la información del anuncio y guardar los cambios.<br><br>
+        <b>Scenario 02:</b> Falla en la edición del anuncio<br>
+        <b>Dado</b> que tiene un anuncio publicado<br>
+        <b>Cuando</b> intenta editar el anuncio pero ocurre un error en el sistema<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que no se pudo guardar los cambios y sugiere intentar nuevamente más tarde.
+    </td> 
+    <td>EP08</td> 
+</tr>
+<tr>
+    <td>US-17</td> 
+    <td>Eliminar un anuncio publicado</td>
+    <td>Como dueño de la granja, quiere eliminar un anuncio publicado, para retirar la información de su granja de la plataforma cuando ya no esté interesado en establecer alianzas.</td>
+    <td>
+        <b>Scenario 01:</b> Eliminación de anuncio exitosa<br>
+        <b>Dado</b> que tiene un anuncio publicado<br>
+        <b>Cuando</b> accede a la sección de anuncios y selecciona un anuncio para eliminar<br>
+        <b>Entonces</b> el sistema elimina el anuncio de la plataforma y confirma la eliminación.<br><br>
+        <b>Scenario 02:</b> Falla en la eliminación del anuncio<br>
+        <b>Dado</b> que tiene un anuncio publicado<br>
+        <b>Cuando</b> intenta eliminar el anuncio pero ocurre un error en el sistema<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que no se pudo eliminar el anuncio y sugiere intentar nuevamente más tarde.
+    </td> 
+    <td>EP08</td> 
+</tr>
+
+<tr>
+    <td>US-18</td> 
+    <td>Registrarse en la plataforma</td>
+    <td>Como dueño de la granja, quiere registrarse en la plataforma, para poder crear y gestionar su cuenta y acceder a las funcionalidades del sistema.</td>
+    <td>
+        <b>Scenario 01:</b> Registro exitoso<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> accede a la página de registro y completa el formulario con información válida<br>
+        <b>Entonces</b> el sistema crea su cuenta y le envía una confirmación de registro.<br><br>
+        <b>Scenario 02:</b> Registro fallido por información inválida<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> completa el formulario de registro con información inválida o incompleta<br>
+        <b>Entonces</b> el sistema muestra mensajes de error indicando los campos que deben corregirse.<br><br>
+        <b>Scenario 03:</b> Registro fallido por cuenta existente<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> intenta registrarse con un correo electrónico ya existente<br>
+        <b>Entonces</b> el sistema muestra un mensaje indicando que ya existe una cuenta con ese correo electrónico y sugiere iniciar sesión o recuperar la contraseña.
+    </td> 
+    <td>EP16</td> 
+</tr>
+<tr>
+    <td>US-19</td> 
+    <td>Iniciar sesión en la plataforma</td>
+    <td>Como dueño de la granja, quiere iniciar sesión en la plataforma, para poder acceder a su cuenta y gestionar su granja.</td>
+    <td>
+        <b>Scenario 01:</b> Inicio de sesión exitoso<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> introduce su correo electrónico y contraseña correctos en la página de inicio de sesión<br>
+        <b>Entonces</b> el sistema le permite acceder a su cuenta y le muestra su panel de control.<br><br>
+        <b>Scenario 02:</b> Inicio de sesión fallido por credenciales incorrectas<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> introduce un correo electrónico o contraseña incorrectos<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que las credenciales no son correctas e invita a intentar nuevamente.<br><br>
+        <b>Scenario 03:</b> Recuperación de contraseña<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> no recuerda su contraseña<br>
+        <b>Entonces</b> el sistema le proporciona una opción para recuperar su contraseña mediante un enlace de restablecimiento enviado a su correo electrónico.
+    </td> 
+    <td>EP16</td> 
+</tr>
+
+<tr>
+    <td>US-20</td> 
+    <td>Crear un perfil de trabajador</td>
+    <td>Como dueño de la granja, quiere crear un perfil para cada trabajador, para mantener un registro organizado y detallado de sus empleados.</td>
+    <td>
+        <b>Scenario 01:</b> Creación de perfil de trabajador exitosa<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede a la sección de gestión de empleados y completa el formulario de nuevo trabajador<br>
+        <b>Entonces</b> el sistema crea un perfil para el trabajador y lo añade a la lista de empleados.<br><br>
+        <b>Scenario 02:</b> Falla en la creación del perfil de trabajador<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> introduce información incompleta o inválida en el formulario de nuevo trabajador<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando los campos que deben corregirse.
+    </td> 
+    <td>EP04</td> 
+</tr>
+<tr>
+    <td>US-21</td> 
+    <td>Visualizar la lista de trabajadores</td>
+    <td>Como dueño de la granja, quiere visualizar la lista de todos sus trabajadores, para tener un conocimiento claro de su fuerza laboral.</td>
+    <td>
+        <b>Scenario 01:</b> Acceso a la lista de trabajadores<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede a la sección de gestión de empleados<br>
+        <b>Entonces</b> el sistema le muestra una lista completa de todos los trabajadores con sus detalles respectivos.<br><br>
+        <b>Scenario 02:</b> Visualización de detalles del trabajador<br>
+        <b>Dado</b> que está viendo la lista de trabajadores<br>
+        <b>Cuando</b> selecciona un trabajador específico<br>
+        <b>Entonces</b> el sistema le muestra información detallada sobre ese trabajador, incluyendo su puesto, fecha de inicio, y contacto.
+    </td> 
+    <td>EP04</td> 
+
+</tr>
+<tr>
+ <td>US-22</td> 
+    <td>Eliminar el perfil de un trabajador</td>
+    <td>Como dueño de la granja, quiere eliminar el perfil de un trabajador, para mantener la lista de empleados actualizada cuando un trabajador ya no forme parte del equipo.</td>
+    <td>
+        <b>Scenario 01:</b> Eliminación de perfil de trabajador exitosa<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> accede a la sección de gestión de empleados y elimina el perfil de un trabajador<br>
+        <b>Entonces</b> el sistema elimina el perfil del trabajador de la lista y muestra un mensaje de confirmación.<br><br>
+        <b>Scenario 02:</b> Falla en la eliminación del perfil de trabajador<br>
+        <b>Dado</b> que es el dueño de la granja autenticado en el sistema<br>
+        <b>Cuando</b> intenta eliminar el perfil de un trabajador pero ocurre un error en el sistema<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que no se pudo eliminar el perfil y sugiere intentar nuevamente más tarde.
+    </td> 
+    <td>EP04</td> 
+</tr>
+
+<tr>
+    <td>US-23</td> 
+    <td>Registrarse en la plataforma como dueño de empresa</td>
+    <td>Como dueño de una empresa, quiere registrarse en la plataforma, para poder crear y gestionar su cuenta y acceder a las funcionalidades del sistema.</td>
+    <td>
+        <b>Scenario 01:</b> Registro exitoso<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> accede a la página de registro y completa el formulario con información válida<br>
+        <b>Entonces</b> el sistema crea su cuenta y le envía una confirmación de registro.<br><br>
+        <b>Scenario 02:</b> Registro fallido por información inválida<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> completa el formulario de registro con información inválida o incompleta<br>
+        <b>Entonces</b> el sistema muestra mensajes de error indicando los campos que deben corregirse.<br><br>
+        <b>Scenario 03:</b> Registro fallido por cuenta existente<br>
+        <b>Dado</b> que es un usuario nuevo<br>
+        <b>Cuando</b> intenta registrarse con un correo electrónico ya existente<br>
+        <b>Entonces</b> el sistema muestra un mensaje indicando que ya existe una cuenta con ese correo electrónico y sugiere iniciar sesión o recuperar la contraseña.
+    </td> 
+    <td>17</td> 
+</tr>
+<tr>
+    <td>US-24</td> 
+    <td>Iniciar sesión en la plataforma como dueño de empresa</td>
+    <td>Como dueño de una empresa, quiere iniciar sesión en la plataforma, para poder acceder a su cuenta y gestionar su empresa.</td>
+    <td>
+        <b>Scenario 01:</b> Inicio de sesión exitoso<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> introduce su correo electrónico y contraseña correctos en la página de inicio de sesión<br>
+        <b>Entonces</b> el sistema le permite acceder a su cuenta y le muestra su panel de control.<br><br>
+        <b>Scenario 02:</b> Inicio de sesión fallido por credenciales incorrectas<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> introduce un correo electrónico o contraseña incorrectos<br>
+        <b>Entonces</b> el sistema muestra un mensaje de error indicando que las credenciales no son correctas e invita a intentar nuevamente.<br><br>
+        <b>Scenario 03:</b> Recuperación de contraseña<br>
+        <b>Dado</b> que es un usuario registrado<br>
+        <b>Cuando</b> no recuerda su contraseña<br>
+        <b>Entonces</b> el sistema le proporciona una opción para recuperar su contraseña mediante un enlace de restablecimiento enviado a su correo electrónico.
+    </td> 
+    <td>17</td> 
+</tr>
+
+</table>
+
 <h4 id="impact-mapping">3.3. Impact Mapping.</h4>
 <h4 id="product-backlog">3.4. Product Backlog.</h4>
 <h3 id="chapter-4">Capítulo IV: Product Design</h3>
