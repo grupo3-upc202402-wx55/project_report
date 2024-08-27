@@ -161,20 +161,40 @@
 configuración de despliegue del software.</p>
 
 <h4 id="software-configuration">5.1. Software Configuration Management.</h4>
-<p> A través del desarrollo del proyecto, hemos utilizado algunas aplicaciones que nos 
-ayudaron con la creación de nuestra aplicación. Primero utilizamos el programa Figma para 
-el desarrollo del landing page. También se usó el programa JetBrains Toolbox para el 
-desarrollos del software; por consiguiente, se aplicó el lenguaje HTML para crear la 
-interfaz de nuestra aplicación y poder definir la estructura de la página web. Asimismo 
-usaremos el lenguaje CSS para mejorar detalles de la página web como la paleta de colores, 
-fuentes, tipo de letras, entre otros. También estará presente el lenguaje JavaScript 
-para ayudar a que la página sea más vistosa, añadiendo animaciones, efectos u eventos cuando
-los botones sean oprimidos, etc.
 
-Por último, para tener un control del código de nuestra página usaremos Github para la participación colaborativa del proyecto y mantener una actualización constante. Se tendrá en cuenta los puntos implementados previamente en el Product UX/UI , como el styguide y elementos del landing page UI design y URL del repositorio de GitHub para la Landing Page.
+<p>
+    En este apartado, se detallan las herramientas y configuraciones empleadas para mantener la consistencia y organización del entorno de desarrollo durante el ciclo de vida del proyecto. La gestión de la configuración del software es crucial para asegurar que todos los miembros del equipo trabajan de manera coordinada, utilizando las mismas versiones de herramientas y respetando las convenciones establecidas. Esta sección abarca desde la configuración del entorno de desarrollo hasta la gestión del código fuente y el despliegue de la solución.
 </p>
 
-<h4 id="software-development">5.1.1. Software Development Environment Configuration.</h4>
+<h4>5.1.1 Software Development Environment Configuration</h4>
+
+<h4>Project Management</h4>
+
+<p><strong>Discord:</strong><br>
+Discord ha sido la herramienta principal de comunicación y coordinación del equipo. Se ha utilizado para realizar reuniones virtuales, mantener discusiones continuas sobre el progreso del proyecto, y para compartir recursos y actualizaciones de forma eficiente.<br>
+<strong>Ruta de referencia:</strong> <a href="https://discord.com/">Discord</a>
+</p>
+
+<p><strong>Trello:</strong><br>
+Trello se ha utilizado de manera limitada para la gestión del proyecto, permitiendo la visualización y actualización del estado de tareas y sprints en los que trabaja el equipo. Aunque su uso ha sido ocasional, ha proporcionado una estructura básica para el seguimiento de actividades.<br>
+<strong>Ruta de referencia:</strong> <a href="https://trello.com/">Trello</a>
+</p>
+
+<h4>Product UX/UI Design</h4>
+
+<p>Para la elaboración de la interfaz de usuario y la experiencia de usuario, se emplearán las siguientes herramientas:</p>
+
+<ul>
+    <li><strong>Figma:</strong> Una plataforma colaborativa de diseño que permite la creación de wireframes, mock-ups y prototipos interactivos. Será utilizada para diseñar tanto las interfaces de usuario como los flujos de interacción de la aplicación.</li>
+    <li><strong>LucidChart:</strong> Herramienta de diagramación en línea que será utilizada para la elaboración de wireflows y user flows, facilitando la visualización y planificación de las interacciones y navegaciones dentro de la aplicación.</li>
+</ul>
+
+<p><strong>Rutas de referencia:</strong></p>
+<ul>
+    <li><a href="https://www.figma.com/login" target="_blank">Figma</a></li>
+    <li><a href="https://www.lucidchart.com/" target="_blank">LucidChart</a></li>
+</ul>
+
 <h4 id="source-code">5.1.2. Source Code Management.</h4>
 <h4 id="source-code-style-guide-and-conventions">5.1.3. Source Code Style Guide & Conventions.</h4>
 <h4 id="software-deployment-configuration">5.1.4. Software Deployment Configuration.</h4>
