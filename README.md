@@ -195,7 +195,57 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
     <li><a href="https://www.lucidchart.com/" target="_blank">LucidChart</a></li>
 </ul>
 
+<h4>Software Development</h4>
+
+<p>Para el desarrollo del software, se han seleccionado las siguientes herramientas y tecnologías, con el fin de proporcionar un entorno robusto y eficiente para el desarrollo del proyecto:</p>
+
+<ul>
+    <li><strong>IntelliJ IDEA Ultimate:</strong> Un entorno de desarrollo integrado (IDE) potente y completo, que ofrece herramientas avanzadas para el desarrollo de aplicaciones. Será utilizado para escribir, depurar y gestionar el código del proyecto, aprovechando sus características de soporte para múltiples lenguajes y sistemas de control de versiones.</li>
+    <li><strong>HTML5:</strong> El lenguaje estándar de marcado para la creación de páginas web. Será empleado en el desarrollo del frontend de la aplicación, estructurando el contenido de manera semántica y accesible.</li>
+    <li><strong>CSS:</strong> Hojas de estilo en cascada utilizadas para diseñar y estilizar la presentación visual de la aplicación web. Permitirá definir el diseño responsivo y adaptativo del frontend.</li>
+</ul>
+
+<p><strong>Rutas de referencia:</strong></p>
+<ul>
+    <li><a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA Ultimate</a></li>
+    <li><a href="https://www.w3schools.com/html/html5_syntax.asp" target="_blank">HTML5</a></li>
+    <li><a href="https://google.github.io/styleguide/htmlcssguide.html" target="_blank">CSS</a></li>
+</ul>
+
+<h4>Software Deployment</h4>
+
+<p>En esta sección, se detallan las herramientas y plataformas utilizadas para el despliegue de las aplicaciones desarrolladas, garantizando que estén accesibles y operativas en el entorno de producción.</p>
+
+<ul>
+    <li><strong>Git:</strong> Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del software desarrollado. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo acceden a través de la línea de comandos en sus sistemas locales.</li>
+    <li><strong>GitHub:</strong> Una plataforma en la nube que hospeda los repositorios de código del proyecto. Permitirá la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo.</li>
+</ul>
+
+<p><strong>Rutas de referencia:</strong></p>
+<ul>
+    <li><a href="https://git-scm.com/" target="_blank">Git</a></li>
+    <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+</ul>
+
+<h4>Software Documentation</h4>
+
+<p>En esta sección, se especifican las herramientas utilizadas para la documentación del software, proporcionando un registro detallado de los aspectos técnicos y funcionales del proyecto.</p>
+
+<ul>
+    <li><strong>GitHub:</strong> Además de servir como plataforma para el control de versiones y la colaboración en el código, GitHub también se utiliza para alojar la documentación del proyecto. Los miembros del equipo pueden acceder y actualizar la documentación a través de los repositorios del proyecto.</li>
+</ul>
+
+<p><strong>Ruta de referencia:</strong></p>
+<ul>
+    <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+</ul>
+
 <h4 id="source-code">5.1.2. Source Code Management.</h4>
+
+
+
+
+
 <h4 id="source-code-style-guide-and-conventions">5.1.3. Source Code Style Guide & Conventions.</h4>
 <h4 id="software-deployment-configuration">5.1.4. Software Deployment Configuration.</h4>
 <h4 id="landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation.</h4>
