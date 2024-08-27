@@ -157,7 +157,23 @@
 <h4 id="database-design">4.8. Database Design.</h4>
 <h4 id="database-diagram">4.8.1. Database Diagram.</h4>
 <h3 id="chapter-5">Capítulo V: Product Implementation, Validation & Deployment</h3>
+<p>En este capítulo se detallará la implementación del producto, la validación y la 
+configuración de despliegue del software.</p>
+
 <h4 id="software-configuration">5.1. Software Configuration Management.</h4>
+<p> A través del desarrollo del proyecto, hemos utilizado algunas aplicaciones que nos 
+ayudaron con la creación de nuestra aplicación. Primero utilizamos el programa Figma para 
+el desarrollo del landing page. También se usó el programa JetBrains Toolbox para el 
+desarrollos del software; por consiguiente, se aplicó el lenguaje HTML para crear la 
+interfaz de nuestra aplicación y poder definir la estructura de la página web. Asimismo 
+usaremos el lenguaje CSS para mejorar detalles de la página web como la paleta de colores, 
+fuentes, tipo de letras, entre otros. También estará presente el lenguaje JavaScript 
+para ayudar a que la página sea más vistosa, añadiendo animaciones, efectos u eventos cuando
+los botones sean oprimidos, etc.
+
+Por último, para tener un control del código de nuestra página usaremos Github para la participación colaborativa del proyecto y mantener una actualización constante. Se tendrá en cuenta los puntos implementados previamente en el Product UX/UI , como el styguide y elementos del landing page UI design y URL del repositorio de GitHub para la Landing Page.
+</p>
+
 <h4 id="software-development">5.1.1. Software Development Environment Configuration.</h4>
 <h4 id="source-code">5.1.2. Source Code Management.</h4>
 <h4 id="source-code-style-guide-and-conventions">5.1.3. Source Code Style Guide & Conventions.</h4>
@@ -175,11 +191,13 @@
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
 <h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
-<h4 id="heuristic-exam">5.3.3. Evaluaciones según heurísticas.</h4>
+<h4 id="heuristic-exam">5.3.3. Evaluaciones según heurísticas.</h4> 
 <h4 id="about-the-productions">5.4. Video About-the-Product.</h4>
 <h4 id="conclusions">Conclusiones</h4>
 <h4 id="recomendations">Conclusiones y recomendaciones.</h4>
 <h4 id="about-the-team">Video About-the-Team.</h4>
 <h4 id="bibliography">Bibliografía</h4>
 <h4 id="links">Anexos</h4>
+
+
 
