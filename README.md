@@ -242,37 +242,6 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 
 <h4 id="source-code">5.1.2. Source Code Management.</h4>
 
-<p>En esta sección se describen los medios y el esquema de organización que el equipo aplicará para el seguimiento de modificaciones en el proyecto. Se utilizará <strong>GitHub</strong> como plataforma y sistema de control de versiones.</p>
-
-<h4>Repositorios de GitHub</h4>
-<p>A continuación, se proporcionan los enlaces a los repositorios de GitHub correspondientes a cada uno de los productos del proyecto:</p>
-<ul>
-    <li><strong>Landing Page:</strong> <a href="https://github.com/grupo3-upc202402-wx55" target="_blank">Enlace al repositorio de la Landing Page</a></li>
-    <li><strong>Web Services:</strong> <a href="https://github.com/grupo3-upc202402-wx55" target="_blank">Enlace al repositorio de Web Services</a> <br>
-    Este repositorio incluye tanto el proyecto como los archivos de pruebas unitarias y de integración/aceptación.</li>
-    <li><strong>Frontend Web Applications:</strong> <a href="https://github.com/grupo3-upc202402-wx55" target="_blank">Enlace al repositorio de Frontend Web Applications</a></li>
-</ul>
-
-<h4>Implementación de GitFlow</h4>
-<p>Para la gestión del control de versiones, el equipo implementará <strong>GitFlow</strong>, un modelo de branching propuesto por Vincent Driessen que facilita el desarrollo colaborativo y la gestión de lanzamientos. A continuación, se describen las ramas principales y las convenciones de nomenclatura que se utilizarán:</p>
-
-<ul>
-    <li><strong>Main branch (Rama principal):</strong> Esta rama alojará las versiones estables y finales del desarrollo. Únicamente se aceptarán cambios que hayan sido previamente probados y verificados.</li>
-    <li><strong>Develop branch (Rama de desarrollo):</strong> Esta rama servirá para integrar las funcionalidades en desarrollo antes de fusionarlas con la rama principal.</li>
-    <li><strong>Feature branches (Ramas de funcionalidad):</strong> Cada nueva funcionalidad será desarrollada en su propia rama, siguiendo el formato de nomenclatura <code>feature/nombre-funcionalidad</code>. Por ejemplo, <code>feature/chapter-1</code>.</li>
-    <li><strong>Release branches (Ramas de lanzamiento):</strong> Estas ramas se utilizarán para preparar las versiones de lanzamiento, siguiendo el formato de nomenclatura <code>release/vX.X.X</code>, aplicando Semantic Versioning.</li>
-    <li><strong>Hotfix branches (Ramas de corrección rápida):</strong> Para corregir errores críticos en producción, se crearán ramas de corrección rápida, siguiendo el formato de nomenclatura <code>hotfix/nombre-correccion</code>.</li>
-</ul>
-
-<h4>Convenciones de Commit</h4>
-<p>El equipo aplicará las convenciones de <strong>Conventional Commits</strong> para los mensajes de commit, asegurando que cada cambio en el código sea fácilmente comprensible y rastreable. Los mensajes seguirán la estructura:</p>
-<ul>
-    <li><code>tipo(scope): mensaje</code></li>
-    <li><strong>Tipo:</strong> indica la naturaleza del cambio (e.g., feat, fix, chore).</li>
-    <li><strong>Scope:</strong> define la sección del código afectada (e.g., ui, backend).</li>
-    <li><strong>Mensaje:</strong> descripción concisa del cambio realizado.</li>
-</ul>
-
 
 
 
