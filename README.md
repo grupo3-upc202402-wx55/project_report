@@ -324,9 +324,28 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 </ul>
 <p><a href="https://cucumber.io/docs/gherkin/reference/">Referencia</a></p>
 
-
 <h4 id="software-deployment-configuration">5.1.4. Software Deployment Configuration.</h4>
+
+<h4>Landing Page Deployment</h4>
+<p>Para desplegar la landing page del proyecto, se utilizará GitHub Pages. A continuación se detallan los pasos necesarios para configurar y realizar el despliegue:</p>
+   <ol>
+      <li><strong>Crear una carpeta para el despliegue:</strong> Creamos una carpeta llamada <code>"docs"</code> en el repositorio. Esta carpeta alojará todos los archivos necesarios para la landing page.</li>
+      <li><strong>Organizar los archivos:</strong> Aseguramos que los archivos de la landing page sigan las siguientes nomenclaturas:
+          <ul>
+              <li><code>"index.html"</code> para la página principal.</li>
+              <li><code>"styles.css"</code> para los estilos de la página.</li>
+              <li>Una carpeta llamada <code>"img"</code> que contenga todas las imágenes utilizadas.</li>
+          </ul>
+      </li>
+      <li><strong>Subir los archivos al repositorio:</strong> Cargamos los archivos en la carpeta <code>"docs"</code> mediante un commit al repositorio en GitHub.</li>
+      <li><strong>Configurar GitHub Pages:</strong> En GitHub, nos dirigimos a la pestaña <code>Settings</code> del repositorio, luego a <code>Pages</code>. Seleccionamos el branch <code>"main"</code> y especificamos la carpeta <code>"docs"</code> como la fuente de la página.</li>
+      <li><strong>Esperar la publicación:</strong> Esperamos a que GitHub realice las comprobaciones necesarias. Una vez finalizado el proceso, obtendremos un enlace que llevará a la landing page desplegada.</li>
+   </ol>
+
 <h4 id="landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation.</h4>
+
+
+
 <h4 id="sprint-x">5.2.X. Sprint n</h4>
 <h4 id="sprint-planning-x">5.2.X.1. Sprint Planning n.</h4>
 <h4 id="spring-backlog-x">5.2.X.2. Sprint Backlog n.</h4>
