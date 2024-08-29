@@ -242,9 +242,33 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 
 <h4 id="source-code">5.1.2. Source Code Management.</h4>
 
+<p>El equipo utilizará GitHub como plataforma principal para el control de versiones, implementando el modelo <strong>GitFlow</strong>. A continuación, se describen los medios y el esquema de organización que se aplicarán para el seguimiento de modificaciones:</p>
 
+<h4>Repositorios de GitHub</h4>
+<ul>
+    <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55">Repositorio Landing Page</a></li>
+    <li><strong>Web Services</strong>: <a href="https://github.com/grupo3-upc202402-wx55">Repositorio Web Services</a></li>
+    <li><strong>Frontend Web Applications</strong>: <a href="https://github.com/grupo3-upc202402-wx55">Repositorio Frontend Web Applications</a></li>
+</ul>
+<p>Cada repositorio alojará el código fuente correspondiente a su respectivo producto, además de incluir archivos de pruebas unitarias e integración en el caso de los Web Services.</p>
 
-
+<h4>Implementación de GitFlow</h4>
+<p>Se implementará el modelo <strong>GitFlow</strong> para el control de versiones, siguiendo las convenciones establecidas por Vincent Driessen en su artículo "A successful Git branching model". El esquema de ramas incluirá:</p>
+<ul>
+    <li><strong>Main branch</strong>: La rama principal donde se alojarán las versiones estables del proyecto.</li>
+    <li><strong>Develop branch</strong>: Rama de desarrollo donde se integran las nuevas funcionalidades antes de pasar a la rama principal.</li>
+    <li><strong>Feature branches</strong>: Cada nueva característica o capítulo desarrollado por el equipo se trabajará en una rama específica. Las convenciones para nombrar estas ramas seguirán un patrón descriptivo, por ejemplo, <code>feat/chapter-5</code>.</li>
+    <li><strong>Release branches</strong>: Ramas destinadas a preparar una nueva versión para el lanzamiento, siguiendo el esquema de versionado semántico.</li>
+    <li><strong>Hotfix branches</strong>: Ramas para corregir errores críticos en versiones ya lanzadas, aplicando convenciones similares a las usadas en las Release branches.</li>
+</ul>
+<h4>Conventional Commits</h4>
+<p>El equipo aplicará las convenciones de <strong>Conventional Commits</strong> para los mensajes de commit, asegurando que cada cambio en el código sea fácilmente comprensible y rastreable. Los mensajes seguirán la estructura:</p>
+<ul>
+    <li><code>tipo(scope): mensaje</code></li>
+    <li><strong>Tipo:</strong> indica la naturaleza del cambio (e.g., feat, fix, chore).</li>
+    <li><strong>Scope:</strong> define la sección del código afectada (e.g., ui, backend).</li>
+    <li><strong>Mensaje:</strong> descripción concisa del cambio realizado.</li>
+</ul>
 
 <h4 id="source-code-style-guide-and-conventions">5.1.3. Source Code Style Guide & Conventions.</h4>
 <h4 id="software-deployment-configuration">5.1.4. Software Deployment Configuration.</h4>
