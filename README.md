@@ -346,9 +346,12 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 <p>
     En esta sección, explicamos y documentamos el proceso de implementación, pruebas, documentación y despliegue de la Landing Page, Web Services y Frontend Web Applications. A medida que avanzamos en el desarrollo, desglosamos el trabajo en secciones específicas para cada Sprint, comenzando con el Sprint 1, donde detallamos la planificación y ejecución de las tareas.
 </p>
+<h4 id="sprint-x">5.2.1. Sprint 1</h4>
+<p>Es fundamental que el equipo dedique especial atención a la identificación del Sprint Goal, siguiendo las guías establecidas por el Scrum Guide. El Sprint Goal debe enfocarse en el negocio o en la perspectiva de los usuarios, buscando la entrega de un nuevo feature o un set de features.</p>
+<p>Para nuestro Sprint, utilizamos la estructura sugerida por Scrum.org para redactar el Sprint Goal:</p>
 
 
-<h4 id="sprint-x">5.2.X. Sprint n</h4>
+
 <h4 id="sprint-planning-x">5.2.X.1. Sprint Planning n.</h4>
 <h4 id="spring-backlog-x">5.2.X.2. Sprint Backlog n.</h4>
 <h4 id="development-evidence-for-sprint-review-x">5.2.X.3. Development Evidence for Sprint Review.</h4>
