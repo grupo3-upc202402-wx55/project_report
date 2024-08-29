@@ -271,6 +271,60 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 </ul>
 
 <h4 id="source-code-style-guide-and-conventions">5.1.3. Source Code Style Guide & Conventions.</h4>
+
+<h4>HTML</h4>
+<ul>
+    <li><strong>Estructura del Documento:</strong> Declara el tipo de documento en la primera línea: &lt;!DOCTYPE html&gt;. Usa una estructura de etiqueta HTML válida: &lt;html&gt;, &lt;head&gt;, &lt;body&gt;. Cierra todos los elementos HTML: &lt;p&gt;Texto&lt;/p&gt;.</li>
+    <li><strong>Comentarios:</strong> Escribe comentarios en una sola línea cuando sean cortos. Usa comentarios para secciones importantes: &lt;!-- Inicio de la sección de navegación --&gt;.</li>
+    <li><strong>Atributos:</strong> Usa comillas dobles para los valores de los atributos: &lt;img src="imagen.jpg" alt="Descripción"&gt;. Especifica siempre los atributos alt y las dimensiones width y height en las imágenes.</li>
+    <li><strong>Indentación y Espaciado:</strong> Usa dos espacios para la indentación. No uses espacios alrededor de los signos de igual en los atributos.</li>
+</ul>
+<p><a href="https://html.spec.whatwg.org/">Referencia</a></p>
+
+<h4>CSS</h4>
+<ul>
+    <li><strong>Indentación y Espaciado:</strong> Usa dos espacios para la indentación; no uses tabulaciones. El código CSS debe estar en minúsculas.</li>
+    <li><strong>Comentarios:</strong> Usa comentarios para explicar secciones complejas del código.</li>
+    <li><strong>Nombres de Clases:</strong> Utiliza nombres de clase significativos que reflejen el propósito del elemento. Evita los nombres de clases genéricos como .box o .container.</li>
+    <li><strong>Organización:</strong> Agrupa las reglas CSS relacionadas en un solo bloque.</li>
+</ul>
+<p><a href="https://google.github.io/styleguide/htmlcssguide.html">Referencia</a></p>
+
+<h4>JavaScript</h4>
+<ul>
+    <li><strong>Indentación y Espaciado:</strong> Usa dos espacios para la indentación. Mantén un espacio después de las comas y antes de los corchetes de apertura.</li>
+    <li><strong>Comentarios:</strong> Usa comentarios para explicar la lógica del código, especialmente en bloques complejos.</li>
+    <li><strong>Nombres de Variables y Funciones:</strong> Usa nombres descriptivos y en camelCase para variables y funciones. Por ejemplo, getUserInfo en lugar de getuserinfo.</li>
+    <li><strong>Estructura del Código:</strong> Usa funciones y módulos para mantener el código organizado y reutilizable. Evita el uso de código no utilizado y realiza limpieza regularmente.</li>
+</ul>
+<p><a href="https://google.github.io/styleguide/jsguide.html">Referencia</a></p>
+
+<h4>TypeScript</h4>
+<ul>
+    <li><strong>Indentación y Espaciado:</strong> Usa dos espacios para la indentación. Sigue el formato recomendado por el estándar TypeScript.</li>
+    <li><strong>Comentarios:</strong> Usa comentarios para describir el propósito de las funciones y las interfaces.</li>
+    <li><strong>Nombres de Variables y Funciones:</strong> Usa camelCase para variables y funciones. Usa PascalCase para nombres de clases e interfaces.</li>
+    <li><strong>Tipos:</strong> Especifica tipos explícitos en las variables y las funciones para mayor claridad y seguridad de tipo.</li>
+</ul>
+<p><a href="https://google.github.io/styleguide/tsguide.html">Referencia</a></p>
+
+<h4>Java</h4>
+<ul>
+    <li><strong>Indentación y Espaciado:</strong> Usa cuatro espacios para la indentación. Sigue las convenciones de espaciado estándar en el código Java.</li>
+    <li><strong>Comentarios:</strong> Usa comentarios Javadoc para documentar clases y métodos.</li>
+    <li><strong>Nombres de Variables y Funciones:</strong> Usa camelCase para nombres de variables y métodos. Usa PascalCase para nombres de clases.</li>
+    <li><strong>Organización del Código:</strong> Sigue la estructura de paquetes recomendada y organiza el código en clases y métodos claros.</li>
+</ul>
+<p><a href="https://google.github.io/styleguide/javaguide.html">Referencia</a></p>
+
+<h4>Gherkin (para archivos .feature)</h4>
+<ul>
+    <li><strong>Estructura de las Características:</strong> Usa Feature, Scenario, Given, When, Then para estructurar los archivos .feature.</li>
+    <li><strong>Nombres y Descripciones:</strong> Usa descripciones claras y concisas en inglés. Usa un formato de verbo en presente para los pasos del escenario.</li>
+</ul>
+<p><a href="https://cucumber.io/docs/gherkin/reference/">Referencia</a></p>
+
+
 <h4 id="software-deployment-configuration">5.1.4. Software Deployment Configuration.</h4>
 <h4 id="landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation.</h4>
 <h4 id="sprint-x">5.2.X. Sprint n</h4>
