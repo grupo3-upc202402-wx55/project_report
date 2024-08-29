@@ -343,7 +343,9 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
    </ol>
 
 <h4 id="landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation.</h4>
-
+<p>
+    En esta sección, explicamos y documentamos el proceso de implementación, pruebas, documentación y despliegue de la Landing Page, Web Services y Frontend Web Applications. A medida que avanzamos en el desarrollo, desglosamos el trabajo en secciones específicas para cada Sprint, comenzando con el Sprint 1, donde detallamos la planificación y ejecución de las tareas.
+</p>
 
 
 <h4 id="sprint-x">5.2.X. Sprint n</h4>
