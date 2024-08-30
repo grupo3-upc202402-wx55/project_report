@@ -350,9 +350,55 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 <p>Es fundamental que el equipo dedique especial atención a la identificación del Sprint Goal, siguiendo las guías establecidas por el Scrum Guide. El Sprint Goal debe enfocarse en el negocio o en la perspectiva de los usuarios, buscando la entrega de un nuevo feature o un set de features.</p>
 <p>Para nuestro Sprint, utilizamos la estructura sugerida por Scrum.org para redactar el Sprint Goal:</p>
 
+<h4 id="sprint-planning-x">5.2.1.1. Sprint Planning 1.</h4>
+<p>En el Sprint #1, que comienza el 29/08/2024, nos enfocaremos en desarrollar una landing page  para Re-Grill. El objetivo es crear una página que no solo capte la atención de los visitantes, sino que también transmita claramente los beneficios de nuestro producto. Este sprint estará dedicado al diseño y desarrollo de la landing page para cumplir con nuestros objetivos estratégicos.</p>
+
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>Sprint 1</td>
+    </tr>
+    <tr>
+        <td>Sprint Planning Background  </td>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>2024-08-29</td>
+    </tr>
+    <tr>
+        <td>Time</td>
+        <td>16:00 PM</td>
+    </tr>
+    <tr>
+        <td>Location</td>
+        <td>Virtual via discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By </td>
+        <td>Adrian Alonso Calle Huayanca, Mateo Italo Loechle Arias</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning <br>meeting) </td>
+        <td>Gabriel Anthony Braithuaite Toledo, Adrian Alonso Calle Huayanca, Hardie Alfonso Holguín Gamarra, Mateo Italo Loechle Arias, David Bryan Rodriguez Santos</td>
+    </tr>
+    <tr>
+        <td>Sprint Goal &amp; User Stories </td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Goal </td>
+        <td>Desarrollar una landing page atractiva para Re-Grill, diseñada para captar la atención de los visitantes y comunicar de manera efectiva los beneficios del producto. El cumplimiento se medirá en función de la finalización del diseño, la implementación y la puesta en producción de la landing page.</td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Velocity </td>
+        <td>El equipo ha establecido una capacidad de 30 Story Points para el Sprint 1, enfocándose en completar todas las tareas necesarias para el desarrollo de la landing page de Re-Grill.  </td>
+    </tr>
+    <tr>
+        <td>Sum of Story Points </td>
+        <td>30</td>
+    </tr>
+</table>
 
 
-<h4 id="sprint-planning-x">5.2.X.1. Sprint Planning n.</h4>
 <h4 id="spring-backlog-x">5.2.X.2. Sprint Backlog n.</h4>
 <h4 id="development-evidence-for-sprint-review-x">5.2.X.3. Development Evidence for Sprint Review.</h4>
 <h4 id="testing-suite-evidence-for-sprint-review">5.2.X.4. Testing Suite Evidence for Sprint Review.</h4>
