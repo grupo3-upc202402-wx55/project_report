@@ -403,7 +403,74 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 <h4 id="spring-backlog-x">5.2.1.2. Sprint Backlog 1.</h4>
 
 <p>El Sprint Backlog para el Sprint #1 tiene como objetivo principal el desarrollo de una landing page para Re-Grill. Este sprint se centrará en la creación y despliegue de una página web atractiva que comunique de manera efectiva los beneficios del producto. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
+<p><a href="https://trello.com/b/LSbTHu4A/open-source">Link a Trello</a></p>
 
+<table>
+    <tr>
+        <td>Sprint # </td>
+        <td>Sprint 1 </td>
+    </tr>
+    <tr>
+        <td>User Story  </td>
+        <td></td>        
+        <td>Work-Item / Task </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours) </td>
+        <td>Assigned To</td>
+        <td>Status (To-do/In Process / To Review / Done)</td>
+    </tr>
+<!--US01 -->  
+    <tr>
+        <td>US01</td>
+        <td>Crear Wireframe de la Landing Page</td>
+        <td>WI01</td>
+        <td>Definir estructura de la página</td>
+        <td>Definir la estructura y los elementos principales de la landing page, incluyendo la ubicación de los elementos y la jerarquía visual.</td>
+        <td>4</td>
+        <td>Adrian Alonso Calle Huayanca</td>
+        <td>Done</td>
+    </tr>
+<!--US02 --> 
+    <tr>
+        <td>US02</td>
+        <td>Desarrollar la Landing Page</td>
+        <td>WI02</td>
+        <td>Implementar el diseño de la página</td>
+        <td>Desarrollar la landing page siguiendo el wireframe definido, incluyendo la estructura HTML y los estilos CSS necesarios.</td>
+        <td>12</td>
+        <td>Hardie Alfonso Holguín Gamarra / Mateo Italo Loechle Arias </td>
+        <td>Done</td>
+    </tr>
+<!--US03 --> 
+    <tr>
+        <td>US03</td>
+        <td>Revisar y Ajustar la Landing Page</td>
+        <td>WI03</td>
+        <td>Realizar pruebas y ajustes</td>
+        <td>Revisar la landing page para identificar posibles mejoras y ajustes. Realizar pruebas de usabilidad y correcciones necesarias.</td>
+        <td>6</td>
+        <td>David Bryan Rodriguez Santos</td>
+        <td>Done</td>
+    </tr> 
+<!--US04 -->
+    <tr>
+        <td>US04</td>
+        <td>Desplegar la Landing Page</td>
+        <td>WI04</td>
+        <td>Configurar el despliegue</td>
+        <td>Configurar el despliegue de la landing page en un entorno de producción. Asegurar que la página esté accesible y funcional.</td>
+        <td>8</td>
+        <td>Gabriel Anthony Braithuaite Toledo</td>
+        <td>Done</td>
+    </tr>
+</table>
 
 
 <h4 id="development-evidence-for-sprint-review-x">5.2.X.3. Development Evidence for Sprint Review.</h4>
