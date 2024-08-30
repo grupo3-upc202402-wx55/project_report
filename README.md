@@ -400,9 +400,12 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
         <td>30</td>
     </tr>
 </table>
+<h4 id="spring-backlog-x">5.2.1.2. Sprint Backlog 1.</h4>
+
+<p>El Sprint Backlog para el Sprint #1 tiene como objetivo principal el desarrollo de una landing page para Re-Grill. Este sprint se centrará en la creación y despliegue de una página web atractiva que comunique de manera efectiva los beneficios del producto. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
 
 
-<h4 id="spring-backlog-x">5.2.X.2. Sprint Backlog n.</h4>
+
 <h4 id="development-evidence-for-sprint-review-x">5.2.X.3. Development Evidence for Sprint Review.</h4>
 <h4 id="testing-suite-evidence-for-sprint-review">5.2.X.4. Testing Suite Evidence for Sprint Review.</h4>
 <h4 id="execution-evidence-for-sprint-review">5.2.X.5. Execution Evidence for Sprint Review.</h4>
