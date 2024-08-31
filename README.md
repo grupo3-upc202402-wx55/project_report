@@ -171,19 +171,183 @@
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
 <h4 id="competitors">2.1. Competidores.</h4>
+
 <h4 id="competitive-analysis">2.1.1. Análisis competitivo.</h4>
+
+# Competitive Analysis Landscape
+
+
+<table>
+  <tr>
+    <th colspan="6"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td>¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Evaluar a fondo el entorno competitivo, identificando competidores, sus fortalezas y debilidades, y entender sus estrategias.</td>
+  </tr>
+  <tr>
+    <th colspan="2"></th>
+    <th>NoNocleus</th>
+    <th>Toast</th>
+    <th>TouchBistro</th>
+    <th>Inforest</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Plataforma integral para la gestión de restaurantes que optimiza procesos clave como stock, mesas, cocina, y proveedores, mejorando la eficiencia operativa.</td>
+    <td>Software de gestión de restaurantes basado en la nube que ayuda a los negocios a optimizar operaciones como pedidos, pagos, inventario y análisis de ventas, mejorando así su eficiencia y rentabilidad.</td>
+    <td>TouchBistro es una empresa canadiense con sede en Toronto que se especializa en el desarrollo de sistemas de punto de venta (POS) para restaurantes.</td>
+    <td>Inforest es un software modular diseñado para automatizar la gestión y operación de negocios gastronómicos y afines. Ofrece una variedad de funcionalidades para optimizar procesos, generar reportes y estadísticas, gestionar ventas y unificar operaciones. Además, proporciona servicio técnico 24/7.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva</td>
+    <td>Integración modular adaptable a diferentes necesidades y conexión automatizada entre módulos clave para reducir desperdicios y maximizar la rentabilidad.</td>
+    <td>Alta personalización y hardware especializado.</td>
+    <td>Simplicidad, uso sin conexión, enfoque en pequeñas empresas.</td>
+    <td>Flexibilidad y menor costo.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de marketing</td>
+    <td>Mercado objetivo</td>
+    <td>Pequeños y medianos restaurantes, así como cadenas que buscan digitalizar y escalar sus operaciones.</td>
+    <td>Restaurantes medianos y grandes.</td>
+    <td>Pequeños y medianos restaurantes, cafeterías.</td>
+    <td>Restaurantes pequeños en mercados específicos.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Marketing digital, demostraciones gratuitas, y presencia en ferias del sector gastronómico y tecnológico.</td>
+    <td>Enfoque en tecnología avanzada y grandes cadenas.</td>
+    <td>Marketing centrado en facilidad de uso y pequeños negocios.</td>
+    <td>Enfoque en soluciones económicas para nichos específicos.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de producto</td>
+    <td>Productos & Servicios</td>
+    <td>Módulos de gestión de stock, mesas, reservas, pedidos a proveedores, y reportes financieros, con integración a sistemas POS.</td>
+    <td>Sistema POS, gestión de pedidos y empleados, informes.</td>
+    <td>Sistema POS para iPad, gestión de mesas y reservas.</td>
+    <td>Sistema POS básico, ajustado a las necesidades locales.</td>
+  </tr>
+  <tr>
+    <td>Precios y costos</td>
+    <td>Modelo de suscripción mensual desde $50 para pequeñas operaciones y planes personalizables para cadenas.</td>
+    <td>Moderados a altos, dependiendo de las funciones y hardware.</td>
+    <td>Costos accesibles para PYMEs.</td>
+    <td>Costos bajos, enfocado en pequeñas empresas.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Distribución en línea a través del sitio web oficial y servicios de implementación in situ.</td>
+    <td>Web, aplicaciones móviles, integraciones con plataformas de entrega.</td>
+    <td>iPad, soporte web.</td>
+    <td>Web, opciones móviles limitadas.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Adaptabilidad modular y soporte técnico dedicado.</td>
+    <td>Personalización, integraciones avanzadas.</td>
+    <td>Facilidad de uso, independencia de internet.</td>
+    <td>Costo bajo, flexibilidad en implementación.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Dependencia de internet y necesidad de personal capacitado para la configuración inicial.</td>
+    <td>Costos relativamente altos, curva de aprendizaje.</td>
+    <td>Funciones avanzadas limitadas.</td>
+    <td>Reconocimiento de marca bajo, funcionalidad limitada.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Dependencia de internet y necesidad de personal capacitado para la configuración inicial.</td>
+    <td>Expansión internacional, nuevas tecnologías.</td>
+    <td>Mercados con internet limitado, desarrollo de nichos.</td>
+    <td>Mercados emergentes, alianzas locales.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competencia creciente y posibles cambios regulatorios.</td>
+    <td>Competencia creciente, cambios regulatorios.</td>
+    <td>Aumento de competidores con funciones más avanzadas.</td>
+    <td>Competencia de POS más conocidos, cambios en demanda.</td>
+  </tr>
+</table>
+
+
 <h4 id="strategy-tactics">2.1.2. Estrategias y tácticas frente a competidores.</h4>
+#### Estrategias:
+
+- Experiencia de usuario superior: Enfócate en crear una interfaz intuitiva, fácil de usar y visualmente atractiva. La facilidad de adopción y uso puede ser un factor clave para atraer a nuevos clientes.
+- Prueba gratuita o demostración: Permite a los clientes potenciales probar tu software antes de comprometerse, lo que puede reducir la barrera de entrada.
+- Precio competitivo: Si es posible, ofrece un precio más bajo que tus competidores, especialmente para atraer a pequeñas y medianas empresas.
+
+#### Tacticas:
+- Redes sociales: Utiliza las redes sociales para interactuar con tu audiencia, compartir contenido, promocionar tu software y generar conversaciones.
+- Comparte historias de clientes satisfechos que hayan logrado resultados positivos con tu software. Esto puede ser muy persuasivo para los clientes potenciales.
+
 <h4 id="interviews">2.2. Entrevistas.</h4>
 <h4 id="interviews-design">2.2.1. Diseño de entrevistas.</h4>
+
+#### Preguntas generales:
+
+- ¿Cuáles considera que son los factores clave para el éxito de un restaurante en el mercado actual?
+- ¿Qué características o funcionalidades considera esenciales en un software de gestión de restaurantes?
+- ¿Qué papel juega la tecnología en la gestión y operación de un restaurante moderno?
+
+#### Segmento objetivo: Administrador
+
+- Cómo describiría el flujo típico de trabajo en su restaurante, desde la toma de pedidos hasta el servicio al cliente?
+- ¿Cuáles son los mayores desafíos que enfrenta en la gestión diaria de su restaurante (ej: control de inventario, gestión de personal, satisfacción del cliente)?
+- ¿Qué procesos o tareas le gustaría optimizar o automatizar en su restaurante?
+- ¿Qué sistemas o herramientas tecnológicas utiliza actualmente en su restaurante (ej: punto de venta, sistema de reservas, software de contabilidad)? 
+- ¿Está satisfecho con las herramientas tecnológicas que utiliza actualmente? ¿Por qué o por qué no?
+
+#### Segmento objetivo: Proveedor
+
+- ¿Qué tipo de productos o servicios ofrece a los restaurantes?
+- ¿A qué tipo de restaurantes suministra principalmente (ej: tamaño, tipo de cocina, ubicación)?
+- ¿Qué sistemas o herramientas utiliza actualmente para gestionar sus pedidos y la comunicación con los restaurantes?
+- ¿Está satisfecho con las herramientas que utiliza actualmente? ¿Por qué o por qué no?
+- ¿Cuáles son los principales desafíos que enfrenta en su negocio como proveedor de restaurantes?
+
 <h4 id="interviews-registry">2.2.2. Registro de entrevistas.</h4>
 <h4 id="interviews-analysis">2.2.3. Análisis de entrevistas.</h4>
 <h4 id="needfinding">2.3. Needfinding.</h4>
 <h4 id="user-personas">2.3.1. User Personas.</h4>
+
+<img src = "/images/user-persona-1.png" alt="User Persona 1"/>
 <h4 id="user-task-matrix">2.3.2. User Task Matrix.</h4>
+
+| Tarea                                    | Persona                | Frecuencia | Importancia |
+|------------------------------------------|------------------------|------------|-------------|
+| Gestionar inventario y stock             | Laura, Administradora  | Diaria      | Alta        |
+| Coordinar pedidos con proveedores        | Laura, Administradora  | Semanal     | Alta        |
+| Gestionar comunicación con proveedores  | Laura, Administradora  | Diaria      | Media       |
+| Revisar reportes de ventas               | Laura, Administradora  | Semanal     | Alta        |
+
 <h4 id="user-journey-mapping">2.3.3. User Journey Mapping.</h4>
+
+<img src="/images/user-journey-mapping.png" alt="user-journey-mapping">
 <h4 id="empathy-mapping">2.3.4. Empathy Mapping.</h4>
+<img src="/images/empathy-map-1.png" alt="empathy-mapping">
+
 <h4 id="as-is-scenario-mapping">2.3.5. As-is Scenario Mapping.</h4>
+
+<img src="/images/as-is-scenary-map.png" alt="as-is-scenary-map"/>
 <h4 id="ubiquitous-language">2.4. Ubiquitous Language.</h4>
+
+Definición del lenguaje común para el equipo de NoNucleus:
+
+- Mesas: Áreas asignadas para los comensales en el restaurante, gestionadas por el módulo de mesas. 
+- Reservas: Solicitudes de los clientes para asegurar una mesa en una fecha y hora específica, gestionadas por el módulo de reservas.
+- Stock: Cantidad de insumos disponibles para preparar platos, gestionado por el módulo de stock.
+- Merma: Pérdida de insumos por vencimiento o accidentes, registrada en el módulo de merma.
+- Pedidos: Órdenes de insumos solicitadas a proveedores, gestionadas por el módulo de pedidos.
+
+Este lenguaje será usado consistentemente en la documentación, comunicación y desarrollo del software para asegurar claridad y evitar malentendidos.
+
 <h3 id="chapter-3">Capítulo III: Requirements Specification</h3>
 <h4 id="to-be-scenario-mapping">3.1. To-Be Scenario Mapping.</h4>
 <h4 id="user-stories">3.2. User Stories.</h4>
