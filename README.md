@@ -500,7 +500,7 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
     </tr>
 </table>
 <h4 id="testing-suite-evidence-for-sprint-review">5.2.1.4. Testing Suite Evidence for Sprint Review.</h4>
-<p> </p>
+<p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas realizadas para la landing page de Re-Grill, desarrollada en el Sprint 1. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la landing page. Las pruebas de aceptación se diseñaron para garantizar que la landing page cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
 
 <table>
     <tr>
@@ -512,23 +512,16 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
         <td>Commited on (Date) </td>
     </tr>
     <tr>
-        <td>user/repositoryname </td>
-        <td>feature/loremipsum</td>
+        <td>Gaboo04/landing-page</td>
+        <td>feat/testing</td>
         <td>14ca4e3 </td>
-        <td>feat:  </td>
-        <td>x</td>
-        <td>04/09/2021</td>
-    </tr>
-    <tr>
-        <td>user/repositoryname </td>
-        <td>feature/loremipsum</td>
-        <td>14ca4e3 </td>
-        <td>feat:  </td>
-        <td>x</td>
-        <td>04/09/2021</td>
+        <td>feat:add acceptance tests.</td>
+        <td>acceptance tests based on user stories designed for landing page development</td>
+        <td>31/08/2021</td>
     </tr>
 </table>
-<h4 id="execution-evidence-for-sprint-review">5.2.X.5. Execution Evidence for Sprint Review.</h4>
+<h4 id="execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review.</h4>
+
 <h4 id="services-documentation-evidence-for-sprint-review">5.2.X.6. Services Documentation Evidence for Sprint Review.</h4>
 <h4 id="software-deployment-evidence-for-sprint-review">5.2.X.7. Software Deployment Evidence for Sprint Review.</h4>
 <h4 id="team-collaboration-insights-during-sprint">5.2.X.8. Team Collaboration Insights during Sprint.</h4>
