@@ -191,6 +191,19 @@ TB1: Yo realize todo el capitulo 2 para esta entrega , incluyendo los competidor
 
 
 <h3 id="chapter-1">Capítulo I: Introducción</h3>
+
+
+<h4 id="startup-profile">1.1. Startup Profile</h4>
+Seccion designada a la descripción de la startup y los perfiles de los integrantes del equipo.
+
+<h4 id="startup-description"> 1.1.1. Descripción de la Startup</h4>
+Nuestra startup “NoNucleus”, fundada por un grupo de estudiantes de Ingeniería de Software en la Universidad Peruana de Ciencias Aplicadas, es una plataforma con el objetivo de revolucionar la gestión de restaurantes de forma integral, tomando cada aspecto del rubro para optimizar y mejorar estos mismos.
+
+La idea detrás de nuestra aplicación, la cual lleva el nombre de “Re’Grill”, es básicamente darle al cliente lo que quiere, lo que necesita, o lo que optimice de cierta forma todos los procesos posibles. En este caso, contamos con diversas funcionalidades que buscan ser más eficientes que sus contrapartes o agregar una función completamente nueva.
+
+
+
+
 <h4 id="startup-profile">1.1. Startup Profile</h4>
 <h4 id="startup-description"> 1.1.1. Descripción de la Startup</h4>
 <h4 id="profile-members">1.1.2. Perfiles de integrantes del equipo</h4>
