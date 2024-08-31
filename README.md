@@ -392,8 +392,14 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 <h4 id="lean-ux-canvas">1.2.2.4. Lean UX Canvas.</h4>
 ![Lean Ux Canvas](images/CANVAS.jpg)
 
-
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
+1. **Propietarios y Gerentes de Restaurantes Pequeños y Medianos:**
+   Este segmento incluye a dueños y gerentes de restaurantes que buscan optimizar sus operaciones diarias mediante la integración de funciones de gestión como reservas, mesas, cocina, ventas, inventario, y relación con proveedores. La propuesta de valor para este segmento es la mejora de la eficiencia operativa, la reducción del desperdicio, y una mayor satisfacción del cliente gracias a una plataforma todo-en-uno.
+
+2. **Proveedor de Insumos para Restaurantes:**
+   Este segmento incluye a empresas y proveedores que suministran alimentos, bebidas, utensilios, y otros productos necesarios para el funcionamiento de los restaurantes. Re-Grill les ofrece una plataforma para interactuar directamente con los restaurantes, ver sus necesidades en tiempo real, y gestionar los pedidos de manera más eficiente. La propuesta de valor para este segmento es la simplificación del proceso de pedidos, reducción de errores de comunicación, y la posibilidad de establecer relaciones más sólidas con sus clientes restauranteros.
+
+
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
 <h4 id="competitors">2.1. Competidores.</h4>
 <h4 id="competitive-analysis">2.1.1. Análisis competitivo.</h4>
