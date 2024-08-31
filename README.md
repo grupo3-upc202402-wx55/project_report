@@ -472,10 +472,62 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
     </tr>
 </table>
 <h4 id="development-evidence-for-sprint-review-x">5.2.1.3. Development Evidence for Sprint Review.</h4>
+<p>Durante el Sprint #1, se lograron avances significativos en la implementación de los componentes clave del proyecto Re-Grill, centrados principalmente en el desarrollo de la Landing Page. Estos avances se alinean con el objetivo principal del sprint, que es diseñar y desplegar una página web atractiva y funcional para captar la atención de los usuarios y comunicar los beneficios del producto de manera efectiva.</p>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>user/repositoryname </td>
+        <td>feature/loremipsum</td>
+        <td>14ca4e3 </td>
+        <td>feat:  </td>
+        <td>x</td>
+        <td>04/09/2021</td>
+    </tr>
+    <tr>
+        <td>user/repositoryname </td>
+        <td>feature/loremipsum</td>
+        <td>14ca4e3 </td>
+        <td>feat:  </td>
+        <td>x</td>
+        <td>04/09/2021</td>
+    </tr>
+</table>
+<h4 id="testing-suite-evidence-for-sprint-review">5.2.1.4. Testing Suite Evidence for Sprint Review.</h4>
+<p> </p>
 
-
-
-<h4 id="testing-suite-evidence-for-sprint-review">5.2.X.4. Testing Suite Evidence for Sprint Review.</h4>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>user/repositoryname </td>
+        <td>feature/loremipsum</td>
+        <td>14ca4e3 </td>
+        <td>feat:  </td>
+        <td>x</td>
+        <td>04/09/2021</td>
+    </tr>
+    <tr>
+        <td>user/repositoryname </td>
+        <td>feature/loremipsum</td>
+        <td>14ca4e3 </td>
+        <td>feat:  </td>
+        <td>x</td>
+        <td>04/09/2021</td>
+    </tr>
+</table>
 <h4 id="execution-evidence-for-sprint-review">5.2.X.5. Execution Evidence for Sprint Review.</h4>
 <h4 id="services-documentation-evidence-for-sprint-review">5.2.X.6. Services Documentation Evidence for Sprint Review.</h4>
 <h4 id="software-deployment-evidence-for-sprint-review">5.2.X.7. Software Deployment Evidence for Sprint Review.</h4>
