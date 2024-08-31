@@ -202,10 +202,6 @@ Nuestra startup “NoNucleus”, fundada por un grupo de estudiantes de Ingenier
 La idea detrás de nuestra aplicación, la cual lleva el nombre de “Re’Grill”, es básicamente darle al cliente lo que quiere, lo que necesita, o lo que optimice de cierta forma todos los procesos posibles. En este caso, contamos con diversas funcionalidades que buscan ser más eficientes que sus contrapartes o agregar una función completamente nueva.
 
 
-
-
-<h4 id="startup-profile">1.1. Startup Profile</h4>
-<h4 id="startup-description"> 1.1.1. Descripción de la Startup</h4>
 <h4 id="profile-members">1.1.2. Perfiles de integrantes del equipo</h4>
 <h4 id="solution-profile">1.2. Solution Profile</h4>
 <h4 id="background-and-problems">1.2.1 Antecedentes y problemática</h4>
