@@ -303,7 +303,80 @@ La falta de una solución integrada para la gestión de restaurantes puede resul
 
 En el sector de restaurantes, estos enfrentan problemas significativos con la gestión de mesas, reservas, inventarios y pedidos de insumos debido a la falta de una solución tecnológica integrada. Esta falta de integración y eficiencia resulta en errores en la administración, mala coordinación entre los distintos procesos operativos y una mala experiencia hacia los clientes. Además, la ausencia de un sistema unificado contribuye a la ineficiencia en el servicio y al incremento de costos operativos.
 
+
 <h4 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions.</h4>
+
+**Business Outcomes:**
+
+- Lograr un crecimiento con al menos 10 restaurantes utilizando Re’Grill en el primer año.
+
+- Resaltar en el mercado de aplicaciones de gestión de restaurantes con una tasa de adopción del 20% en el primer trimestre.
+
+**User Assumptions:**
+
+1. **¿Quien es el usuario?**
+
+  - Propietarios de restaurantes.
+  - Gerentes de restaurantes.
+  - Personal de cocina y servicio.
+  - Proveedores de insumos.
+  - Clientes de restaurantes.
+
+2. **¿Qué necesidades tienen los usuarios?**
+
+  - Simplificar la gestión de mesas y reservas.
+  - Optimizar la coordinación entre la cocina y el servicio.
+  - Facilitar la gestión de inventarios y pedidos de insumos.
+  - Mejorar la experiencia del cliente.
+3. **¿Cómo debería verse o comportarse el producto?**
+
+  - Interfaz intuitiva y fácil de usar.
+  - Funcionalidades integradas y automatizadas.
+  - Información clara y accesible.
+  - Personalizable según las necesidades del restaurante.
+
+
+**User Outcomes:**
+
+
+1.  **Restaurantes:**
+
+-   Mejorar la eficiencia operativa en un 15% en la gestión de mesas, reservas y ventas dentro del primer año.
+
+3.  **Personal de Restaurante:**
+
+-   Reducción del 20% en el tiempo dedicado a la gestión diaria de tareas tras implementar Re'Grill.
+
+5.  **Clientes:**
+
+-   Aumento en la satisfacción del cliente debido a una experiencia más organizada y eficiente.
+
+**¿Qué está intentando conseguir el usuario?**
+
+-   Restaurantes: Optimizar la gestión de operaciones y mejorar la coordinación entre reservas, ventas y control de inventarios.
+
+-   Personal de Restaurante: Reducir el tiempo y los errores en la administración diaria de tareas.
+
+**¿Cómo se quiere sentir el usuario?**
+
+-   Restaurantes y Personal: Sentir que las operaciones son más eficientes, organizadas y que el sistema mejora la experiencia general tanto para el personal como para los clientes.
+
+**¿Cómo nuestro producto lo acerca a su objetivo?**
+
+-   Restaurantes: Proporciona una solución integral que unifica la gestión de mesas, reservas, inventarios y ventas, optimizando los procesos y reduciendo la carga administrativa.
+
+-   Personal de Restaurante: Facilita la gestión de tareas diarias, mejorando la eficiencia operativa y la satisfacción en el trabajo.
+
+**¿Por qué nuestros usuarios se interesarían por nuestro producto?,¿Qué beneficio podrían obtener?**
+
+-   Restaurantes: Mejora en la coordinación y eficiencia operativa, reducción de errores y costos, y una mejor experiencia para los clientes.
+
+-   Personal de Restaurante: Simplificación en la gestión de tareas y un entorno de trabajo más organizado.
+
+**¿Qué cambio en su comportamiento veremos que nos dirá que nuestro objetivo ha sido logrado?**
+
+-   Restaurantes y Personal: Uso consistente de la plataforma en la gestión diaria de operaciones. Esperamos ver una mejora significativa en la eficiencia operativa y una reducción en los problemas reportados. La tasa de retención y adopción de nuevos usuarios también será un indicador clave del éxito del producto.
+
 <h4 id="lean-ux-hypothesis">1.2.2.3. Lean UX Hypothesis Statements.</h4>
 <h4 id="lean-ux-canvas">1.2.2.4. Lean UX Canvas.</h4>
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
