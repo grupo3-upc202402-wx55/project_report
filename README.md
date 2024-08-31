@@ -582,19 +582,36 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 </table>
 <h4 id="execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review.</h4>
 <p>En este Sprint, se logró desarrollar y desplegar exitosamente la landing page para Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación del wireframe, el desarrollo de la página, su revisión y ajuste, así como el despliegue en el entorno de producción. La landing page refleja fielmente el diseño y la funcionalidad esperados, proporcionando una interfaz atractiva y funcional para los usuarios.  </p>
-<h6>Screenshots de las Principales Vistas Implementadas</h6>
+<h5>Screenshots de las Principales Vistas Implementadas</h5>
 <p>Se adjuntan capturas de pantalla de las principales vistas de la landing page desarrollada en el Sprint 1, mostrando el diseño y la estructura de la página.</p>
-<h6>Se implementó el header con las opciones About Us, Features, Plans, Benefits, Contact Us </h6>
+<h5>Se implementó el header con las opciones About Us, Features, Plans, Benefits, Contact Us </h5>
 <img src="/images/landing-page-header-img.png" alt="Landing page header img">
-<h6>Se implementó la sección de información en el body </h6>
+<h5>Se implementó la sección de información en el body </h5>
 <img src="/images/landing-page-body-img.png" alt="Descripción del producto">
-<h6>Se implementó la sección de About us </h6>
+<h5>Se implementó la sección de About us </h5>
 <img src="/images/landing-page-about-us-img.png" alt="About us">
 
 <h4 id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review.</h4>
+<p>En este Sprint, el enfoque principal fue el desarrollo y despliegue de la landing page de Re-Grill. No se implementaron Web Services en esta etapa, por lo que no se incluye documentación relacionada con endpoints o servicios web. La implementación y documentación de Web Services será abordada en Sprints futuros, conforme se expanda la funcionalidad del producto.</p>
 
+<h4 id="software-deployment-evidence-for-sprint-review">5.2.1.7. Software Deployment Evidence for Sprint Review.</h4>
+<h5>Introducción</h5>
+<p>
+    Durante el Sprint 1, nos enfocamos en el despliegue de la landing page de Re-Grill. El objetivo fue asegurar que la página esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en GitHub Pages, y la automatización de ciertas tareas para facilitar futuros despliegues.
+</p>
 
-<h4 id="software-deployment-evidence-for-sprint-review">5.2.X.7. Software Deployment Evidence for Sprint Review.</h4>
+<h5>Proceso de Despliegue</h5>
+
+<strong>Creación y Configuración de Repositorio en GitHub</strong>
+        <ul>
+            <li>Se creó un repositorio en GitHub dentro de la organización, donde se alojó el código fuente de la landing page.</li>
+            <li>Se configuró la rama <code>main</code> como la principal para el despliegue, y la rama <code>feat/testing</code> para pruebas de aceptación.</li>
+            <li>Se habilitó GitHub Pages en la rama <code>main</code> para facilitar el despliegue automático de la landing page.</li>
+        </ul>
+<h5>Evidencias Gráficas del Despliegue</h5>
+<p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
+<img src="/images/github-repo-landing-page.png" alt="Repositorio de GitHub">
+
 <h4 id="team-collaboration-insights-during-sprint">5.2.X.8. Team Collaboration Insights during Sprint.</h4>
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
