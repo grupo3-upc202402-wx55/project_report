@@ -203,6 +203,62 @@ La idea detrás de nuestra aplicación, la cual lleva el nombre de “Re’Grill
 
 
 <h4 id="profile-members">1.1.2. Perfiles de integrantes del equipo</h4>
+
+<table><thead>
+  <tr>
+    <td rowspan="3"> <img src="images/gabriel.jpg"> </td>
+    <td>Nombres y Apellidos:Gabriel Anthony Braithuaite Toledo</td>
+  </tr>
+  <tr>
+    <td>Carrera: Ingenieria de Software</td>
+  </tr>
+  <tr>
+    <td>Sobre ti:Mi nombre es Gabriel Anthony Braithuaite Toledo, codigo U20201e889, soy estudiante de la carrera de Ingeniería de Software, tengo conocimientos y experiencia básica en la creación de páginas usando html y css por lo cual creo que podría ser útil al equipo. Además soy responsable con los trabajos en equipo.</td>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td rowspan="3"><img src="images/hardie.jpg"></td>
+    <td>Nombres y Apellidos:Hardie Alfonso Holguín Gamarra</td>
+  </tr>
+  <tr>
+    <td>Carrera: Ingenieria de Software</td>
+  </tr>
+  <tr>
+    <td>Sobre ti: Soy Hardie Holguín, Estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona disciplinada y organizada. En mi tiempo libre me gusta entrenar en el gimnasio y jugar futbol.</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><img src="images/mateo.jpg"></td>
+    <td>Nombres y Apellidos:Mateo Italo Loechle Arias</td>
+  </tr>
+  <tr>
+    <td>Carrera: Ingenieria de Software</td>
+  </tr>
+  <tr>
+    <td>Sobre ti:Hola, soy Mateo Italo Loechle Arias, estudiante de Ingeniería de Software apasionado por la tecnología y el desarrollo . Me gustan las cosas relacionadas a mi carrera. Además, la música es uno de mis hobbies favoritos, siempre me acompaña en mi día a día. Me considero una persona responsable y comprometida, siempre buscando mejorar y aprender para enfrentar nuevos desafíos.</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><img src="images/alonso.jpg"></td>
+    <td>Nombres y Apellidos:Adrian Alonso Calle Huayanca</td>
+  </tr>
+  <tr>
+    <td>Carrera: Ingenieria de Software</td>
+  </tr>
+  <tr>
+    <td>Sobre ti:Soy Adrian Alonso Calle Huayanca, estoy cursando el 5to ciclo de la carrera de ingeniería de software<br>Me gusta mucho el mundo de las computadoras y redes <br>Terminando la carrera quisiera especializarme en seguridad bancaria. Mi hobby es practicar natación, jugar videojuegos y leer sobre programación</td>
+  </tr>
+  <tr>
+    <td rowspan="3"><img src="images/david.jpg"></td>
+    <td>Nombres y Apellidos:David Bryan Rodriguez Santos</td>
+  </tr>
+  <tr>
+    <td>Carrera: Ingenieria de Software</td>
+  </tr>
+  <tr>
+    <td>Sobre ti:Soy David Bryan Rodriguez Santos , soy estudiante de cuarto ciclo de Ingeniería de Software con dominio en Java y Python. Apasionado por la programación y los videojuegos, me destaco por ser entusiasta y responsable, buscando constantemente oportunidades para crecer en el ámbito tecnológico.</td>
+  </tr>
+</tbody></table>
+
+
 <h4 id="solution-profile">1.2. Solution Profile</h4>
 <h4 id="background-and-problems">1.2.1 Antecedentes y problemática</h4>
 <h4 id="lean-ux">1.2.2 Lean UX Process.</h4>
