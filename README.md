@@ -260,9 +260,49 @@ La idea detrás de nuestra aplicación, la cual lleva el nombre de “Re’Grill
 
 
 <h4 id="solution-profile">1.2. Solution Profile</h4>
+Re’Grill es una aplicación diseñada para optimizar todos los procesos operativos de un restaurante, brindando una solución económica y eficiente para mejorar la gestión del servicio. La plataforma integra funcionalidades clave como la gestión de mesas, reservas, cocina, ventas, platos, stock, mermas, proveedores y pedidos de insumos, facilitando una administración más fluida y coordinada.
+
+Con Re’Grill, cada aspecto del funcionamiento del restaurante está interconectado, desde la disponibilidad de mesas hasta la coordinación con proveedores, asegurando que el personal pueda gestionar cada elemento de manera efectiva. La aplicación ofrece un enfoque integral que simplifica las operaciones y mejora la experiencia tanto para los clientes como para el equipo del restaurante.
+
+
 <h4 id="background-and-problems">1.2.1 Antecedentes y problemática</h4>
+
+El principal desafío en la gestión de restaurantes es la falta de una solución integrada que unifique todos los aspectos operativos en una sola plataforma. Esta fragmentación provoca ineficiencias en la administración de mesas, reservas, inventarios y pedidos de insumos, afectando tanto la operativa del restaurante como la experiencia del cliente.
+
+- **What?**
+
+La industria de restaurantes enfrenta desafíos en la gestión de mesas, reservas, pedidos, inventarios y proveedores, lo que afecta la eficiencia operativa y la experiencia del cliente.
+
+- **When?**
+
+La problemática se ha agravado en los últimos años debido a la creciente demanda de servicios de restaurantes y la falta de soluciones integradas para la gestión operativa.
+
+- **Where?**
+
+La problemática es relevante en restaurantes de todo tipo y tamaño, desde pequeños establecimientos hasta cadenas de restaurantes.
+
+- **Who?**
+
+Los principales afectados por esta problemática son los propietarios de restaurantes, gerentes, personal de cocina Y servicio, y los clientes que experimentan una atencion posiblemente lenta e ineferciente.
+
+- **Why?**
+
+La falta de una solución integrada y automatizada para la gestión de restaurantes provoca ineficiencias operativas, errores en los pedidos, pérdida de inventario y una experiencia del cliente insatisfactoria.
+
+- **How?**
+
+Las soluciones actuales a menudo están divididas en varios sistemas independientes para reservas, ventas, pedidos a proveedores  y gestión de inventario. Esta falta de integración complica la coordinación entre distintos procesos y aumenta la probabilidad de errores.
+
+- **How much?**
+
+La falta de una solución integrada para la gestión de restaurantes puede resultar en pérdidas económicas significativas debido a errores en los pedidos, mermas de inventario y una experiencia del cliente insatisfactoria.
+
+
 <h4 id="lean-ux">1.2.2 Lean UX Process.</h4>
 <h4 id="lean-ux-problem">1.2.2.1. Lean UX Problem Statements.</h4>
+
+En el sector de restaurantes, estos enfrentan problemas significativos con la gestión de mesas, reservas, inventarios y pedidos de insumos debido a la falta de una solución tecnológica integrada. Esta falta de integración y eficiencia resulta en errores en la administración, mala coordinación entre los distintos procesos operativos y una mala experiencia hacia los clientes. Además, la ausencia de un sistema unificado contribuye a la ineficiencia en el servicio y al incremento de costos operativos.
+
 <h4 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions.</h4>
 <h4 id="lean-ux-hypothesis">1.2.2.3. Lean UX Hypothesis Statements.</h4>
 <h4 id="lean-ux-canvas">1.2.2.4. Lean UX Canvas.</h4>
