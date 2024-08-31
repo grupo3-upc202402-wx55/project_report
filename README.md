@@ -574,7 +574,7 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
     <tr>
         <td>Gaboo04/landing-page</td>
         <td>feat/testing</td>
-        <td>ee1b2de549f494c875003d7e13f4cd72aff0fca4</td>
+        <td>ee1b2de</td>
         <td>feat:add acceptance tests for landing page.</td>
         <td>acceptance tests based on user stories designed for landing page development</td>
         <td>31/08/2021</td>
