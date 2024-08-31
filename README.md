@@ -574,15 +574,26 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
     <tr>
         <td>Gaboo04/landing-page</td>
         <td>feat/testing</td>
-        <td>14ca4e3 </td>
-        <td>feat:add acceptance tests.</td>
+        <td>ee1b2de549f494c875003d7e13f4cd72aff0fca4</td>
+        <td>feat:add acceptance tests for landing page.</td>
         <td>acceptance tests based on user stories designed for landing page development</td>
         <td>31/08/2021</td>
     </tr>
 </table>
 <h4 id="execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review.</h4>
+<p>En este Sprint, se logró desarrollar y desplegar exitosamente la landing page para Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación del wireframe, el desarrollo de la página, su revisión y ajuste, así como el despliegue en el entorno de producción. La landing page refleja fielmente el diseño y la funcionalidad esperados, proporcionando una interfaz atractiva y funcional para los usuarios.  </p>
+<h6>Screenshots de las Principales Vistas Implementadas</h6>
+<p>Se adjuntan capturas de pantalla de las principales vistas de la landing page desarrollada en el Sprint 1, mostrando el diseño y la estructura de la página.</p>
+<h6>Se implementó el header con las opciones About Us, Features, Plans, Benefits, Contact Us </h6>
+<img src="/images/landing-page-header-img.png" alt="Landing page header img">
+<h6>Se implementó la sección de información en el body </h6>
+<img src="/images/landing-page-body-img.png" alt="Descripción del producto">
+<h6>Se implementó la sección de About us </h6>
+<img src="/images/landing-page-about-us-img.png" alt="About us">
 
-<h4 id="services-documentation-evidence-for-sprint-review">5.2.X.6. Services Documentation Evidence for Sprint Review.</h4>
+<h4 id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review.</h4>
+
+
 <h4 id="software-deployment-evidence-for-sprint-review">5.2.X.7. Software Deployment Evidence for Sprint Review.</h4>
 <h4 id="team-collaboration-insights-during-sprint">5.2.X.8. Team Collaboration Insights during Sprint.</h4>
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
