@@ -612,7 +612,37 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 <p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
 <img src="/images/github-repo-landing-page.png" alt="Repositorio de GitHub">
 
-<h4 id="team-collaboration-insights-during-sprint">5.2.X.8. Team Collaboration Insights during Sprint.</h4>
+<h4 id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint.</h4>
+<p>
+    Durante el Sprint 1, nos aseguramos de que todas las actividades de implementación fueran realizadas con la colaboración de todos los miembros del equipo. Cada integrante contribuyó a la creación y desarrollo de la landing page de Re-Grill, utilizando diversas herramientas de colaboración. A continuación, se presentan los detalles sobre las actividades del equipo y las evidencias gráficas que reflejan la colaboración y los commits en GitHub.
+</p>
+<table>
+    <tr>
+        <td>Team Member</td>
+        <td>Activity </td>
+    </tr>
+    <tr>
+        <td>Gabriel Anthony Braithuaite Toledo</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Adrian Alonso Calle Huayanca</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Hardie Alfonso Holguín Gamarra	</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Mateo Italo Loechle Arias</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>David Bryan Rodriguez Santos</td>
+        <td></td>
+    </tr>
+</table>
+
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
 <h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
