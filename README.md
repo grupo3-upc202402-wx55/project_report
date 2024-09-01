@@ -361,6 +361,12 @@ Este lenguaje será usado consistentemente en la documentación, comunicación y
 </p>
 <h4 id="style-guidelines">4.1. Style Guidelines.</h4>
 <h4 id="general-style-guidelines">4.1.1. General Style Guidelines.</h4>
+
+<p>
+    Branding:
+    - Este logo simboliza nuestro rubro a la administracion de inventarios para restaurantes. Al obtener nuestros servicios, las empresan podrán tener mejores margenes de ganancias al mejorar su administracion
+    
+</p>
 <h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
 <h4 id="information-architecture">4.2. Information Architecture.</h4>
 <h4 id="organization-systems">4.2.1. Organization Systems.</h4>
