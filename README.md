@@ -379,9 +379,29 @@ Colors:
     
 
 <h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
+
+Icons:
+- Al desarrollar una página web, los ícenos son fundamentales para crear una interfaz de usuario que sea clara e intuitiva. Estos pequeños elementos visuales son clave para facilitar la comprensión de distintas secciones de la página web. Los íconos ayudan a lo usuarios a identifica rápidamente la función de cada componente , y su diseño simple y claro garantiza que sean fácilmente interpretables, además, usar íconos de manera coherente en toda la página es esencial para reducir la confusión y mejorara la experiencial de usuario.
+- Los íconos que utilizaremos serán los breakpoints, de los cuales usaremos con mayor frecuencia serán los 768px y 1024px, debido a que son los más comunes del mercado actual.
+
+
 <h4 id="information-architecture">4.2. Information Architecture.</h4>
 <h4 id="organization-systems">4.2.1. Organization Systems.</h4>
+
+- Al entrar a nuestra página web, el usuario podrá visualizar diferentes secciones: inicio, Request Demo, about us, plans, contacto Us.
+
 <h4 id="labeling-systems">4.2.2. Labeling Systems.</h4>
+
+- En nuestra página web tendremos un sistema de etiquetado que son los siguientes: 
+* About Us 
+* Features 
+* Plans
+* benefits
+* Q&A
+* Contact Us
+* Idioma
+
+
 <h4 id="seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</h4>
 <h4 id="searching-systems">4.2.4. Searching Systems.</h4>
 <h4 id="navigation-systems">4.2.5. Navigation Systems.</h4>
