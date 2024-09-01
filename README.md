@@ -13,8 +13,8 @@
 </p>
 
 <p align="center">
-    <strong>Startup: </strong><br>
-    <strong>Producto: </strong>
+    <strong>Startup: Re’Grill</strong><br>
+    <strong>Producto: Re’Grill </strong>
 </p>
 
 <h3 align="center" >Team Members:</h3>
