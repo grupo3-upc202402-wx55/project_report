@@ -171,7 +171,7 @@
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
 <h4 id="competitors">2.1. Competidores.</h4>
-
+Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, TouchBistro y Inforest.
 <h4 id="competitive-analysis">2.1.1. Análisis competitivo.</h4>
 
 # Competitive Analysis Landscape
