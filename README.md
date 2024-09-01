@@ -356,6 +356,8 @@ Este lenguaje será usado consistentemente en la documentación, comunicación y
 <h3 id="chapter-4">Capítulo IV: Product Design</h3>
 <p>
     En este capítulo se desarrollará las bases para contar con un repositorio central y organizado de uso común que incluye assets, fonts. Esto con el fin de mantener una presentación consistente y enfocada
+
+ Dentro de las dimensiones que adoptaremos en le tono de comunicación y lenguaje aplicado tendremos que será serio, formal, respetuoso y sereno ya que se trata del manejo de inventario de una empresa del rubro de restaurantes lo cual requiere todo lo mencionado. 
 </p>
 <h4 id="style-guidelines">4.1. Style Guidelines.</h4>
 <h4 id="general-style-guidelines">4.1.1. General Style Guidelines.</h4>
