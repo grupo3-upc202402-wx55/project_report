@@ -364,7 +364,8 @@ Este lenguaje será usado consistentemente en la documentación, comunicación y
 
 
 Branding:
-    - Este logo simboliza nuestro rubro a la administracion de inventarios para restaurantes. Al obtener nuestros servicios, las empresan podrán tener mejores margenes de ganancias al mejorar su administracion
+
+- Este logo simboliza nuestro rubro a la administracion de inventarios para restaurantes. Al obtener nuestros servicios, las empresan podrán tener mejores margenes de ganancias al mejorar su administracion
     <img src="/images/RE-GRILL.png"></img><br>
     
 
