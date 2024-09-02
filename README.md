@@ -390,7 +390,8 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 **Reducción de Errores en la Gestión de Pedidos:** Creemos que al automatizar la integración entre las reservas, la cocina y el módulo de ventas, podemos reducir los errores en la gestión de pedidos en un 25%. Esto mejorará la precisión en la preparación de los platos y la satisfacción general de los clientes.
 
 <h4 id="lean-ux-canvas">1.2.2.4. Lean UX Canvas.</h4>
-![Lean Ux Canvas](images/CANVAS.jpg)
+
+<img src="images/CANVAS.jpg">
 
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
 1. **Propietarios y Gerentes de Restaurantes Pequeños y Medianos:**
