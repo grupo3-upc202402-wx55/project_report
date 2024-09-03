@@ -438,7 +438,7 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
     </tr>
     <tr>
         <td>Prepared By </td>
-        <td>Adrian Alonso Calle Huayanca, Mateo Italo Loechle Arias</td>
+        <td>Gabriel Anthony Braithuaite Toledo, Hardie Alfonso Holguín Gamarra</td>
     </tr>
     <tr>
         <td>Attendees (to planning <br>meeting) </td>
@@ -584,12 +584,19 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
 <p>En este Sprint, se logró desarrollar y desplegar exitosamente la landing page para Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación del wireframe, el desarrollo de la página, su revisión y ajuste, así como el despliegue en el entorno de producción. La landing page refleja fielmente el diseño y la funcionalidad esperados, proporcionando una interfaz atractiva y funcional para los usuarios.  </p>
 <h5>Screenshots de las Principales Vistas Implementadas</h5>
 <p>Se adjuntan capturas de pantalla de las principales vistas de la landing page desarrollada en el Sprint 1, mostrando el diseño y la estructura de la página.</p>
-<h5>Se implementó el header con las opciones About Us, Features, Plans, Benefits, Contact Us </h5>
+<h5>Se implementó el Header</h5>
+<p>En esta sección se pueden observar las principales opciones de la página, un call to action y una descripción sobre nuestra compañía y nuestros valores. </p>
 <img src="/images/landing-page-header-img.png" alt="Landing page header img">
-<h5>Se implementó la sección de información en el body </h5>
 <img src="/images/landing-page-body-img.png" alt="Descripción del producto">
-<h5>Se implementó la sección de About us </h5>
-<img src="/images/landing-page-about-us-img.png" alt="About us">
+<h5>Se implementó la sección de features y plans.</h5>
+<p>En estas secciones se describen las principales características que tiene Re-grill, así como los diferentes planes de suscripción ques se ofrece.</p>
+<img src="/images/landing-page-feature-plans-img.png" alt="Features and plans del producto">
+<h5>Se implementó la sección de Benefits y Questions & Answers </h5>
+<p>En esta sección se describen los beneficios de Re-Grill y se resuelven las preguntas más frecuentes que los usuarios puedan tener.</p>
+<img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers">
+<h5>Se implementó el footer con la opción de contacto</h5>
+<p>En esta sección se muestra la información de contacto de la empresa, así como un formulario para que los usuarios puedan enviar sus consultas.</p>
+<img src="/images/landing-page-contact-footer-img.png" alt="Footer de la landing page">
 
 <h4 id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review.</h4>
 <p>En este Sprint, el enfoque principal fue el desarrollo y despliegue de la landing page de Re-Grill. No se implementaron Web Services en esta etapa, por lo que no se incluye documentación relacionada con endpoints o servicios web. La implementación y documentación de Web Services será abordada en Sprints futuros, conforme se expanda la funcionalidad del producto.</p>
@@ -606,7 +613,11 @@ Trello se ha utilizado de manera limitada para la gestión del proyecto, permiti
         </ul>
 <h5>Evidencias Gráficas del Despliegue</h5>
 <p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
-<img src="/images/github-repo-landing-page.png" alt="Repositorio de GitHub">
+<img src="/images/landing-page-header-img.png" alt="Header de la landing page">
+<img src="/images/landing-page-body-img.png" alt="Body de la landing page">
+<img src="/images/landing-page-feature-plans-img.png" alt="Features and plans de la landing page">
+<img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers de la landing page">
+<img src="/images/landing-page-contact-footer-img.png" alt="Contact Footer de la landing page">
 
 <h4 id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint.</h4>
 <p>
