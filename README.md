@@ -239,7 +239,7 @@ Discord ha sido la herramienta principal de comunicación y coordinación del eq
 </p>
 
 <p><strong>Trello:</strong><br>
-Trello se ha utilizado de manera limitada para la gestión del proyecto, permitiendo la visualización y actualización del estado de tareas y sprints en los que trabaja el equipo. Aunque su uso ha sido ocasional, ha proporcionado una estructura básica para el seguimiento de actividades.<br>
+Trello se ha para la gestión del proyecto, permitiendo la visualización y actualización del estado de tareas y sprints en los que trabaja el equipo. Aunque su uso ha sido ocasional, ha proporcionado una estructura básica para el seguimiento de actividades.<br>
 <strong>Ruta de referencia:</strong> <a href="https://trello.com/">Trello</a>
 </p>
 
