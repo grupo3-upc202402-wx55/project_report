@@ -218,16 +218,34 @@ Icons:
 <h4 id="organization-systems">4.2.1. Organization Systems.</h4>
 - Al entrar a nuestra página web, el usuario podrá viausalizar diferentes secciones: inicio, Request Demo, about us, plans, contacto Us.
 <h4 id="labeling-systems">4.2.2. Labeling Systems.</h4>
+
 -En nuestra página web tendremos un sistema de etiquetado que son los siguientes:
-*About Us
-*Features
-*Plans
-*Benefits
-*Q&A
-*Contact Us
-*Idioma 
+
+- About Us
+- Features
+- Plans
+- Benefits
+- Q&A
+- Contact Us
+- Idioma 
 <h4 id="seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</h4>
+- Poner etiquetas meta en HTML son cruciales para brindar información y metadatos que no son visibles para los usuarios, pero que resultan útiles para los navegadores y los rastreadores web. Ayudan en el análisis y la gestión del contenido, además de ser clave para mejorar el posicionamiento en los motores de búsqueda. Vamos a emplear estas etiquetas para optimizar nuestro sitio web.
+
+- titulo: esta etiqueta es de mucha importancia y generalmente se situa antes que otra metaetiqueta en los encabezados
+    ```<title>Register your processes with RE-GRILL </title> ```
+
+- Autor y Derechos de Autor:
+  Esta etiqueta se emplea para registrar la información del autor y los derechos de propiedad de la página web.
+``` 
+<meta name="author" content="RE-GRILL"/>
+<meta name="copyright" content="Copyright RE-GRILL team" />
+```
+
 <h4 id="searching-systems">4.2.4. Searching Systems.</h4>
+
+Es muy importante que los administradores de los restaurant puedan distinguir y filtrar la información necesaria de los registros almacenados en la apliación web de gestión de restaurantes. Nuestro principal objetivo del sistema es presentar de manera efectiva, sencilla y rápida la gran cantidad de datos que serán ingresados por los restaurantes.
+
+
 <h4 id="navigation-systems">4.2.5. Navigation Systems.</h4>
 <h4 id="landing-page-ui">4.3. Landing Page UI Design.</h4>
 <h4 id="landing-page-wireframe">4.3.1. Landing Page Wireframe.</h4>
