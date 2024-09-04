@@ -158,6 +158,13 @@
 
 
 <h4 id="student-outcome"> Student Outcome</h4>
+Criterio: Comunica oralmente con efectividad a diferentes rangos de audiencia; Comunica por escrito con efectividad 
+a diferentes rangos de audiencia
+<p>En el siguiente cuadro se describe las acciones realizadas y enunciados de 
+conclusiones cual por parte del grupo, que permiten sustentar el haber 
+alcanzado el logro del ABET – EAC - Student Outcome 3.</p>
+
+
 <table><thead>
   <tr>
     <th>Criterio específico</th>
