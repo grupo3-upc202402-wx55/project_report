@@ -317,25 +317,45 @@
 <h4 id="needfinding">2.3. Needfinding.</h4>
 <h4 id="user-personas">2.3.1. User Personas.</h4>
 
-<img src = "/images/user-persona-1.png" alt="User Persona 1"/>
+#### Segmento: Administrador de restaurantes
+<img src = "/images/user-persona/user-persona-1.png" alt="User Persona 1"/>
+
+#### Segmento: Proveedor
+<img src = "/images/user-persona/user-persona-2.png" alt="User Persona 2"/>
+
 <h4 id="user-task-matrix">2.3.2. User Task Matrix.</h4>
 
-| Tarea                                    | Persona                | Frecuencia | Importancia |
-|------------------------------------------|------------------------|------------|-------------|
-| Gestionar inventario y stock             | Laura, Administradora  | Diaria      | Alta        |
-| Coordinar pedidos con proveedores        | Laura, Administradora  | Semanal     | Alta        |
-| Gestionar comunicación con proveedores  | Laura, Administradora  | Diaria      | Media       |
-| Revisar reportes de ventas               | Laura, Administradora  | Semanal     | Alta        |
+| Tarea                                  | Persona               | Frecuencia | Importancia |
+|----------------------------------------|-----------------------|------------|-------------|
+| Gestionar inventario y stock           | Laura, Administradora | Diaria     | Alta        |
+| Coordinar pedidos con proveedores      | Laura, Administradora | Semanal    | Alta        |
+| Gestionar comunicación con proveedores | Laura, Administradora | Diaria     | Media       |
+| Revisar reportes de ventas             | Laura, Administradora | Semanal    | Alta        |
 
 <h4 id="user-journey-mapping">2.3.3. User Journey Mapping.</h4>
 
-<img src="/images/user-journey-mapping.png" alt="user-journey-mapping">
+#### Segmento: Administrador de restaurantes
+<img src="/images/user-journey-mapping/user-journey-mapping-1.png" alt="user-journey-mapping-1">
+
+#### Segmento: Proveedor
+<img src="/images/user-journey-mapping/user-journey-mapping-2.png" alt="user-journey-mapping-2">
+
 <h4 id="empathy-mapping">2.3.4. Empathy Mapping.</h4>
-<img src="/images/empathy-map-1.png" alt="empathy-mapping">
+
+#### Segmento: Administrador de restaurantes
+<img src="/images/empathy-map/empathy-map-1.png" alt="empathy-mapping-1">
+
+#### Segmento: Proveedor
+<img src="/images/empathy-map/empathy-map-2.png" alt="empathy-mapping-2">
 
 <h4 id="as-is-scenario-mapping">2.3.5. As-is Scenario Mapping.</h4>
 
-<img src="/images/as-is-scenary-map.png" alt="as-is-scenary-map"/>
+#### Segmento: Administrador de restaurantes
+<img src="/images/as-is-scenary-map/as-is-scenary-map-1.png" alt="as-is-scenary-map-1"/>
+
+#### Segmento: Proveedor
+<img src="/images/as-is-scenary-map/as-is-scenary-map-2.png" alt="as-is-scenary-map-2"/>
+
 <h4 id="ubiquitous-language">2.4. Ubiquitous Language.</h4>
 
 Definición del lenguaje común para el equipo de NoNucleus:
