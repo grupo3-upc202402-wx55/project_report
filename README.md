@@ -246,7 +246,12 @@ Icons:
 Es muy importante que los administradores de los restaurant puedan distinguir y filtrar la información necesaria de los registros almacenados en la apliación web de gestión de restaurantes. Nuestro principal objetivo del sistema es presentar de manera efectiva, sencilla y rápida la gran cantidad de datos que serán ingresados por los restaurantes.
 
 
+
 <h4 id="navigation-systems">4.2.5. Navigation Systems.</h4>
+
+Los principales sistemas de navegación en la Landing Page son los menús ubicados en la parte superior e inferior. Las etiquetas guían a los usuarios hacia secciones específicas dentro de la página. Si estos enlaces no se utilizan, la página se desplazará hacia abajo de manera automática. En la aplicación, los usuarios seguirán un proceso estructurado en fases, con secciones numeradas y visibles sobre los registros de cada etapa. Tienen la posibilidad de saltar entre fases o seguir un orden consecutivo. Los botones representan acciones como abrir, confirmar o finalizar un registro, lo que facilita la continuación del proceso en una nueva pantalla.
+
+- *Navegación principal o global:* Este es el sistema de navegación más común, visible en todas las secciones de la página y generalmente representado por la barra de navegación y el pie de página.
 <h4 id="landing-page-ui">4.3. Landing Page UI Design.</h4>
 <h4 id="landing-page-wireframe">4.3.1. Landing Page Wireframe.</h4>
 <h4 id="landing-page-mockup">4.3.2. Landing Page Mock-up.</h4>
