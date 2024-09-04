@@ -171,7 +171,7 @@
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
 <h4 id="competitors">2.1. Competidores.</h4>
-
+Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, TouchBistro y Inforest.
 <h4 id="competitive-analysis">2.1.1. Análisis competitivo.</h4>
 
 # Competitive Analysis Landscape
@@ -374,12 +374,54 @@ Este lenguaje será usado consistentemente en la documentación, comunicación y
 <h4 id="impact-mapping">3.3. Impact Mapping.</h4>
 <h4 id="product-backlog">3.4. Product Backlog.</h4>
 <h3 id="chapter-4">Capítulo IV: Product Design</h3>
+<p>
+    En este capítulo se desarrollará las bases para contar con un repositorio central y organizado de uso común que incluye assets, fonts. Esto con el fin de mantener una presentación consistente y enfocada
+    </p>
+    <p>Dentro de las dimensiones que adoptaremos en le tono de comunicación y lenguaje aplicado tendremos que será serio, formal, respetuoso y sereno ya que se trata del manejo de inventario de una empresa del rubro de restaurantes lo cual requiere todo lo mencionado.
+</p>
 <h4 id="style-guidelines">4.1. Style Guidelines.</h4>
 <h4 id="general-style-guidelines">4.1.1. General Style Guidelines.</h4>
+
+
+Branding:
+
+- Este logo simboliza nuestro rubro a la administracion de inventarios para restaurantes. Al obtener nuestros servicios, las empresan podrán tener mejores margenes de ganancias al mejorar su administracion
+    <img src="/images/RE-GRILL.png"></img><br>
+
+Typography:
+- La tipografía de nuestro logo tendrá un estilo marcado el cual es Arial teniendo diversas ventajas, especialmente en términos de legibilidad, compatibilidad y simplicidad. Con esta tipografía reflejamos la innovación así como la creatividad que es lo que sobresale de nuestra aplicación.
+- Otro factor por el cual elegimos Arial se debe a su gran rendimiento dado que es una tipografía preinstalada, lo que hace que no sea necesario cargarla desde un servidor externo, reduciendo el tiempo de carga de la página web.
+
+Colors:
+- Nosotros elegimos la paleta de colores para que el usuario al visitar nuestro sitio web ellos se sientan cómodos y que sobre todo les brinde seguridad y confort. El azul oscuro (#004080) demuestra confianza, profesionalismo y estabilidad. El blanco (#ffffff)
+  <img src="/images/COLORES-WEB.png"></img><br> 
+
+    
+
 <h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
+
+Icons:
+- Al desarrollar una página web, los ícenos son fundamentales para crear una interfaz de usuario que sea clara e intuitiva. Estos pequeños elementos visuales son clave para facilitar la comprensión de distintas secciones de la página web. Los íconos ayudan a lo usuarios a identifica rápidamente la función de cada componente , y su diseño simple y claro garantiza que sean fácilmente interpretables, además, usar íconos de manera coherente en toda la página es esencial para reducir la confusión y mejorara la experiencial de usuario.
+- Los íconos que utilizaremos serán los breakpoints, de los cuales usaremos con mayor frecuencia serán los 768px y 1024px, debido a que son los más comunes del mercado actual.
+
+
 <h4 id="information-architecture">4.2. Information Architecture.</h4>
 <h4 id="organization-systems">4.2.1. Organization Systems.</h4>
+
+- Al entrar a nuestra página web, el usuario podrá visualizar diferentes secciones: inicio, Request Demo, about us, plans, contacto Us.
+
 <h4 id="labeling-systems">4.2.2. Labeling Systems.</h4>
+
+- En nuestra página web tendremos un sistema de etiquetado que son los siguientes: 
+* About Us 
+* Features 
+* Plans
+* benefits
+* Q&A
+* Contact Us
+* Idioma
+
+
 <h4 id="seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</h4>
 <h4 id="searching-systems">4.2.4. Searching Systems.</h4>
 <h4 id="navigation-systems">4.2.5. Navigation Systems.</h4>
