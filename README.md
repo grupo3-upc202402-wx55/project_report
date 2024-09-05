@@ -543,21 +543,47 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Commited on (Date) </td>
     </tr>
     <tr>
-        <td>user/repositoryname </td>
-        <td>feature/loremipsum</td>
-        <td>14ca4e3 </td>
-        <td>feat:  </td>
-        <td>x</td>
-        <td>04/09/2021</td>
+        <td>Gaboo04/landing-page </td>
+        <td>feature/landing-page</td>
+        <td>557bf8a</td>
+        <td>feat: add links to the head, header, main section, about us section and features section.</td>
+        <td>Add images for landing page, add html file for english page.</td>
+        <td>05/09/2024</td>
     </tr>
     <tr>
-        <td>user/repositoryname </td>
-        <td>feature/loremipsum</td>
-        <td>14ca4e3 </td>
-        <td>feat:  </td>
-        <td>x</td>
-        <td>04/09/2021</td>
+        <td>HOLGUINUPC/landing-page </td>
+        <td>main</td>
+        <td>e2a6afe</td>
+        <td>feat: css 50% completed</td>
+        <td>add benefits style, hero style, added logo img nav nav ul styles, added .container adn section style</td>
+        <td>05/09/2024</td>
     </tr>
+    <tr>
+        <td>LowMathzzz/landing-page </td>
+        <td>main</td>
+        <td>6d41e03</td>
+        <td>feat(styles): added features and footer on styles layer.</td>
+        <td>added mobile responsive config on styles layer,  added tables responsive config on styles layer.</td>
+        <td>05/09/2024</td>
+    </tr>
+    <tr>
+        <td>DavidBryanRodriguezSantos/landing-page </td>
+        <td>main</td>
+        <td>f778cda</td>
+        <td>feat(es-page): create spanish page</td>
+        <td>create spanish page</td>
+        <td>05/09/2024</td>
+    </tr>    
+    <tr>
+        <td>U202011657/landing-page </td>
+        <td>main</td>
+        <td>bdf0608</td>
+        <td>feat:Update index.html</td>
+        <td>report-1</td>
+        <td>05/09/2024</td>
+    </tr>
+    
+
 </table>
 <h4 id="testing-suite-evidence-for-sprint-review">5.2.1.4. Testing Suite Evidence for Sprint Review.</h4>
 <p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas realizadas para la landing page de Re-Grill, desarrollada en el Sprint 1. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la landing page. Las pruebas de aceptación se diseñaron para garantizar que la landing page cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
@@ -630,23 +656,23 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
     <tr>
         <td>Gabriel Anthony Braithuaite Toledo</td>
-        <td></td>
+        <td>Implementación de las secciones header, implementación de parte del main section en el index.html.</td>
     </tr>
     <tr>
         <td>Adrian Alonso Calle Huayanca</td>
-        <td></td>
+        <td>Desarrollo del wireframe, mock up y completar sección del main en el index.html.</td>
     </tr>
     <tr>
         <td>Hardie Alfonso Holguín Gamarra	</td>
-        <td></td>
+        <td>Implementación de los estilos para parte del body y containers en el styles.css</td>
     </tr>
     <tr>
         <td>Mateo Italo Loechle Arias</td>
-        <td></td>
+        <td>Implementación de los estilos para completar el body y configuración del responsive en el styles.css</td>
     </tr>
     <tr>
         <td>David Bryan Rodriguez Santos</td>
-        <td></td>
+        <td>Implementación del switching de idioma realizando una versión en español del landing page en el index-es.html.</td>
     </tr>
 </table>
 
