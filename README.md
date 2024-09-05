@@ -258,6 +258,10 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
   <img src="/images/MOCKUP-web.png"></img><br> 
 
 <h4 id="landing-page-mockup">4.3.2. Landing Page Mock-up.</h4>
+
+
+  <img src="/images/MOCK-UP_MOBILE.png"></img><br> 
+
 <h4 id="web-application-ux-ui">4.4. Web Applications UX/UI Design.</h4>
 <h4 id="web-application-wireframes">4.4.1. Web Applications Wireframes.</h4>
 <h4 id="web-application-wireflow">4.4.2. Web Applications Wireflow Diagrams.</h4>
