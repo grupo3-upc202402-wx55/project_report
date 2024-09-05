@@ -172,7 +172,7 @@ alcanzado el logro del ABET – EAC - Student Outcome 3.</p>
   </tr></thead>
 <tbody>
   <tr>
-    <td>Demuestra capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos</td>
+    <td>Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td>
     <td><b> Gabriel Anthony Braithuaite Toledo:</b><br>
 TB1: En este caso yo realize todo el capitulo numero 5 , el cual incluye Software Configuration Management, Landing Page, Services & Applications Implementation y Validation Interviews.
 
