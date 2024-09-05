@@ -784,7 +784,6 @@ Este lenguaje será usado consistentemente en la documentación, comunicación y
 </p>
 <h4 id="general-style-guidelines">4.1.1. General Style Guidelines.</h4>
 
-
 Branding:
 
 - Este logo simboliza nuestro rubro a la administracion de inventarios para restaurantes. Al obtener nuestros servicios, las empresan podrán tener mejores margenes de ganancias al mejorar su administracion
@@ -798,13 +797,31 @@ Colors:
 - Nosotros elegimos la paleta de colores para que el usuario al visitar nuestro sitio web ellos se sientan cómodos y que sobre todo les brinde seguridad y confort. El azul oscuro (#004080) demuestra confianza, profesionalismo y estabilidad. El blanco (#ffffff)
   <img src="/images/COLORES-WEB.png"></img><br> 
 
-    
+
+<h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
+   
 
 <h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
 
 Icons:
 - Al desarrollar una página web, los ícenos son fundamentales para crear una interfaz de usuario que sea clara e intuitiva. Estos pequeños elementos visuales son clave para facilitar la comprensión de distintas secciones de la página web. Los íconos ayudan a lo usuarios a identifica rápidamente la función de cada componente , y su diseño simple y claro garantiza que sean fácilmente interpretables, además, usar íconos de manera coherente en toda la página es esencial para reducir la confusión y mejorara la experiencial de usuario.
 - Los íconos que utilizaremos serán los breakpoints, de los cuales usaremos con mayor frecuencia serán los 768px y 1024px, debido a que son los más comunes del mercado actual.
+
+
+<h4 id="information-architecture">4.2. Information Architecture.</h4>
+<h4 id="organization-systems">4.2.1. Organization Systems.</h4>
+- Al entrar a nuestra página web, el usuario podrá viausalizar diferentes secciones: inicio, Request Demo, about us, plans, contacto Us.
+<h4 id="labeling-systems">4.2.2. Labeling Systems.</h4>
+
+-En nuestra página web tendremos un sistema de etiquetado que son los siguientes:
+
+- About Us
+- Features
+- Plans
+- Benefits
+- Q&A
+- Contact Us
+- Idioma 
 
 
 <h4 id="information-architecture">4.2. Information Architecture.</h4>
@@ -825,11 +842,39 @@ Icons:
 
 
 <h4 id="seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</h4>
+- Poner etiquetas meta en HTML son cruciales para brindar información y metadatos que no son visibles para los usuarios, pero que resultan útiles para los navegadores y los rastreadores web. Ayudan en el análisis y la gestión del contenido, además de ser clave para mejorar el posicionamiento en los motores de búsqueda. Vamos a emplear estas etiquetas para optimizar nuestro sitio web.
+
+- titulo: esta etiqueta es de mucha importancia y generalmente se situa antes que otra metaetiqueta en los encabezados
+    ```<title>Register your processes with RE-GRILL </title> ```
+
+- Autor y Derechos de Autor:
+  Esta etiqueta se emplea para registrar la información del autor y los derechos de propiedad de la página web.
+``` 
+<meta name="author" content="RE-GRILL"/>
+<meta name="copyright" content="Copyright RE-GRILL team" />
+```
+
 <h4 id="searching-systems">4.2.4. Searching Systems.</h4>
+
+Es muy importante que los administradores de los restaurant puedan distinguir y filtrar la información necesaria de los registros almacenados en la apliación web de gestión de restaurantes. Nuestro principal objetivo del sistema es presentar de manera efectiva, sencilla y rápida la gran cantidad de datos que serán ingresados por los restaurantes.
+
+
+
 <h4 id="navigation-systems">4.2.5. Navigation Systems.</h4>
+
+Los principales sistemas de navegación en la Landing Page son los menús ubicados en la parte superior e inferior. Las etiquetas guían a los usuarios hacia secciones específicas dentro de la página. Si estos enlaces no se utilizan, la página se desplazará hacia abajo de manera automática. En la aplicación, los usuarios seguirán un proceso estructurado en fases, con secciones numeradas y visibles sobre los registros de cada etapa. Tienen la posibilidad de saltar entre fases o seguir un orden consecutivo. Los botones representan acciones como abrir, confirmar o finalizar un registro, lo que facilita la continuación del proceso en una nueva pantalla.
+
+- *Navegación principal o global:* Este es el sistema de navegación más común, visible en todas las secciones de la página y generalmente representado por la barra de navegación y el pie de página.
 <h4 id="landing-page-ui">4.3. Landing Page UI Design.</h4>
 <h4 id="landing-page-wireframe">4.3.1. Landing Page Wireframe.</h4>
+
+  <img src="/images/MOCKUP-web.png"></img><br> 
+
 <h4 id="landing-page-mockup">4.3.2. Landing Page Mock-up.</h4>
+
+
+  <img src="/images/MOCK-UP_MOBILE.png"></img><br> 
+
 <h4 id="web-application-ux-ui">4.4. Web Applications UX/UI Design.</h4>
 <h4 id="web-application-wireframes">4.4.1. Web Applications Wireframes.</h4>
 <h4 id="web-application-wireflow">4.4.2. Web Applications Wireflow Diagrams.</h4>
@@ -842,9 +887,15 @@ Icons:
 <h4 id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams.</h4>
 <h4 id="software-object-oriented-design">4.7. Software Object-Oriented Design.</h4>
 <h4 id="class-diagrams">4.7.1. Class Diagrams.</h4>
+
+<img src="/images/diagram.png"></img><br> 
+
 <h4 id="class-dictionary">4.7.2. Class Dictionary.</h4>
 <h4 id="database-design">4.8. Database Design.</h4>
 <h4 id="database-diagram">4.8.1. Database Diagram.</h4>
+
+<img src="/images/databasediagram.jpg"></img><br> 
+
 <h3 id="chapter-5">Capítulo V: Product Implementation, Validation & Deployment</h3>
 <p>En este capítulo se detallará la implementación del producto, la validación y la 
 configuración de despliegue del software.</p>
