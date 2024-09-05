@@ -254,6 +254,9 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 - *Navegación principal o global:* Este es el sistema de navegación más común, visible en todas las secciones de la página y generalmente representado por la barra de navegación y el pie de página.
 <h4 id="landing-page-ui">4.3. Landing Page UI Design.</h4>
 <h4 id="landing-page-wireframe">4.3.1. Landing Page Wireframe.</h4>
+
+  <img src="/images/MOCKUP-web.png"></img><br> 
+
 <h4 id="landing-page-mockup">4.3.2. Landing Page Mock-up.</h4>
 <h4 id="web-application-ux-ui">4.4. Web Applications UX/UI Design.</h4>
 <h4 id="web-application-wireframes">4.4.1. Web Applications Wireframes.</h4>
