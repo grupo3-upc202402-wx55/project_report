@@ -240,6 +240,8 @@
 
 
 <h4 id="impact-mapping">3.3. Impact Mapping.</h4>
+<img src="/images/Laura.jpeg"></img><br>
+<img src="/images/Mig.jpeg"></img><br>
 <h4 id="product-backlog">3.4. Product Backlog.</h4>
 <img src="/images/PT.jpeg"></img><br>
 
