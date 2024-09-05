@@ -237,6 +237,7 @@
 
 <h4 id="impact-mapping">3.3. Impact Mapping.</h4>
 <h4 id="product-backlog">3.4. Product Backlog.</h4>
+
 <h3 id="chapter-4">Capítulo IV: Product Design</h3>
 <h4 id="style-guidelines">4.1. Style Guidelines.</h4>
 <h4 id="general-style-guidelines">4.1.1. General Style Guidelines.</h4>
