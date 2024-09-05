@@ -327,47 +327,97 @@ Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, 
 * Momento en el que inicia: 0:00
 * Duracion: 2:25
 * Entrevistador: David Bryan Rodriguez Santos
-* Analisis:
+* Resumen:
 
 Entrevistada destaca como factores clave para el éxito del restaurante la buena calidad de la comida y el control del inventario. Considera esencial en un software de gestión la integración de los módulos, automatización de procesos y acceso móvil.
 El flujo típico en su restaurante incluye tomar pedidos, transmitirlos a la cocina, servir la comida y revisar las ventas. Los mayores desafíos son el control del inventario y la coordinación del personal.
 Le gustaría optimizar la gestión del inventario y automatizar el seguimiento del personal. Actualmente, usan un sistema POS, software de reservas y contabilidad, pero siente que la falta de integración entre ellos es un problema.
 
+
+- Entrevista 2: Vanfic Gustavok
+
+<img src="/images/interview/m.jpeg"> 
+
+* Sexo: Masculino
+* Edad: 49 años
+* Distrito donde vive: Lima
+
+* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+* Momento en el que inicia: 4:24
+* Duracion: 2:20
+* Entrevistador: Mateo Loechle
+
+* Resumen:
+
+El entrevistado considera que un software de gestión de restaurantes debe incluir la gestión de mesas y reservas, el control de inventario, el seguimiento de ventas, la gestión de pedidos en cocina, la integración con proveedores, y capacidades de análisis y reportes financieros. Estas funciones permiten automatizar procesos y optimizar las operaciones diarias.
+
+
+- Entrevista 1: Anghelo Basauri
+
+<img src="/images/interview/ha.jpeg">
+
+* Sexo: Masculino
+* Edad: 27 años
+* Distrito donde vive: Rimac
+
+* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Momento en el que inicia: 4:24
+* Duracion: 3:12
+* Entrevistador: Hardie Holguín
+
+* Resumen:
+
+Entre los mayores desafíos, el entrevistado menciona el control preciso del inventario, garantizar la calidad constante de los platos, gestionar eficazmente al personal y proporcionar una excelente experiencia al cliente. Además, manejar la logística de los proveedores y las fluctuaciones en la demanda también son complicados.
+ El entrevistado desea optimizar la gestión de inventario y pedidos, asegurando que siempre haya suficientes insumos sin sobrecargar el stock. También le gustaría automatizar la comunicación con los proveedores para reducir tiempos de respuesta y minimizar errores.
+
+
+- Entrevista 1: Keyner Hancco
+
+<img src="/images/interview/hk.jpeg">
+* Sexo: Masculino
+* Edad: 25 años
+* Distrito donde vive: Santa Anita
+
+* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Momento en el que inicia: 7:10
+* Duracion: 5:32
+* Resumen: Hardie Holguín
+
+* Analisis:
+Para el entrevistado, la rapidez y precisión en el servicio son aspectos críticos, junto con la facilidad para realizar reservas y pedidos. También considera fundamental mejorar la comunicación entre el personal y los clientes para garantizar que sus necesidades sean atendidas eficientemente.
+En general, el entrevistado está satisfecho con las herramientas que utiliza, aunque cree que siempre hay margen de mejora. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
+
+- Entrevista 1: Elismar Sarmiento
+
+<img src="/images/interview/gl.jpeg">
+
+* Sexo: Femenino
+* Edad: 25 años
+* Distrito donde vive: Callao
+
+* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+
+* Momento en el que inicia: 12:57
+* Duracion: 4:10
+* Entrevistador: Gabriel Braihuate
+* Resumen:
+
+ El entrevistado utiliza un software de gestión que integra la toma de pedidos, la gestión de inventario, las reservas y el procesamiento de pagos. También emplea herramientas de análisis de datos para entender mejor las tendencias de consumo y ajustar la oferta en consecuencia. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
+
+
 <h4 id="interviews-analysis">2.2.3. Análisis de entrevistas.</h4>
 
-- Entrevista 1:
+ <tr>Administrador de Restaurante: </tr>
+Durante las entrevistas con administradores de restaurante, se identificaron varios puntos clave que destacan sus principales necesidades y desafíos. En primer lugar, señalaron la importancia de contar con un sistema eficiente para gestionar las reservas y la asignación de mesas, ya que una mala organización en este aspecto puede afectar negativamente la experiencia del cliente. Además, enfatizaron la necesidad de una herramienta integral que permita un control exhaustivo del inventario y de los proveedores, lo cual impacta directamente en la reducción de costos y en la optimización del proceso de abastecimiento. Otro aspecto recurrente fue la importancia de generar reportes y estadísticas en tiempo real, especialmente en relación con las ventas, el desperdicio de alimentos, y el uso de ingredientes. Los administradores también valoran la capacidad de tener un cierre de caja detallado y preciso, así como una visión clara de la rentabilidad de cada plato para mejorar la toma de decisiones estratégicas.
 
-1. ¿Cuáles considera que son los factores clave para el éxito de un restaurante en el mercado actual?
-
-   B: "Buena calidad de la comida, un servicio excelente y una gestión eficiente del inventario."
-
-2. ¿Qué características o funcionalidades considera esenciales en un software de gestión de restaurantes?
-
-   B: "Integración de todos los módulos, informes automáticos y acceso desde el móvil."
-
-3. ¿Qué papel juega la tecnología en la gestión y operación de un restaurante moderno?
-
-   B: "Es vital para automatizar procesos y tener un control total de las operaciones."
-
-4. ¿Cómo describiría el flujo típico de trabajo en su restaurante?
-
-   B: "Tomamos pedidos, los transmitimos a la cocina, servimos y luego revisamos ventas e inventario."
-
-5. ¿Cuáles son los mayores desafíos que enfrenta en la gestión diaria de su restaurante?
-
-   B: "Controlar el inventario y mantener al personal coordinado."
-
-6. ¿Qué procesos o tareas le gustaría optimizar o automatizar en su restaurante?
-
-   B: "Mejorar la gestión del inventario y automatizar el seguimiento del personal."
-
-7. ¿Qué sistemas o herramientas tecnológicas utiliza actualmente en su restaurante?
-
-   B: "Un sistema POS, software de reservas y de contabilidad."
-
-8. ¿Está satisfecha con las herramientas tecnológicas que utiliza actualmente?
-
-   B: "Sí, pero la falta de integración entre ellas es un problema."
+ <tr>Proveedor</tr>
+ En cuanto a los proveedores, las entrevistas revelaron que su principal interés radica en la simplificación y mejora de la comunicación con los restaurantes. Mencionaron la importancia de contar con un sistema que les permita gestionar pedidos de manera más ágil y estructurada, evitando errores y reduciendo el tiempo de espera entre la orden y la entrega. Asimismo, expresaron la necesidad de tener visibilidad sobre las previsiones de demanda y el historial de compras de los restaurantes, lo que les ayudaría a planificar mejor su producción y entrega. Los proveedores también señalaron que valoran los sistemas que permiten una integración directa con los inventarios de los restaurantes, de modo que puedan ajustar sus ofertas y volúmenes de productos según las necesidades reales del cliente, mejorando así la eficiencia en toda la cadena de suministro.
 
 <h4 id="needfinding">2.3. Needfinding.</h4>
 <h4 id="user-personas">2.3.1. User Personas.</h4>
