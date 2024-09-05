@@ -274,9 +274,15 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 <h4 id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams.</h4>
 <h4 id="software-object-oriented-design">4.7. Software Object-Oriented Design.</h4>
 <h4 id="class-diagrams">4.7.1. Class Diagrams.</h4>
+
+<img src="/images/diagram.png"></img><br> 
+
 <h4 id="class-dictionary">4.7.2. Class Dictionary.</h4>
 <h4 id="database-design">4.8. Database Design.</h4>
 <h4 id="database-diagram">4.8.1. Database Diagram.</h4>
+
+<img src="/images/databasediagram.jpg"></img><br> 
+
 <h3 id="chapter-5">Capítulo V: Product Implementation, Validation & Deployment</h3>
 <h4 id="software-configuration">5.1. Software Configuration Management.</h4>
 <h4 id="software-development">5.1.1. Software Development Environment Configuration.</h4>
