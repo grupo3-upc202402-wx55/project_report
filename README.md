@@ -309,9 +309,9 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <h4>Repositorios de GitHub</h4>
 <ul>
-    <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55">Repositorio Landing Page</a></li>
-    <li><strong>Web Services</strong>: <a href="https://github.com/grupo3-upc202402-wx55">Repositorio Web Services</a></li>
-    <li><strong>Frontend Web Applications</strong>: <a href="https://github.com/grupo3-upc202402-wx55">Repositorio Frontend Web Applications</a></li>
+    <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55/landing-page">Repositorio Landing Page</a></li>
+    <li><strong>Project Report</strong>: <a href="https://github.com/grupo3-upc202402-wx55/project_report">Repositorio del project report</a></li>
+    
 </ul>
 <p>Cada repositorio alojará el código fuente correspondiente a su respectivo producto, además de incluir archivos de pruebas unitarias e integración en el caso de los Web Services.</p>
 
