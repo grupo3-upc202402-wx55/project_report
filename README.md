@@ -313,7 +313,62 @@ Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, 
 - ¿Cuáles son los principales desafíos que enfrenta en su negocio como proveedor de restaurantes?
 
 <h4 id="interviews-registry">2.2.2. Registro de entrevistas.</h4>
+
+- Entrevista 1: Darla
+
+<img src="/images/interview/user-1.png">
+
+* Sexo: Femenino
+* Edad: 25 años
+* Distrito donde vive: Lima
+
+* Link: [Click para ver la entrevista](https://www.youtube.com/watch?v=GwihqjCG-hs)
+
+* Momento en el que inicia: 0:00
+* Duracion: 2:25
+* Entrevistador: David Bryan Rodriguez Santos
+* Analisis:
+
+Entrevistada destaca como factores clave para el éxito del restaurante la buena calidad de la comida y el control del inventario. Considera esencial en un software de gestión la integración de los módulos, automatización de procesos y acceso móvil.
+El flujo típico en su restaurante incluye tomar pedidos, transmitirlos a la cocina, servir la comida y revisar las ventas. Los mayores desafíos son el control del inventario y la coordinación del personal.
+Le gustaría optimizar la gestión del inventario y automatizar el seguimiento del personal. Actualmente, usan un sistema POS, software de reservas y contabilidad, pero siente que la falta de integración entre ellos es un problema.
+
 <h4 id="interviews-analysis">2.2.3. Análisis de entrevistas.</h4>
+
+- Entrevista 1:
+
+1. ¿Cuáles considera que son los factores clave para el éxito de un restaurante en el mercado actual?
+
+   B: "Buena calidad de la comida, un servicio excelente y una gestión eficiente del inventario."
+
+2. ¿Qué características o funcionalidades considera esenciales en un software de gestión de restaurantes?
+
+   B: "Integración de todos los módulos, informes automáticos y acceso desde el móvil."
+
+3. ¿Qué papel juega la tecnología en la gestión y operación de un restaurante moderno?
+
+   B: "Es vital para automatizar procesos y tener un control total de las operaciones."
+
+4. ¿Cómo describiría el flujo típico de trabajo en su restaurante?
+
+   B: "Tomamos pedidos, los transmitimos a la cocina, servimos y luego revisamos ventas e inventario."
+
+5. ¿Cuáles son los mayores desafíos que enfrenta en la gestión diaria de su restaurante?
+
+   B: "Controlar el inventario y mantener al personal coordinado."
+
+6. ¿Qué procesos o tareas le gustaría optimizar o automatizar en su restaurante?
+
+   B: "Mejorar la gestión del inventario y automatizar el seguimiento del personal."
+
+7. ¿Qué sistemas o herramientas tecnológicas utiliza actualmente en su restaurante?
+
+   B: "Un sistema POS, software de reservas y de contabilidad."
+
+8. ¿Está satisfecha con las herramientas tecnológicas que utiliza actualmente?
+
+   B: "Sí, pero la falta de integración entre ellas es un problema."
+
 <h4 id="needfinding">2.3. Needfinding.</h4>
 <h4 id="user-personas">2.3.1. User Personas.</h4>
 
