@@ -186,6 +186,10 @@
 <h4 id="ubiquitous-language">2.4. Ubiquitous Language.</h4>
 <h3 id="chapter-3">Capítulo III: Requirements Specification</h3>
 <h4 id="to-be-scenario-mapping">3.1. To-Be Scenario Mapping.</h4>
+
+<img src="/images/ad.jpeg"></img><br>
+<img src="/images/pr.jpeg"></img><br>
+ 
 <h4 id="user-stories">3.2. User Stories.</h4>
 
 | Epic / Story ID 	    | Título 	                                                | Descripción 	                                                                                                                                                                                                                                                 | Criterios de Aceptación 	                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | Relacionado con Epic ID 	                                                                            |
