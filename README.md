@@ -1,3 +1,4 @@
+
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
 <br>
@@ -29,7 +30,10 @@
         </tr>
         <tr>
             <td>Adrian Alonso Calle Huayanca</td>
+
             <td>U202011657</td>
+
+            <td>u202011657</td>
         </tr>
         <tr>
                 <td>Hardie Alfonso Holguín Gamarra</td>
