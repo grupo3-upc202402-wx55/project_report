@@ -409,19 +409,308 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
 <h4 id="competitors">2.1. Competidores.</h4>
+Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, TouchBistro y Inforest.
 <h4 id="competitive-analysis">2.1.1. Análisis competitivo.</h4>
+
+# Competitive Analysis Landscape
+
+
+<table>
+  <tr>
+    <th colspan="6"><b>Competitive Analysis Landscape</b></th>
+  </tr>
+  <tr>
+    <td>¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="5">Evaluar a fondo el entorno competitivo, identificando competidores, sus fortalezas y debilidades, y entender sus estrategias.</td>
+  </tr>
+  <tr>
+    <th colspan="2"></th>
+    <th>NoNocleus</th>
+    <th>Toast</th>
+    <th>TouchBistro</th>
+    <th>Inforest</th>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil</td>
+    <td>Overview</td>
+    <td>Plataforma integral para la gestión de restaurantes que optimiza procesos clave como stock, mesas, cocina, y proveedores, mejorando la eficiencia operativa.</td>
+    <td>Software de gestión de restaurantes basado en la nube que ayuda a los negocios a optimizar operaciones como pedidos, pagos, inventario y análisis de ventas, mejorando así su eficiencia y rentabilidad.</td>
+    <td>TouchBistro es una empresa canadiense con sede en Toronto que se especializa en el desarrollo de sistemas de punto de venta (POS) para restaurantes.</td>
+    <td>Inforest es un software modular diseñado para automatizar la gestión y operación de negocios gastronómicos y afines. Ofrece una variedad de funcionalidades para optimizar procesos, generar reportes y estadísticas, gestionar ventas y unificar operaciones. Además, proporciona servicio técnico 24/7.</td>
+  </tr>
+  <tr>
+    <td>Ventaja competitiva</td>
+    <td>Integración modular adaptable a diferentes necesidades y conexión automatizada entre módulos clave para reducir desperdicios y maximizar la rentabilidad.</td>
+    <td>Alta personalización y hardware especializado.</td>
+    <td>Simplicidad, uso sin conexión, enfoque en pequeñas empresas.</td>
+    <td>Flexibilidad y menor costo.</td>
+  </tr>
+  <tr>
+    <td rowspan="2">Perfil de marketing</td>
+    <td>Mercado objetivo</td>
+    <td>Pequeños y medianos restaurantes, así como cadenas que buscan digitalizar y escalar sus operaciones.</td>
+    <td>Restaurantes medianos y grandes.</td>
+    <td>Pequeños y medianos restaurantes, cafeterías.</td>
+    <td>Restaurantes pequeños en mercados específicos.</td>
+  </tr>
+  <tr>
+    <td>Estrategias de marketing</td>
+    <td>Marketing digital, demostraciones gratuitas, y presencia en ferias del sector gastronómico y tecnológico.</td>
+    <td>Enfoque en tecnología avanzada y grandes cadenas.</td>
+    <td>Marketing centrado en facilidad de uso y pequeños negocios.</td>
+    <td>Enfoque en soluciones económicas para nichos específicos.</td>
+  </tr>
+  <tr>
+    <td rowspan="3">Perfil de producto</td>
+    <td>Productos & Servicios</td>
+    <td>Módulos de gestión de stock, mesas, reservas, pedidos a proveedores, y reportes financieros, con integración a sistemas POS.</td>
+    <td>Sistema POS, gestión de pedidos y empleados, informes.</td>
+    <td>Sistema POS para iPad, gestión de mesas y reservas.</td>
+    <td>Sistema POS básico, ajustado a las necesidades locales.</td>
+  </tr>
+  <tr>
+    <td>Precios y costos</td>
+    <td>Modelo de suscripción mensual desde $50 para pequeñas operaciones y planes personalizables para cadenas.</td>
+    <td>Moderados a altos, dependiendo de las funciones y hardware.</td>
+    <td>Costos accesibles para PYMEs.</td>
+    <td>Costos bajos, enfocado en pequeñas empresas.</td>
+  </tr>
+  <tr>
+    <td>Canales de distribución</td>
+    <td>Distribución en línea a través del sitio web oficial y servicios de implementación in situ.</td>
+    <td>Web, aplicaciones móviles, integraciones con plataformas de entrega.</td>
+    <td>iPad, soporte web.</td>
+    <td>Web, opciones móviles limitadas.</td>
+  </tr>
+  <tr>
+    <td rowspan="4">Análisis SWOT</td>
+    <td>Fortalezas</td>
+    <td>Adaptabilidad modular y soporte técnico dedicado.</td>
+    <td>Personalización, integraciones avanzadas.</td>
+    <td>Facilidad de uso, independencia de internet.</td>
+    <td>Costo bajo, flexibilidad en implementación.</td>
+  </tr>
+  <tr>
+    <td>Debilidades</td>
+    <td>Dependencia de internet y necesidad de personal capacitado para la configuración inicial.</td>
+    <td>Costos relativamente altos, curva de aprendizaje.</td>
+    <td>Funciones avanzadas limitadas.</td>
+    <td>Reconocimiento de marca bajo, funcionalidad limitada.</td>
+  </tr>
+  <tr>
+    <td>Oportunidades</td>
+    <td>Dependencia de internet y necesidad de personal capacitado para la configuración inicial.</td>
+    <td>Expansión internacional, nuevas tecnologías.</td>
+    <td>Mercados con internet limitado, desarrollo de nichos.</td>
+    <td>Mercados emergentes, alianzas locales.</td>
+  </tr>
+  <tr>
+    <td>Amenazas</td>
+    <td>Competencia creciente y posibles cambios regulatorios.</td>
+    <td>Competencia creciente, cambios regulatorios.</td>
+    <td>Aumento de competidores con funciones más avanzadas.</td>
+    <td>Competencia de POS más conocidos, cambios en demanda.</td>
+  </tr>
+</table>
+
+
 <h4 id="strategy-tactics">2.1.2. Estrategias y tácticas frente a competidores.</h4>
+#### Estrategias:
+
+- Experiencia de usuario superior: Enfócate en crear una interfaz intuitiva, fácil de usar y visualmente atractiva. La facilidad de adopción y uso puede ser un factor clave para atraer a nuevos clientes.
+- Prueba gratuita o demostración: Permite a los clientes potenciales probar tu software antes de comprometerse, lo que puede reducir la barrera de entrada.
+- Precio competitivo: Si es posible, ofrece un precio más bajo que tus competidores, especialmente para atraer a pequeñas y medianas empresas.
+
+#### Tacticas:
+- Redes sociales: Utiliza las redes sociales para interactuar con tu audiencia, compartir contenido, promocionar tu software y generar conversaciones.
+- Comparte historias de clientes satisfechos que hayan logrado resultados positivos con tu software. Esto puede ser muy persuasivo para los clientes potenciales.
+
 <h4 id="interviews">2.2. Entrevistas.</h4>
 <h4 id="interviews-design">2.2.1. Diseño de entrevistas.</h4>
+
+#### Preguntas generales:
+
+- ¿Cuáles considera que son los factores clave para el éxito de un restaurante en el mercado actual?
+- ¿Qué características o funcionalidades considera esenciales en un software de gestión de restaurantes?
+- ¿Qué papel juega la tecnología en la gestión y operación de un restaurante moderno?
+
+#### Segmento objetivo: Administrador
+
+- Cómo describiría el flujo típico de trabajo en su restaurante, desde la toma de pedidos hasta el servicio al cliente?
+- ¿Cuáles son los mayores desafíos que enfrenta en la gestión diaria de su restaurante (ej: control de inventario, gestión de personal, satisfacción del cliente)?
+- ¿Qué procesos o tareas le gustaría optimizar o automatizar en su restaurante?
+- ¿Qué sistemas o herramientas tecnológicas utiliza actualmente en su restaurante (ej: punto de venta, sistema de reservas, software de contabilidad)? 
+- ¿Está satisfecho con las herramientas tecnológicas que utiliza actualmente? ¿Por qué o por qué no?
+
+#### Segmento objetivo: Proveedor
+
+- ¿Qué tipo de productos o servicios ofrece a los restaurantes?
+- ¿A qué tipo de restaurantes suministra principalmente (ej: tamaño, tipo de cocina, ubicación)?
+- ¿Qué sistemas o herramientas utiliza actualmente para gestionar sus pedidos y la comunicación con los restaurantes?
+- ¿Está satisfecho con las herramientas que utiliza actualmente? ¿Por qué o por qué no?
+- ¿Cuáles son los principales desafíos que enfrenta en su negocio como proveedor de restaurantes?
+
 <h4 id="interviews-registry">2.2.2. Registro de entrevistas.</h4>
+
+- Entrevista 1: Darla
+
+<img src="/images/interview/user-1.png">
+
+* Sexo: Femenino
+* Edad: 25 años
+* Distrito donde vive: Lima
+
+* Link: [Click para ver la entrevista](https://www.youtube.com/watch?v=GwihqjCG-hs)
+
+* Momento en el que inicia: 0:00
+* Duracion: 2:25
+* Entrevistador: David Bryan Rodriguez Santos
+* Resumen:
+
+Entrevistada destaca como factores clave para el éxito del restaurante la buena calidad de la comida y el control del inventario. Considera esencial en un software de gestión la integración de los módulos, automatización de procesos y acceso móvil.
+El flujo típico en su restaurante incluye tomar pedidos, transmitirlos a la cocina, servir la comida y revisar las ventas. Los mayores desafíos son el control del inventario y la coordinación del personal.
+Le gustaría optimizar la gestión del inventario y automatizar el seguimiento del personal. Actualmente, usan un sistema POS, software de reservas y contabilidad, pero siente que la falta de integración entre ellos es un problema.
+
+
+- Entrevista 2: Vanfic Gustavok
+
+<img src="/images/interview/m.jpeg"> 
+
+* Sexo: Masculino
+* Edad: 49 años
+* Distrito donde vive: Lima
+
+* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+* Momento en el que inicia: 4:24
+* Duracion: 2:20
+* Entrevistador: Mateo Loechle
+
+* Resumen:
+
+El entrevistado considera que un software de gestión de restaurantes debe incluir la gestión de mesas y reservas, el control de inventario, el seguimiento de ventas, la gestión de pedidos en cocina, la integración con proveedores, y capacidades de análisis y reportes financieros. Estas funciones permiten automatizar procesos y optimizar las operaciones diarias.
+
+
+- Entrevista 1: Anghelo Basauri
+
+<img src="/images/interview/ha.jpeg">
+
+* Sexo: Masculino
+* Edad: 27 años
+* Distrito donde vive: Rimac
+
+* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Momento en el que inicia: 4:24
+* Duracion: 3:12
+* Entrevistador: Hardie Holguín
+
+* Resumen:
+
+Entre los mayores desafíos, el entrevistado menciona el control preciso del inventario, garantizar la calidad constante de los platos, gestionar eficazmente al personal y proporcionar una excelente experiencia al cliente. Además, manejar la logística de los proveedores y las fluctuaciones en la demanda también son complicados.
+ El entrevistado desea optimizar la gestión de inventario y pedidos, asegurando que siempre haya suficientes insumos sin sobrecargar el stock. También le gustaría automatizar la comunicación con los proveedores para reducir tiempos de respuesta y minimizar errores.
+
+
+- Entrevista 1: Keyner Hancco
+
+<img src="/images/interview/hk.jpeg">
+* Sexo: Masculino
+* Edad: 25 años
+* Distrito donde vive: Santa Anita
+
+* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+* Momento en el que inicia: 7:10
+* Duracion: 5:32
+* Resumen: Hardie Holguín
+
+* Analisis:
+Para el entrevistado, la rapidez y precisión en el servicio son aspectos críticos, junto con la facilidad para realizar reservas y pedidos. También considera fundamental mejorar la comunicación entre el personal y los clientes para garantizar que sus necesidades sean atendidas eficientemente.
+En general, el entrevistado está satisfecho con las herramientas que utiliza, aunque cree que siempre hay margen de mejora. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
+
+- Entrevista 1: Elismar Sarmiento
+
+<img src="/images/interview/gl.jpeg">
+
+* Sexo: Femenino
+* Edad: 25 años
+* Distrito donde vive: Callao
+
+* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+
+* Momento en el que inicia: 12:57
+* Duracion: 4:10
+* Entrevistador: Gabriel Braihuate
+* Resumen:
+
+ El entrevistado utiliza un software de gestión que integra la toma de pedidos, la gestión de inventario, las reservas y el procesamiento de pagos. También emplea herramientas de análisis de datos para entender mejor las tendencias de consumo y ajustar la oferta en consecuencia. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
+
+
 <h4 id="interviews-analysis">2.2.3. Análisis de entrevistas.</h4>
+
+ <p>Administrador de Restaurante:</p>
+<p>Durante las entrevistas con administradores de restaurante, se identificaron varios puntos clave que destacan sus principales necesidades y desafíos. En primer lugar, señalaron la importancia de contar con un sistema eficiente para gestionar las reservas y la asignación de mesas, ya que una mala organización en este aspecto puede afectar negativamente la experiencia del cliente. Además, enfatizaron la necesidad de una herramienta integral que permita un control exhaustivo del inventario y de los proveedores, lo cual impacta directamente en la reducción de costos y en la optimización del proceso de abastecimiento. Otro aspecto recurrente fue la importancia de generar reportes y estadísticas en tiempo real, especialmente en relación con las ventas, el desperdicio de alimentos, y el uso de ingredientes. Los administradores también valoran la capacidad de tener un cierre de caja detallado y preciso, así como una visión clara de la rentabilidad de cada plato para mejorar la toma de decisiones estratégicas.</p>
+
+ <p> Proveedor:</p>
+ <p>En cuanto a los proveedores, las entrevistas revelaron que su principal interés radica en la simplificación y mejora de la comunicación con los restaurantes. Mencionaron la importancia de contar con un sistema que les permita gestionar pedidos de manera más ágil y estructurada, evitando errores y reduciendo el tiempo de espera entre la orden y la entrega. Asimismo, expresaron la necesidad de tener visibilidad sobre las previsiones de demanda y el historial de compras de los restaurantes, lo que les ayudaría a planificar mejor su producción y entrega. Los proveedores también señalaron que valoran los sistemas que permiten una integración directa con los inventarios de los restaurantes, de modo que puedan ajustar sus ofertas y volúmenes de productos según las necesidades reales del cliente, mejorando así la eficiencia en toda la cadena de suministro.</p>
+
 <h4 id="needfinding">2.3. Needfinding.</h4>
 <h4 id="user-personas">2.3.1. User Personas.</h4>
+
+#### Segmento: Administrador de restaurantes
+<img src = "/images/user-persona/user-persona-1.png" alt="User Persona 1"/>
+
+#### Segmento: Proveedor
+<img src = "/images/user-persona/user-persona-2.png" alt="User Persona 2"/>
+
 <h4 id="user-task-matrix">2.3.2. User Task Matrix.</h4>
+
+| Tarea                                  | Persona               | Frecuencia | Importancia |
+|----------------------------------------|-----------------------|------------|-------------|
+| Gestionar inventario y stock           | Laura, Administradora | Diaria     | Alta        |
+| Coordinar pedidos con proveedores      | Laura, Administradora | Semanal    | Alta        |
+| Gestionar comunicación con proveedores | Laura, Administradora | Diaria     | Media       |
+| Revisar reportes de ventas             | Laura, Administradora | Semanal    | Alta        |
+
 <h4 id="user-journey-mapping">2.3.3. User Journey Mapping.</h4>
+
+#### Segmento: Administrador de restaurantes
+<img src="/images/user-journey-mapping/user-journey-mapping-1.png" alt="user-journey-mapping-1">
+
+#### Segmento: Proveedor
+<img src="/images/user-journey-mapping/user-journey-mapping-2.png" alt="user-journey-mapping-2">
+
 <h4 id="empathy-mapping">2.3.4. Empathy Mapping.</h4>
+
+#### Segmento: Administrador de restaurantes
+<img src="/images/empathy-map/empathy-map-1.png" alt="empathy-mapping-1">
+
+#### Segmento: Proveedor
+<img src="/images/empathy-map/empathy-map-2.png" alt="empathy-mapping-2">
+
 <h4 id="as-is-scenario-mapping">2.3.5. As-is Scenario Mapping.</h4>
+
+#### Segmento: Administrador de restaurantes
+<img src="/images/as-is-scenary-map/as-is-scenary-map-1.png" alt="as-is-scenary-map-1"/>
+
+#### Segmento: Proveedor
+<img src="/images/as-is-scenary-map/as-is-scenary-map-2.png" alt="as-is-scenary-map-2"/>
+
 <h4 id="ubiquitous-language">2.4. Ubiquitous Language.</h4>
+
+Definición del lenguaje común para el equipo de NoNucleus:
+
+- Mesas: Áreas asignadas para los comensales en el restaurante, gestionadas por el módulo de mesas. 
+- Reservas: Solicitudes de los clientes para asegurar una mesa en una fecha y hora específica, gestionadas por el módulo de reservas.
+- Stock: Cantidad de insumos disponibles para preparar platos, gestionado por el módulo de stock.
+- Merma: Pérdida de insumos por vencimiento o accidentes, registrada en el módulo de merma.
+- Pedidos: Órdenes de insumos solicitadas a proveedores, gestionadas por el módulo de pedidos.
+
+Este lenguaje será usado consistentemente en la documentación, comunicación y desarrollo del software para asegurar claridad y evitar malentendidos.
+
 <h3 id="chapter-3">Capítulo III: Requirements Specification</h3>
 <h4 id="to-be-scenario-mapping">3.1. To-Be Scenario Mapping.</h4>
 
@@ -484,15 +773,57 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 <img src="/images/PT.jpeg"></img><br>
 
 <h3 id="chapter-4">Capítulo IV: Product Design</h3>
+<p>
+    En este capítulo se desarrollará las bases para contar con un repositorio central y organizado de uso común que incluye assets, fonts. Esto con el fin de mantener una presentación consistente y enfocada
+    </p>
+    <p>Dentro de las dimensiones que adoptaremos en le tono de comunicación y lenguaje aplicado tendremos que será serio, formal, respetuoso y sereno ya que se trata del manejo de inventario de una empresa del rubro de restaurantes lo cual requiere todo lo mencionado.
+</p>
 <h4 id="style-guidelines">4.1. Style Guidelines.</h4>
 <p>
   En este capítulo se desarrollará las bases para contar con un repositorio central y organizado de uso común que incluye assets, fonts. Esto con el fin de mantener una presentación consistente y enfocada.
 </p>
 <h4 id="general-style-guidelines">4.1.1. General Style Guidelines.</h4>
+
+
+Branding:
+
+- Este logo simboliza nuestro rubro a la administracion de inventarios para restaurantes. Al obtener nuestros servicios, las empresan podrán tener mejores margenes de ganancias al mejorar su administracion
+    <img src="/images/RE-GRILL.png"></img><br>
+
+Typography:
+- La tipografía de nuestro logo tendrá un estilo marcado el cual es Arial teniendo diversas ventajas, especialmente en términos de legibilidad, compatibilidad y simplicidad. Con esta tipografía reflejamos la innovación así como la creatividad que es lo que sobresale de nuestra aplicación.
+- Otro factor por el cual elegimos Arial se debe a su gran rendimiento dado que es una tipografía preinstalada, lo que hace que no sea necesario cargarla desde un servidor externo, reduciendo el tiempo de carga de la página web.
+
+Colors:
+- Nosotros elegimos la paleta de colores para que el usuario al visitar nuestro sitio web ellos se sientan cómodos y que sobre todo les brinde seguridad y confort. El azul oscuro (#004080) demuestra confianza, profesionalismo y estabilidad. El blanco (#ffffff)
+  <img src="/images/COLORES-WEB.png"></img><br> 
+
+    
+
 <h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
+
+Icons:
+- Al desarrollar una página web, los ícenos son fundamentales para crear una interfaz de usuario que sea clara e intuitiva. Estos pequeños elementos visuales son clave para facilitar la comprensión de distintas secciones de la página web. Los íconos ayudan a lo usuarios a identifica rápidamente la función de cada componente , y su diseño simple y claro garantiza que sean fácilmente interpretables, además, usar íconos de manera coherente en toda la página es esencial para reducir la confusión y mejorara la experiencial de usuario.
+- Los íconos que utilizaremos serán los breakpoints, de los cuales usaremos con mayor frecuencia serán los 768px y 1024px, debido a que son los más comunes del mercado actual.
+
+
 <h4 id="information-architecture">4.2. Information Architecture.</h4>
 <h4 id="organization-systems">4.2.1. Organization Systems.</h4>
+
+- Al entrar a nuestra página web, el usuario podrá visualizar diferentes secciones: inicio, Request Demo, about us, plans, contacto Us.
+
 <h4 id="labeling-systems">4.2.2. Labeling Systems.</h4>
+
+- En nuestra página web tendremos un sistema de etiquetado que son los siguientes: 
+* About Us 
+* Features 
+* Plans
+* benefits
+* Q&A
+* Contact Us
+* Idioma
+
+
 <h4 id="seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</h4>
 <h4 id="searching-systems">4.2.4. Searching Systems.</h4>
 <h4 id="navigation-systems">4.2.5. Navigation Systems.</h4>
