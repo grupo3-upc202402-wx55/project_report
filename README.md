@@ -680,7 +680,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Implementación del switching de idioma realizando una versión en español del landing page en el index-es.html.</td>
     </tr>
 </table>
-
+<img src="/images/commits-1.png" alt="Commits 1">
+<img src="/images/commits-2.png" alt="Commits 2">
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
 <h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
