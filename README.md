@@ -582,6 +582,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>report-1</td>
         <td>05/09/2024</td>
     </tr>
+    <tr><td>https://github.com/grupo3-upc202402-wx55/landing-page</td></tr>
     
 
 </table>
