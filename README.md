@@ -677,6 +677,14 @@ En general, el entrevistado está satisfecho con las herramientas que utiliza, a
 | Gestionar comunicación con proveedores | Laura, Administradora | Diaria     | Media       |
 | Revisar reportes de ventas             | Laura, Administradora | Semanal    | Alta        |
 
+| **Tarea**                             | **Persona**                                                                                             | **Frecuencia** | **Importancia** |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|-----------------|
+| 1. Revisar pedidos de insumos         | Martin, Proveedor                                                                                       | Diaria         | Alta            |
+| 2. Ofertar productos                  | Martín, Proveedor                                                                                       | Diaria         | Alta            |
+| 3. Confirmar recepción de pagos       | Martín, Proveedor                                                                                       | Semanal        | Media           |
+| 4. Actualizar catálogo de productos   | Martín, Proveedor                                                                                       | Mensual        | Alta            |
+| 5. Coordinar entregas                 | Martín, Proveedor                                                                                       | Diaria         | Alta            |
+
 <h4 id="user-journey-mapping">2.3.3. User Journey Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
