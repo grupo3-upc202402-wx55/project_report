@@ -802,6 +802,61 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>In Process</td>
     </tr>
 </table>
+<h4 id="development-evidence-for-sprint-review-x">5.2.2.3. Development Evidence for Sprint Review.</h4>
+<p>Durante el Sprint #2, se lograron avances significativos en el desarrollo de la parte frontend de la aplicación web de Re-Grill. Estos avances se alinean con el objetivo principal del sprint, que es diseñar e implementar una interfaz interactiva y amigable para los usuarios, que les permita acceder a las funcionalidades del producto de manera intuitiva y eficiente.</p>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>Gaboo04/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr>
+        <td>HOLGUINUPC/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr>
+        <td>LowMathzzz/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr>
+        <td>DavidBryanRodriguezSantos/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>    
+    <tr>
+        <td>U202011657/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr><td>https://github.com/grupo3-upc202402-wx55/frontend</td></tr>
+
+
+</table>
 
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
