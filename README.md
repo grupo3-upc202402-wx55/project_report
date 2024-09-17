@@ -731,6 +731,78 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
 </table>
 
+<h4 id="spring-backlog-x">5.2.2.2. Sprint Backlog 2.</h4>
+
+<p>El Sprint Backlog para el Sprint #2 tiene como objetivo principal el desarrollo de la parte frontend de la aplicación web de Re-Grill. Este sprint se centrará en la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
+<p><a href="https://trello.com/b/LSbTHu4A/open-source">Link a Trello</a></p>
+
+<table>
+    <tr>
+        <td>Sprint # </td>
+        <td>Sprint 2 </td>
+    </tr>
+    <tr>
+        <td>User Story  </td>
+        <td></td>        
+        <td>Work-Item / Task </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours) </td>
+        <td>Assigned To</td>
+        <td>Status (To-do/In Process / To Review / Done)</td>
+    </tr>
+<!--US01 -->  
+    <tr>
+        <td>USX</td>
+        <td>x</td>
+        <td>WI01</td>
+        <td>x</td>
+        <td>X</td>
+        <td>4</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr>
+<!--US02 --> 
+    <tr>
+        <td>USX</td>
+        <td>X</td>
+        <td>WI02</td>
+        <td>X</td>
+        <td>X</td>
+        <td>12</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr>
+<!--US03 --> 
+    <tr>
+        <td>USX</td>
+        <td>X</td>
+        <td>WI03</td>
+        <td>X</td>
+        <td>X</td>
+        <td>6</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr> 
+<!--US04 -->
+    <tr>
+        <td>USX</td>
+        <td>X</td>
+        <td>WI04</td>
+        <td>X</td>
+        <td>X</td>
+        <td>8</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr>
+</table>
+
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
 <h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
