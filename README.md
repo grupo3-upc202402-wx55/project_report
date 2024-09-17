@@ -857,9 +857,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 
 </table>
-<h4 id="testing-suite-evidence-for-sprint-review">5.2.1.4. Testing Suite Evidence for Sprint Review.</h4>
-<p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas realizadas para la landing page de Re-Grill, desarrollada en el Sprint 1. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la landing page. Las pruebas de aceptación se diseñaron para garantizar que la landing page cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
-
+<h4 id="testing-suite-evidence-for-sprint-review">5.2.2.4. Testing Suite Evidence for Sprint Review.</h4>
+<p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas para la parte frontend de la aplicación web de Re-Grill, desarrollada en el Sprint 2. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la interfaz frontend. Las pruebas de aceptación se diseñaron para garantizar que la interfaz cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
 <table>
     <tr>
         <td>Repository</td>
@@ -870,12 +869,12 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Commited on (Date) </td>
     </tr>
     <tr>
-        <td>Gaboo04/landing-page</td>
-        <td>feat/testing</td>
-        <td>ee1b2de</td>
-        <td>feat:add acceptance tests for landing page.</td>
-        <td>acceptance tests based on user stories designed for landing page development</td>
-        <td>31/08/2021</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
     </tr>
 </table>
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
