@@ -679,6 +679,58 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 </table>
 <img src="/images/commits-1.png" alt="Commits 1">
 <img src="/images/commits-2.png" alt="Commits 2">
+
+<!-- 5.2.2. Sprint 2 -->
+
+<h4 id="sprint-2">5.2.2. Sprint 2</h4>
+
+<h4 id="sprint-planning-x">5.2.2.1. Sprint Planning 2.</h4>
+<p>En el Sprint #2, que comienza el 17/09/2024, nos enfocaremos en el desarrollo de la parte frontend de la aplicación web de Re-Grill. El objetivo es crear una interfaz interactiva y amigable para los usuarios, que les permita acceder a las funcionalidades del producto de manera intuitiva y eficiente. Este sprint estará dedicado al diseño y desarrollo de las páginas y componentes necesarios para cumplir con nuestros objetivos estratégicos.</p>
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>Sprint 2</td>
+    </tr>
+    <tr>
+        <td>Sprint Planning Background  </td>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>2024-09-17</td>
+    </tr>
+    <tr>
+        <td>Time</td>
+        <td>16:00 PM</td>
+    </tr>
+    <tr>
+        <td>Location</td>
+        <td>Virtual via discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By </td>
+        <td>Gabriel Anthony Braithuaite Toledo, Hardie Alfonso Holguín Gamarra</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning <br>meeting) </td>
+        <td>Gabriel Anthony Braithuaite Toledo, Adrian Alonso Calle Huayanca, Hardie Alfonso Holguín Gamarra, Mateo Italo Loechle Arias, David Bryan Rodriguez Santos</td>
+    </tr>
+    <tr>
+        <td>Sprint Goal &amp; User Stories </td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Goal </td>
+        <td>Desarrollar una interfaz frontend interactiva y amigable para Re-Grill, diseñada para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. El cumplimiento se medirá en función de la finalización del diseño, la implementación y la puesta en producción de las páginas y componentes frontend.</td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Velocity </td>
+        <td>El equipo ha establecido una capacidad de 50 Story Points para el Sprint 2, enfocándose en completar todas las tareas necesarias para el desarrollo de la interfaz frontend de Re-Grill.  </td>
+    </tr>
+    <tr>
+        <td>Sum of Story Points </td>
+        <td>50</td>
+    </tr>
+</table>
+
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
 <h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
