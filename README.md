@@ -870,15 +870,15 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 VISTA DE PLATOS
 En el lado izquierdo de la pantalla observamos la distribución del menú como la gestión de inventarios, costo de producción, control de merma, facturación, pedidos y mesas, reportes y estadísticas, perfil, así como el cerrar sesión. En lo que queda de la pantalla podemos observar una imagen del platillo así como como el nombre del mismo.
 
+<img src="/images/información_de_platos.png"></img><br>
+
+
+<img src="/images/información_de_platos.png"></img><br> 
+
 <img src="/images/vista_de_platos.png"></img><br> 
 
 
 
-Al elegir uno de los platillos, se abre una pestaña detallando el platillo, tanto en costo como en la receta para su preparación.
-
-Al elegir uno de los platillos, se abre una pestaña detallando el platillo, tanto en costo como en la receta para su preparación.
-
-<img src="/images/información_de_platos.png"></img><br> 
 
 
 
