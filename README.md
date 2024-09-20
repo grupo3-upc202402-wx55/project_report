@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/5439c660-7514-4f89-bb89-e82ede11cefb)
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
 <br>
@@ -867,15 +867,46 @@ Los principales sistemas de navegación en la Landing Page son los menús ubicad
 - *Navegación principal o global:* Este es el sistema de navegación más común, visible en todas las secciones de la página y generalmente representado por la barra de navegación y el pie de página.
 <h4 id="landing-page-ui">4.3. Landing Page UI Design.</h4>
 
-VISTA DE PLATOS
+<br>VISTA DE PLATOS<br>
 En el lado izquierdo de la pantalla observamos la distribución del menú como la gestión de inventarios, costo de producción, control de merma, facturación, pedidos y mesas, reportes y estadísticas, perfil, así como el cerrar sesión. En lo que queda de la pantalla podemos observar una imagen del platillo así como como el nombre del mismo.
 
-<img src="/images/información_de_platos.png"></img><br>
+<img src="/images/informacion_platos.png"></img><br>
 
 
-<img src="/images/información_de_platos.png"></img><br> 
+<br>VISTA DE RECETA<br>
+Al elegir uno de los platillos, se abre una pestaña detallando el platillo, tanto en costo como en la receta para su preparación.
 
-<img src="/images/vista_de_platos.png"></img><br> 
+<img src="/images/vista_de_platos.png"></img><br>
+
+
+
+<br>AÑADIR RECETA<br>
+De la misma forma podemos añadir información sobre la receta, así como añadir una nueva receta.
+
+
+<img src="/images/informacion_receta.png"></img><br>
+
+
+<br> ELIMINAR LA RECETA <br>
+Así como podemos añadir una receta, también podemos eliminar una receta que ya no esté disponible en el establecimiento.
+
+<img src="/images/eliminar_receta.png"></img><br>
+
+
+<br>CENTRO DE NOTIFICACION <br>
+
+Dentro de la gestión de inventario una de las notificaciones es cuando los ingredientes están en un nivel bajo y necesitan ser repuestos. Generando una notificación como alerta.
+
+<img src="/images/altera_ingredientes.png"></img><br>
+
+
+<br> FACTURACION <br>
+
+Dentro del apartado de facturación, tenemos la opción de ver el historial de la facturación, así mismo poder generar una nueva facturación.
+
+<img src="/images/facturacion.png"></img><br>
+
+
 
 
 
