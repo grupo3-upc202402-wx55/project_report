@@ -236,12 +236,12 @@ configuración de despliegue del software.</p>
 
 <p><strong>Discord:</strong><br>
 Discord ha sido la herramienta principal de comunicación y coordinación del equipo. Se ha utilizado para realizar reuniones virtuales, mantener discusiones continuas sobre el progreso del proyecto, y para compartir recursos y actualizaciones de forma eficiente.<br>
-<strong>Ruta de referencia:</strong> <a href="https://discord.com/">Discord</a>
+<strong>Ruta de referencia:</strong> <a href="https://discord.com/">discord.com/</a>
 </p>
 
 <p><strong>Trello:</strong><br>
 Trello se ha para la gestión del proyecto, permitiendo la visualización y actualización del estado de tareas y sprints en los que trabaja el equipo. Aunque su uso ha sido ocasional, ha proporcionado una estructura básica para el seguimiento de actividades.<br>
-<strong>Ruta de referencia:</strong> <a href="https://trello.com/">Trello</a>
+<strong>Ruta de referencia:</strong> <a href="https://trello.com/">trello.com/</a>
 </p>
 
 <h4>Product UX/UI Design</h4>
@@ -255,8 +255,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <p><strong>Rutas de referencia:</strong></p>
 <ul>
-    <li><a href="https://www.figma.com/login" target="_blank">Figma</a></li>
-    <li><a href="https://www.lucidchart.com/" target="_blank">LucidChart</a></li>
+    <li><a href="https://www.figma.com/login" target="_blank">www.figma.com/login</a></li>
+    <li><a href="https://www.lucidchart.com/" target="_blank">www.lucidchart.com/</a></li>
 </ul>
 
 <h4>Software Development</h4>
@@ -264,16 +264,16 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <p>Para el desarrollo del software, se han seleccionado las siguientes herramientas y tecnologías, con el fin de proporcionar un entorno robusto y eficiente para el desarrollo del proyecto:</p>
 
 <ul>
-    <li><strong>IntelliJ IDEA Ultimate:</strong> Un entorno de desarrollo integrado (IDE) potente y completo, que ofrece herramientas avanzadas para el desarrollo de aplicaciones. Será utilizado para escribir, depurar y gestionar el código del proyecto, aprovechando sus características de soporte para múltiples lenguajes y sistemas de control de versiones.</li>
+    <li><strong>WebStorm</strong> Un entorno de desarrollo integrado (IDE) potente y completo, que ofrece herramientas avanzadas para el desarrollo de aplicaciones. Será utilizado para escribir, depurar y gestionar el código del proyecto, aprovechando sus características de soporte para múltiples lenguajes y sistemas de control de versiones.</li>
     <li><strong>HTML5:</strong> El lenguaje estándar de marcado para la creación de páginas web. Será empleado en el desarrollo del frontend de la aplicación, estructurando el contenido de manera semántica y accesible.</li>
     <li><strong>CSS:</strong> Hojas de estilo en cascada utilizadas para diseñar y estilizar la presentación visual de la aplicación web. Permitirá definir el diseño responsivo y adaptativo del frontend.</li>
 </ul>
 
 <p><strong>Rutas de referencia:</strong></p>
 <ul>
-    <li><a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA Ultimate</a></li>
-    <li><a href="https://www.w3schools.com/html/html5_syntax.asp" target="_blank">HTML5</a></li>
-    <li><a href="https://google.github.io/styleguide/htmlcssguide.html" target="_blank">CSS</a></li>
+    <li><a href="https://www.jetbrains.com/webstorm/" target="_blank">www.jetbrains.com/webstorm/</a></li>
+    <li><a href="https://lenguajehtml.com/html/" target="_blank">lenguajehtml.com/html/</a></li>
+    <li><a href="https://google.github.io/styleguide/htmlcssguide.html" target="_blank">google.github.io/styleguide/htmlcssguide.html</a></li>
 </ul>
 
 <h4>Software Deployment</h4>
@@ -281,14 +281,13 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <p>En esta sección, se detallan las herramientas y plataformas utilizadas para el despliegue de las aplicaciones desarrolladas, garantizando que estén accesibles y operativas en el entorno de producción.</p>
 
 <ul>
-    <li><strong>Git:</strong> Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del software desarrollado. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo acceden a través de la línea de comandos en sus sistemas locales.</li>
-    <li><strong>GitHub:</strong> Una plataforma en la nube que hospeda los repositorios de código del proyecto. Permitirá la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo.</li>
+    <li><strong>GitHub Pages:</strong> Un servicio de alojamiento web estático que se integra con los repositorios de GitHub. Será utilizado para desplegar la landing page del proyecto, proporcionando un enlace accesible para los usuarios finales.
+    
 </ul>
 
 <p><strong>Rutas de referencia:</strong></p>
 <ul>
-    <li><a href="https://git-scm.com/" target="_blank">Git</a></li>
-    <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+    <li><a href="https://github.com/" target="_blank">github.com/</a></li>
 </ul>
 
 <h4>Software Documentation</h4>
@@ -310,8 +309,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <h4>Repositorios de GitHub</h4>
 <ul>
-    <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55/landing-page">Repositorio Landing Page</a></li>
-    <li><strong>Project Report</strong>: <a href="https://github.com/grupo3-upc202402-wx55/project_report">Repositorio del project report</a></li>
+    <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55/landing-page">github.com/grupo3-upc202402-wx55/landing-page</a></li>
+    <li><strong>Project Report</strong>: <a href="https://github.com/grupo3-upc202402-wx55/project_report">github.com/grupo3-upc202402-wx55/project_report</a></li>
     
 </ul>
 <p>Cada repositorio alojará el código fuente correspondiente a su respectivo producto, además de incluir archivos de pruebas unitarias e integración en el caso de los Web Services.</p>
