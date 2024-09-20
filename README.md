@@ -878,7 +878,7 @@ Al elegir uno de los platillos, se abre una pestaña detallando el platillo, tan
 
 Al elegir uno de los platillos, se abre una pestaña detallando el platillo, tanto en costo como en la receta para su preparación.
 
-<img src="/images/informacion_de_platos.png"></img><br> 
+<img src="/images/información_de_platos.png"></img><br> 
 
 
 
