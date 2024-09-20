@@ -478,7 +478,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
     <tr>
         <td>Sprint 1 Goal </td>
-        <td>Desarrollar una landing page atractiva para Re-Grill, diseñada para captar la atención de los visitantes y comunicar de manera efectiva los beneficios del producto. El cumplimiento se medirá en función de la finalización del diseño, la implementación y la puesta en producción de la landing page.</td>
+        <td>Our focus is on developing an attractive landing page for Re-Grill. We believe it delivers increased engagement and awareness of the product to potential customers. This will be confirmed when the landing page is live and visitor analytics show an increase in page interactions.</td>
     </tr>
     <tr>
         <td>Sprint 1 Velocity </td>
@@ -779,8 +779,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Sprint Goal &amp; User Stories </td>
     </tr>
     <tr>
-        <td>Sprint 1 Goal </td>
-        <td>Desarrollar una interfaz frontend interactiva y amigable para Re-Grill, diseñada para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. El cumplimiento se medirá en función de la finalización del diseño, la implementación y la puesta en producción de las páginas y componentes frontend.</td>
+        <td>Sprint 2 Goal </td>
+        <td>Our focus is on developing an interactive and user-friendly frontend interface for Re-Grill. We believe it delivers a seamless experience and improved accessibility to product features for our users. This will be confirmed when the frontend components are live and user feedback indicates increased satisfaction and ease of use.</td>
     </tr>
     <tr>
         <td>Sprint 1 Velocity </td>
@@ -795,7 +795,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <h4 id="spring-backlog-x">5.2.2.2. Sprint Backlog 2.</h4>
 
 <p>El Sprint Backlog para el Sprint #2 tiene como objetivo principal el desarrollo de la parte frontend de la aplicación web de Re-Grill. Este sprint se centrará en la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
-<p><a href="https://trello.com/b/LSbTHu4A/open-source">Link a Trello</a></p>
+<p><a href="https://trello.com/b/LSbTHu4A/open-source">trello.com/b/LSbTHu4A/open-source</a></p>
 
 <table>
     <tr>
