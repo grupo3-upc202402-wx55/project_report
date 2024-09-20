@@ -171,7 +171,9 @@
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
 <h4 id="competitors">2.1. Competidores.</h4>
-Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, TouchBistro y Inforest.
+
+En esta sección se identifican los principales competidores que ofrecen productos digitales similares o parcialmente equivalentes. Entre ellos se destacan soluciones como Toast, TouchBistro e Inforest, cada uno con enfoques específicos en la gestión y la automatización en restaurantes.
+
 <h4 id="competitive-analysis">2.1.1. Análisis competitivo.</h4>
 
 # Competitive Analysis Landscape
@@ -322,17 +324,14 @@ Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, 
 * Edad: 25 años
 * Distrito donde vive: Lima
 
-* Link: [Click para ver la entrevista](https://www.youtube.com/watch?v=GwihqjCG-hs)
+* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202212236_upc_edu_pe/Eah7IXHNlLROtk69nE4K6cUBbecC-4xR--jhWgPOahtegg?e=uohWdA&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 * Momento en el que inicia: 0:00
 * Duracion: 2:25
 * Entrevistador: David Bryan Rodriguez Santos
 * Resumen:
 
-Entrevistada destaca como factores clave para el éxito del restaurante la buena calidad de la comida y el control del inventario. Considera esencial en un software de gestión la integración de los módulos, automatización de procesos y acceso móvil.
-El flujo típico en su restaurante incluye tomar pedidos, transmitirlos a la cocina, servir la comida y revisar las ventas. Los mayores desafíos son el control del inventario y la coordinación del personal.
-Le gustaría optimizar la gestión del inventario y automatizar el seguimiento del personal. Actualmente, usan un sistema POS, software de reservas y contabilidad, pero siente que la falta de integración entre ellos es un problema.
-
+Darla es una mujer de 25 años que vive en Lima. Destaca como factores clave para el éxito de un restaurante la buena calidad de la comida y el control del inventario. Considera esencial en un software de gestión la integración de los módulos, la automatización de procesos y el acceso móvil. El flujo típico en su restaurante incluye tomar pedidos, transmitirlos a la cocina, servir la comida y revisar las ventas. Los mayores desafíos que enfrenta son el control del inventario y la coordinación del personal. Le gustaría optimizar la gestión del inventario y automatizar el seguimiento del personal. Actualmente, usan un sistema POS, software de reservas y contabilidad, pero siente que la falta de integración entre ellos es un problema. Es soltera con ingresos medios y trabaja como gerente de restaurante. Utiliza principalmente smartphone y laptop, y se comunica a través de WhatsApp, correo electrónico y redes sociales profesionales. Es proactiva, orientada a la eficiencia, con habilidades en gestión de personal y operaciones. Está interesada en tecnologías innovadoras para la industria de la restauración. Sus objetivos son mejorar la eficiencia operativa del restaurante e implementar sistemas integrados de gestión. Sus frustraciones incluyen sistemas desconectados que dificultan el control total del negocio y la pérdida de tiempo en procesos manuales. Tiene cinco años de experiencia en la industria y busca constantemente maneras de innovar y mejorar la experiencia tanto para el personal como para los clientes.
 
 - Entrevista 2: Vanfic Gustavok
 
@@ -342,7 +341,7 @@ Le gustaría optimizar la gestión del inventario y automatizar el seguimiento d
 * Edad: 49 años
 * Distrito donde vive: Lima
 
-* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 * Momento en el que inicia: 4:24
@@ -351,8 +350,9 @@ Le gustaría optimizar la gestión del inventario y automatizar el seguimiento d
 
 * Resumen:
 
-El entrevistado considera que un software de gestión de restaurantes debe incluir la gestión de mesas y reservas, el control de inventario, el seguimiento de ventas, la gestión de pedidos en cocina, la integración con proveedores, y capacidades de análisis y reportes financieros. Estas funciones permiten automatizar procesos y optimizar las operaciones diarias.
-
+Vanfic Gustavok es un hombre de 49 años que vive en Lima. Durante una entrevista con Mateo Loechle que comenzó en el minuto 4:24 y duró 2 minutos y 20 segundos, compartió su visión sobre las funcionalidades esenciales de un software de gestión de restaurantes. Vanfic cree que dicho software debe incluir gestión de mesas y reservas, control de inventario, seguimiento de ventas, gestión de pedidos en cocina, integración con proveedores y capacidades de análisis y reportes financieros. Considera que estas funciones son cruciales para automatizar procesos y optimizar las operaciones diarias.
+Como propietario de un restaurante desde hace más de diez años, ha experimentado las dificultades de manejar múltiples sistemas no integrados. Utiliza dispositivos como smartphones y laptops para sus tareas diarias y se comunica principalmente a través de correo electrónico y aplicaciones de mensajería instantánea. Valora la eficiencia y está en constante búsqueda de tecnologías que le permitan mejorar la gestión de su negocio.
+Vanfic se siente frustrado por la falta de integración entre los diferentes sistemas que utiliza actualmente, como el POS, el software de reservas y las herramientas de contabilidad. Su objetivo es encontrar una solución unificada que le facilite el control total de su negocio, reduciendo la carga de trabajo manual y minimizando errores. Es una persona detallista y orientada a la mejora continua, siempre buscando innovar y ofrecer una mejor experiencia tanto para su equipo como para sus clientes.
 
 - Entrevista 1: Anghelo Basauri
 
@@ -362,7 +362,7 @@ El entrevistado considera que un software de gestión de restaurantes debe inclu
 * Edad: 27 años
 * Distrito donde vive: Rimac
 
-* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 * Momento en el que inicia: 4:24
 * Duracion: 3:12
@@ -370,9 +370,8 @@ El entrevistado considera que un software de gestión de restaurantes debe inclu
 
 * Resumen:
 
-Entre los mayores desafíos, el entrevistado menciona el control preciso del inventario, garantizar la calidad constante de los platos, gestionar eficazmente al personal y proporcionar una excelente experiencia al cliente. Además, manejar la logística de los proveedores y las fluctuaciones en la demanda también son complicados.
- El entrevistado desea optimizar la gestión de inventario y pedidos, asegurando que siempre haya suficientes insumos sin sobrecargar el stock. También le gustaría automatizar la comunicación con los proveedores para reducir tiempos de respuesta y minimizar errores.
-
+Anghelo Basauri es un hombre de 27 años que vive en el distrito de Rímac. La entrevista, realizada por Hardie Holguín, comenzó a las 4:24 y tuvo una duración de 3 minutos y 12 segundos. Entre los mayores desafíos que menciona se encuentran el control preciso del inventario, garantizar la calidad constante de los platos, gestionar eficazmente al personal y proporcionar una excelente experiencia al cliente. También encuentra complicado manejar la logística de los proveedores y las fluctuaciones en la demanda.
+Anghelo desea optimizar la gestión de inventario y pedidos para asegurar que siempre haya suficientes insumos sin sobrecargar el stock. Le gustaría automatizar la comunicación con los proveedores para reducir tiempos de respuesta y minimizar errores. Es gerente de un restaurante y utiliza dispositivos como smartphones y laptops para sus tareas diarias. Se comunica principalmente a través de correo electrónico y aplicaciones de mensajería instantánea. Valora la tecnología como una herramienta para mejorar la eficiencia operativa y está interesado en soluciones que le ayuden a superar los desafíos mencionados.
 
 - Entrevista 1: Keyner Hancco
 
@@ -381,15 +380,15 @@ Entre los mayores desafíos, el entrevistado menciona el control preciso del inv
 * Edad: 25 años
 * Distrito donde vive: Santa Anita
 
-* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 * Momento en el que inicia: 7:10
 * Duracion: 5:32
 * Resumen: Hardie Holguín
 
 * Analisis:
-Para el entrevistado, la rapidez y precisión en el servicio son aspectos críticos, junto con la facilidad para realizar reservas y pedidos. También considera fundamental mejorar la comunicación entre el personal y los clientes para garantizar que sus necesidades sean atendidas eficientemente.
-En general, el entrevistado está satisfecho con las herramientas que utiliza, aunque cree que siempre hay margen de mejora. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
+
+Keyner Hancco es un hombre de 25 años que vive en Santa Anita. Fue entrevistado por Hardie Holguín, comenzando a las 7:10 y con una duración de 5 minutos y 32 segundos. Para él, la rapidez y precisión en el servicio son aspectos críticos, junto con la facilidad para realizar reservas y pedidos. Considera fundamental mejorar la comunicación entre el personal y los clientes para garantizar que sus necesidades sean atendidas eficientemente. En general, está satisfecho con las herramientas que utiliza, aunque cree que siempre hay margen de mejora. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante. Es soltero, supervisor en un restaurante de comida rápida, con ingresos medios. Utiliza smartphone y tablet, y se comunica a través de WhatsApp, correo electrónico y aplicaciones de gestión de restaurantes. Es proactivo, orientado al cliente, con habilidades en gestión de equipos y resolución de problemas. Está interesado en tecnología móvil y aplicaciones que mejoren la eficiencia operativa. Sus objetivos son mejorar la experiencia del cliente mediante servicios más rápidos y precisos e implementar sistemas que faciliten las reservas y pedidos en línea. Sus frustraciones incluyen herramientas poco intuitivas que dificultan el flujo de trabajo e integración deficiente con proveedores que causa demoras. Tiene cinco años de experiencia en la industria de la restauración y siempre busca formas de implementar soluciones digitales que mejoren tanto la eficiencia operativa como la satisfacción del cliente.
 
 - Entrevista 1: Elismar Sarmiento
 
@@ -399,8 +398,7 @@ En general, el entrevistado está satisfecho con las herramientas que utiliza, a
 * Edad: 25 años
 * Distrito donde vive: Callao
 
-* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
+* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 * Momento en el que inicia: 12:57
@@ -408,57 +406,104 @@ En general, el entrevistado está satisfecho con las herramientas que utiliza, a
 * Entrevistador: Gabriel Braihuate
 * Resumen:
 
- El entrevistado utiliza un software de gestión que integra la toma de pedidos, la gestión de inventario, las reservas y el procesamiento de pagos. También emplea herramientas de análisis de datos para entender mejor las tendencias de consumo y ajustar la oferta en consecuencia. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
-
+Elismar Sarmiento es una mujer de 25 años que vive en Pueblo Libre, Lima, Perú. Está casada y tiene ingresos medios. Utiliza Google Chrome como buscador principal y LinkedIn es su canal principal de interacción digital. Trabaja en el área de proveedores, donde sus funciones incluyen el contacto directo con clientes, organizar pedidos y entregas, y gestionar la información relacionada. Cree que la calidad de los alimentos utilizados en los restaurantes es clave para su éxito y que la tecnología es importante para la gestión y comunicación con los clientes. Ofrece productos de alta calidad como verduras, frutas, lácteos y especias, principalmente a restaurantes, casinos y hoteles. Utiliza WhatsApp y Outlook para comunicarse y Excel para gestionar los pedidos, pero no está completamente satisfecha con estas herramientas porque le resulta tedioso transferir datos del correo a Excel y a veces los pedidos se pierden en WhatsApp o correo debido al gran volumen de mensajes. Su principal dificultad es la comunicación con sus clientes.
 
 <h4 id="interviews-analysis">2.2.3. Análisis de entrevistas.</h4>
 
- <p>Administrador de Restaurante:</p>
-<p>Durante las entrevistas con administradores de restaurante, se identificaron varios puntos clave que destacan sus principales necesidades y desafíos. En primer lugar, señalaron la importancia de contar con un sistema eficiente para gestionar las reservas y la asignación de mesas, ya que una mala organización en este aspecto puede afectar negativamente la experiencia del cliente. Además, enfatizaron la necesidad de una herramienta integral que permita un control exhaustivo del inventario y de los proveedores, lo cual impacta directamente en la reducción de costos y en la optimización del proceso de abastecimiento. Otro aspecto recurrente fue la importancia de generar reportes y estadísticas en tiempo real, especialmente en relación con las ventas, el desperdicio de alimentos, y el uso de ingredientes. Los administradores también valoran la capacidad de tener un cierre de caja detallado y preciso, así como una visión clara de la rentabilidad de cada plato para mejorar la toma de decisiones estratégicas.</p>
+#### Administrador de Restaurante:
 
- <p> Proveedor:</p>
- <p>En cuanto a los proveedores, las entrevistas revelaron que su principal interés radica en la simplificación y mejora de la comunicación con los restaurantes. Mencionaron la importancia de contar con un sistema que les permita gestionar pedidos de manera más ágil y estructurada, evitando errores y reduciendo el tiempo de espera entre la orden y la entrega. Asimismo, expresaron la necesidad de tener visibilidad sobre las previsiones de demanda y el historial de compras de los restaurantes, lo que les ayudaría a planificar mejor su producción y entrega. Los proveedores también señalaron que valoran los sistemas que permiten una integración directa con los inventarios de los restaurantes, de modo que puedan ajustar sus ofertas y volúmenes de productos según las necesidades reales del cliente, mejorando así la eficiencia en toda la cadena de suministro.</p>
+Durante las entrevistas con los administradores de restaurante, se identificaron varios puntos clave que destacan sus principales necesidades y desafíos. En primer lugar, enfatizaron la importancia de contar con un sistema eficiente para gestionar las reservas y la asignación de mesas, ya que una mala organización en este aspecto puede afectar negativamente la experiencia del cliente. Asimismo, señalaron la necesidad de una herramienta integral que permita un control exhaustivo del inventario y de los proveedores, lo cual impacta directamente en la reducción de costos y en la optimización del proceso de abastecimiento.
+Un tema recurrente fue la importancia de generar reportes y estadísticas en tiempo real, especialmente en relación con las ventas, el desperdicio de alimentos y el uso de ingredientes. Los administradores valoran la capacidad de tener un cierre de caja detallado y preciso, así como una visión clara de la rentabilidad de cada plato para mejorar la toma de decisiones estratégicas. También destacaron desafíos como garantizar la calidad constante de los platos, gestionar eficazmente al personal y mejorar la comunicación entre el equipo y los clientes para atender sus necesidades de manera eficiente.
+Además, manifestaron que la falta de integración entre los sistemas actuales (como POS, software de reservas y contabilidad) es un problema común. Desean herramientas más intuitivas que permitan una mejor integración con los proveedores y la personalización de reportes. La automatización de procesos, como el seguimiento del personal y la gestión de pedidos en cocina, fue mencionada como una mejora importante para optimizar las operaciones diarias.
+
+#### Proveedor:
+
+En cuanto a los proveedores, las entrevistas revelaron que su principal interés radica en la simplificación y mejora de la comunicación con los restaurantes. Mencionaron la importancia de contar con un sistema que les permita gestionar pedidos de manera más ágil y estructurada, evitando errores y reduciendo el tiempo de espera entre la orden y la entrega. La comunicación a través de herramientas como WhatsApp y correo electrónico a veces resulta ineficiente, llevando a la pérdida de pedidos y a procesos tediosos como la transferencia manual de datos.
+Los proveedores expresaron la necesidad de tener visibilidad sobre las previsiones de demanda y el historial de compras de los restaurantes, lo que les ayudaría a planificar mejor su producción y entrega. También valoran los sistemas que permiten una integración directa con los inventarios de los restaurantes, de modo que puedan ajustar sus ofertas y volúmenes de productos según las necesidades reales del cliente, mejorando así la eficiencia en toda la cadena de suministro. Consideran que la tecnología juega un rol crucial en modernizar estas interacciones y en facilitar una gestión más eficiente y efectiva de los pedidos y comunicaciones.
 
 <h4 id="needfinding">2.3. Needfinding.</h4>
 <h4 id="user-personas">2.3.1. User Personas.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Martín es un proveedor de insumos gastronómicos de 42 años. Su principal objetivo es establecer relaciones comerciales duraderas con restaurantes, automatizar pedidos y ofrecer un servicio confiable. Tiene buena organización, pero nivel medio en tecnología. Está frustrado por la falta de sistemas centralizados y la competencia que ofrece precios bajos. Prefiere canales como LinkedIn y las interacciones cara a cara.
+
 <img src = "/images/user-persona/user-persona-1.png" alt="User Persona 1"/>
 
 #### Segmento: Proveedor
+
+Laura es administradora de un restaurante de 45 años. Busca optimizar la gestión, reducir desperdicios y mejorar la satisfacción del cliente. Tiene experiencia en organización y se maneja bien con la tecnología. Sus principales frustraciones son la falta de integración de sistemas y el desperdicio de insumos. Sus canales favoritos son Facebook, LinkedIn y las interacciones cara a cara.
+
 <img src = "/images/user-persona/user-persona-2.png" alt="User Persona 2"/>
 
 <h4 id="user-task-matrix">2.3.2. User Task Matrix.</h4>
 
-| Tarea                                  | Persona               | Frecuencia | Importancia |
-|----------------------------------------|-----------------------|------------|-------------|
-| Gestionar inventario y stock           | Laura, Administradora | Diaria     | Alta        |
-| Coordinar pedidos con proveedores      | Laura, Administradora | Semanal    | Alta        |
-| Gestionar comunicación con proveedores | Laura, Administradora | Diaria     | Media       |
-| Revisar reportes de ventas             | Laura, Administradora | Semanal    | Alta        |
+
+| **Tareas**                                        | **Frecuencia** | **Usuario Principal** | **Objetivo del Usuario**                                                                 | **Frustraciones del Usuario**                                                                 | **Oportunidades de la Plataforma**                                                                                           |
+|---------------------------------------------------|----------------|-----------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Gestionar pedidos de insumos**                  | Diaria          | Ambos                 | Laura solicita insumos y Martín los procesa y gestiona                                  | Laura: Dificultad para controlar el inventario <br> Martín: Errores manuales en los pedidos    | Automatización en tiempo real de los pedidos y gestión del inventario para reducir errores y mejorar tiempos de entrega.      |
+| **Coordinar entregas y logística**                | Diaria          | Ambos                 | Martín organiza el envío y Laura recibe los insumos puntualmente                        | Laura: Entregas retrasadas <br> Martín: Mala coordinación logística                           | Sistema de seguimiento en tiempo real que notifique a ambos usuarios del estado de las entregas.                              |
+| **Monitorear niveles de stock**                   | Semanal         | Laura                 | Mantener el stock en niveles óptimos para evitar escasez o sobreabastecimiento           | Laura: Desperdicio de insumos o escasez de productos                                          | Plataforma que automatice la actualización de stock, basada en los pedidos y las ventas del restaurante.                      |
+| **Actualizar catálogo de productos**              | Semanal         | Martín                | Asegurar que sus clientes vean los productos disponibles y ofertas                      | Martín: Falta de visibilidad de su catálogo de productos                                      | Sección centralizada donde Martín pueda actualizar su catálogo y Laura acceda a él en tiempo real, incluyendo ofertas.        |
+| **Negociar condiciones de compra y precios**      | Mensual         | Ambos                 | Laura busca precios competitivos y Martín quiere establecer relaciones comerciales sólidas | Martín: Competencia con precios bajos <br> Laura: Falta de opciones competitivas            | Funcionalidad para negociar directamente desde la plataforma, agilizando acuerdos y condiciones comerciales.                   |
+| **Generar y enviar facturas**                     | Semanal         | Ambos                 | Martín necesita facturar y Laura debe controlar los gastos del restaurante               | Martín: Falta de automatización en la facturación <br> Laura: Problemas para controlar costos | Facturación automática vinculada a los pedidos, con reportes que faciliten la administración y el control financiero.         |
+| **Revisar informes de pedidos y consumo**         | Mensual         | Ambos                 | Evaluar el rendimiento de los productos, las ventas y los pedidos                        | Laura: Falta de información clara sobre el uso de insumos <br> Martín: Poca visibilidad de ventas | Informes detallados que incluyan estadísticas de pedidos, ventas y stock, para tomar mejores decisiones estratégicas.        |
+| **Ofrecer descuentos y promociones**              | Ocasional       | Martín                | Atraer nuevos clientes y fidelizar a los actuales                                        | Martín: Poca visibilidad de sus ofertas                                                       | Plataforma que permita la creación y promoción de descuentos y ofertas, visibles para clientes como Laura.                    |
+| **Gestionar devoluciones y reclamos**             | Ocasional       | Ambos                 | Resolver incidencias relacionadas con la calidad o entrega de los insumos                | Laura: Mala calidad o entregas tardías <br> Martín: Reclamos que afectan la relación comercial | Integrar una funcionalidad para gestionar devoluciones y reclamos, facilitando la comunicación y resolución rápida.            |
+| **Capacitar al equipo en nuevas herramientas**    | Ocasional       | Laura                 | Asegurar que su equipo use eficientemente la plataforma para optimizar operaciones       | Laura: Dificultad de su equipo para adaptarse a nuevas tecnologías                            | Tutoriales integrados en la plataforma y soporte técnico para facilitar el aprendizaje del equipo de Laura.                   |
+| **Solicitar informes de disponibilidad de productos** | Ocasional    | Laura                 | Verificar la disponibilidad de productos antes de hacer pedidos                         | Laura: Falta de información actualizada sobre la disponibilidad                               | Sistema en tiempo real que muestre la disponibilidad de insumos, facilitando la planificación de pedidos.                    |
+
 
 <h4 id="user-journey-mapping">2.3.3. User Journey Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Los usuarios sienten ansiedad por la curva de aprendizaje del equipo, lo que destaca la necesidad de mejorar la accesibilidad del producto y ofrecer tutoriales más fáciles de seguir.
+A pesar de la satisfacción con la reducción de desperdicios, los usuarios expresan frustraciones con la interfaz, lo que sugiere oportunidades para recibir retroalimentación constante y mejorar la usabilidad del sistema.
+
 <img src="/images/user-journey-mapping/user-journey-mapping-1.png" alt="user-journey-mapping-1">
 
 #### Segmento: Proveedor
+
+Los usuarios buscan automatizar la gestión de pedidos, pero tienen preocupaciones sobre la compatibilidad con sus sistemas actuales, lo que indica la importancia de resaltar la facilidad de integración en los materiales promocionales.
+Aunque se muestra satisfacción con la reducción de errores, los usuarios aún experimentan frustraciones con algunos aspectos de la interfaz, lo que señala la necesidad de mejorar y personalizarla, especialmente para proveedores.
+
 <img src="/images/user-journey-mapping/user-journey-mapping-2.png" alt="user-journey-mapping-2">
 
 <h4 id="empathy-mapping">2.3.4. Empathy Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Los usuarios sienten ansiedad por posibles fallas del sistema y buscan mejorar la eficiencia del personal, sintiendo alivio cuando las operaciones fluyen sin problemas.
+Escuchan quejas de clientes sobre demoras en pedidos, sugerencias del personal para mejorar procesos y notificaciones del sistema sobre inventarios bajos.
+Suelen ver informes de stock y ventas, menús, listas de precios, reservas y pedidos en línea, además de los movimientos del personal.
+
 <img src="/images/empathy-map/empathy-map-1.png" alt="empathy-mapping-1">
 
 #### Segmento: Proveedor
+
+Los usuarios se preocupan por la exactitud y puntualidad de los pedidos, con ansiedad sobre la compatibilidad de NoNucleus con sus sistemas actuales, aunque sienten alivio cuando las entregas son sin complicaciones.
+Escuchan comentarios sobre la puntualidad de los pedidos, sugerencias de clientes para mejorar la entrega y notificaciones del sistema sobre nuevos pedidos.
+Observan detalles de pedidos recibidos y pendientes en NoNucleus, notificaciones de cambios en las solicitudes y reportes sobre cantidad y tiempos de entrega.
+
 <img src="/images/empathy-map/empathy-map-2.png" alt="empathy-mapping-2">
 
 <h4 id="as-is-scenario-mapping">2.3.5. As-is Scenario Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Pasos y acciones: Llega temprano, revisa inventario y stock, asigna tareas al personal, supervisa las operaciones, resuelve problemas del día y cierra revisando ventas e inventario.
+Pensamientos: Preocupación por el stock y las responsabilidades del personal, buscando asegurar eficiencia en el servicio y resolver problemas rápidamente. Al final del día, reflexiona sobre posibles mejoras para mañana.
+Sentimientos: Preocupación, ansiedad al inicio del día, satisfacción tras una buena jornada, frustración ante problemas y alivio al cerrar el día.
+
 <img src="/images/as-is-scenary-map/as-is-scenary-map-1.png" alt="as-is-scenary-map-1"/>
 
 #### Segmento: Proveedor
+
+Pasos y acciones: Inicia revisando pedidos, verifica que estén organizados, coordina las rutas de entrega, supervisa las entregas, recibe feedback y actualiza NoNucleus.
+Pensamientos: Preocupación por el stock y la organización de los pedidos, buscando que las entregas sean puntuales y sin errores. Reflexiona sobre problemas potenciales y cómo mejorar la próxima vez.
+Sentimientos: Preocupación y ansiedad al inicio, determinación durante el proceso, frustración si surgen problemas y alivio tras recibir feedback y cerrar el día.
+
 <img src="/images/as-is-scenary-map/as-is-scenary-map-2.png" alt="as-is-scenary-map-2"/>
 
 <h4 id="ubiquitous-language">2.4. Ubiquitous Language.</h4>
