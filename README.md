@@ -931,12 +931,12 @@ configuración de despliegue del software.</p>
 
 <p><strong>Discord:</strong><br>
 Discord ha sido la herramienta principal de comunicación y coordinación del equipo. Se ha utilizado para realizar reuniones virtuales, mantener discusiones continuas sobre el progreso del proyecto, y para compartir recursos y actualizaciones de forma eficiente.<br>
-<strong>Ruta de referencia:</strong> <a href="https://discord.com/">Discord</a>
+<strong>Ruta de referencia:</strong> <a href="https://discord.com/">discord.com/</a>
 </p>
 
 <p><strong>Trello:</strong><br>
 Trello se ha para la gestión del proyecto, permitiendo la visualización y actualización del estado de tareas y sprints en los que trabaja el equipo. Aunque su uso ha sido ocasional, ha proporcionado una estructura básica para el seguimiento de actividades.<br>
-<strong>Ruta de referencia:</strong> <a href="https://trello.com/">Trello</a>
+<strong>Ruta de referencia:</strong> <a href="https://trello.com/">trello.com/</a>
 </p>
 
 <h4>Product UX/UI Design</h4>
@@ -950,8 +950,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <p><strong>Rutas de referencia:</strong></p>
 <ul>
-    <li><a href="https://www.figma.com/login" target="_blank">Figma</a></li>
-    <li><a href="https://www.lucidchart.com/" target="_blank">LucidChart</a></li>
+    <li><a href="https://www.figma.com/login" target="_blank">www.figma.com/login</a></li>
+    <li><a href="https://www.lucidchart.com/" target="_blank">www.lucidchart.com/</a></li>
 </ul>
 
 <h4>Software Development</h4>
@@ -959,16 +959,16 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <p>Para el desarrollo del software, se han seleccionado las siguientes herramientas y tecnologías, con el fin de proporcionar un entorno robusto y eficiente para el desarrollo del proyecto:</p>
 
 <ul>
-    <li><strong>IntelliJ IDEA Ultimate:</strong> Un entorno de desarrollo integrado (IDE) potente y completo, que ofrece herramientas avanzadas para el desarrollo de aplicaciones. Será utilizado para escribir, depurar y gestionar el código del proyecto, aprovechando sus características de soporte para múltiples lenguajes y sistemas de control de versiones.</li>
+    <li><strong>WebStorm</strong> Un entorno de desarrollo integrado (IDE) potente y completo, que ofrece herramientas avanzadas para el desarrollo de aplicaciones. Será utilizado para escribir, depurar y gestionar el código del proyecto, aprovechando sus características de soporte para múltiples lenguajes y sistemas de control de versiones.</li>
     <li><strong>HTML5:</strong> El lenguaje estándar de marcado para la creación de páginas web. Será empleado en el desarrollo del frontend de la aplicación, estructurando el contenido de manera semántica y accesible.</li>
     <li><strong>CSS:</strong> Hojas de estilo en cascada utilizadas para diseñar y estilizar la presentación visual de la aplicación web. Permitirá definir el diseño responsivo y adaptativo del frontend.</li>
 </ul>
 
 <p><strong>Rutas de referencia:</strong></p>
 <ul>
-    <li><a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA Ultimate</a></li>
-    <li><a href="https://www.w3schools.com/html/html5_syntax.asp" target="_blank">HTML5</a></li>
-    <li><a href="https://google.github.io/styleguide/htmlcssguide.html" target="_blank">CSS</a></li>
+    <li><a href="https://www.jetbrains.com/webstorm/" target="_blank">www.jetbrains.com/webstorm/</a></li>
+    <li><a href="https://lenguajehtml.com/html/" target="_blank">lenguajehtml.com/html/</a></li>
+    <li><a href="https://google.github.io/styleguide/htmlcssguide.html" target="_blank">google.github.io/styleguide/htmlcssguide.html</a></li>
 </ul>
 
 <h4>Software Deployment</h4>
@@ -976,14 +976,13 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <p>En esta sección, se detallan las herramientas y plataformas utilizadas para el despliegue de las aplicaciones desarrolladas, garantizando que estén accesibles y operativas en el entorno de producción.</p>
 
 <ul>
-    <li><strong>Git:</strong> Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del software desarrollado. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo acceden a través de la línea de comandos en sus sistemas locales.</li>
-    <li><strong>GitHub:</strong> Una plataforma en la nube que hospeda los repositorios de código del proyecto. Permitirá la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo.</li>
+    <li><strong>GitHub Pages:</strong> Un servicio de alojamiento web estático que se integra con los repositorios de GitHub. Será utilizado para desplegar la landing page del proyecto, proporcionando un enlace accesible para los usuarios finales.
+    
 </ul>
 
 <p><strong>Rutas de referencia:</strong></p>
 <ul>
-    <li><a href="https://git-scm.com/" target="_blank">Git</a></li>
-    <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+    <li><a href="https://github.com/" target="_blank">github.com/</a></li>
 </ul>
 
 <h4>Software Documentation</h4>
@@ -996,7 +995,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <p><strong>Ruta de referencia:</strong></p>
 <ul>
-    <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+    <li><a href="https://github.com/" target="_blank">github.com</a></li>
 </ul>
 
 <h4 id="source-code">5.1.2. Source Code Management.</h4>
@@ -1005,8 +1004,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <h4>Repositorios de GitHub</h4>
 <ul>
-    <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55/landing-page">Repositorio Landing Page</a></li>
-    <li><strong>Project Report</strong>: <a href="https://github.com/grupo3-upc202402-wx55/project_report">Repositorio del project report</a></li>
+    <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55/landing-page">github.com/grupo3-upc202402-wx55/landing-page</a></li>
+    <li><strong>Project Report</strong>: <a href="https://github.com/grupo3-upc202402-wx55/project_report">github.com/grupo3-upc202402-wx55/project_report</a></li>
     
 </ul>
 <p>Cada repositorio alojará el código fuente correspondiente a su respectivo producto, además de incluir archivos de pruebas unitarias e integración en el caso de los Web Services.</p>
@@ -1038,7 +1037,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Atributos:</strong> Usa comillas dobles para los valores de los atributos: &lt;img src="imagen.jpg" alt="Descripción"&gt;. Especifica siempre los atributos alt y las dimensiones width y height en las imágenes.</li>
     <li><strong>Indentación y Espaciado:</strong> Usa dos espacios para la indentación. No uses espacios alrededor de los signos de igual en los atributos.</li>
 </ul>
-<p><a href="https://html.spec.whatwg.org/">Referencia</a></p>
+<p><a href="https://html.spec.whatwg.org/">html.spec.whatwg.org</a></p>
 
 <h4>CSS</h4>
 <ul>
@@ -1047,7 +1046,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Nombres de Clases:</strong> Utiliza nombres de clase significativos que reflejen el propósito del elemento. Evita los nombres de clases genéricos como .box o .container.</li>
     <li><strong>Organización:</strong> Agrupa las reglas CSS relacionadas en un solo bloque.</li>
 </ul>
-<p><a href="https://google.github.io/styleguide/htmlcssguide.html">Referencia</a></p>
+<p><a href="https://google.github.io/styleguide/htmlcssguide.html">google.github.io/styleguide/htmlcssguide.html</a></p>
 
 <h4>JavaScript</h4>
 <ul>
@@ -1056,7 +1055,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Nombres de Variables y Funciones:</strong> Usa nombres descriptivos y en camelCase para variables y funciones. Por ejemplo, getUserInfo en lugar de getuserinfo.</li>
     <li><strong>Estructura del Código:</strong> Usa funciones y módulos para mantener el código organizado y reutilizable. Evita el uso de código no utilizado y realiza limpieza regularmente.</li>
 </ul>
-<p><a href="https://google.github.io/styleguide/jsguide.html">Referencia</a></p>
+<p><a href="https://google.github.io/styleguide/jsguide.html">google.github.io/styleguide/jsguide.html</a></p>
 
 <h4>TypeScript</h4>
 <ul>
@@ -1065,7 +1064,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Nombres de Variables y Funciones:</strong> Usa camelCase para variables y funciones. Usa PascalCase para nombres de clases e interfaces.</li>
     <li><strong>Tipos:</strong> Especifica tipos explícitos en las variables y las funciones para mayor claridad y seguridad de tipo.</li>
 </ul>
-<p><a href="https://google.github.io/styleguide/tsguide.html">Referencia</a></p>
+<p><a href="https://google.github.io/styleguide/tsguide.html">google.github.io/styleguide/tsguide.html</a></p>
 
 <h4>Java</h4>
 <ul>
@@ -1074,14 +1073,14 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Nombres de Variables y Funciones:</strong> Usa camelCase para nombres de variables y métodos. Usa PascalCase para nombres de clases.</li>
     <li><strong>Organización del Código:</strong> Sigue la estructura de paquetes recomendada y organiza el código en clases y métodos claros.</li>
 </ul>
-<p><a href="https://google.github.io/styleguide/javaguide.html">Referencia</a></p>
+<p><a href="https://google.github.io/styleguide/javaguide.html">google.github.io/styleguide/javaguide.html</a></p>
 
 <h4>Gherkin (para archivos .feature)</h4>
 <ul>
     <li><strong>Estructura de las Características:</strong> Usa Feature, Scenario, Given, When, Then para estructurar los archivos .feature.</li>
     <li><strong>Nombres y Descripciones:</strong> Usa descripciones claras y concisas en inglés. Usa un formato de verbo en presente para los pasos del escenario.</li>
 </ul>
-<p><a href="https://cucumber.io/docs/gherkin/reference/">Referencia</a></p>
+<p><a href="https://cucumber.io/docs/gherkin/reference/">cucumber.io/docs/gherkin/reference/</a></p>
 
 <h4 id="software-deployment-configuration">5.1.4. Software Deployment Configuration.</h4>
 
@@ -1100,6 +1099,35 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
       <li><strong>Configurar GitHub Pages:</strong> En GitHub, nos dirigimos a la pestaña <code>Settings</code> del repositorio, luego a <code>Pages</code>. Seleccionamos el branch <code>"main"</code> y especificamos la carpeta <code>"docs"</code> como la fuente de la página.</li>
       <li><strong>Esperar la publicación:</strong> Esperamos a que GitHub realice las comprobaciones necesarias. Una vez finalizado el proceso, obtendremos un enlace que llevará a la landing page desplegada.</li>
    </ol>
+
+<h4>Frontend Web Application Deployment</h4>
+
+<p>
+  Para el despliegue de la aplicación frontend desarrollada en Angular, se utilizó
+  GitHub Pages como plataforma de hosting estático. Los pasos seguidos para desplegar
+  fueron los siguientes:
+</p>
+
+<ol>
+  <li>
+    <strong>Construcción del Proyecto</strong>: Se utilizó el comando
+    <code>ng build --prod</code> para generar los archivos de producción del
+    proyecto Angular. Este proceso optimiza los archivos estáticos y genera la
+    carpeta <code>dist/</code>.
+  </li>
+
+  <li>
+    <strong>Configuración de GitHub Pages</strong>: Se empleó la herramienta
+    <code>angular-cli-ghpages</code> para realizar el despliegue en la rama
+    <code>gh-pages</code> del repositorio. El comando <code>ng deploy</code>
+    ejecuta el proceso de construcción y despliegue de manera automática.
+  </li>
+</ol>
+
+<h4>Web Services Deployment</h4>
+<p>Se ha utilizado una <em>FakeAPI</em> para simular los Web Services que interactúan con nuestra aplicación. Esto nos ha permitido avanzar con el desarrollo y las pruebas de las funcionalidades del Frontend, sin necesidad de implementar servicios en tiempo real. Sin embargo, para futuros Sprints, se tiene planificada la implementación de Web Services reales, y su configuración será detallada en los siguientes ciclos de desarrollo.</p>
+
+<p>A medida que los Web Services sean desarrollados e implementados, se incluirá la documentación relacionada con los endpoints y su despliegue, así como la configuración necesaria para integrarlos en el entorno de producción.</p>
 
 <h4 id="landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation.</h4>
 <p>
@@ -1145,7 +1173,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
     <tr>
         <td>Sprint 1 Goal </td>
-        <td>Desarrollar una landing page atractiva para Re-Grill, diseñada para captar la atención de los visitantes y comunicar de manera efectiva los beneficios del producto. El cumplimiento se medirá en función de la finalización del diseño, la implementación y la puesta en producción de la landing page.</td>
+        <td>Our focus is on developing an attractive landing page for Re-Grill. We believe it delivers increased engagement and awareness of the product to potential customers. This will be confirmed when the landing page is live and visitor analytics show an increase in page interactions.</td>
     </tr>
     <tr>
         <td>Sprint 1 Velocity </td>
@@ -1159,7 +1187,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <h4 id="spring-backlog-x">5.2.1.2. Sprint Backlog 1.</h4>
 
 <p>El Sprint Backlog para el Sprint #1 tiene como objetivo principal el desarrollo de una landing page para Re-Grill. Este sprint se centrará en la creación y despliegue de una página web atractiva que comunique de manera efectiva los beneficios del producto. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
-<p><a href="https://trello.com/b/LSbTHu4A/open-source">Link a Trello</a></p>
+<p><a href="https://trello.com/b/LSbTHu4A/open-source">trello.com/b/LSbTHu4A/open-source</a></p>
 
 <table>
     <tr>
@@ -1182,48 +1210,81 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Assigned To</td>
         <td>Status (To-do/In Process / To Review / Done)</td>
     </tr>
-<!--US01 -->  
+<!--US06 -->  
     <tr>
-        <td>US01</td>
-        <td>Crear Wireframe de la Landing Page</td>
+        <td>US06</td>
+        <td>Landing page - Estructuración</td>
         <td>WI01</td>
-        <td>Definir estructura de la página</td>
-        <td>Definir la estructura y los elementos principales de la landing page, incluyendo la ubicación de los elementos y la jerarquía visual.</td>
-        <td>4</td>
+        <td>Implementar navegación entre secciones de la landing page</td>
+        <td>Implementar mecanismos de navegación (enlaces, menús) que permitan al visitante moverse fácilmente entre las diferentes secciones de la landing page.</td>
+        <td>5</td>
         <td>Adrian Alonso Calle Huayanca</td>
         <td>Done</td>
     </tr>
-<!--US02 --> 
+<!--US07 --> 
     <tr>
-        <td>US02</td>
-        <td>Desarrollar la Landing Page</td>
+        <td>US07</td>
+        <td>Landing page – Contenido informativo</td>
         <td>WI02</td>
-        <td>Implementar el diseño de la página</td>
-        <td>Desarrollar la landing page siguiendo el wireframe definido, incluyendo la estructura HTML y los estilos CSS necesarios.</td>
-        <td>12</td>
-        <td>Hardie Alfonso Holguín Gamarra / Mateo Italo Loechle Arias </td>
+        <td>Desarrollar contenido informativo claro y accesible</td>
+        <td>Redactar y estructurar el contenido informativo sobre las funcionalidades y beneficios de la aplicación para garantizar que los visitantes puedan tomar decisiones informadas.</td>
+        <td>13</td>
+        <td>Mateo Italo Loechle Arias </td>
         <td>Done</td>
     </tr>
-<!--US03 --> 
+<!--US08 --> 
     <tr>
-        <td>US03</td>
-        <td>Revisar y Ajustar la Landing Page</td>
+        <td>US08</td>
+        <td>Landing page - Compatibilidad móvil</td>
         <td>WI03</td>
-        <td>Realizar pruebas y ajustes</td>
-        <td>Revisar la landing page para identificar posibles mejoras y ajustes. Realizar pruebas de usabilidad y correcciones necesarias.</td>
-        <td>6</td>
-        <td>David Bryan Rodriguez Santos</td>
+        <td>Implementar diseño responsivo en la landing page</td>
+        <td>Desarrollar y probar el diseño responsivo de la landing page para garantizar que se visualice y funcione correctamente en dispositivos móviles.</td>
+        <td>8</td>
+        <td>Gabriel Anthony Braithuaite Toledo </td>
         <td>Done</td>
     </tr> 
-<!--US04 -->
+<!--US09 -->
     <tr>
-        <td>US04</td>
-        <td>Desplegar la Landing Page</td>
+        <td>US09</td>
+        <td>Landing page - Formulario de contacto</td>
         <td>WI04</td>
-        <td>Configurar el despliegue</td>
-        <td>Configurar el despliegue de la landing page en un entorno de producción. Asegurar que la página esté accesible y funcional.</td>
+        <td>Desarrollar formulario de contacto en la landing pagee</td>
+        <td>Implementar un formulario de contacto que permita a los visitantes enviar sus consultas y comentarios.</td>
         <td>8</td>
-        <td>Gabriel Anthony Braithuaite Toledo</td>
+        <td>Hardie Alfonso Holguín Gamarra </td>
+        <td>Done</td>
+    </tr>
+<!--US10 -->
+    <tr>
+        <td>US10</td>
+        <td>Landing page - Contenido multimedia</td>
+        <td>WI05</td>
+        <td>Incluir contenido multimedia en la landing page</td>
+        <td> Implementar imágenes y videos relevantes en la landing page para enriquecer la experiencia del visitante.</td>
+        <td>3</td>
+        <td>David Bryan Rodriguez Santos</td>
+        <td>Done</td>
+    </tr>
+<!--US11 -->
+    <tr>
+        <td>US11</td>
+        <td>Landing page - Call-to-action</td>
+        <td>WI06</td>
+        <td>Implementar botones de call-to-action en la landing page.</td>
+        <td>Crear botones claros y visibles para solicitar una demo en la landing page.</td>
+        <td>5</td>
+        <td>Hardie Alfonso Holguín Gamarra</td>
+        <td>Done</td>
+    </tr>
+<!--US12 -->
+    <tr>
+        <td>US12</td>
+        <td>Landing page - Testimonios</td>
+        <td>WI07</td>
+        <td>Implementar sección de testimonios en la landing page</td>
+        <td>Crear una sección dedicada para mostrar testimonios de usuarios satisfechos.</td>
+        <td>3</td>
+        <td>Mateo Italo Loechle Arias</td>
         <td>Done</td>
     </tr>
 </table>
@@ -1298,9 +1359,9 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Gaboo04/landing-page</td>
         <td>feat/testing</td>
         <td>ee1b2de</td>
-        <td>feat:add acceptance tests for landing page.</td>
+        <td>feat:Update landing_page_acceptance_tests.feature.</td>
         <td>acceptance tests based on user stories designed for landing page development</td>
-        <td>31/08/2021</td>
+        <td>18/09/2024</td>
     </tr>
 </table>
 <h4 id="execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review.</h4>
@@ -1374,6 +1435,204 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 </table>
 <img src="/images/commits-1.png" alt="Commits 1">
 <img src="/images/commits-2.png" alt="Commits 2">
+
+<!-- 5.2.2. Sprint 2 -->
+
+<h4 id="sprint-2">5.2.2. Sprint 2</h4>
+
+<h4 id="sprint-planning-x">5.2.2.1. Sprint Planning 2.</h4>
+<p>En el Sprint #2, que comienza el 17/09/2024, nos enfocaremos en el desarrollo de la parte frontend de la aplicación web de Re-Grill. El objetivo es crear una interfaz interactiva y amigable para los usuarios, que les permita acceder a las funcionalidades del producto de manera intuitiva y eficiente. Este sprint estará dedicado al diseño y desarrollo de las páginas y componentes necesarios para cumplir con nuestros objetivos estratégicos.</p>
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>Sprint 2</td>
+    </tr>
+    <tr>
+        <td>Sprint Planning Background  </td>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>2024-09-17</td>
+    </tr>
+    <tr>
+        <td>Time</td>
+        <td>16:00 PM</td>
+    </tr>
+    <tr>
+        <td>Location</td>
+        <td>Virtual via discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By </td>
+        <td>Gabriel Anthony Braithuaite Toledo, Hardie Alfonso Holguín Gamarra</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning <br>meeting) </td>
+        <td>Gabriel Anthony Braithuaite Toledo, Adrian Alonso Calle Huayanca, Hardie Alfonso Holguín Gamarra, Mateo Italo Loechle Arias, David Bryan Rodriguez Santos</td>
+    </tr>
+    <tr>
+        <td>Sprint Goal &amp; User Stories </td>
+    </tr>
+    <tr>
+        <td>Sprint 2 Goal </td>
+        <td>Our focus is on developing an interactive and user-friendly frontend interface for Re-Grill. We believe it delivers a seamless experience and improved accessibility to product features for our users. This will be confirmed when the frontend components are live and user feedback indicates increased satisfaction and ease of use.</td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Velocity </td>
+        <td>El equipo ha establecido una capacidad de 50 Story Points para el Sprint 2, enfocándose en completar todas las tareas necesarias para el desarrollo de la interfaz frontend de Re-Grill.  </td>
+    </tr>
+    <tr>
+        <td>Sum of Story Points </td>
+        <td>50</td>
+    </tr>
+</table>
+
+<h4 id="spring-backlog-x">5.2.2.2. Sprint Backlog 2.</h4>
+
+<p>El Sprint Backlog para el Sprint #2 tiene como objetivo principal el desarrollo de la parte frontend de la aplicación web de Re-Grill. Este sprint se centrará en la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
+<p><a href="https://trello.com/b/LSbTHu4A/open-source">trello.com/b/LSbTHu4A/open-source</a></p>
+
+<table>
+    <tr>
+        <td>Sprint # </td>
+        <td>Sprint 2 </td>
+    </tr>
+    <tr>
+        <td>User Story  </td>
+        <td></td>        
+        <td>Work-Item / Task </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours) </td>
+        <td>Assigned To</td>
+        <td>Status (To-do/In Process / To Review / Done)</td>
+    </tr>
+<!--US01 -->  
+    <tr>
+        <td>USX</td>
+        <td>x</td>
+        <td>WI01</td>
+        <td>x</td>
+        <td>X</td>
+        <td>4</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr>
+<!--US02 --> 
+    <tr>
+        <td>USX</td>
+        <td>X</td>
+        <td>WI02</td>
+        <td>X</td>
+        <td>X</td>
+        <td>12</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr>
+<!--US03 --> 
+    <tr>
+        <td>USX</td>
+        <td>X</td>
+        <td>WI03</td>
+        <td>X</td>
+        <td>X</td>
+        <td>6</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr> 
+<!--US04 -->
+    <tr>
+        <td>USX</td>
+        <td>X</td>
+        <td>WI04</td>
+        <td>X</td>
+        <td>X</td>
+        <td>8</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr>
+</table>
+<h4 id="development-evidence-for-sprint-review-x">5.2.2.3. Development Evidence for Sprint Review.</h4>
+<p>Durante el Sprint #2, se lograron avances significativos en el desarrollo de la parte frontend de la aplicación web de Re-Grill. Estos avances se alinean con el objetivo principal del sprint, que es diseñar e implementar una interfaz interactiva y amigable para los usuarios, que les permita acceder a las funcionalidades del producto de manera intuitiva y eficiente.</p>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>Gaboo04/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr>
+        <td>HOLGUINUPC/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr>
+        <td>LowMathzzz/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr>
+        <td>DavidBryanRodriguezSantos/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>    
+    <tr>
+        <td>U202011657/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr><td>https://github.com/grupo3-upc202402-wx55/frontend</td></tr>
+
+
+</table>
+<h4 id="testing-suite-evidence-for-sprint-review">5.2.2.4. Testing Suite Evidence for Sprint Review.</h4>
+<p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas para la parte frontend de la aplicación web de Re-Grill, desarrollada en el Sprint 2. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la interfaz frontend. Las pruebas de aceptación se diseñaron para garantizar que la interfaz cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+</table>
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
 <h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
