@@ -789,130 +789,296 @@ Este lenguaje será usado consistentemente en la documentación, comunicación y
     </p>
     <p>Dentro de las dimensiones que adoptaremos en le tono de comunicación y lenguaje aplicado tendremos que será serio, formal, respetuoso y sereno ya que se trata del manejo de inventario de una empresa del rubro de restaurantes lo cual requiere todo lo mencionado.
 </p>
-<h4 id="style-guidelines">4.1. Style Guidelines.</h4>
-<p>
-  En este capítulo se desarrollará las bases para contar con un repositorio central y organizado de uso común que incluye assets, fonts. Esto con el fin de mantener una presentación consistente y enfocada.
-</p>
-<h4 id="general-style-guidelines">4.1.1. General Style Guidelines.</h4>
 
-Branding:
+## 4.1. Style Guidelines. <a name ="4.1.">
+### 4.1.1. General Style Guidelines. <a name ="4.1.1.">
 
-- Este logo simboliza nuestro rubro a la administracion de inventarios para restaurantes. Al obtener nuestros servicios, las empresan podrán tener mejores margenes de ganancias al mejorar su administracion
-    <img src="/images/RE-GRILL.png"></img><br>
+El diseño de la página de destino de RE-GRILL encarna los principios de eficiencia, innovación y apoyo en la gestión de operaciones para restaurantes. Los elementos visuales se eligen para respaldar estos valores fundamentales y ofrecer una experiencia amigable para el usuario.
 
-Typography:
-- La tipografía de nuestro logo tendrá un estilo marcado el cual es Arial teniendo diversas ventajas, especialmente en términos de legibilidad, compatibilidad y simplicidad. Con esta tipografía reflejamos la innovación así como la creatividad que es lo que sobresale de nuestra aplicación.
-- Otro factor por el cual elegimos Arial se debe a su gran rendimiento dado que es una tipografía preinstalada, lo que hace que no sea necesario cargarla desde un servidor externo, reduciendo el tiempo de carga de la página web.
+- **Branding**:  
+  RE-GRILL refleja una marca comprometida con proporcionar soluciones integrales que optimizan la gestión de restaurantes. La esencia de la marca es la innovación y la eficiencia, orientadas a mejorar la experiencia del cliente.
 
-Colors:
-- Nosotros elegimos la paleta de colores para que el usuario al visitar nuestro sitio web ellos se sientan cómodos y que sobre todo les brinde seguridad y confort. El azul oscuro (#004080) demuestra confianza, profesionalismo y estabilidad. El blanco (#ffffff)
-  <img src="/images/COLORES-WEB.png"></img><br> 
+- **Logo**:  
+  El logotipo de  combina mantiene un único color que refleja confiabilidad y estabilidad. Su simpleza lo hace facil de reconocer y recordar. Además su figura da a entender hasta cierto punto qué es RE-GRILL.
 
+- **Colors**:
+  - **Azul Oscuro (#004080)**: Utilizado para el encabezado, pie de página y elementos de navegación para transmitir confianza y profesionalismo.
+  - **Azul Oscuro 2(003060)**: De igual manera que el anterior, utilizado para el encabezado, pie de página y elementos de navegación para resaltar aún más diferentes segmentos.
+  - **Naranja (#ff7300)**: Utilizado en los botones de llamada a la acción y elementos destacados, este color añade dinamismo y dirige la atención del usuario hacia las acciones esenciales.
+  - **Blanco (#FFFFFF)**: Empleado como color de fondo predominante para garantizar claridad y un diseño limpio y organizado.
+  - **Gris (#333, #555)**: Utilizado para texto secundario y detalles menores, proporcionando buena legibilidad mientras mantiene una presencia visual sutil.
 
+- **Typography**:
+  - **Fuentes Usadas**: 'Roboto' y 'Varela Round' se emplean para proporcionar una estética moderna y accesible. Estas fuentes son adecuadas para una amplia audiencia y aseguran consistencia visual a través de diferentes dispositivos.
+  - **Estilos y Tamaños**:
+    - **Títulos**: Grandes y en negrita para captar la atención.
+    - **Texto del Cuerpo**: Tamaños moderados para asegurar legibilidad y una experiencia de usuario cómoda.
 
-<h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
+- **Communication Tones**
 
-Icons:
-- Al desarrollar una página web, los ícenos son fundamentales para crear una interfaz de usuario que sea clara e intuitiva. Estos pequeños elementos visuales son clave para facilitar la comprensión de distintas secciones de la página web. Los íconos ayudan a lo usuarios a identifica rápidamente la función de cada componente , y su diseño simple y claro garantiza que sean fácilmente interpretables, además, usar íconos de manera coherente en toda la página es esencial para reducir la confusión y mejorara la experiencial de usuario.
-- Los íconos que utilizaremos serán los breakpoints, de los cuales usaremos con mayor frecuencia serán los 768px y 1024px, debido a que son los más comunes del mercado actual.
+  - **Formal/Approachable**: El estilo de comunicación es profesional pero accesible, entregando la información de manera clara y atractiva.
+  - **Respectful/Enthusiastic**: El tono mantiene una postura respetuosa y empática mientras combina entusiasmo para promover la plataforma y sus beneficios.
 
+### 4.1.2. Web Style Guidelines. <a name ="4.1.2.">
 
-<h4 id="information-architecture">4.2. Information Architecture.</h4>
-<h4 id="organization-systems">4.2.1. Organization Systems.</h4>
-- Al entrar a nuestra página web, el usuario podrá viausalizar diferentes secciones: inicio, Request Demo, about us, plans, contacto Us.
-<h4 id="labeling-systems">4.2.2. Labeling Systems.</h4>
+- **Fonts**:
+  - **Roboto** y **Varela Round**: Estas fuentes son elegidas por su apariencia moderna y limpia, mejorando la legibilidad y manteniendo un estilo consistente en todo el sitio web. 'Roboto' se utiliza principalmente para el texto del cuerpo debido a su claridad, mientras que 'Varela Round' añade un toque de amabilidad a los títulos y subtítulos.
 
--En nuestra página web tendremos un sistema de etiquetado que son los siguientes:
+- **Colors**:
+  - **Azul Oscuro (#004080)**: Utilizado para el encabezado, pie de página y elementos de navegación, este color transmite confianza y profesionalismo, proporcionando un fondo estable que complementa los acentos dinámicos.
+  - **Azul Oscuro 2(003060)**: De igual manera que el anterior, utilizado para el encabezado, pie de página y elementos de navegación para resaltar aún más diferentes segmentos.
+  - **Naranja (#ff7300)**: Este color vibrante se utiliza para los botones de llamada a la acción y los aspectos destacados importantes. Llama la atención y guía a los usuarios hacia acciones deseadas, como "Solicitar una Demo" o "Comprar Ahora."
+  - **Blanco (#FFFFFF)**: Predominantemente usado como color de fondo para mantener una interfaz limpia y despejada, mejorando la legibilidad del texto y el confort visual.
+  - **Gris (#333, #555)**: Empleado para elementos de texto secundarios y algunas casillas, este color mantiene la legibilidad mientras contrasta sutilmente con el fondo blanco.
 
-- About Us
-- Features
-- Plans
-- Benefits
-- Q&A
-- Contact Us
-- Idioma 
+- **Graphics**:
+  - **Logo**: Posicionado de manera prominente en el encabezado, el logo refuerza la identidad de la marca. El diseño limpio y sencillo se alinea con la estética general del sitio.
+  - **Background Images**: Diferentes secciones, como Hero, Features, y Contact Us en la landing page, utilizan imágenes de fondo temáticas que se alinean con su contenido respectivo, añadiendo interés visual y contexto.
+  - **Icons**: Los iconos de redes sociales y otros elementos gráficos se utilizan para facilitar la participación del usuario y la navegación. Los iconos de Facebook, Twitter e Instagram se muestran claramente en el pie de página.
 
-
-<h4 id="information-architecture">4.2. Information Architecture.</h4>
-<h4 id="organization-systems">4.2.1. Organization Systems.</h4>
-
-- Al entrar a nuestra página web, el usuario podrá visualizar diferentes secciones: inicio, Request Demo, about us, plans, contacto Us.
-
-<h4 id="labeling-systems">4.2.2. Labeling Systems.</h4>
-
-- En nuestra página web tendremos un sistema de etiquetado que son los siguientes: 
-* About Us 
-* Features 
-* Plans
-* benefits
-* Q&A
-* Contact Us
-* Idioma
+- **Components**:
+  - **Buttons**: Los botones de llamada a la acción (CTA) son audaces y claramente definidos, con bordes redondeados y un color naranja brillante para asegurar que se destaquen contra los colores de fondo más oscuros. Se aplican efectos hover para mejorar la interactividad.
+  - **Sliders and Carousels**: Utilizados para mostrar múltiples características o testimonios de clientes de manera dinámica, proporcionando una forma más atractiva de presentar la información.
+  - **Text Fields and Forms**: Los formularios de contacto son sencillos y fáciles de usar, con etiquetas claras y suficiente espacio para facilitar la entrada del usuario.
+  - **Plan Cards**: Los planes de precios se presentan en formato de tarjetas con bordes distintos y efectos hover, facilitando a los usuarios la comparación de opciones y la toma de decisiones.
 
 
-<h4 id="seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</h4>
-- Poner etiquetas meta en HTML son cruciales para brindar información y metadatos que no son visibles para los usuarios, pero que resultan útiles para los navegadores y los rastreadores web. Ayudan en el análisis y la gestión del contenido, además de ser clave para mejorar el posicionamiento en los motores de búsqueda. Vamos a emplear estas etiquetas para optimizar nuestro sitio web.
+## 4.2. Information Architecture. <a name ="4.2.">
 
-- titulo: esta etiqueta es de mucha importancia y generalmente se situa antes que otra metaetiqueta en los encabezados
-    ```<title>Register your processes with RE-GRILL </title> ```
+### 4.2.1. Organization Systems. <a name ="4.2.1.">
 
-- Autor y Derechos de Autor:
-  Esta etiqueta se emplea para registrar la información del autor y los derechos de propiedad de la página web.
-``` 
-<meta name="author" content="RE-GRILL"/>
-<meta name="copyright" content="Copyright RE-GRILL team" />
-```
+| **Página/Sección**                 | **Descripción**                                                                                                                                                     |
+|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Gestión de Inventario**          | Permite a los usuarios agregar y revisar el stock actual, registrar la merma y revisar el historial de inventario. Accesible para el rol de **Administrador**.          |
+| **Costos de Producción**           | Consultar y modificar costos de producción, ajustando recetas y monitorizando el gasto en ingredientes. Solo disponible para el **Administrador de Cocina**.           |
+| **Facturación y Pedidos**          | Sección destinada a roles como **Caja** para la generación de facturas, registro de pedidos y su historial.                                                          |
+| **Reportes y Estadísticas**        | Los **Administradores** pueden acceder a reportes detallados sobre la gestión de ingredientes, mermas y ventas, proporcionando insights para la optimización operativa.|
+| **Pedidos y Mesas**                | Gestión de asignación de mesas y control de pedidos, disponible para el rol de **Mesero**.                                                                           |
+| **Perfil de Usuario**              | Cada usuario puede gestionar su perfil, cambiar contraseñas y modificar su información personal.                                                                     |
 
-<h4 id="searching-systems">4.2.4. Searching Systems.</h4>
+### 4.2.2. Labeling Systems. <a name ="4.2.2.">
 
-Es muy importante que los administradores de los restaurant puedan distinguir y filtrar la información necesaria de los registros almacenados en la apliación web de gestión de restaurantes. Nuestro principal objetivo del sistema es presentar de manera efectiva, sencilla y rápida la gran cantidad de datos que serán ingresados por los restaurantes.
+| **Etiqueta**                | **Descripción**                                                                                      |
+|-----------------------------|------------------------------------------------------------------------------------------------------|
+| **Inventory**               | Sección para agregar y visualizar stock de productos y registrar la merma.                           |
+| **Production Costs**        | Consultar y modificar costos de producción, disponible solo para roles administrativos.               |
+| **Orders and Billing**      | Generar y revisar facturas, además de gestionar pedidos.                                              |
+| **Reports**                 | Reportes de ventas, uso de ingredientes, y mermas. Accesible a **Administradores**.                   |
+| **Tables Management**       | Asignar mesas y gestionar pedidos, accesible para el rol de **Mesero**.                               |
+
+### 4.2.3. SEO Tags and Meta Tags <a name ="4.2.3.">
+
+Para mejorar la visibilidad de la aplicación web de RE-Grill en motores de búsqueda y facilitar su descubrimiento, se han implementado las siguientes etiquetas SEO y meta:
+
+- **Title**: RE-Grill | Gestión Integral para Restaurantes
+- **Description**: Plataforma de RE-Grill - Solución avanzada para la gestión eficiente de reservas, inventarios, pedidos, y proveedores en restaurantes.
+- **Keywords**: Gestión de restaurantes, reservas online, control de inventarios, pedidos automatizados, análisis de datos, software para restaurantes.
+- **Author**: Equipo de RE-Grill
+- **Canonical**: https://app.regrill.com/
+
+### 4.2.4. Searching Systems. <a name ="4.2.4.">
+
+| **Sistema de Búsqueda**     | **Descripción**                                                                                      |
+|-----------------------------|------------------------------------------------------------------------------------------------------|
+| **Búsqueda Global**         | Permite buscar información clave en diferentes áreas de la aplicación, ajustada según el rol del usuario.|
+| **Filtros Avanzados**       | Opciones para filtrar resultados por categorías específicas como inventario, costos, o pedidos.       |
+
+### 4.2.5. Navigation Systems. <a name ="4.2.5.">
+
+| **Sistema de Navegación**   | **Descripción**                                                                                      |
+|-----------------------------|------------------------------------------------------------------------------------------------------|
+| **Navbar**                  | Menú principal que ofrece acceso rápido a todas las secciones clave, con opciones de menú desplegable según el rol.|
+| **Menú de Subsecciones**     | Para áreas más complejas como inventario o reportes, se ofrecen menús adicionales que detallan acciones específicas.|
+| **Panel de Administración de Usuarios** | Accesible solo por administradores para gestionar roles y permisos.                                 |
 
 
 
-<h4 id="navigation-systems">4.2.5. Navigation Systems.</h4>
+## 4.3. Landing Page UI Design. <a name ="4.3.">
 
-Los principales sistemas de navegación en la Landing Page son los menús ubicados en la parte superior e inferior. Las etiquetas guían a los usuarios hacia secciones específicas dentro de la página. Si estos enlaces no se utilizan, la página se desplazará hacia abajo de manera automática. En la aplicación, los usuarios seguirán un proceso estructurado en fases, con secciones numeradas y visibles sobre los registros de cada etapa. Tienen la posibilidad de saltar entre fases o seguir un orden consecutivo. Los botones representan acciones como abrir, confirmar o finalizar un registro, lo que facilita la continuación del proceso en una nueva pantalla.
+En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
 
-- *Navegación principal o global:* Este es el sistema de navegación más común, visible en todas las secciones de la página y generalmente representado por la barra de navegación y el pie de página.
-<h4 id="landing-page-ui">4.3. Landing Page UI Design.</h4>
+### 4.3.1. Landing Page Wireframe. <a name ="4.3.1.">
+
+Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
+
+- Desktop:
+  
+  <img src="./resources/wireframes/desktop.png" alt="wireframe desktop"/>
+
+- Mobile:
+
+  <img src="./resources/wireframes/mobile.png" alt="wireframe mobile"/>
+
+### 4.3.2. Landing Page Mock-up. <a name ="4.3.2.">
+
+Después de haber trabajado con los wireframes previamente diseñados, se procedió a aplicar los Style Guidelines para definir la paleta de colores a utilizar. Se puede observar que estos colores presentan un contraste llamativo en cada sección de la landing page, lo que contribuye a destacar visualmente los distintos elementos y mejorar la legibilidad y la estética general del diseño.
+
+<img src="./resources/mockup/mockup.png" alt="mockup"/>
+
+#### Enlace para ver el Figma:
+
+[Link Figma](https://www.figma.com/design/wFyfD3jahh7mqHvwN2Vgst/Landing-Page-Wireframe-re-gril?node-id=0-1&t=Y6wxyMupDN9tDuuE-1)
+
+## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
+### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
+- **Wireframe Vista de platos**<br>
+  En este wireframe vemos la vista de los platos que hay en el restaurante, donde al momento de seleccionar una de las imágenes mostrará más detalles sobre las recetas.
+  <img src="./resources/Vista de platos.png" alt="Wireframe-Platos">
+- **Wireframe Registro de Mermas**<br>
+  En este wireframe vemos el registro de las mermas que se realiza al momento de registrar una merma dealizada por un plato.
+  <img src="./resources/Registro de mermasWire.png" alt="Wireframe-RegistroMermas">
+- **Wireframe Información de la receta**<br>
+  En este wireframe vemos la información que tiene cada receta del restaurante, mostrando sus ingredientes y el costo de cada uno de ellos.
+  <img src="./resources/InfoReceta.png" alt="Wireframe-Recetas">
+- **Wireframe Buscar receta para eliminar o modificar**<br>
+  En este wireframe vemos la lista de recetas donde el administrador busca una de ellas para modificar o eliminarla de la plataforma.
+  <img src="./resources/ELIMINAR O MODIFCAR RECETA.png" alt="Wireframe-BuscarReceta">
+- **Wireframe Receta eliminada**<br>
+  En este wireframe vemos la confirmación sobre una eliminación de una receta.<br>
+  <img src="./resources/ELIMINADO.png" alt="Wireframe-Eliminacion">
+
+### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
+**Wireflow Pedidos y Mesas**<br>
+Para este wireflow se tomó el funcionamiento de las mesas, donde se podrá reservar una mesa y las órdenes que pidió el cliente, observando el pedido y los detalles de este.
+<img src="./resources/wireflowMesas.png" alt="Wireflow-Mesas">
+<br>
+
+**Wireflow Costo de Produccion**<br>
+En este wireflow se tomó el proceso que se realiza al momento de ver el costo de producción de un restaurante, mostrando las recetas de los platos que cocina, el ingreso de los distintos ingredientes que lleva dicho plato, entre otros detalles adicionales.
+<img src="./resources/wireflowProduccion.png" alt="Wireflow-Produccion">
+
+### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
+
+Para este mock-upc se muestra las recetas disponibles al administrador de la cocina en el cual él tiene la opcion de añadir recetas, ver la receta y eliminar la receta
+
+  <img src="./resources/recetas.png" alt="recetas"/>
+
+Para este mock-upc se muestra el registro de perdida de insumos del restaurante para que puede tener un buen control de caja
+
+<img src="./resources/Registro de mermas.png" alt="merma"/>
+
+Para este mock-upc se muestra la receta ya editada por el chef y el aumento de precio respectivo
+
+<img src="./resources/PLato editado-costo.png" alt="plato"/>
+
+Para este mock-upc se muestra el area del restaurante al mesero para que pueda seleccinar los pedidos
+
+<img src="./resources/AREA restaurante.png" alt="restaurante"/>
+
+Para este mock-upc se muestra las ordenes que tiene los proveedores con los restaurantes
+
+<img src="./resources/orden-provedores.png" alt="orden"/>
+
+Para este mock-upc el registro de facturas del restaurante
+
+<img src="./resources/Historial facturas.png" alt="factura"/>
 
 
-En el lado izquierdo de la pantalla observamos la distribución del menú como la gestión de inventarios, costo de producción, control de merma, facturación, pedidos y mesas, reportes y estadísticas, perfil, así como el cerrar sesión. En lo que queda de la pantalla podemos observar una imagen del platillo así como como el nombre del mismo.
+### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
+**User Flow Registro en la plataforma**<br>
+En esta User Flow se mostrará como el usuario se registrará en la plataforma, ya sea si es la primera vez que lo usa o ya uso con anterioridad la plataforma, donde irá a la opción de Inicio de Sesión. Además, al momento de registrarse se verificará si el usuario quiere tener un plan premium o usar un plan gratuito.
+<img src="./resources/UserFlow.png" alt="UserFlow-Registro">
 
-<img src="/images/vista_de_platos.png"></img><br> 
+## 4.5. Web Applications Prototyping. <a name ="4.5.">
+Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyecto en general, mostrando paso a paso las secciones enlazadas y como es el punto de vista del proveedor y del administrador de cocina del restaurante. A continuación se presentará una captura sobre este prototipo y como se uso.
+
+<img src="./resources/PrototypeVideo.png" alt="Prototype-Video">
+
+## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
+### 4.6.1. Software Architecture Context Diagram. <a name ="4.6.1.">
+<img src="resources/c4 diagram/contexto.png" alt="Context Diagram">
+
+### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
+<img src="resources/c4 diagram/contenedor.png" alt="Context Diagram">
+
+### 4.6.3. Software Architecture Components Diagrams. <a name ="4.6.3.">
+<ul>
+  <li>
+    <p>Usuarios</p>
+    <img src="resources/c4 diagram/usuario.png" alt="Component Usuarios">
+  </li>
+  <li>
+    <p>Ventas</p>
+    <img src="resources/c4 diagram/ventas.png" alt="Component Ventas">
+  </li>
+  <li>
+    <p>Reservas</p>
+    <img src="resources/c4 diagram/reserva.png" alt="Component Reservas">
+  </li>
+  <li>
+    <p>Rendimiento</p>
+    <img src="resources/c4 diagram/rendimiento.png" alt="Component Rendimiento">
+  </li>
+  <li>
+    <p>Inventario</p>
+    <img src="resources/c4 diagram/inventario.png" alt="Component Inventario">
+  </li>
+  <li>
+    <p>Gestor de proveedores</p>
+    <img src="resources/c4 diagram/gestor.png" alt="Component Gestor">
+  </li>
+  <li>
+    <p>Ajustes</p>
+    <img src="resources/c4 diagram/ajustes.png" alt="Component Ajustes">
+  </li>
+</ul>
+
+## 4.7. Software Object-Oriented Design. <a name ="4.7.">
+### 4.7.1. Class Diagrams. <a name ="4.7.1.">
+
+<tr><img src="resources\dc.png" /><tr>
+
+### 4.7.2. Class Dictionary. <a name ="4.7.2.">
 
 
+#### User
 
+Representa a cualquier usuario que interactúa con el sistema (clientes, administradores o camareros). Gestiona las credenciales y el acceso al sistema.
+#### Administrator
 
-<h4 id="landing-page-wireframe">4.3.1. Landing Page Wireframe.</h4>
+Extiende la clase User y representa a los administradores del sistema, quienes tienen permisos especiales para gestionar reportes de ventas, inventario y usuarios.
+#### Waiter
 
-  <img src="/images/MOCKUP-web.png"></img><br> 
+Extiende la clase User y representa a los camareros, quienes pueden registrar pedidos y gestionar el estado de las mesas.
+#### Reservation
 
-<h4 id="landing-page-mockup">4.3.2. Landing Page Mock-up.</h4>
+Representa las reservas de mesas hechas por los clientes. Permite la creación, cancelación y verificación de las reservas.
+#### Table
 
+Representa una mesa en el restaurante. Permite la gestión del estado de las mesas (disponible, ocupada, reservada).
+#### Order
 
-  <img src="/images/MOCK-UP_MOBILE.png"></img><br> 
+Representa los pedidos que hacen los clientes. Incluye la lista de productos pedidos y su estado.
+#### Product
 
-<h4 id="web-application-ux-ui">4.4. Web Applications UX/UI Design.</h4>
-<h4 id="web-application-wireframes">4.4.1. Web Applications Wireframes.</h4>
-<h4 id="web-application-wireflow">4.4.2. Web Applications Wireflow Diagrams.</h4>
-<h4 id="web-appliaction-mockups">4.4.2. Web Applications Mock-ups.</h4>
-<h4 id="user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams.</h4>
-<h4 id="web-applications-prototyping">4.5. Web Applications Prototyping.</h4>
-<h4 id="domain-driven-software-architecture">4.6. Domain-Driven Software Architecture.</h4>
-<h4 id="software-architecture-context-diagram">4.6.1. Software Architecture Context Diagram.</h4>
-<h4 id="software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams.</h4>
-<h4 id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams.</h4>
-<h4 id="software-object-oriented-design">4.7. Software Object-Oriented Design.</h4>
-<h4 id="class-diagrams">4.7.1. Class Diagrams.</h4>
+Representa los productos o platos disponibles en el restaurante. Permite la gestión de su precio y disponibilidad en el inventario.
+#### Stock
 
-<img src="/images/diagram.png"></img><br> 
+Representa el inventario del restaurante, incluyendo la cantidad de productos disponibles y su gestión.
+#### Invoice
 
-<h4 id="class-dictionary">4.7.2. Class Dictionary.</h4>
-<h4 id="database-design">4.8. Database Design.</h4>
-<h4 id="database-diagram">4.8.1. Database Diagram.</h4>
+Representa las facturas generadas por los pedidos. Permite la creación y visualización de facturas para los clientes.
+#### Supplier
 
-<img src="/images/databasediagram.jpg"></img><br> 
+Representa a los proveedores que suministran productos al restaurante. Gestiona los productos suministrados y el contacto con el proveedor.
+#### KitchenOrder
+
+Representa los pedidos enviados a la cocina para su preparación. Permite la gestión y seguimiento de los pedidos dentro de la cocina.
+#### SalesReport
+
+Genera reportes de ventas dentro de un periodo específico. Ayuda a analizar el rendimiento de ventas del restaurante.
+#### StockReport
+
+Genera reportes del inventario, proporcionando información sobre los niveles actuales de stock y productos disponibles.
+#### OrderReport
+
+Genera reportes sobre los pedidos realizados, detallando los productos pedidos y otros datos relevantes.
+
+## 4.8. Database Design. <a name ="4.8.">
+### 4.8.1. Database Diagram. <a name ="4.8.1.">
+
+<tr><img src="resources\databasediagram.jpg" /><tr>
+
 
 <h3 id="chapter-5">Capítulo V: Product Implementation, Validation & Deployment</h3>
 <p>En este capítulo se detallará la implementación del producto, la validación y la 
