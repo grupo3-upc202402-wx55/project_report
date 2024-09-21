@@ -1917,5 +1917,19 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <h4 id="bibliography">Bibliografía</h4>
 <h4 id="links">Anexos</h4>
 
+Anexo A: Tabla Comparativa de Competencia
+Esta tabla muestra una comparación entre Re'Grill y otras soluciones tecnológicas disponibles en el mercado para la gestión de restaurantes. Se detallan las principales características de cada plataforma, así como su nivel de integración y accesibilidad económica.
+
+
+| **Característica**              | **Re'Grill**         | Competidor A   | Competidor B   | Competidor C   |
+|----------------------------------|----------------------|----------------|----------------|----------------|
+| **Integración total (mesas, cocina, inventario, proveedores)** | ✔️                   | ❌              | ✔️              | ❌              |
+| **Precio (modelo asequible)**    | Bajo                 | Alto            | Medio           | Alto            |
+| **Facilidad de uso (UI/UX)**     | Alta                 | Media           | Media           | Baja            |
+| **Escalabilidad**                | Alta                 | Media           | Alta            | Media           |
+| **Soporte técnico**              | ✔️                   | ✔️              | ❌              | ✔️              |
+| **Actualizaciones automáticas**  | ✔️                   | ✔️              | ❌              | ✔️              |
+
+
 
 
