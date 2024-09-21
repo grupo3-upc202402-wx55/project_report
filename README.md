@@ -1106,7 +1106,7 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
   </li>
   <li>
     <p>Reservas</p>
-    <img src="resources/c4 diagram/reserva.png" alt="Component Reservas">
+    <img src="/images/reserva.png" alt="Component Reservas">
   </li>
   <li>
     <p>Rendimiento</p>
