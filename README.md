@@ -1098,7 +1098,7 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
 <ul>
   <li>
     <p>Usuarios</p>
-    <img src="resources/c4 diagram/usuario.png" alt="Component Usuarios">
+    <img src="/images/usuario.png" alt="Component Usuarios">
   </li>
   <li>
     <p>Ventas</p>
