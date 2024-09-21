@@ -1102,7 +1102,7 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
   </li>
   <li>
     <p>Ventas</p>
-    <img src="resources/c4 diagram/ventas.png" alt="Component Ventas">
+    <img src="/images/ventas.png" alt="Component Ventas">
   </li>
   <li>
     <p>Reservas</p>
