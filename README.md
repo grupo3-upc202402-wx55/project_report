@@ -1114,7 +1114,7 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
   </li>
   <li>
     <p>Inventario</p>
-    <img src="resources/c4 diagram/inventario.png" alt="Component Inventario">
+    <img src="/images/inventario.png" alt="Component Inventario">
   </li>
   <li>
     <p>Gestor de proveedores</p>
