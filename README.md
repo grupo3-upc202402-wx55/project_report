@@ -1043,12 +1043,12 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 ### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
 **Wireflow Pedidos y Mesas**<br>
 Para este wireflow se tomó el funcionamiento de las mesas, donde se podrá reservar una mesa y las órdenes que pidió el cliente, observando el pedido y los detalles de este.
-<img src="./resources/wireflowMesas.png" alt="Wireflow-Mesas">
+<img src="./images/wireflowMesas.png" alt="Wireflow-Mesas">
 <br>
 
 **Wireflow Costo de Produccion**<br>
 En este wireflow se tomó el proceso que se realiza al momento de ver el costo de producción de un restaurante, mostrando las recetas de los platos que cocina, el ingreso de los distintos ingredientes que lleva dicho plato, entre otros detalles adicionales.
-<img src="./resources/wireflowProduccion.png" alt="Wireflow-Produccion">
+<img src="./images/wireflowProduccion.png" alt="Wireflow-Produccion">
 
 ### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
 
