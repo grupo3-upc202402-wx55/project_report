@@ -1070,17 +1070,17 @@ Para este mock-upc se muestra el area del restaurante al mesero para que pueda s
 
 Para este mock-upc se muestra las ordenes que tiene los proveedores con los restaurantes
 
-<img src="./resources/orden-provedores.png" alt="orden"/>
+<img src="./images/orden-provedores.png" alt="orden"/>
 
 Para este mock-upc el registro de facturas del restaurante
 
-<img src="./resources/Historial facturas.png" alt="factura"/>
+<img src="./images/Historial facturas.png" alt="factura"/>
 
 
 ### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
 **User Flow Registro en la plataforma**<br>
 En esta User Flow se mostrará como el usuario se registrará en la plataforma, ya sea si es la primera vez que lo usa o ya uso con anterioridad la plataforma, donde irá a la opción de Inicio de Sesión. Además, al momento de registrarse se verificará si el usuario quiere tener un plan premium o usar un plan gratuito.
-<img src="./resources/UserFlow.png" alt="UserFlow-Registro">
+<img src="./images/UserFlow.png" alt="UserFlow-Registro">
 
 ## 4.5. Web Applications Prototyping. <a name ="4.5.">
 Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyecto en general, mostrando paso a paso las secciones enlazadas y como es el punto de vista del proveedor y del administrador de cocina del restaurante. A continuación se presentará una captura sobre este prototipo y como se uso.
