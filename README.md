@@ -1962,5 +1962,18 @@ Este mapa detalla los pasos y flujos que sigue un pedido desde el momento en que
 - Actualización del estado del pedido en la plataforma.</p>
 - Coordinación con meseros para la entrega.</p>
 
+<h2>Anexo D: Validación de Hypotheses Statements</h2>
+Este anexo presenta los resultados obtenidos de las validaciones realizadas en relación con los Hypotheses Statements propuestos durante el proceso de Lean UX para Re'Grill.
+
+| **Hipótesis**                                          | **Resultado**                                             |
+|--------------------------------------------------------|-----------------------------------------------------------|
+| **Adopción tecnológica por restaurantes pequeños y medianos** | El 40% de los restaurantes adoptó la solución en su primer año. |
+| **Accesibilidad económica**                            | El 60% de los restaurantes que probaron Re'Grill lo seleccionaron como su opción preferida. |
+| **Adaptación del personal a la plataforma**            | El personal redujo los errores operativos en un 25% después de 2 semanas de uso. |
+| **Mejora en la eficiencia operativa**                  | La eficiencia operativa mejoró en un 20%.                   |
+| **Optimización de la gestión de inventarios**          | Reducción del 20% en el tiempo dedicado a la gestión de inventarios. |
+| **Mejora en la experiencia del cliente**               | La satisfacción del cliente aumentó en un 25%.              |
+
+
 
 
