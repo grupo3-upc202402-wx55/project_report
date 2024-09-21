@@ -1110,7 +1110,7 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
   </li>
   <li>
     <p>Rendimiento</p>
-    <img src="resources/c4 diagram/rendimiento.png" alt="Component Rendimiento">
+    <img src="/images/rendimiento.png" alt="Component Rendimiento">
   </li>
   <li>
     <p>Inventario</p>
