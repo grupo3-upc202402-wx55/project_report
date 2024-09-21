@@ -847,7 +847,7 @@ El diseño de la página de destino de RE-GRILL encarna los principios de eficie
 
 ### 4.2.1. Organization Systems. <a name ="4.2.1.">
 
-| **Página/Sección**                 | **Descripción**                                                                                                                                                     |
+|**Página/Sección**                  | **Descripción**                                                                                                                                                  |
 |------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Gestión de Inventario**          | Permite a los usuarios agregar y revisar el stock actual, registrar la merma y revisar el historial de inventario. Accesible para el rol de **Administrador**.          |
 | **Costos de Producción**           | Consultar y modificar costos de producción, ajustando recetas y monitorizando el gasto en ingredientes. Solo disponible para el **Administrador de Cocina**.           |
