@@ -440,7 +440,9 @@ Creemos que al ofrecer una interfaz intuitiva y fácil de aprender, el personal 
 <img src="images/CANVAS.jpg">
 
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
+
 1. **Propietarios y Gerentes de Restaurantes Pequeños y Medianos:**
+
 <p> Edad: Personas mayores de 25 años.</p>
 <p>Sexo: Femenino o masculino.</p>
 <p>Ubicación: Generalmente localizados en áreas urbanas o semi-urbanas.</p>
@@ -450,7 +452,15 @@ Creemos que al ofrecer una interfaz intuitiva y fácil de aprender, el personal 
 <p>Hábitos de Consumo: Enfocados en la búsqueda de soluciones que simplifiquen la gestión diaria de sus restaurantes, desde la reserva de mesas hasta la administración de inventarios.</p>
 
 2. **Proveedor de Insumos para Restaurantes:**
-   Este segmento incluye a empresas y proveedores que suministran alimentos, bebidas, utensilios, y otros productos necesarios para el funcionamiento de los restaurantes. Re-Grill les ofrece una plataforma para interactuar directamente con los restaurantes, ver sus necesidades en tiempo real, y gestionar los pedidos de manera más eficiente. La propuesta de valor para este segmento es la simplificación del proceso de pedidos, reducción de errores de comunicación, y la posibilidad de establecer relaciones más sólidas con sus clientes restauranteros.
+
+<p>Edad: Adultos mayores de 30 años.</p>
+<p>Sexo: Femenino o masculino.</p>
+<p>Ubicación: Generalmente distribuidos en áreas comerciales o industriales.</p>
+<p>Formación Educativa: Personal con conocimientos en comercio, logística o administración de empresas.</p>
+<p>Poder adquisitivo: Medio-Alto, con capacidad para invertir en plataformas que optimicen la relación y gestión de pedidos con sus clientes restauranteros.</p>
+<p>Clase Social: Media-Alta y Alta.</p>
+<p>Hábitos de Consumo: Orientados a la optimización de procesos de distribución, reducción de errores en pedidos y mejora de las relaciones con clientes.</p>
+
 
 
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
