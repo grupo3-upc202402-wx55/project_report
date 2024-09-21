@@ -1917,8 +1917,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <h4 id="bibliography">Bibliografía</h4>
 <h4 id="links">Anexos</h4>
 
-<h2>Anexo A: Tabla Comparativa de Competencia
-Esta tabla muestra una comparación entre Re'Grill y otras soluciones tecnológicas disponibles en el mercado para la gestión de restaurantes. Se detallan las principales características de cada plataforma, así como su nivel de integración y accesibilidad económica.</h2>
+<h2>Anexo A: Tabla Comparativa de Competencia</h2>
+Esta tabla muestra una comparación entre Re'Grill y otras soluciones tecnológicas disponibles en el mercado para la gestión de restaurantes. Se detallan las principales características de cada plataforma, así como su nivel de integración y accesibilidad económica.
 
 
 | **Característica**              | **Re'Grill**         | Competidor A   | Competidor B   | Competidor C   |
@@ -1942,4 +1942,25 @@ En este anexo, se incluye un gráfico que ilustra la mejora en la eficiencia ope
 | **Tiempos de Coordinación Interna (min)** | 20            | 12                      |
 
 Gráfico: Comparación del Rendimiento Operativo (Antes y Después de Re'Grill)
+
+
+<h2>Anexo C: Mapa del Proceso de Pedido a Cocina</h2>
+Este mapa detalla los pasos y flujos que sigue un pedido desde el momento en que el cliente lo solicita hasta su preparación y entrega por la cocina. Se destaca cómo Re'Grill automatiza varios pasos, optimizando tiempos y reduciendo errores en la gestión.
+
+1.-Cliente hace una reserva o pedido
+
+2.-Pedido es recibido por la administración y la cocina
+
+Verificación automática de stock disponible.
+Notificación a la cocina y proveedores en caso de falta de ingredientes.
+3.-Cocina recibe el pedido
+
+Información detallada y visual del platillo (ingredientes, tiempos de cocción, cantidad solicitada).
+Monitoreo en tiempo real del estado del pedido.
+4.-Plato listo para entrega
+
+Actualización del estado del pedido en la plataforma.
+Coordinación con meseros para la entrega.
+
+
 
