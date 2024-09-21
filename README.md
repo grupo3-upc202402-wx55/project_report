@@ -1092,7 +1092,7 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
 <img src="/images/contexto.png" alt="Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
-<img src="resources/c4 diagram/contenedor.png" alt="Context Diagram">
+<img src="/images/contenedor.png" alt="Context Diagram">
 
 ### 4.6.3. Software Architecture Components Diagrams. <a name ="4.6.3.">
 <ul>
