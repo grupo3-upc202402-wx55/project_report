@@ -1951,16 +1951,16 @@ Este mapa detalla los pasos y flujos que sigue un pedido desde el momento en que
 
 2.-Pedido es recibido por la administración y la cocina
 
-<p>Verificación automática de stock disponible.</p>
-<p>Notificación a la cocina y proveedores en caso de falta de ingredientes.</p>
+<p>*Verificación automática de stock disponible.</p>
+<p>*Notificación a la cocina y proveedores en caso de falta de ingredientes.</p>
 3.-Cocina recibe el pedido
 
-<p>Información detallada y visual del platillo (ingredientes, tiempos de cocción, cantidad solicitada).</p>
-<p>Monitoreo en tiempo real del estado del pedido.</p>
+<p>*Información detallada y visual del platillo (ingredientes, tiempos de cocción, cantidad solicitada).</p>
+<p>*Monitoreo en tiempo real del estado del pedido.</p>
 4.-Plato listo para entrega
 
-<p>Actualización del estado del pedido en la plataforma.</p>
-<p>Coordinación con meseros para la entrega.</p>
+<p>*Actualización del estado del pedido en la plataforma.</p>
+<p>*Coordinación con meseros para la entrega.</p>
 
 
 
