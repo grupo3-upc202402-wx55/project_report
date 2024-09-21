@@ -1054,11 +1054,11 @@ En este wireflow se tomó el proceso que se realiza al momento de ver el costo d
 
 Para este mock-upc se muestra las recetas disponibles al administrador de la cocina en el cual él tiene la opcion de añadir recetas, ver la receta y eliminar la receta
 
-  <img src="./resources/recetas.png" alt="recetas"/>
+  <img src="./images/recetas.png" alt="recetas"/>
 
 Para este mock-upc se muestra el registro de perdida de insumos del restaurante para que puede tener un buen control de caja
 
-<img src="./resources/Registro de mermas.png" alt="merma"/>
+<img src="./images/Registro de mermas.png" alt="merma"/>
 
 Para este mock-upc se muestra la receta ya editada por el chef y el aumento de precio respectivo
 
