@@ -66,7 +66,8 @@
 
 <p>Link del repositorio de git-hub: https://github.com/grupo3-upc202402-wx55/project_report </p>
 
-  <td rowspan="3"><img src="images/44.jpeg"></td>
+
+  <td rowspan="3"><img src="/INS.jpeg"></td>
 
 ## Contenido
 ### Tabla de contenidos:
