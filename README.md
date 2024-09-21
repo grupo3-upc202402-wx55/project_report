@@ -1935,6 +1935,18 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <h1 id="about-the-team">Video About-the-Team.</h1>
 <h1 id="bibliography">Bibliografía</h1>
+
+- Zhao, X., & Wang, H. (2020). The role of technology in restaurant operations. International Journal of Hospitality Management, 88, 102-110. https://doi.org/10.1016/j.ijhm.2019.102110
+
+- Chen, J., & Lee, C. (2018). Automation and efficiency in restaurant operations: A case study. Journal of Foodservice Business Research, 21(3), 247-263. https://doi.org/10.1080/15378020.2018.1447282
+
+- Restaurant Dive. (2023, March 15). How technology is changing the restaurant industry. https://www.restaurantdive.com/news/how-technology-is-changing-the-restaurant-industry/600000/
+
+- National Restaurant Association. (2022). The state of the restaurant industry. https://restaurant.org/research/state-of-the-industry
+
+- Technomic. (2023). Restaurant technology trends 2023. https://www.technomic.com/research/restaurant-technology-trends
+
+- McKinsey & Company. (2021). The future of restaurant operations: Insights from the pandemic. https://www.mckinsey.com/industries/restaurants/our-insights
 <h1 id="links">Anexos</h1>
 
 <h2>Anexo A: Tabla Comparativa de Competencia</h2>
