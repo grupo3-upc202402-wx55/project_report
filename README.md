@@ -307,7 +307,8 @@ La falta de una solución integrada para la gestión de restaurantes puede resul
 <h4 id="lean-ux">1.2.2 Lean UX Process.</h4>
 <h4 id="lean-ux-problem">1.2.2.1. Lean UX Problem Statements.</h4>
 
-En el sector de restaurantes, estos enfrentan problemas significativos con la gestión de mesas, reservas, inventarios y pedidos de insumos debido a la falta de una solución tecnológica integrada. Esta falta de integración y eficiencia resulta en errores en la administración, mala coordinación entre los distintos procesos operativos y una mala experiencia hacia los clientes. Además, la ausencia de un sistema unificado contribuye a la ineficiencia en el servicio y al incremento de costos operativos.
+Re'Grill busca aprovechar la oportunidad de ofrecer una solución integral que resuelva la fragmentación de los sistemas en los restaurantes, optimizando la eficiencia en la gestión de mesas, reservas, inventarios, y pedidos de insumos. La falta de integración tecnológica ha generado ineficiencias operativas, lo que afecta la experiencia del cliente y aumenta los costos para los propietarios.
+En un mercado altamente competitivo, los restaurantes enfrentan barreras como altos costos de implementación tecnológica o dificultad para adaptarse a el sistema, lo que ha impedido una adopción generalizada de soluciones integradas.La falta de una plataforma asequible y integrada con funcionalidades necesarias hacen que Re'Grill se posicione como líder al proporcionar una solución eficiente, económica y fácil de usar que resuelve los problemas de gestión operativa.
 
 
 <h4 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions.</h4>
@@ -334,6 +335,7 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
   - Optimizar la coordinación entre la cocina y el servicio.
   - Facilitar la gestión de inventarios y pedidos de insumos.
   - Mejorar la experiencia del cliente.
+
 3. **¿Cómo debería verse o comportarse el producto?**
 
   - Interfaz intuitiva y fácil de usar.
@@ -349,11 +351,11 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 
 -   Mejorar la eficiencia operativa en un 15% en la gestión de mesas, reservas y ventas dentro del primer año.
 
-3.  **Personal de Restaurante:**
+2.  **Personal de Restaurante:**
 
 -   Reducción del 20% en el tiempo dedicado a la gestión diaria de tareas tras implementar Re'Grill.
 
-5.  **Clientes:**
+3.  **Clientes:**
 
 -   Aumento en la satisfacción del cliente debido a una experiencia más organizada y eficiente.
 
