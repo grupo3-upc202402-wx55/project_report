@@ -63,6 +63,8 @@
 |   TB1   | 05/09/2024 |Todos los integrantes |      Todo el equipo participó en la definición de la solución propuesta, realizando un análisis de Lean UX y determinando el segmento objetivo. Se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, como User Personas, User Stories, Product Backlog e Impact Mapping, entre otros. Luego, se diseñaron los mockups y prototipos de la página de inicio utilizando la información recopilada. Finalmente, se completó la creación de la página de inicio con la ayuda del sprint backlog, lo que permitió un control eficaz del progreso realizado.                                                                                                                                                                                                                                                                                                                               |
 
 ## Project Report Collaboration Insights
+
+  <td rowspan="3"><img src="images/44.jpeg"></td>
 ## Contenido
 ### Tabla de contenidos:
 
@@ -196,6 +198,7 @@ TB1: Yo realize todo el capitulo 2 para esta entrega , incluyendo los competidor
 </table>
 
 
+
 <h3 id="chapter-1">Capítulo I: Introducción</h3>
 
 
@@ -277,11 +280,11 @@ El principal desafío en la gestión de restaurantes es la falta de una solució
 
 - **What?**
 
-La industria de restaurantes enfrenta desafíos en la gestión de mesas, reservas, pedidos, inventarios y proveedores, lo que afecta la eficiencia operativa y la experiencia del cliente.
+La industria de restaurantes enfrenta desafíos en la gestión de mesas, reservas, pedidos, inventarios y proveedores, lo que afecta la eficiencia operativa y la experiencia del cliente. Los errores comunes incluyen fallos en los pedidos, pérdidas de inventario, demoras en el servicio y coordinación deficiente entre distintas áreas del restaurante junto con los proovedores. Las soluciones actuales suelen ser costosas, dificiles de utilizar o no cuentan con alguna funcionalidad clave.
 
 - **When?**
 
-La problemática se ha agravado en los últimos años debido a la creciente demanda de servicios de restaurantes y la falta de soluciones integradas para la gestión operativa.
+La problemática se ha agravado en los últimos años debido a la creciente demanda de servicios de restaurantes y la falta de funcionalidades dentro de la competencia de la cual podemos encontrar en grandes cantidades.
 
 - **Where?**
 
@@ -289,25 +292,26 @@ La problemática es relevante en restaurantes de todo tipo y tamaño, desde pequ
 
 - **Who?**
 
-Los principales afectados por esta problemática son los propietarios de restaurantes, gerentes, personal de cocina Y servicio, y los clientes que experimentan una atencion posiblemente lenta e ineferciente.
+Los principales afectados por esta problemática son los propietarios de restaurantes, gerentes, personal de cocina Y servicio, y los clientes que experimentan una atencion posiblemente lenta e ineferciente. Finalmente, los proveedores también se ven afectados cuando la gestión deficiente retrasa o envia datos incorrectos a los pedidos .
 
 - **Why?**
 
-La falta de una solución integrada y automatizada para la gestión de restaurantes provoca ineficiencias operativas, errores en los pedidos, pérdida de inventario y una experiencia del cliente insatisfactoria.
+La falta de una solución integrada y automatizada para la gestión de restaurantes provoca ineficiencias operativas, errores en los pedidos, pérdida de inventario y una experiencia del cliente insatisfactoria.Por el lado de proovedores , es necesario porque estos pueden obtener pedidos erroneos o indicados en un rango de tiempo muy corto por lo cual es necesario.
 
 - **How?**
 
-Las soluciones actuales a menudo están divididas en varios sistemas independientes para reservas, ventas, pedidos a proveedores  y gestión de inventario. Esta falta de integración complica la coordinación entre distintos procesos y aumenta la probabilidad de errores.
+Las soluciones actuales a menudo están divididas en varios sistemas independientes o no cuentan con todas las funcionalidades que un negocio podria necesitar para funcionar eficazmente.De esta forma Re grill apareceria como una opcion integrada con todas las funcionalidades clave para los negocios , y prestaria atencion al cliente para poder implementar cualquier deseo de los clientes .
 
 - **How much?**
 
-La falta de una solución integrada para la gestión de restaurantes puede resultar en pérdidas económicas significativas debido a errores en los pedidos, mermas de inventario y una experiencia del cliente insatisfactoria.
+Cuando se habla de el rubro de los restaurantes , no contar con un sistema estandarizado y funcional puede llevar a muchisimos problemas , tanto contables como cualquier otro. Normalmente se tiene problemas con el stock de los productos, al tener mala atencion puede disminuir el flujo de clientes afectando directamente a el centro principal de remuneracion de los restaurantes , puede llevar a problemas con los proovedores por mal manejo y solicitud de informacion , hasta si un alimento se mantiene en buen estado o no , comunicacion eficaz entre los pedidos y la cocina , entre muchos mas . No contar con una solucion de este tipo significa un porcentaje demasiado grande con respecto a los restaurantes.
 
 
 <h4 id="lean-ux">1.2.2 Lean UX Process.</h4>
 <h4 id="lean-ux-problem">1.2.2.1. Lean UX Problem Statements.</h4>
 
-En el sector de restaurantes, estos enfrentan problemas significativos con la gestión de mesas, reservas, inventarios y pedidos de insumos debido a la falta de una solución tecnológica integrada. Esta falta de integración y eficiencia resulta en errores en la administración, mala coordinación entre los distintos procesos operativos y una mala experiencia hacia los clientes. Además, la ausencia de un sistema unificado contribuye a la ineficiencia en el servicio y al incremento de costos operativos.
+Re'Grill busca aprovechar la oportunidad de ofrecer una solución integral que resuelva la fragmentación de los sistemas en los restaurantes, optimizando la eficiencia en la gestión de mesas, reservas, inventarios, y pedidos de insumos. La falta de integración tecnológica ha generado ineficiencias operativas, lo que afecta la experiencia del cliente y aumenta los costos para los propietarios.
+En un mercado altamente competitivo, los restaurantes enfrentan barreras como altos costos de implementación tecnológica o dificultad para adaptarse a el sistema, lo que ha impedido una adopción generalizada de soluciones integradas.La falta de una plataforma asequible y integrada con funcionalidades necesarias hacen que Re'Grill se posicione como líder al proporcionar una solución eficiente, económica y fácil de usar que resuelve los problemas de gestión operativa.
 
 
 <h4 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions.</h4>
@@ -318,72 +322,111 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 
 - Resaltar en el mercado de aplicaciones de gestión de restaurantes con una tasa de adopción del 20% en el primer trimestre.
 
+- Obtener comentarios positivos de los clientes hacia la eficacia de nuestro sistema.
+
 **User Assumptions:**
+**Assumptions Worksheet**<br>
+**¿Quién es el usuario?**
+- La parte administrativa de un restaurante
+- Los proveedores de restaurantes
 
-1. **¿Quien es el usuario?**
+**¿Qué problemas tiene nuestro producto? ¿Resolver?**
+- Gestión con los productos que se tienen en el restaurante
+- Comunicación con los proveedores de alimentos para los ingredientes de sus platillos a la carta
 
-  - Propietarios de restaurantes.
-  - Gerentes de restaurantes.
-  - Personal de cocina y servicio.
-  - Proveedores de insumos.
-  - Clientes de restaurantes.
+**¿Qué características son importantes?**
+- Una mejor forma de contactarse entre la parte administrativa y el proveedor para la reponer los productos
+- Mejorar la atención del cliente con los platillos que se encuentran disponibles en dicho momento.
+- Organización de las cantidades de los productos, ya sea comestibles o de mantenimiento.
+- Interfaz amigable para cualquier usuario que lo use.
 
-2. **¿Qué necesidades tienen los usuarios?**
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+- Para la administración, nuestro producto les ayudará a gestionar los ingredientes de los platos que cocinan, además de conocer los desperdicios que hay al momento de cocinar y las cantidades de mesas, sillas, entre otros.
+- Para los proveedores, el producto los ayudará en mejorar la comunicación entre ellos y la administración del restaurante, además de brindar las cantidades exactas que necesita el restaurante.
 
-  - Simplificar la gestión de mesas y reservas.
-  - Optimizar la coordinación entre la cocina y el servicio.
-  - Facilitar la gestión de inventarios y pedidos de insumos.
-  - Mejorar la experiencia del cliente.
-3. **¿Cómo debería verse o comportarse el producto?**
+**¿Cuándo y cómo es nuestro producto? ¿Usado?**
+- El producto será utilizado cuando la administración del restaurante comienza a gestionar el inventario que posee actualmente, además de ver si las cantidades son las suficientes para las preparaciones al momento de atender.
+- El producto será usado por algunos proveedores de restaurantes, donde podrán visualizar los distintos restaurantes que necesitan contactarse con algún proveedor de algún consumible.
+- El producto será a través de una aplicación web mediante algún dispositivo que usa internet y un navegador como Chrome.
 
-  - Interfaz intuitiva y fácil de usar.
-  - Funcionalidades integradas y automatizadas.
-  - Información clara y accesible.
-  - Personalizable según las necesidades del restaurante.
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+- El diseño de nuestro producto debe ser atractivo y coherente con respecto al diseño del restaurante.
+- La plataforma debe cargar de manera rápida las respuestas a las acciones del usuario para que no se frustre.
+- La navegación de la plataforma debe ser intuitiva y comprensible, donde los usuarios pueden ver los filtros necesarios y las distintas opciones que tiene.
+- Debe mostrar a los clientes con gráficos y una pequeña descripción acerca del plato de comida que busca.
+- Esta plataforma debe ser compatible con algunos dispositivos de dimensiones distintas, como celulares, laptops, tablets y computadoras, donde se usa un diseño responsive.
 
+**Business Outcomes**<br>
+- Convertir nuestro producto como una plataforma indispensable para la gestión de restaurantes, ya sea en la manera de reponer el inventario, organización del mismo local y la atención de los clientes.
+- Un 75% de los usuarios que usaron la página han logrado gestionar de mejor manera los restaurantes.
+- Un 20% de los clientes de restaurantes se muestran insatisfechos con la atención que brinda los restaurantes.
 
-**User Outcomes:**
+**User Benefits**<br>
+- Ahorro de tiempo por la manera de gestionar el inventario.
+- Facilidad en buscar los productos faltantes o desperdiciados.
+- Mejor comunicación entre el proveedor y la administración.
 
+**Assumptions Steps**<br>
+**a. Creo que mis clientes necesitan:**
+  - Visualización de disponibilidad de platillos.
+  - Expresar de manera intuitiva el inventario que se lleva en el local
+  - Comunicarse de manera eficiente con otro tipo de usuario
 
-1.  **Restaurantes:**
+**b. Estas necesidades se pueden resolver con:**
+  - Un sistema que calcula lo que hay en el inventario en general y lo que se usa al día.
+  - Una base de datos que se actualiza cada vez que cambia y se use parte de lo que hay en el inventario.
+  - Un diseño que sea muy atractivo visualmente y a la vez entendible para gestionar el restaurante.
+  - Accesibilidad para su uso en distintos dispositivos según lo que el usuario usará.
 
--   Mejorar la eficiencia operativa en un 15% en la gestión de mesas, reservas y ventas dentro del primer año.
+**c. Mis clientes iniciales son (o serán):**
+  - La parte administrativa de un restaurante.
+  - Los proveedores o vendedores de alimentos para los restaurantes.
 
-3.  **Personal de Restaurante:**
+**d. El valor #1 que un cliente quiere de mi producto es veracidad (utilidad, funcionalidades que le resuelven el problema)**
+  - La garantía de que no habrá problemas en las cantidades con respecto al inventario por la base de datos.
+  - La comunicación de manera directa con el proveedor con respecto a la necesidad del restaurante.
 
--   Reducción del 20% en el tiempo dedicado a la gestión diaria de tareas tras implementar Re'Grill.
+**e. El cliente también puede obtener estos beneficios adicionales:**
+  - Obtener las cantidades de la merma que se obtiene al hacer un plato.
+  - Mejorar la administración del restaurante.          
 
-5.  **Clientes:**
+**f. Voy a adquirir la mayoría de mis clientes a través de:**
+  - Colaboración con un restaurante conocido.
+  - Estrategias de marketing digital con el enfoque en los distintos restaurantes.
 
--   Aumento en la satisfacción del cliente debido a una experiencia más organizada y eficiente.
+**g. Haré dinero a través de:**
+  - Membresías premium con acceso exclusivo y funciones adicionales
 
-**¿Qué está intentando conseguir el usuario?**
+**h. Mi competencia principal en el mercado:**
+  - Tiendas virtuales de restaurantes que se enfocan en las ventas.
+  - Páginas de gestión de restaurantes.
 
--   Restaurantes: Optimizar la gestión de operaciones y mejorar la coordinación entre reservas, ventas y control de inventarios.
+**i. Los venceremos debido a:**
+  - El diseño es atractivo y accesible para cualquier tipo de usuario ya sea la administración o el proveedor.
+  - La base de datos actualizada constantemente con respecto a la necesidad del usuario.
 
--   Personal de Restaurante: Reducir el tiempo y los errores en la administración diaria de tareas.
+**j. Mi mayor riesgo del producto es:**
+  - La desconfianza por parte de los restaurantes con respecto a la correcta función del programa al momento de tener días especiales.
+  - El mal cálculo del inventario al momento de mostrar las cantidades de cada producto que se encuentra disponible.
 
-**¿Cómo se quiere sentir el usuario?**
+**k. Resolveremos esto a través de:**
+  - Mostrando pruebas funcionales de esto y su adaptabilidad ante algún problema que se muestra de manera sorpresiva.
+  - Las constantes verificaciones que se realizará al momento de que se haga alguna compra.
 
--   Restaurantes y Personal: Sentir que las operaciones son más eficientes, organizadas y que el sistema mejora la experiencia general tanto para el personal como para los clientes.
-
-**¿Cómo nuestro producto lo acerca a su objetivo?**
-
--   Restaurantes: Proporciona una solución integral que unifica la gestión de mesas, reservas, inventarios y ventas, optimizando los procesos y reduciendo la carga administrativa.
-
--   Personal de Restaurante: Facilita la gestión de tareas diarias, mejorando la eficiencia operativa y la satisfacción en el trabajo.
-
-**¿Por qué nuestros usuarios se interesarían por nuestro producto?,¿Qué beneficio podrían obtener?**
-
--   Restaurantes: Mejora en la coordinación y eficiencia operativa, reducción de errores y costos, y una mejor experiencia para los clientes.
-
--   Personal de Restaurante: Simplificación en la gestión de tareas y un entorno de trabajo más organizado.
-
-**¿Qué cambio en su comportamiento veremos que nos dirá que nuestro objetivo ha sido logrado?**
-
--   Restaurantes y Personal: Uso consistente de la plataforma en la gestión diaria de operaciones. Esperamos ver una mejora significativa en la eficiencia operativa y una reducción en los problemas reportados. La tasa de retención y adopción de nuevos usuarios también será un indicador clave del éxito del producto.
+**l. ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio / proyecto no funcione?**
+  - Podrá ser que las estrategias de marketing que se usa podrán ayudar a obtener más compañías que le darán uso de la aplicación. En caso se muestre el contrario, podría afectar de manera negativa la inversión del negocio.
+  - Las ventas de las suscripciones para obtener más funciones que les será muy útil para mejorar su experiencia con la página. Si se prueba que es falso, afectaría de manera directa con la generación de ingresos y sostenibilidad del negocio.
 
 <h4 id="lean-ux-hypothesis">1.2.2.3. Lean UX Hypothesis Statements.</h4>
+
+**Adopción Tecnológica por Restaurantes Pequeños y Medianos:**
+Creemos que al ofrecer una plataforma asequible y fácil de implementar, podemos reducir las barreras de entrada para pequeños y medianos restaurantes, logrando que el 40% de ellos adopten la solución de Re'Grill en su primer año de lanzamiento. Esto permitirá que estos restaurantes mejoren la eficiencia operativa sin incurrir en altos costos tecnológicos.
+
+**Accesibilidad Económica:**
+Creemos que al ofrecer una solución rentable en comparación con los sistemas tecnológicos fragmentados o más caros en el mercado, podemos lograr que al menos el 60% de los restaurantes que evalúen Re'Grill lo consideren como su primera opción debido a su bajo costo de implementación y mantenimiento.
+
+**Adaptación del Personal a la Plataforma:**
+Creemos que al ofrecer una interfaz intuitiva y fácil de aprender, el personal operativo (cocina, servicio y gerentes) podrá adaptarse al uso de Re'Grill en un plazo máximo de 2 semanas, con una reducción del 25% en errores operativos relacionados con la falta de familiarización con la tecnología.
 
 **Mejora en la Eficiencia Operativa:** Creemos que al implementar un sistema integrado para la gestión de mesas, reservas, inventarios y ventas, podemos mejorar la eficiencia operativa de los restaurantes en un 15%. Esto se traducirá en una reducción de errores administrativos y una mejor coordinación entre las distintas áreas del restaurante.
 
@@ -400,16 +443,34 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 <img src="images/CANVAS.jpg">
 
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
+
 1. **Propietarios y Gerentes de Restaurantes Pequeños y Medianos:**
-   Este segmento incluye a dueños y gerentes de restaurantes que buscan optimizar sus operaciones diarias mediante la integración de funciones de gestión como reservas, mesas, cocina, ventas, inventario, y relación con proveedores. La propuesta de valor para este segmento es la mejora de la eficiencia operativa, la reducción del desperdicio, y una mayor satisfacción del cliente gracias a una plataforma todo-en-uno.
+
+<p> Edad: Personas mayores de 25 años.</p>
+<p>Sexo: Femenino o masculino.</p>
+<p>Ubicación: Generalmente localizados en áreas urbanas o semi-urbanas.</p>
+<p>Formación Educativa: No es un requisito específico, aunque muchos cuentan con experiencia o estudios en administración de negocios, gastronomía o áreas afines.</p>
+<p>Poder adquisitivo: Mediano o superior al promedio, interesados en invertir en tecnología que optimice la administración del restaurante.</p>
+<p>Clase Social: Media y Media-Alta.</p>
+<p>Hábitos de Consumo: Enfocados en la búsqueda de soluciones que simplifiquen la gestión diaria de sus restaurantes, desde la reserva de mesas hasta la administración de inventarios.</p>
 
 2. **Proveedor de Insumos para Restaurantes:**
-   Este segmento incluye a empresas y proveedores que suministran alimentos, bebidas, utensilios, y otros productos necesarios para el funcionamiento de los restaurantes. Re-Grill les ofrece una plataforma para interactuar directamente con los restaurantes, ver sus necesidades en tiempo real, y gestionar los pedidos de manera más eficiente. La propuesta de valor para este segmento es la simplificación del proceso de pedidos, reducción de errores de comunicación, y la posibilidad de establecer relaciones más sólidas con sus clientes restauranteros.
+
+<p>Edad: Adultos mayores de 30 años.</p>
+<p>Sexo: Femenino o masculino.</p>
+<p>Ubicación: Generalmente distribuidos en áreas comerciales o industriales.</p>
+<p>Formación Educativa: Personal con conocimientos en comercio, logística o administración de empresas.</p>
+<p>Poder adquisitivo: Medio-Alto, con capacidad para invertir en plataformas que optimicen la relación y gestión de pedidos con sus clientes restauranteros.</p>
+<p>Clase Social: Media-Alta y Alta.</p>
+<p>Hábitos de Consumo: Orientados a la optimización de procesos de distribución, reducción de errores en pedidos y mejora de las relaciones con clientes.</p>
+
 
 
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
 <h4 id="competitors">2.1. Competidores.</h4>
-Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, TouchBistro y Inforest.
+
+En esta sección se identifican los principales competidores que ofrecen productos digitales similares o parcialmente equivalentes. Entre ellos se destacan soluciones como Toast, TouchBistro e Inforest, cada uno con enfoques específicos en la gestión y la automatización en restaurantes.
+
 <h4 id="competitive-analysis">2.1.1. Análisis competitivo.</h4>
 
 # Competitive Analysis Landscape
@@ -560,17 +621,14 @@ Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, 
 * Edad: 25 años
 * Distrito donde vive: Lima
 
-* Link: [Click para ver la entrevista](https://www.youtube.com/watch?v=GwihqjCG-hs)
+
 
 * Momento en el que inicia: 0:00
 * Duracion: 2:25
 * Entrevistador: David Bryan Rodriguez Santos
 * Resumen:
 
-Entrevistada destaca como factores clave para el éxito del restaurante la buena calidad de la comida y el control del inventario. Considera esencial en un software de gestión la integración de los módulos, automatización de procesos y acceso móvil.
-El flujo típico en su restaurante incluye tomar pedidos, transmitirlos a la cocina, servir la comida y revisar las ventas. Los mayores desafíos son el control del inventario y la coordinación del personal.
-Le gustaría optimizar la gestión del inventario y automatizar el seguimiento del personal. Actualmente, usan un sistema POS, software de reservas y contabilidad, pero siente que la falta de integración entre ellos es un problema.
-
+Darla es una mujer de 25 años que vive en Lima. Destaca como factores clave para el éxito de un restaurante la buena calidad de la comida y el control del inventario. Considera esencial en un software de gestión la integración de los módulos, la automatización de procesos y el acceso móvil. El flujo típico en su restaurante incluye tomar pedidos, transmitirlos a la cocina, servir la comida y revisar las ventas. Los mayores desafíos que enfrenta son el control del inventario y la coordinación del personal. Le gustaría optimizar la gestión del inventario y automatizar el seguimiento del personal. Actualmente, usan un sistema POS, software de reservas y contabilidad, pero siente que la falta de integración entre ellos es un problema. Es soltera con ingresos medios y trabaja como gerente de restaurante. Utiliza principalmente smartphone y laptop, y se comunica a través de WhatsApp, correo electrónico y redes sociales profesionales. Es proactiva, orientada a la eficiencia, con habilidades en gestión de personal y operaciones. Está interesada en tecnologías innovadoras para la industria de la restauración. Sus objetivos son mejorar la eficiencia operativa del restaurante e implementar sistemas integrados de gestión. Sus frustraciones incluyen sistemas desconectados que dificultan el control total del negocio y la pérdida de tiempo en procesos manuales. Tiene cinco años de experiencia en la industria y busca constantemente maneras de innovar y mejorar la experiencia tanto para el personal como para los clientes.
 
 - Entrevista 2: Vanfic Gustavok
 
@@ -580,7 +638,7 @@ Le gustaría optimizar la gestión del inventario y automatizar el seguimiento d
 * Edad: 49 años
 * Distrito donde vive: Lima
 
-* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
 
 
 * Momento en el que inicia: 4:24
@@ -589,8 +647,9 @@ Le gustaría optimizar la gestión del inventario y automatizar el seguimiento d
 
 * Resumen:
 
-El entrevistado considera que un software de gestión de restaurantes debe incluir la gestión de mesas y reservas, el control de inventario, el seguimiento de ventas, la gestión de pedidos en cocina, la integración con proveedores, y capacidades de análisis y reportes financieros. Estas funciones permiten automatizar procesos y optimizar las operaciones diarias.
-
+Vanfic Gustavok es un hombre de 49 años que vive en Lima. Durante una entrevista con Mateo Loechle que comenzó en el minuto 4:24 y duró 2 minutos y 20 segundos, compartió su visión sobre las funcionalidades esenciales de un software de gestión de restaurantes. Vanfic cree que dicho software debe incluir gestión de mesas y reservas, control de inventario, seguimiento de ventas, gestión de pedidos en cocina, integración con proveedores y capacidades de análisis y reportes financieros. Considera que estas funciones son cruciales para automatizar procesos y optimizar las operaciones diarias.
+Como propietario de un restaurante desde hace más de diez años, ha experimentado las dificultades de manejar múltiples sistemas no integrados. Utiliza dispositivos como smartphones y laptops para sus tareas diarias y se comunica principalmente a través de correo electrónico y aplicaciones de mensajería instantánea. Valora la eficiencia y está en constante búsqueda de tecnologías que le permitan mejorar la gestión de su negocio.
+Vanfic se siente frustrado por la falta de integración entre los diferentes sistemas que utiliza actualmente, como el POS, el software de reservas y las herramientas de contabilidad. Su objetivo es encontrar una solución unificada que le facilite el control total de su negocio, reduciendo la carga de trabajo manual y minimizando errores. Es una persona detallista y orientada a la mejora continua, siempre buscando innovar y ofrecer una mejor experiencia tanto para su equipo como para sus clientes.
 
 - Entrevista 1: Anghelo Basauri
 
@@ -600,7 +659,7 @@ El entrevistado considera que un software de gestión de restaurantes debe inclu
 * Edad: 27 años
 * Distrito donde vive: Rimac
 
-* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 * Momento en el que inicia: 4:24
 * Duracion: 3:12
@@ -608,9 +667,8 @@ El entrevistado considera que un software de gestión de restaurantes debe inclu
 
 * Resumen:
 
-Entre los mayores desafíos, el entrevistado menciona el control preciso del inventario, garantizar la calidad constante de los platos, gestionar eficazmente al personal y proporcionar una excelente experiencia al cliente. Además, manejar la logística de los proveedores y las fluctuaciones en la demanda también son complicados.
- El entrevistado desea optimizar la gestión de inventario y pedidos, asegurando que siempre haya suficientes insumos sin sobrecargar el stock. También le gustaría automatizar la comunicación con los proveedores para reducir tiempos de respuesta y minimizar errores.
-
+Anghelo Basauri es un hombre de 27 años que vive en el distrito de Rímac. La entrevista, realizada por Hardie Holguín, comenzó a las 4:24 y tuvo una duración de 3 minutos y 12 segundos. Entre los mayores desafíos que menciona se encuentran el control preciso del inventario, garantizar la calidad constante de los platos, gestionar eficazmente al personal y proporcionar una excelente experiencia al cliente. También encuentra complicado manejar la logística de los proveedores y las fluctuaciones en la demanda.
+Anghelo desea optimizar la gestión de inventario y pedidos para asegurar que siempre haya suficientes insumos sin sobrecargar el stock. Le gustaría automatizar la comunicación con los proveedores para reducir tiempos de respuesta y minimizar errores. Es gerente de un restaurante y utiliza dispositivos como smartphones y laptops para sus tareas diarias. Se comunica principalmente a través de correo electrónico y aplicaciones de mensajería instantánea. Valora la tecnología como una herramienta para mejorar la eficiencia operativa y está interesado en soluciones que le ayuden a superar los desafíos mencionados.
 
 - Entrevista 1: Keyner Hancco
 
@@ -619,15 +677,15 @@ Entre los mayores desafíos, el entrevistado menciona el control preciso del inv
 * Edad: 25 años
 * Distrito donde vive: Santa Anita
 
-* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 * Momento en el que inicia: 7:10
 * Duracion: 5:32
 * Resumen: Hardie Holguín
 
 * Analisis:
-Para el entrevistado, la rapidez y precisión en el servicio son aspectos críticos, junto con la facilidad para realizar reservas y pedidos. También considera fundamental mejorar la comunicación entre el personal y los clientes para garantizar que sus necesidades sean atendidas eficientemente.
-En general, el entrevistado está satisfecho con las herramientas que utiliza, aunque cree que siempre hay margen de mejora. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
+
+Keyner Hancco es un hombre de 25 años que vive en Santa Anita. Fue entrevistado por Hardie Holguín, comenzando a las 7:10 y con una duración de 5 minutos y 32 segundos. Para él, la rapidez y precisión en el servicio son aspectos críticos, junto con la facilidad para realizar reservas y pedidos. Considera fundamental mejorar la comunicación entre el personal y los clientes para garantizar que sus necesidades sean atendidas eficientemente. En general, está satisfecho con las herramientas que utiliza, aunque cree que siempre hay margen de mejora. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante. Es soltero, supervisor en un restaurante de comida rápida, con ingresos medios. Utiliza smartphone y tablet, y se comunica a través de WhatsApp, correo electrónico y aplicaciones de gestión de restaurantes. Es proactivo, orientado al cliente, con habilidades en gestión de equipos y resolución de problemas. Está interesado en tecnología móvil y aplicaciones que mejoren la eficiencia operativa. Sus objetivos son mejorar la experiencia del cliente mediante servicios más rápidos y precisos e implementar sistemas que faciliten las reservas y pedidos en línea. Sus frustraciones incluyen herramientas poco intuitivas que dificultan el flujo de trabajo e integración deficiente con proveedores que causa demoras. Tiene cinco años de experiencia en la industria de la restauración y siempre busca formas de implementar soluciones digitales que mejoren tanto la eficiencia operativa como la satisfacción del cliente.
 
 - Entrevista 1: Elismar Sarmiento
 
@@ -637,8 +695,7 @@ En general, el entrevistado está satisfecho con las herramientas que utiliza, a
 * Edad: 25 años
 * Distrito donde vive: Callao
 
-* Link: [Click para ver la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
-
+* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
 * Momento en el que inicia: 12:57
@@ -646,57 +703,112 @@ En general, el entrevistado está satisfecho con las herramientas que utiliza, a
 * Entrevistador: Gabriel Braihuate
 * Resumen:
 
- El entrevistado utiliza un software de gestión que integra la toma de pedidos, la gestión de inventario, las reservas y el procesamiento de pagos. También emplea herramientas de análisis de datos para entender mejor las tendencias de consumo y ajustar la oferta en consecuencia. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
-
+Elismar Sarmiento es una mujer de 25 años que vive en Pueblo Libre, Lima, Perú. Está casada y tiene ingresos medios. Utiliza Google Chrome como buscador principal y LinkedIn es su canal principal de interacción digital. Trabaja en el área de proveedores, donde sus funciones incluyen el contacto directo con clientes, organizar pedidos y entregas, y gestionar la información relacionada. Cree que la calidad de los alimentos utilizados en los restaurantes es clave para su éxito y que la tecnología es importante para la gestión y comunicación con los clientes. Ofrece productos de alta calidad como verduras, frutas, lácteos y especias, principalmente a restaurantes, casinos y hoteles. Utiliza WhatsApp y Outlook para comunicarse y Excel para gestionar los pedidos, pero no está completamente satisfecha con estas herramientas porque le resulta tedioso transferir datos del correo a Excel y a veces los pedidos se pierden en WhatsApp o correo debido al gran volumen de mensajes. Su principal dificultad es la comunicación con sus clientes.
 
 <h4 id="interviews-analysis">2.2.3. Análisis de entrevistas.</h4>
 
- <p>Administrador de Restaurante:</p>
-<p>Durante las entrevistas con administradores de restaurante, se identificaron varios puntos clave que destacan sus principales necesidades y desafíos. En primer lugar, señalaron la importancia de contar con un sistema eficiente para gestionar las reservas y la asignación de mesas, ya que una mala organización en este aspecto puede afectar negativamente la experiencia del cliente. Además, enfatizaron la necesidad de una herramienta integral que permita un control exhaustivo del inventario y de los proveedores, lo cual impacta directamente en la reducción de costos y en la optimización del proceso de abastecimiento. Otro aspecto recurrente fue la importancia de generar reportes y estadísticas en tiempo real, especialmente en relación con las ventas, el desperdicio de alimentos, y el uso de ingredientes. Los administradores también valoran la capacidad de tener un cierre de caja detallado y preciso, así como una visión clara de la rentabilidad de cada plato para mejorar la toma de decisiones estratégicas.</p>
+#### Administrador de Restaurante:
 
- <p> Proveedor:</p>
- <p>En cuanto a los proveedores, las entrevistas revelaron que su principal interés radica en la simplificación y mejora de la comunicación con los restaurantes. Mencionaron la importancia de contar con un sistema que les permita gestionar pedidos de manera más ágil y estructurada, evitando errores y reduciendo el tiempo de espera entre la orden y la entrega. Asimismo, expresaron la necesidad de tener visibilidad sobre las previsiones de demanda y el historial de compras de los restaurantes, lo que les ayudaría a planificar mejor su producción y entrega. Los proveedores también señalaron que valoran los sistemas que permiten una integración directa con los inventarios de los restaurantes, de modo que puedan ajustar sus ofertas y volúmenes de productos según las necesidades reales del cliente, mejorando así la eficiencia en toda la cadena de suministro.</p>
+Durante las entrevistas con los administradores de restaurante, se identificaron varios puntos clave que destacan sus principales necesidades y desafíos. En primer lugar, enfatizaron la importancia de contar con un sistema eficiente para gestionar las reservas y la asignación de mesas, ya que una mala organización en este aspecto puede afectar negativamente la experiencia del cliente. Asimismo, señalaron la necesidad de una herramienta integral que permita un control exhaustivo del inventario y de los proveedores, lo cual impacta directamente en la reducción de costos y en la optimización del proceso de abastecimiento.
+Un tema recurrente fue la importancia de generar reportes y estadísticas en tiempo real, especialmente en relación con las ventas, el desperdicio de alimentos y el uso de ingredientes. Los administradores valoran la capacidad de tener un cierre de caja detallado y preciso, así como una visión clara de la rentabilidad de cada plato para mejorar la toma de decisiones estratégicas. También destacaron desafíos como garantizar la calidad constante de los platos, gestionar eficazmente al personal y mejorar la comunicación entre el equipo y los clientes para atender sus necesidades de manera eficiente.
+Además, manifestaron que la falta de integración entre los sistemas actuales (como POS, software de reservas y contabilidad) es un problema común. Desean herramientas más intuitivas que permitan una mejor integración con los proveedores y la personalización de reportes. La automatización de procesos, como el seguimiento del personal y la gestión de pedidos en cocina, fue mencionada como una mejora importante para optimizar las operaciones diarias.
+
+#### Proveedor:
+
+En cuanto a los proveedores, las entrevistas revelaron que su principal interés radica en la simplificación y mejora de la comunicación con los restaurantes. Mencionaron la importancia de contar con un sistema que les permita gestionar pedidos de manera más ágil y estructurada, evitando errores y reduciendo el tiempo de espera entre la orden y la entrega. La comunicación a través de herramientas como WhatsApp y correo electrónico a veces resulta ineficiente, llevando a la pérdida de pedidos y a procesos tediosos como la transferencia manual de datos.
+Los proveedores expresaron la necesidad de tener visibilidad sobre las previsiones de demanda y el historial de compras de los restaurantes, lo que les ayudaría a planificar mejor su producción y entrega. También valoran los sistemas que permiten una integración directa con los inventarios de los restaurantes, de modo que puedan ajustar sus ofertas y volúmenes de productos según las necesidades reales del cliente, mejorando así la eficiencia en toda la cadena de suministro. Consideran que la tecnología juega un rol crucial en modernizar estas interacciones y en facilitar una gestión más eficiente y efectiva de los pedidos y comunicaciones.
 
 <h4 id="needfinding">2.3. Needfinding.</h4>
 <h4 id="user-personas">2.3.1. User Personas.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Martín es un proveedor de insumos gastronómicos de 42 años. Su principal objetivo es establecer relaciones comerciales duraderas con restaurantes, automatizar pedidos y ofrecer un servicio confiable. Tiene buena organización, pero nivel medio en tecnología. Está frustrado por la falta de sistemas centralizados y la competencia que ofrece precios bajos. Prefiere canales como LinkedIn y las interacciones cara a cara.
+
 <img src = "/images/user-persona/user-persona-1.png" alt="User Persona 1"/>
 
 #### Segmento: Proveedor
+
+Laura es administradora de un restaurante de 45 años. Busca optimizar la gestión, reducir desperdicios y mejorar la satisfacción del cliente. Tiene experiencia en organización y se maneja bien con la tecnología. Sus principales frustraciones son la falta de integración de sistemas y el desperdicio de insumos. Sus canales favoritos son Facebook, LinkedIn y las interacciones cara a cara.
+
 <img src = "/images/user-persona/user-persona-2.png" alt="User Persona 2"/>
 
 <h4 id="user-task-matrix">2.3.2. User Task Matrix.</h4>
 
-| Tarea                                  | Persona               | Frecuencia | Importancia |
-|----------------------------------------|-----------------------|------------|-------------|
-| Gestionar inventario y stock           | Laura, Administradora | Diaria     | Alta        |
-| Coordinar pedidos con proveedores      | Laura, Administradora | Semanal    | Alta        |
-| Gestionar comunicación con proveedores | Laura, Administradora | Diaria     | Media       |
-| Revisar reportes de ventas             | Laura, Administradora | Semanal    | Alta        |
+
+| **Tareas**                                        | **Frecuencia** | **Usuario Principal** | **Objetivo del Usuario**                                                                 | **Frustraciones del Usuario**                                                                 | **Oportunidades de la Plataforma**                                                                                           |
+|---------------------------------------------------|----------------|-----------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Gestionar pedidos de insumos**                  | Diaria          | Ambos                 | Laura solicita insumos y Martín los procesa y gestiona                                  | Laura: Dificultad para controlar el inventario <br> Martín: Errores manuales en los pedidos    | Automatización en tiempo real de los pedidos y gestión del inventario para reducir errores y mejorar tiempos de entrega.      |
+| **Coordinar entregas y logística**                | Diaria          | Ambos                 | Martín organiza el envío y Laura recibe los insumos puntualmente                        | Laura: Entregas retrasadas <br> Martín: Mala coordinación logística                           | Sistema de seguimiento en tiempo real que notifique a ambos usuarios del estado de las entregas.                              |
+| **Monitorear niveles de stock**                   | Semanal         | Laura                 | Mantener el stock en niveles óptimos para evitar escasez o sobreabastecimiento           | Laura: Desperdicio de insumos o escasez de productos                                          | Plataforma que automatice la actualización de stock, basada en los pedidos y las ventas del restaurante.                      |
+| **Actualizar catálogo de productos**              | Semanal         | Martín                | Asegurar que sus clientes vean los productos disponibles y ofertas                      | Martín: Falta de visibilidad de su catálogo de productos                                      | Sección centralizada donde Martín pueda actualizar su catálogo y Laura acceda a él en tiempo real, incluyendo ofertas.        |
+| **Negociar condiciones de compra y precios**      | Mensual         | Ambos                 | Laura busca precios competitivos y Martín quiere establecer relaciones comerciales sólidas | Martín: Competencia con precios bajos <br> Laura: Falta de opciones competitivas            | Funcionalidad para negociar directamente desde la plataforma, agilizando acuerdos y condiciones comerciales.                   |
+| **Generar y enviar facturas**                     | Semanal         | Ambos                 | Martín necesita facturar y Laura debe controlar los gastos del restaurante               | Martín: Falta de automatización en la facturación <br> Laura: Problemas para controlar costos | Facturación automática vinculada a los pedidos, con reportes que faciliten la administración y el control financiero.         |
+| **Revisar informes de pedidos y consumo**         | Mensual         | Ambos                 | Evaluar el rendimiento de los productos, las ventas y los pedidos                        | Laura: Falta de información clara sobre el uso de insumos <br> Martín: Poca visibilidad de ventas | Informes detallados que incluyan estadísticas de pedidos, ventas y stock, para tomar mejores decisiones estratégicas.        |
+| **Ofrecer descuentos y promociones**              | Ocasional       | Martín                | Atraer nuevos clientes y fidelizar a los actuales                                        | Martín: Poca visibilidad de sus ofertas                                                       | Plataforma que permita la creación y promoción de descuentos y ofertas, visibles para clientes como Laura.                    |
+| **Gestionar devoluciones y reclamos**             | Ocasional       | Ambos                 | Resolver incidencias relacionadas con la calidad o entrega de los insumos                | Laura: Mala calidad o entregas tardías <br> Martín: Reclamos que afectan la relación comercial | Integrar una funcionalidad para gestionar devoluciones y reclamos, facilitando la comunicación y resolución rápida.            |
+| **Capacitar al equipo en nuevas herramientas**    | Ocasional       | Laura                 | Asegurar que su equipo use eficientemente la plataforma para optimizar operaciones       | Laura: Dificultad de su equipo para adaptarse a nuevas tecnologías                            | Tutoriales integrados en la plataforma y soporte técnico para facilitar el aprendizaje del equipo de Laura.                   |
+| **Solicitar informes de disponibilidad de productos** | Ocasional    | Laura                 | Verificar la disponibilidad de productos antes de hacer pedidos                         | Laura: Falta de información actualizada sobre la disponibilidad                               | Sistema en tiempo real que muestre la disponibilidad de insumos, facilitando la planificación de pedidos.                    |
+
+
+| **Tarea**                             | **Persona**                                                                                             | **Frecuencia** | **Importancia** |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|-----------------|
+| 1. Revisar pedidos de insumos         | Martin, Proveedor                                                                                       | Diaria         | Alta            |
+| 2. Ofertar productos                  | Martín, Proveedor                                                                                       | Diaria         | Alta            |
+| 3. Confirmar recepción de pagos       | Martín, Proveedor                                                                                       | Semanal        | Media           |
+| 4. Actualizar catálogo de productos   | Martín, Proveedor                                                                                       | Mensual        | Alta            |
+| 5. Coordinar entregas                 | Martín, Proveedor                                                                                       | Diaria         | Alta            |
 
 <h4 id="user-journey-mapping">2.3.3. User Journey Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Los usuarios sienten ansiedad por la curva de aprendizaje del equipo, lo que destaca la necesidad de mejorar la accesibilidad del producto y ofrecer tutoriales más fáciles de seguir.
+A pesar de la satisfacción con la reducción de desperdicios, los usuarios expresan frustraciones con la interfaz, lo que sugiere oportunidades para recibir retroalimentación constante y mejorar la usabilidad del sistema.
+
 <img src="/images/user-journey-mapping/user-journey-mapping-1.png" alt="user-journey-mapping-1">
 
 #### Segmento: Proveedor
+
+Los usuarios buscan automatizar la gestión de pedidos, pero tienen preocupaciones sobre la compatibilidad con sus sistemas actuales, lo que indica la importancia de resaltar la facilidad de integración en los materiales promocionales.
+Aunque se muestra satisfacción con la reducción de errores, los usuarios aún experimentan frustraciones con algunos aspectos de la interfaz, lo que señala la necesidad de mejorar y personalizarla, especialmente para proveedores.
+
 <img src="/images/user-journey-mapping/user-journey-mapping-2.png" alt="user-journey-mapping-2">
 
 <h4 id="empathy-mapping">2.3.4. Empathy Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Los usuarios sienten ansiedad por posibles fallas del sistema y buscan mejorar la eficiencia del personal, sintiendo alivio cuando las operaciones fluyen sin problemas.
+Escuchan quejas de clientes sobre demoras en pedidos, sugerencias del personal para mejorar procesos y notificaciones del sistema sobre inventarios bajos.
+Suelen ver informes de stock y ventas, menús, listas de precios, reservas y pedidos en línea, además de los movimientos del personal.
+
 <img src="/images/empathy-map/empathy-map-1.png" alt="empathy-mapping-1">
 
 #### Segmento: Proveedor
+
+Los usuarios se preocupan por la exactitud y puntualidad de los pedidos, con ansiedad sobre la compatibilidad de NoNucleus con sus sistemas actuales, aunque sienten alivio cuando las entregas son sin complicaciones.
+Escuchan comentarios sobre la puntualidad de los pedidos, sugerencias de clientes para mejorar la entrega y notificaciones del sistema sobre nuevos pedidos.
+Observan detalles de pedidos recibidos y pendientes en NoNucleus, notificaciones de cambios en las solicitudes y reportes sobre cantidad y tiempos de entrega.
+
 <img src="/images/empathy-map/empathy-map-2.png" alt="empathy-mapping-2">
 
 <h4 id="as-is-scenario-mapping">2.3.5. As-is Scenario Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Pasos y acciones: Llega temprano, revisa inventario y stock, asigna tareas al personal, supervisa las operaciones, resuelve problemas del día y cierra revisando ventas e inventario.
+Pensamientos: Preocupación por el stock y las responsabilidades del personal, buscando asegurar eficiencia en el servicio y resolver problemas rápidamente. Al final del día, reflexiona sobre posibles mejoras para mañana.
+Sentimientos: Preocupación, ansiedad al inicio del día, satisfacción tras una buena jornada, frustración ante problemas y alivio al cerrar el día.
+
 <img src="/images/as-is-scenary-map/as-is-scenary-map-1.png" alt="as-is-scenary-map-1"/>
 
 #### Segmento: Proveedor
+
+Pasos y acciones: Inicia revisando pedidos, verifica que estén organizados, coordina las rutas de entrega, supervisa las entregas, recibe feedback y actualiza NoNucleus.
+Pensamientos: Preocupación por el stock y la organización de los pedidos, buscando que las entregas sean puntuales y sin errores. Reflexiona sobre problemas potenciales y cómo mejorar la próxima vez.
+Sentimientos: Preocupación y ansiedad al inicio, determinación durante el proceso, frustración si surgen problemas y alivio tras recibir feedback y cerrar el día.
+
 <img src="/images/as-is-scenary-map/as-is-scenary-map-2.png" alt="as-is-scenary-map-2"/>
 
 <h4 id="ubiquitous-language">2.4. Ubiquitous Language.</h4>
@@ -1045,8 +1157,6 @@ Representa los productos o platos disponibles en el restaurante. Permite la gest
 Representa el inventario del restaurante, incluyendo la cantidad de productos disponibles y su gestión.
 #### Invoice
 
-Representa las facturas generadas por los pedidos. Permite la creación y visualización de facturas para los clientes.
-#### Supplier
 
 Representa a los proveedores que suministran productos al restaurante. Gestiona los productos suministrados y el contacto con el proveedor.
 #### KitchenOrder
@@ -1084,12 +1194,12 @@ configuración de despliegue del software.</p>
 
 <p><strong>Discord:</strong><br>
 Discord ha sido la herramienta principal de comunicación y coordinación del equipo. Se ha utilizado para realizar reuniones virtuales, mantener discusiones continuas sobre el progreso del proyecto, y para compartir recursos y actualizaciones de forma eficiente.<br>
-<strong>Ruta de referencia:</strong> <a href="https://discord.com/">Discord</a>
+<strong>Ruta de referencia:</strong> <a href="https://discord.com/">discord.com/</a>
 </p>
 
 <p><strong>Trello:</strong><br>
 Trello se ha para la gestión del proyecto, permitiendo la visualización y actualización del estado de tareas y sprints en los que trabaja el equipo. Aunque su uso ha sido ocasional, ha proporcionado una estructura básica para el seguimiento de actividades.<br>
-<strong>Ruta de referencia:</strong> <a href="https://trello.com/">Trello</a>
+<strong>Ruta de referencia:</strong> <a href="https://trello.com/">trello.com/</a>
 </p>
 
 <h4>Product UX/UI Design</h4>
@@ -1103,8 +1213,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <p><strong>Rutas de referencia:</strong></p>
 <ul>
-    <li><a href="https://www.figma.com/login" target="_blank">Figma</a></li>
-    <li><a href="https://www.lucidchart.com/" target="_blank">LucidChart</a></li>
+    <li><a href="https://www.figma.com/login" target="_blank">www.figma.com/login</a></li>
+    <li><a href="https://www.lucidchart.com/" target="_blank">www.lucidchart.com/</a></li>
 </ul>
 
 <h4>Software Development</h4>
@@ -1112,16 +1222,16 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <p>Para el desarrollo del software, se han seleccionado las siguientes herramientas y tecnologías, con el fin de proporcionar un entorno robusto y eficiente para el desarrollo del proyecto:</p>
 
 <ul>
-    <li><strong>IntelliJ IDEA Ultimate:</strong> Un entorno de desarrollo integrado (IDE) potente y completo, que ofrece herramientas avanzadas para el desarrollo de aplicaciones. Será utilizado para escribir, depurar y gestionar el código del proyecto, aprovechando sus características de soporte para múltiples lenguajes y sistemas de control de versiones.</li>
+    <li><strong>WebStorm</strong> Un entorno de desarrollo integrado (IDE) potente y completo, que ofrece herramientas avanzadas para el desarrollo de aplicaciones. Será utilizado para escribir, depurar y gestionar el código del proyecto, aprovechando sus características de soporte para múltiples lenguajes y sistemas de control de versiones.</li>
     <li><strong>HTML5:</strong> El lenguaje estándar de marcado para la creación de páginas web. Será empleado en el desarrollo del frontend de la aplicación, estructurando el contenido de manera semántica y accesible.</li>
     <li><strong>CSS:</strong> Hojas de estilo en cascada utilizadas para diseñar y estilizar la presentación visual de la aplicación web. Permitirá definir el diseño responsivo y adaptativo del frontend.</li>
 </ul>
 
 <p><strong>Rutas de referencia:</strong></p>
 <ul>
-    <li><a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA Ultimate</a></li>
-    <li><a href="https://www.w3schools.com/html/html5_syntax.asp" target="_blank">HTML5</a></li>
-    <li><a href="https://google.github.io/styleguide/htmlcssguide.html" target="_blank">CSS</a></li>
+    <li><a href="https://www.jetbrains.com/webstorm/" target="_blank">www.jetbrains.com/webstorm/</a></li>
+    <li><a href="https://lenguajehtml.com/html/" target="_blank">lenguajehtml.com/html/</a></li>
+    <li><a href="https://google.github.io/styleguide/htmlcssguide.html" target="_blank">google.github.io/styleguide/htmlcssguide.html</a></li>
 </ul>
 
 <h4>Software Deployment</h4>
@@ -1129,14 +1239,13 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <p>En esta sección, se detallan las herramientas y plataformas utilizadas para el despliegue de las aplicaciones desarrolladas, garantizando que estén accesibles y operativas en el entorno de producción.</p>
 
 <ul>
-    <li><strong>Git:</strong> Una herramienta de control de versiones que facilita el registro y la gestión de las distintas versiones del software desarrollado. Su propósito es mantener un historial de cambios y simplificar la corrección de errores. Los integrantes del equipo acceden a través de la línea de comandos en sus sistemas locales.</li>
-    <li><strong>GitHub:</strong> Una plataforma en la nube que hospeda los repositorios de código del proyecto. Permitirá la colaboración en tiempo real y la revisión de contribuciones de cada miembro del equipo.</li>
+    <li><strong>GitHub Pages:</strong> Un servicio de alojamiento web estático que se integra con los repositorios de GitHub. Será utilizado para desplegar la landing page del proyecto, proporcionando un enlace accesible para los usuarios finales.
+    
 </ul>
 
 <p><strong>Rutas de referencia:</strong></p>
 <ul>
-    <li><a href="https://git-scm.com/" target="_blank">Git</a></li>
-    <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+    <li><a href="https://github.com/" target="_blank">github.com/</a></li>
 </ul>
 
 <h4>Software Documentation</h4>
@@ -1149,7 +1258,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <p><strong>Ruta de referencia:</strong></p>
 <ul>
-    <li><a href="https://github.com/" target="_blank">GitHub</a></li>
+    <li><a href="https://github.com/" target="_blank">github.com</a></li>
 </ul>
 
 <h4 id="source-code">5.1.2. Source Code Management.</h4>
@@ -1158,8 +1267,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <h4>Repositorios de GitHub</h4>
 <ul>
-    <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55/landing-page">Repositorio Landing Page</a></li>
-    <li><strong>Project Report</strong>: <a href="https://github.com/grupo3-upc202402-wx55/project_report">Repositorio del project report</a></li>
+    <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55/landing-page">github.com/grupo3-upc202402-wx55/landing-page</a></li>
+    <li><strong>Project Report</strong>: <a href="https://github.com/grupo3-upc202402-wx55/project_report">github.com/grupo3-upc202402-wx55/project_report</a></li>
     
 </ul>
 <p>Cada repositorio alojará el código fuente correspondiente a su respectivo producto, además de incluir archivos de pruebas unitarias e integración en el caso de los Web Services.</p>
@@ -1191,7 +1300,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Atributos:</strong> Usa comillas dobles para los valores de los atributos: &lt;img src="imagen.jpg" alt="Descripción"&gt;. Especifica siempre los atributos alt y las dimensiones width y height en las imágenes.</li>
     <li><strong>Indentación y Espaciado:</strong> Usa dos espacios para la indentación. No uses espacios alrededor de los signos de igual en los atributos.</li>
 </ul>
-<p><a href="https://html.spec.whatwg.org/">Referencia</a></p>
+<p><a href="https://html.spec.whatwg.org/">html.spec.whatwg.org</a></p>
 
 <h4>CSS</h4>
 <ul>
@@ -1200,7 +1309,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Nombres de Clases:</strong> Utiliza nombres de clase significativos que reflejen el propósito del elemento. Evita los nombres de clases genéricos como .box o .container.</li>
     <li><strong>Organización:</strong> Agrupa las reglas CSS relacionadas en un solo bloque.</li>
 </ul>
-<p><a href="https://google.github.io/styleguide/htmlcssguide.html">Referencia</a></p>
+<p><a href="https://google.github.io/styleguide/htmlcssguide.html">google.github.io/styleguide/htmlcssguide.html</a></p>
 
 <h4>JavaScript</h4>
 <ul>
@@ -1209,7 +1318,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Nombres de Variables y Funciones:</strong> Usa nombres descriptivos y en camelCase para variables y funciones. Por ejemplo, getUserInfo en lugar de getuserinfo.</li>
     <li><strong>Estructura del Código:</strong> Usa funciones y módulos para mantener el código organizado y reutilizable. Evita el uso de código no utilizado y realiza limpieza regularmente.</li>
 </ul>
-<p><a href="https://google.github.io/styleguide/jsguide.html">Referencia</a></p>
+<p><a href="https://google.github.io/styleguide/jsguide.html">google.github.io/styleguide/jsguide.html</a></p>
 
 <h4>TypeScript</h4>
 <ul>
@@ -1218,7 +1327,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Nombres de Variables y Funciones:</strong> Usa camelCase para variables y funciones. Usa PascalCase para nombres de clases e interfaces.</li>
     <li><strong>Tipos:</strong> Especifica tipos explícitos en las variables y las funciones para mayor claridad y seguridad de tipo.</li>
 </ul>
-<p><a href="https://google.github.io/styleguide/tsguide.html">Referencia</a></p>
+<p><a href="https://google.github.io/styleguide/tsguide.html">google.github.io/styleguide/tsguide.html</a></p>
 
 <h4>Java</h4>
 <ul>
@@ -1227,14 +1336,14 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>Nombres de Variables y Funciones:</strong> Usa camelCase para nombres de variables y métodos. Usa PascalCase para nombres de clases.</li>
     <li><strong>Organización del Código:</strong> Sigue la estructura de paquetes recomendada y organiza el código en clases y métodos claros.</li>
 </ul>
-<p><a href="https://google.github.io/styleguide/javaguide.html">Referencia</a></p>
+<p><a href="https://google.github.io/styleguide/javaguide.html">google.github.io/styleguide/javaguide.html</a></p>
 
 <h4>Gherkin (para archivos .feature)</h4>
 <ul>
     <li><strong>Estructura de las Características:</strong> Usa Feature, Scenario, Given, When, Then para estructurar los archivos .feature.</li>
     <li><strong>Nombres y Descripciones:</strong> Usa descripciones claras y concisas en inglés. Usa un formato de verbo en presente para los pasos del escenario.</li>
 </ul>
-<p><a href="https://cucumber.io/docs/gherkin/reference/">Referencia</a></p>
+<p><a href="https://cucumber.io/docs/gherkin/reference/">cucumber.io/docs/gherkin/reference/</a></p>
 
 <h4 id="software-deployment-configuration">5.1.4. Software Deployment Configuration.</h4>
 
@@ -1253,6 +1362,35 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
       <li><strong>Configurar GitHub Pages:</strong> En GitHub, nos dirigimos a la pestaña <code>Settings</code> del repositorio, luego a <code>Pages</code>. Seleccionamos el branch <code>"main"</code> y especificamos la carpeta <code>"docs"</code> como la fuente de la página.</li>
       <li><strong>Esperar la publicación:</strong> Esperamos a que GitHub realice las comprobaciones necesarias. Una vez finalizado el proceso, obtendremos un enlace que llevará a la landing page desplegada.</li>
    </ol>
+
+<h4>Frontend Web Application Deployment</h4>
+
+<p>
+  Para el despliegue de la aplicación frontend desarrollada en Angular, se utilizó
+  GitHub Pages como plataforma de hosting estático. Los pasos seguidos para desplegar
+  fueron los siguientes:
+</p>
+
+<ol>
+  <li>
+    <strong>Construcción del Proyecto</strong>: Se utilizó el comando
+    <code>ng build --prod</code> para generar los archivos de producción del
+    proyecto Angular. Este proceso optimiza los archivos estáticos y genera la
+    carpeta <code>dist/</code>.
+  </li>
+
+  <li>
+    <strong>Configuración de GitHub Pages</strong>: Se empleó la herramienta
+    <code>angular-cli-ghpages</code> para realizar el despliegue en la rama
+    <code>gh-pages</code> del repositorio. El comando <code>ng deploy</code>
+    ejecuta el proceso de construcción y despliegue de manera automática.
+  </li>
+</ol>
+
+<h4>Web Services Deployment</h4>
+<p>Se ha utilizado una <em>FakeAPI</em> para simular los Web Services que interactúan con nuestra aplicación. Esto nos ha permitido avanzar con el desarrollo y las pruebas de las funcionalidades del Frontend, sin necesidad de implementar servicios en tiempo real. Sin embargo, para futuros Sprints, se tiene planificada la implementación de Web Services reales, y su configuración será detallada en los siguientes ciclos de desarrollo.</p>
+
+<p>A medida que los Web Services sean desarrollados e implementados, se incluirá la documentación relacionada con los endpoints y su despliegue, así como la configuración necesaria para integrarlos en el entorno de producción.</p>
 
 <h4 id="landing-page-services-applications-implementation">5.2. Landing Page, Services & Applications Implementation.</h4>
 <p>
@@ -1298,7 +1436,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
     <tr>
         <td>Sprint 1 Goal </td>
-        <td>Desarrollar una landing page atractiva para Re-Grill, diseñada para captar la atención de los visitantes y comunicar de manera efectiva los beneficios del producto. El cumplimiento se medirá en función de la finalización del diseño, la implementación y la puesta en producción de la landing page.</td>
+        <td>Our focus is on developing an attractive landing page for Re-Grill. We believe it delivers increased engagement and awareness of the product to potential customers. This will be confirmed when the landing page is live and visitor analytics show an increase in page interactions.</td>
     </tr>
     <tr>
         <td>Sprint 1 Velocity </td>
@@ -1312,7 +1450,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <h4 id="spring-backlog-x">5.2.1.2. Sprint Backlog 1.</h4>
 
 <p>El Sprint Backlog para el Sprint #1 tiene como objetivo principal el desarrollo de una landing page para Re-Grill. Este sprint se centrará en la creación y despliegue de una página web atractiva que comunique de manera efectiva los beneficios del producto. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
-<p><a href="https://trello.com/b/LSbTHu4A/open-source">Link a Trello</a></p>
+<p><a href="https://trello.com/b/LSbTHu4A/open-source">trello.com/b/LSbTHu4A/open-source</a></p>
 
 <table>
     <tr>
@@ -1335,48 +1473,81 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Assigned To</td>
         <td>Status (To-do/In Process / To Review / Done)</td>
     </tr>
-<!--US01 -->  
+<!--US06 -->  
     <tr>
-        <td>US01</td>
-        <td>Crear Wireframe de la Landing Page</td>
+        <td>US06</td>
+        <td>Landing page - Estructuración</td>
         <td>WI01</td>
-        <td>Definir estructura de la página</td>
-        <td>Definir la estructura y los elementos principales de la landing page, incluyendo la ubicación de los elementos y la jerarquía visual.</td>
-        <td>4</td>
+        <td>Implementar navegación entre secciones de la landing page</td>
+        <td>Implementar mecanismos de navegación (enlaces, menús) que permitan al visitante moverse fácilmente entre las diferentes secciones de la landing page.</td>
+        <td>5</td>
         <td>Adrian Alonso Calle Huayanca</td>
         <td>Done</td>
     </tr>
-<!--US02 --> 
+<!--US07 --> 
     <tr>
-        <td>US02</td>
-        <td>Desarrollar la Landing Page</td>
+        <td>US07</td>
+        <td>Landing page – Contenido informativo</td>
         <td>WI02</td>
-        <td>Implementar el diseño de la página</td>
-        <td>Desarrollar la landing page siguiendo el wireframe definido, incluyendo la estructura HTML y los estilos CSS necesarios.</td>
-        <td>12</td>
-        <td>Hardie Alfonso Holguín Gamarra / Mateo Italo Loechle Arias </td>
+        <td>Desarrollar contenido informativo claro y accesible</td>
+        <td>Redactar y estructurar el contenido informativo sobre las funcionalidades y beneficios de la aplicación para garantizar que los visitantes puedan tomar decisiones informadas.</td>
+        <td>13</td>
+        <td>Mateo Italo Loechle Arias </td>
         <td>Done</td>
     </tr>
-<!--US03 --> 
+<!--US08 --> 
     <tr>
-        <td>US03</td>
-        <td>Revisar y Ajustar la Landing Page</td>
+        <td>US08</td>
+        <td>Landing page - Compatibilidad móvil</td>
         <td>WI03</td>
-        <td>Realizar pruebas y ajustes</td>
-        <td>Revisar la landing page para identificar posibles mejoras y ajustes. Realizar pruebas de usabilidad y correcciones necesarias.</td>
-        <td>6</td>
-        <td>David Bryan Rodriguez Santos</td>
+        <td>Implementar diseño responsivo en la landing page</td>
+        <td>Desarrollar y probar el diseño responsivo de la landing page para garantizar que se visualice y funcione correctamente en dispositivos móviles.</td>
+        <td>8</td>
+        <td>Gabriel Anthony Braithuaite Toledo </td>
         <td>Done</td>
     </tr> 
-<!--US04 -->
+<!--US09 -->
     <tr>
-        <td>US04</td>
-        <td>Desplegar la Landing Page</td>
+        <td>US09</td>
+        <td>Landing page - Formulario de contacto</td>
         <td>WI04</td>
-        <td>Configurar el despliegue</td>
-        <td>Configurar el despliegue de la landing page en un entorno de producción. Asegurar que la página esté accesible y funcional.</td>
+        <td>Desarrollar formulario de contacto en la landing pagee</td>
+        <td>Implementar un formulario de contacto que permita a los visitantes enviar sus consultas y comentarios.</td>
         <td>8</td>
-        <td>Gabriel Anthony Braithuaite Toledo</td>
+        <td>Hardie Alfonso Holguín Gamarra </td>
+        <td>Done</td>
+    </tr>
+<!--US10 -->
+    <tr>
+        <td>US10</td>
+        <td>Landing page - Contenido multimedia</td>
+        <td>WI05</td>
+        <td>Incluir contenido multimedia en la landing page</td>
+        <td> Implementar imágenes y videos relevantes en la landing page para enriquecer la experiencia del visitante.</td>
+        <td>3</td>
+        <td>David Bryan Rodriguez Santos</td>
+        <td>Done</td>
+    </tr>
+<!--US11 -->
+    <tr>
+        <td>US11</td>
+        <td>Landing page - Call-to-action</td>
+        <td>WI06</td>
+        <td>Implementar botones de call-to-action en la landing page.</td>
+        <td>Crear botones claros y visibles para solicitar una demo en la landing page.</td>
+        <td>5</td>
+        <td>Hardie Alfonso Holguín Gamarra</td>
+        <td>Done</td>
+    </tr>
+<!--US12 -->
+    <tr>
+        <td>US12</td>
+        <td>Landing page - Testimonios</td>
+        <td>WI07</td>
+        <td>Implementar sección de testimonios en la landing page</td>
+        <td>Crear una sección dedicada para mostrar testimonios de usuarios satisfechos.</td>
+        <td>3</td>
+        <td>Mateo Italo Loechle Arias</td>
         <td>Done</td>
     </tr>
 </table>
@@ -1451,9 +1622,9 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Gaboo04/landing-page</td>
         <td>feat/testing</td>
         <td>ee1b2de</td>
-        <td>feat:add acceptance tests for landing page.</td>
+        <td>feat:Update landing_page_acceptance_tests.feature.</td>
         <td>acceptance tests based on user stories designed for landing page development</td>
-        <td>31/08/2021</td>
+        <td>18/09/2024</td>
     </tr>
 </table>
 <h4 id="execution-evidence-for-sprint-review">5.2.1.5. Execution Evidence for Sprint Review.</h4>
@@ -1525,7 +1696,206 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Implementación del switching de idioma realizando una versión en español del landing page en el index-es.html.</td>
     </tr>
 </table>
+<img src="/images/commits-1.png" alt="Commits 1">
+<img src="/images/commits-2.png" alt="Commits 2">
 
+<!-- 5.2.2. Sprint 2 -->
+
+<h4 id="sprint-2">5.2.2. Sprint 2</h4>
+
+<h4 id="sprint-planning-x">5.2.2.1. Sprint Planning 2.</h4>
+<p>En el Sprint #2, que comienza el 17/09/2024, nos enfocaremos en el desarrollo de la parte frontend de la aplicación web de Re-Grill. El objetivo es crear una interfaz interactiva y amigable para los usuarios, que les permita acceder a las funcionalidades del producto de manera intuitiva y eficiente. Este sprint estará dedicado al diseño y desarrollo de las páginas y componentes necesarios para cumplir con nuestros objetivos estratégicos.</p>
+<table>
+    <tr>
+        <td>Sprint #</td>
+        <td>Sprint 2</td>
+    </tr>
+    <tr>
+        <td>Sprint Planning Background  </td>
+    </tr>
+    <tr>
+        <td>Date</td>
+        <td>2024-09-17</td>
+    </tr>
+    <tr>
+        <td>Time</td>
+        <td>16:00 PM</td>
+    </tr>
+    <tr>
+        <td>Location</td>
+        <td>Virtual via discord</td>
+    </tr>
+    <tr>
+        <td>Prepared By </td>
+        <td>Gabriel Anthony Braithuaite Toledo, Hardie Alfonso Holguín Gamarra</td>
+    </tr>
+    <tr>
+        <td>Attendees (to planning <br>meeting) </td>
+        <td>Gabriel Anthony Braithuaite Toledo, Adrian Alonso Calle Huayanca, Hardie Alfonso Holguín Gamarra, Mateo Italo Loechle Arias, David Bryan Rodriguez Santos</td>
+    </tr>
+    <tr>
+        <td>Sprint Goal &amp; User Stories </td>
+    </tr>
+    <tr>
+        <td>Sprint 2 Goal </td>
+        <td>Our focus is on developing an interactive and user-friendly frontend interface for Re-Grill. We believe it delivers a seamless experience and improved accessibility to product features for our users. This will be confirmed when the frontend components are live and user feedback indicates increased satisfaction and ease of use.</td>
+    </tr>
+    <tr>
+        <td>Sprint 1 Velocity </td>
+        <td>El equipo ha establecido una capacidad de 50 Story Points para el Sprint 2, enfocándose en completar todas las tareas necesarias para el desarrollo de la interfaz frontend de Re-Grill.  </td>
+    </tr>
+    <tr>
+        <td>Sum of Story Points </td>
+        <td>50</td>
+    </tr>
+</table>
+
+<h4 id="spring-backlog-x">5.2.2.2. Sprint Backlog 2.</h4>
+
+<p>El Sprint Backlog para el Sprint #2 tiene como objetivo principal el desarrollo de la parte frontend de la aplicación web de Re-Grill. Este sprint se centrará en la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
+<p><a href="https://trello.com/b/LSbTHu4A/open-source">trello.com/b/LSbTHu4A/open-source</a></p>
+
+<table>
+    <tr>
+        <td>Sprint # </td>
+        <td>Sprint 2 </td>
+    </tr>
+    <tr>
+        <td>User Story  </td>
+        <td></td>        
+        <td>Work-Item / Task </td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Id</td>
+        <td>Title</td>
+        <td>Description</td>
+        <td>Estimation (Hours) </td>
+        <td>Assigned To</td>
+        <td>Status (To-do/In Process / To Review / Done)</td>
+    </tr>
+<!--US01 -->  
+    <tr>
+        <td>USX</td>
+        <td>x</td>
+        <td>WI01</td>
+        <td>x</td>
+        <td>X</td>
+        <td>4</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr>
+<!--US02 --> 
+    <tr>
+        <td>USX</td>
+        <td>X</td>
+        <td>WI02</td>
+        <td>X</td>
+        <td>X</td>
+        <td>12</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr>
+<!--US03 --> 
+    <tr>
+        <td>USX</td>
+        <td>X</td>
+        <td>WI03</td>
+        <td>X</td>
+        <td>X</td>
+        <td>6</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr> 
+<!--US04 -->
+    <tr>
+        <td>USX</td>
+        <td>X</td>
+        <td>WI04</td>
+        <td>X</td>
+        <td>X</td>
+        <td>8</td>
+        <td>X</td>
+        <td>In Process</td>
+    </tr>
+</table>
+<h4 id="development-evidence-for-sprint-review-x">5.2.2.3. Development Evidence for Sprint Review.</h4>
+<p>Durante el Sprint #2, se lograron avances significativos en el desarrollo de la parte frontend de la aplicación web de Re-Grill. Estos avances se alinean con el objetivo principal del sprint, que es diseñar e implementar una interfaz interactiva y amigable para los usuarios, que les permita acceder a las funcionalidades del producto de manera intuitiva y eficiente.</p>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>Gaboo04/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr>
+        <td>HOLGUINUPC/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr>
+        <td>LowMathzzz/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr>
+        <td>DavidBryanRodriguezSantos/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>    
+    <tr>
+        <td>U202011657/frontend </td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+    </tr>
+    <tr><td>https://github.com/grupo3-upc202402-wx55/frontend</td></tr>
+
+
+</table>
+<h4 id="testing-suite-evidence-for-sprint-review">5.2.2.4. Testing Suite Evidence for Sprint Review.</h4>
+<p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas para la parte frontend de la aplicación web de Re-Grill, desarrollada en el Sprint 2. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la interfaz frontend. Las pruebas de aceptación se diseñaron para garantizar que la interfaz cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
+<table>
+    <tr>
+        <td>Repository</td>
+        <td>Branch</td>
+        <td>Commit Id </td>
+        <td>Commit Message </td>
+        <td>Commit Message Body</td>
+        <td>Commited on (Date) </td>
+    </tr>
+    <tr>
+        <td>x</td>
+        <td>x</td>
+        <td>x</td>
+        <td>X</td>
+        <td>X</td>
+        <td>X</td>
+    </tr>
+</table>
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
 <h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
