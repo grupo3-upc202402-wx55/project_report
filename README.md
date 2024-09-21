@@ -809,8 +809,6 @@ Colors:
   <img src="/images/COLORES-WEB.png"></img><br> 
 
 
-<h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
-   
 
 <h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
 
