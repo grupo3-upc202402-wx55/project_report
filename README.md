@@ -1931,5 +1931,15 @@ Esta tabla muestra una comparación entre Re'Grill y otras soluciones tecnológi
 | **Actualizaciones automáticas**  | ✔️                   | ✔️              | ❌              | ✔️              |
 
 
+Anexo B: Gráfico de Resultados Operativos
+En este anexo, se incluye un gráfico que ilustra la mejora en la eficiencia operativa de los restaurantes que han implementado Re'Grill. Los datos representan una comparación del rendimiento antes y después de utilizar la plataforma, con un enfoque en la reducción de errores y el aumento de la velocidad de servicio.
 
+| **Indicador**                    | **Antes de Re'Grill** | **Después de Re'Grill** |
+|----------------------------------|----------------------|-------------------------|
+| **Errores en Pedidos (%)**       | 15%                  | 5%                      |
+| **Tiempo Medio de Servicio (min)** | 25                   | 15                      |
+| **Satisfacción del Cliente (%)** | 60%                  | 85%                     |
+| **Tiempos de Coordinación Interna (min)** | 20            | 12                      |
+
+Gráfico: Comparación del Rendimiento Operativo (Antes y Después de Re'Grill)
 
