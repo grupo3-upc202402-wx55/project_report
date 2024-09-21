@@ -1006,17 +1006,17 @@ Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Styl
 
 - Desktop:
   
-  <img src="./resources/wireframes/desktop.png" alt="wireframe desktop"/>
+  <img src="./images/desktop.png" alt="wireframe desktop"/>
 
 - Mobile:
 
-  <img src="./resources/wireframes/mobile.png" alt="wireframe mobile"/>
+  <img src="./images/mobile.png" alt="wireframe mobile"/>
 
 ### 4.3.2. Landing Page Mock-up. <a name ="4.3.2.">
 
 Después de haber trabajado con los wireframes previamente diseñados, se procedió a aplicar los Style Guidelines para definir la paleta de colores a utilizar. Se puede observar que estos colores presentan un contraste llamativo en cada sección de la landing page, lo que contribuye a destacar visualmente los distintos elementos y mejorar la legibilidad y la estética general del diseño.
 
-<img src="./resources/mockup/mockup.png" alt="mockup"/>
+<img src="./images/mockup.png" alt="mockup"/>
 
 #### Enlace para ver el Figma:
 
@@ -1026,13 +1026,13 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 ### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
 - **Wireframe Vista de platos**<br>
   En este wireframe vemos la vista de los platos que hay en el restaurante, donde al momento de seleccionar una de las imágenes mostrará más detalles sobre las recetas.
-  <img src="./resources/Vista de platos.png" alt="Wireframe-Platos">
+  <img src="./vista_de_platos.png" alt="Wireframe-Platos">
 - **Wireframe Registro de Mermas**<br>
   En este wireframe vemos el registro de las mermas que se realiza al momento de registrar una merma dealizada por un plato.
-  <img src="./resources/Registro de mermasWire.png" alt="Wireframe-RegistroMermas">
+  <img src="./images/Registro de mermasWire.png" alt="Wireframe-RegistroMermas">
 - **Wireframe Información de la receta**<br>
   En este wireframe vemos la información que tiene cada receta del restaurante, mostrando sus ingredientes y el costo de cada uno de ellos.
-  <img src="./resources/InfoReceta.png" alt="Wireframe-Recetas">
+  <img src="./images/InfoReceta.png" alt="Wireframe-Recetas">
 - **Wireframe Buscar receta para eliminar o modificar**<br>
   En este wireframe vemos la lista de recetas donde el administrador busca una de ellas para modificar o eliminarla de la plataforma.
   <img src="./resources/ELIMINAR O MODIFCAR RECETA.png" alt="Wireframe-BuscarReceta">
