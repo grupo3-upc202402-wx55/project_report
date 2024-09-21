@@ -1062,11 +1062,11 @@ Para este mock-upc se muestra el registro de perdida de insumos del restaurante 
 
 Para este mock-upc se muestra la receta ya editada por el chef y el aumento de precio respectivo
 
-<img src="./resources/PLato editado-costo.png" alt="plato"/>
+<img src="./images/PLato editado-costo.png" alt="plato"/>
 
 Para este mock-upc se muestra el area del restaurante al mesero para que pueda seleccinar los pedidos
 
-<img src="./resources/AREA restaurante.png" alt="restaurante"/>
+<img src="./images/AREA restaurante.png" alt="restaurante"/>
 
 Para este mock-upc se muestra las ordenes que tiene los proveedores con los restaurantes
 
