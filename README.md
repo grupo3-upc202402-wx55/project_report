@@ -563,7 +563,7 @@ Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, 
 * Edad: 25 años
 * Distrito donde vive: Lima
 
-* Link: [Click para ver la entrevista](https://www.youtube.com/watch?v=GwihqjCG-hs)
+* Link: https://www.youtube.com/watch?v=GwihqjCG-hs
 
 * Momento en el que inicia: 0:00
 * Duracion: 2:25
