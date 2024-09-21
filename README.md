@@ -1035,10 +1035,10 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
   <img src="./images/InfoReceta.png" alt="Wireframe-Recetas">
 - **Wireframe Buscar receta para eliminar o modificar**<br>
   En este wireframe vemos la lista de recetas donde el administrador busca una de ellas para modificar o eliminarla de la plataforma.
-  <img src="./resources/ELIMINAR O MODIFCAR RECETA.png" alt="Wireframe-BuscarReceta">
+  <img src="./images/ELIMINAR O MODIFCAR RECETA.png" alt="Wireframe-BuscarReceta">
 - **Wireframe Receta eliminada**<br>
   En este wireframe vemos la confirmación sobre una eliminación de una receta.<br>
-  <img src="./resources/ELIMINADO.png" alt="Wireframe-Eliminacion">
+  <img src="./images/ELIMINADO.png" alt="Wireframe-Eliminacion">
 
 ### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
 **Wireflow Pedidos y Mesas**<br>
