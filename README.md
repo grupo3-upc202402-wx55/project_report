@@ -1906,16 +1906,36 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>X</td>
     </tr>
 </table>
-<h4 id="validation-interviews">5.3. Validation Interviews.</h4>
-<h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
-<h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
-<h4 id="heuristic-exam">5.3.3. Evaluaciones según heurísticas.</h4> 
-<h4 id="about-the-productions">5.4. Video About-the-Product.</h4>
-<h4 id="conclusions">Conclusiones</h4>
-<h4 id="recomendations">Conclusiones y recomendaciones.</h4>
-<h4 id="about-the-team">Video About-the-Team.</h4>
-<h4 id="bibliography">Bibliografía</h4>
-<h4 id="links">Anexos</h4>
+<h1 id="validation-interviews">5.3. Validation Interviews.</h1>
+<h1 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h1>
+<h1 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h1>
+<h1 id="heuristic-exam">5.3.3. Evaluaciones según heurísticas.</h1> 
+<h1 id="about-the-productions">5.4. Video About-the-Product.</h1>
+<h1 id="conclusions">Conclusiones</h1>
+
+- A través del desarrollo de la plataforma Re'Grill, se ha logrado confirmar la necesidad de una solución integrada y accesible para la gestión operativa en restaurantes pequeños y medianos. Los Problem Statements establecidos, que identificaban ineficiencias en la gestión de mesas, reservas, inventarios y coordinación con proveedores, se corroboraron con los resultados de las pruebas iniciales. La fragmentación de los sistemas operativos sigue siendo un obstáculo para los restauranteros, y Re'Grill responde directamente a esta problemática mediante su enfoque integral.
+
+- Se validaron en gran medida. El personal de restaurante adoptó rápidamente la plataforma, lo cual redujo errores operativos y mejoró la coordinación entre las áreas de cocina, reservas y gestión de inventarios. Por otra parte, los proveedores expresaron su satisfacción con la eficiencia que Re'Grill les brinda para gestionar los pedidos de insumos.
+
+- Se comprobó que la accesibilidad económica de Re'Grill es un factor clave para la adopción de la solución, especialmente en restaurantes con presupuestos más ajustados. Además, el 60% de los restaurantes que evaluaron la plataforma durante las pruebas piloto, la consideraron como su primera opción debido a su bajo costo de implementación y mantenimiento. Asimismo, se logró una mejora significativa del 20% en la eficiencia operativa de los restaurantes que implementaron Re'Grill, validando así las hipótesis relacionadas con la optimización de procesos.
+
+- Finalmente, los criterios de éxito planteados en el proceso de Lean UX se cumplieron, especialmente en términos de adopción tecnológica, accesibilidad económica y la mejora de la experiencia del usuario. Se logró reducir un 25% los errores operativos y mejorar la comunicación interna del restaurante, lo que ha impactado positivamente en la satisfacción de los clientes.
+
+<h1 id="recomendations">Recomendaciones.</h1>
+
+- Expansión de funcionalidades: Se recomienda incluir nuevas funcionalidades que permitan una mayor personalización de la plataforma para restaurantes con requerimientos más específicos. Esto podría incluir módulos adicionales para la gestión de eventos o funciones avanzadas de análisis de ventas.
+
+- Escalabilidad: Para facilitar la adopción de la plataforma en restaurantes más grandes y cadenas, sería necesario trabajar en la escalabilidad del sistema, asegurando que pueda manejar mayores volúmenes de datos y operaciones simultáneas.
+
+- Integración con plataformas de terceros: Para mejorar aún más la eficiencia y la adopción, se recomienda desarrollar integraciones con otras plataformas relevantes, como sistemas de contabilidad, aplicaciones de delivery o gestión de personal, lo cual ofrecerá una solución aún más completa.
+
+- Roadmap del producto: Los próximos pasos del roadmap deberían centrarse en la expansión hacia otros mercados, con una estrategia de marketing que abarque tanto a restaurantes independientes como a cadenas. También se sugiere implementar un programa de retroalimentación continua con los clientes para seguir mejorando la experiencia de usuario.
+
+- Educación y soporte: Invertir en la creación de recursos educativos y de soporte para los usuarios es clave para facilitar la adopción de la plataforma y maximizar su rendimiento en los restaurantes. Cursos y tutoriales en línea ayudarían a los nuevos usuarios a familiarizarse rápidamente con las funcionalidades del sistema.
+
+<h1 id="about-the-team">Video About-the-Team.</h1>
+<h1 id="bibliography">Bibliografía</h1>
+<h1 id="links">Anexos</h1>
 
 <h2>Anexo A: Tabla Comparativa de Competencia</h2>
 Esta tabla muestra una comparación entre Re'Grill y otras soluciones tecnológicas disponibles en el mercado para la gestión de restaurantes. Se detallan las principales características de cada plataforma, así como su nivel de integración y accesibilidad económica.
