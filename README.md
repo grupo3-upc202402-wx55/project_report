@@ -441,7 +441,13 @@ Creemos que al ofrecer una interfaz intuitiva y fácil de aprender, el personal 
 
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
 1. **Propietarios y Gerentes de Restaurantes Pequeños y Medianos:**
-   Este segmento incluye a dueños y gerentes de restaurantes que buscan optimizar sus operaciones diarias mediante la integración de funciones de gestión como reservas, mesas, cocina, ventas, inventario, y relación con proveedores. La propuesta de valor para este segmento es la mejora de la eficiencia operativa, la reducción del desperdicio, y una mayor satisfacción del cliente gracias a una plataforma todo-en-uno.
+<p> Edad: Personas mayores de 25 años.</p>
+<p>Sexo: Femenino o masculino.</p>
+<p>Ubicación: Generalmente localizados en áreas urbanas o semi-urbanas.</p>
+<p>Formación Educativa: No es un requisito específico, aunque muchos cuentan con experiencia o estudios en administración de negocios, gastronomía o áreas afines.</p>
+<p>Poder adquisitivo: Mediano o superior al promedio, interesados en invertir en tecnología que optimice la administración del restaurante.</p>
+<p>Clase Social: Media y Media-Alta.</p>
+<p>Hábitos de Consumo: Enfocados en la búsqueda de soluciones que simplifiquen la gestión diaria de sus restaurantes, desde la reserva de mesas hasta la administración de inventarios.</p>
 
 2. **Proveedor de Insumos para Restaurantes:**
    Este segmento incluye a empresas y proveedores que suministran alimentos, bebidas, utensilios, y otros productos necesarios para el funcionamiento de los restaurantes. Re-Grill les ofrece una plataforma para interactuar directamente con los restaurantes, ver sus necesidades en tiempo real, y gestionar los pedidos de manera más eficiente. La propuesta de valor para este segmento es la simplificación del proceso de pedidos, reducción de errores de comunicación, y la posibilidad de establecer relaciones más sólidas con sus clientes restauranteros.
