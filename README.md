@@ -174,8 +174,7 @@ alcanzado el logro del ABET – EAC - Student Outcome 3.</p>
   </tr></thead>
 <tbody>
   <tr>
-  
-      <td> Comunica por escrito con efectividad a diferentes rangos de audiencia</td>
+    <td>Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td>
     <td><b> Gabriel Anthony Braithuaite Toledo:</b><br>
 TB1: En este caso yo realize todo el capitulo numero 5 , el cual incluye Software Configuration Management, Landing Page, Services & Applications Implementation y Validation Interviews.
 
@@ -197,6 +196,7 @@ TB1: Yo realize todo el capitulo 2 para esta entrega , incluyendo los competidor
   </tr>
 </tbody>
 </table>
+
 
 
 <h3 id="chapter-1">Capítulo I: Introducción</h3>
