@@ -1180,7 +1180,7 @@ Genera reportes sobre los pedidos realizados, detallando los productos pedidos y
 ## 4.8. Database Design. <a name ="4.8.">
 ### 4.8.1. Database Diagram. <a name ="4.8.1.">
 
-<tr><img src="resources\databasediagram.jpg" /><tr>
+<tr><img src="/images/databasediagram.jpg" /><tr>
 
 
 <h3 id="chapter-5">Capítulo V: Product Implementation, Validation & Deployment</h3>
