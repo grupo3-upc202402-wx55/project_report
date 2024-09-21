@@ -1118,18 +1118,18 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
   </li>
   <li>
     <p>Gestor de proveedores</p>
-    <img src="resources/c4 diagram/gestor.png" alt="Component Gestor">
+    <img src="/images/gestor.png" alt="Component Gestor">
   </li>
   <li>
     <p>Ajustes</p>
-    <img src="resources/c4 diagram/ajustes.png" alt="Component Ajustes">
+    <img src="/images/ajustes.png" alt="Component Ajustes">
   </li>
 </ul>
 
 ## 4.7. Software Object-Oriented Design. <a name ="4.7.">
 ### 4.7.1. Class Diagrams. <a name ="4.7.1.">
 
-<tr><img src="resources\dc.png" /><tr>
+<tr><img src="/images/dc.png" /><tr>
 
 ### 4.7.2. Class Dictionary. <a name ="4.7.2.">
 
