@@ -1085,11 +1085,11 @@ En esta User Flow se mostrará como el usuario se registrará en la plataforma, 
 ## 4.5. Web Applications Prototyping. <a name ="4.5.">
 Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyecto en general, mostrando paso a paso las secciones enlazadas y como es el punto de vista del proveedor y del administrador de cocina del restaurante. A continuación se presentará una captura sobre este prototipo y como se uso.
 
-<img src="./resources/PrototypeVideo.png" alt="Prototype-Video">
+<img src="./images/PrototypeVideo.png" alt="Prototype-Video">
 
 ## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
 ### 4.6.1. Software Architecture Context Diagram. <a name ="4.6.1.">
-<img src="resources/c4 diagram/contexto.png" alt="Context Diagram">
+<img src="/images/c4 diagram/contexto.png" alt="Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
 <img src="resources/c4 diagram/contenedor.png" alt="Context Diagram">
