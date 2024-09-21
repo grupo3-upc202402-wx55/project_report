@@ -65,6 +65,7 @@
 ## Project Report Collaboration Insights
 
   <td rowspan="3"><img src="images/44.jpeg"></td>
+
 ## Contenido
 ### Tabla de contenidos:
 
@@ -576,6 +577,7 @@ En esta sección se identifican los principales competidores que ofrecen product
 
 
 <h4 id="strategy-tactics">2.1.2. Estrategias y tácticas frente a competidores.</h4>
+
 #### Estrategias:
 
 - Experiencia de usuario superior: Enfócate en crear una interfaz intuitiva, fácil de usar y visualmente atractiva. La facilidad de adopción y uso puede ser un factor clave para atraer a nuevos clientes.
