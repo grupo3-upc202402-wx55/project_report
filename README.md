@@ -280,11 +280,11 @@ El principal desafío en la gestión de restaurantes es la falta de una solució
 
 - **What?**
 
-La industria de restaurantes enfrenta desafíos en la gestión de mesas, reservas, pedidos, inventarios y proveedores, lo que afecta la eficiencia operativa y la experiencia del cliente.
+La industria de restaurantes enfrenta desafíos en la gestión de mesas, reservas, pedidos, inventarios y proveedores, lo que afecta la eficiencia operativa y la experiencia del cliente. Los errores comunes incluyen fallos en los pedidos, pérdidas de inventario, demoras en el servicio y coordinación deficiente entre distintas áreas del restaurante junto con los proovedores. Las soluciones actuales suelen ser costosas, dificiles de utilizar o no cuentan con alguna funcionalidad clave.
 
 - **When?**
 
-La problemática se ha agravado en los últimos años debido a la creciente demanda de servicios de restaurantes y la falta de soluciones integradas para la gestión operativa.
+La problemática se ha agravado en los últimos años debido a la creciente demanda de servicios de restaurantes y la falta de funcionalidades dentro de la competencia de la cual podemos encontrar en grandes cantidades.
 
 - **Where?**
 
@@ -292,25 +292,26 @@ La problemática es relevante en restaurantes de todo tipo y tamaño, desde pequ
 
 - **Who?**
 
-Los principales afectados por esta problemática son los propietarios de restaurantes, gerentes, personal de cocina Y servicio, y los clientes que experimentan una atencion posiblemente lenta e ineferciente.
+Los principales afectados por esta problemática son los propietarios de restaurantes, gerentes, personal de cocina Y servicio, y los clientes que experimentan una atencion posiblemente lenta e ineferciente. Finalmente, los proveedores también se ven afectados cuando la gestión deficiente retrasa o envia datos incorrectos a los pedidos .
 
 - **Why?**
 
-La falta de una solución integrada y automatizada para la gestión de restaurantes provoca ineficiencias operativas, errores en los pedidos, pérdida de inventario y una experiencia del cliente insatisfactoria.
+La falta de una solución integrada y automatizada para la gestión de restaurantes provoca ineficiencias operativas, errores en los pedidos, pérdida de inventario y una experiencia del cliente insatisfactoria.Por el lado de proovedores , es necesario porque estos pueden obtener pedidos erroneos o indicados en un rango de tiempo muy corto por lo cual es necesario.
 
 - **How?**
 
-Las soluciones actuales a menudo están divididas en varios sistemas independientes para reservas, ventas, pedidos a proveedores  y gestión de inventario. Esta falta de integración complica la coordinación entre distintos procesos y aumenta la probabilidad de errores.
+Las soluciones actuales a menudo están divididas en varios sistemas independientes o no cuentan con todas las funcionalidades que un negocio podria necesitar para funcionar eficazmente.De esta forma Re grill apareceria como una opcion integrada con todas las funcionalidades clave para los negocios , y prestaria atencion al cliente para poder implementar cualquier deseo de los clientes .
 
 - **How much?**
 
-La falta de una solución integrada para la gestión de restaurantes puede resultar en pérdidas económicas significativas debido a errores en los pedidos, mermas de inventario y una experiencia del cliente insatisfactoria.
+Cuando se habla de el rubro de los restaurantes , no contar con un sistema estandarizado y funcional puede llevar a muchisimos problemas , tanto contables como cualquier otro. Normalmente se tiene problemas con el stock de los productos, al tener mala atencion puede disminuir el flujo de clientes afectando directamente a el centro principal de remuneracion de los restaurantes , puede llevar a problemas con los proovedores por mal manejo y solicitud de informacion , hasta si un alimento se mantiene en buen estado o no , comunicacion eficaz entre los pedidos y la cocina , entre muchos mas . No contar con una solucion de este tipo significa un porcentaje demasiado grande con respecto a los restaurantes.
 
 
 <h4 id="lean-ux">1.2.2 Lean UX Process.</h4>
 <h4 id="lean-ux-problem">1.2.2.1. Lean UX Problem Statements.</h4>
 
-En el sector de restaurantes, estos enfrentan problemas significativos con la gestión de mesas, reservas, inventarios y pedidos de insumos debido a la falta de una solución tecnológica integrada. Esta falta de integración y eficiencia resulta en errores en la administración, mala coordinación entre los distintos procesos operativos y una mala experiencia hacia los clientes. Además, la ausencia de un sistema unificado contribuye a la ineficiencia en el servicio y al incremento de costos operativos.
+Re'Grill busca aprovechar la oportunidad de ofrecer una solución integral que resuelva la fragmentación de los sistemas en los restaurantes, optimizando la eficiencia en la gestión de mesas, reservas, inventarios, y pedidos de insumos. La falta de integración tecnológica ha generado ineficiencias operativas, lo que afecta la experiencia del cliente y aumenta los costos para los propietarios.
+En un mercado altamente competitivo, los restaurantes enfrentan barreras como altos costos de implementación tecnológica o dificultad para adaptarse a el sistema, lo que ha impedido una adopción generalizada de soluciones integradas.La falta de una plataforma asequible y integrada con funcionalidades necesarias hacen que Re'Grill se posicione como líder al proporcionar una solución eficiente, económica y fácil de usar que resuelve los problemas de gestión operativa.
 
 
 <h4 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions.</h4>
@@ -321,72 +322,111 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 
 - Resaltar en el mercado de aplicaciones de gestión de restaurantes con una tasa de adopción del 20% en el primer trimestre.
 
+- Obtener comentarios positivos de los clientes hacia la eficacia de nuestro sistema.
+
 **User Assumptions:**
+**Assumptions Worksheet**<br>
+**¿Quién es el usuario?**
+- La parte administrativa de un restaurante
+- Los proveedores de restaurantes
 
-1. **¿Quien es el usuario?**
+**¿Qué problemas tiene nuestro producto? ¿Resolver?**
+- Gestión con los productos que se tienen en el restaurante
+- Comunicación con los proveedores de alimentos para los ingredientes de sus platillos a la carta
 
-  - Propietarios de restaurantes.
-  - Gerentes de restaurantes.
-  - Personal de cocina y servicio.
-  - Proveedores de insumos.
-  - Clientes de restaurantes.
+**¿Qué características son importantes?**
+- Una mejor forma de contactarse entre la parte administrativa y el proveedor para la reponer los productos
+- Mejorar la atención del cliente con los platillos que se encuentran disponibles en dicho momento.
+- Organización de las cantidades de los productos, ya sea comestibles o de mantenimiento.
+- Interfaz amigable para cualquier usuario que lo use.
 
-2. **¿Qué necesidades tienen los usuarios?**
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+- Para la administración, nuestro producto les ayudará a gestionar los ingredientes de los platos que cocinan, además de conocer los desperdicios que hay al momento de cocinar y las cantidades de mesas, sillas, entre otros.
+- Para los proveedores, el producto los ayudará en mejorar la comunicación entre ellos y la administración del restaurante, además de brindar las cantidades exactas que necesita el restaurante.
 
-  - Simplificar la gestión de mesas y reservas.
-  - Optimizar la coordinación entre la cocina y el servicio.
-  - Facilitar la gestión de inventarios y pedidos de insumos.
-  - Mejorar la experiencia del cliente.
-3. **¿Cómo debería verse o comportarse el producto?**
+**¿Cuándo y cómo es nuestro producto? ¿Usado?**
+- El producto será utilizado cuando la administración del restaurante comienza a gestionar el inventario que posee actualmente, además de ver si las cantidades son las suficientes para las preparaciones al momento de atender.
+- El producto será usado por algunos proveedores de restaurantes, donde podrán visualizar los distintos restaurantes que necesitan contactarse con algún proveedor de algún consumible.
+- El producto será a través de una aplicación web mediante algún dispositivo que usa internet y un navegador como Chrome.
 
-  - Interfaz intuitiva y fácil de usar.
-  - Funcionalidades integradas y automatizadas.
-  - Información clara y accesible.
-  - Personalizable según las necesidades del restaurante.
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+- El diseño de nuestro producto debe ser atractivo y coherente con respecto al diseño del restaurante.
+- La plataforma debe cargar de manera rápida las respuestas a las acciones del usuario para que no se frustre.
+- La navegación de la plataforma debe ser intuitiva y comprensible, donde los usuarios pueden ver los filtros necesarios y las distintas opciones que tiene.
+- Debe mostrar a los clientes con gráficos y una pequeña descripción acerca del plato de comida que busca.
+- Esta plataforma debe ser compatible con algunos dispositivos de dimensiones distintas, como celulares, laptops, tablets y computadoras, donde se usa un diseño responsive.
 
+**Business Outcomes**<br>
+- Convertir nuestro producto como una plataforma indispensable para la gestión de restaurantes, ya sea en la manera de reponer el inventario, organización del mismo local y la atención de los clientes.
+- Un 75% de los usuarios que usaron la página han logrado gestionar de mejor manera los restaurantes.
+- Un 20% de los clientes de restaurantes se muestran insatisfechos con la atención que brinda los restaurantes.
 
-**User Outcomes:**
+**User Benefits**<br>
+- Ahorro de tiempo por la manera de gestionar el inventario.
+- Facilidad en buscar los productos faltantes o desperdiciados.
+- Mejor comunicación entre el proveedor y la administración.
 
+**Assumptions Steps**<br>
+**a. Creo que mis clientes necesitan:**
+  - Visualización de disponibilidad de platillos.
+  - Expresar de manera intuitiva el inventario que se lleva en el local
+  - Comunicarse de manera eficiente con otro tipo de usuario
 
-1.  **Restaurantes:**
+**b. Estas necesidades se pueden resolver con:**
+  - Un sistema que calcula lo que hay en el inventario en general y lo que se usa al día.
+  - Una base de datos que se actualiza cada vez que cambia y se use parte de lo que hay en el inventario.
+  - Un diseño que sea muy atractivo visualmente y a la vez entendible para gestionar el restaurante.
+  - Accesibilidad para su uso en distintos dispositivos según lo que el usuario usará.
 
--   Mejorar la eficiencia operativa en un 15% en la gestión de mesas, reservas y ventas dentro del primer año.
+**c. Mis clientes iniciales son (o serán):**
+  - La parte administrativa de un restaurante.
+  - Los proveedores o vendedores de alimentos para los restaurantes.
 
-3.  **Personal de Restaurante:**
+**d. El valor #1 que un cliente quiere de mi producto es veracidad (utilidad, funcionalidades que le resuelven el problema)**
+  - La garantía de que no habrá problemas en las cantidades con respecto al inventario por la base de datos.
+  - La comunicación de manera directa con el proveedor con respecto a la necesidad del restaurante.
 
--   Reducción del 20% en el tiempo dedicado a la gestión diaria de tareas tras implementar Re'Grill.
+**e. El cliente también puede obtener estos beneficios adicionales:**
+  - Obtener las cantidades de la merma que se obtiene al hacer un plato.
+  - Mejorar la administración del restaurante.          
 
-5.  **Clientes:**
+**f. Voy a adquirir la mayoría de mis clientes a través de:**
+  - Colaboración con un restaurante conocido.
+  - Estrategias de marketing digital con el enfoque en los distintos restaurantes.
 
--   Aumento en la satisfacción del cliente debido a una experiencia más organizada y eficiente.
+**g. Haré dinero a través de:**
+  - Membresías premium con acceso exclusivo y funciones adicionales
 
-**¿Qué está intentando conseguir el usuario?**
+**h. Mi competencia principal en el mercado:**
+  - Tiendas virtuales de restaurantes que se enfocan en las ventas.
+  - Páginas de gestión de restaurantes.
 
--   Restaurantes: Optimizar la gestión de operaciones y mejorar la coordinación entre reservas, ventas y control de inventarios.
+**i. Los venceremos debido a:**
+  - El diseño es atractivo y accesible para cualquier tipo de usuario ya sea la administración o el proveedor.
+  - La base de datos actualizada constantemente con respecto a la necesidad del usuario.
 
--   Personal de Restaurante: Reducir el tiempo y los errores en la administración diaria de tareas.
+**j. Mi mayor riesgo del producto es:**
+  - La desconfianza por parte de los restaurantes con respecto a la correcta función del programa al momento de tener días especiales.
+  - El mal cálculo del inventario al momento de mostrar las cantidades de cada producto que se encuentra disponible.
 
-**¿Cómo se quiere sentir el usuario?**
+**k. Resolveremos esto a través de:**
+  - Mostrando pruebas funcionales de esto y su adaptabilidad ante algún problema que se muestra de manera sorpresiva.
+  - Las constantes verificaciones que se realizará al momento de que se haga alguna compra.
 
--   Restaurantes y Personal: Sentir que las operaciones son más eficientes, organizadas y que el sistema mejora la experiencia general tanto para el personal como para los clientes.
-
-**¿Cómo nuestro producto lo acerca a su objetivo?**
-
--   Restaurantes: Proporciona una solución integral que unifica la gestión de mesas, reservas, inventarios y ventas, optimizando los procesos y reduciendo la carga administrativa.
-
--   Personal de Restaurante: Facilita la gestión de tareas diarias, mejorando la eficiencia operativa y la satisfacción en el trabajo.
-
-**¿Por qué nuestros usuarios se interesarían por nuestro producto?,¿Qué beneficio podrían obtener?**
-
--   Restaurantes: Mejora en la coordinación y eficiencia operativa, reducción de errores y costos, y una mejor experiencia para los clientes.
-
--   Personal de Restaurante: Simplificación en la gestión de tareas y un entorno de trabajo más organizado.
-
-**¿Qué cambio en su comportamiento veremos que nos dirá que nuestro objetivo ha sido logrado?**
-
--   Restaurantes y Personal: Uso consistente de la plataforma en la gestión diaria de operaciones. Esperamos ver una mejora significativa en la eficiencia operativa y una reducción en los problemas reportados. La tasa de retención y adopción de nuevos usuarios también será un indicador clave del éxito del producto.
+**l. ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio / proyecto no funcione?**
+  - Podrá ser que las estrategias de marketing que se usa podrán ayudar a obtener más compañías que le darán uso de la aplicación. En caso se muestre el contrario, podría afectar de manera negativa la inversión del negocio.
+  - Las ventas de las suscripciones para obtener más funciones que les será muy útil para mejorar su experiencia con la página. Si se prueba que es falso, afectaría de manera directa con la generación de ingresos y sostenibilidad del negocio.
 
 <h4 id="lean-ux-hypothesis">1.2.2.3. Lean UX Hypothesis Statements.</h4>
+
+**Adopción Tecnológica por Restaurantes Pequeños y Medianos:**
+Creemos que al ofrecer una plataforma asequible y fácil de implementar, podemos reducir las barreras de entrada para pequeños y medianos restaurantes, logrando que el 40% de ellos adopten la solución de Re'Grill en su primer año de lanzamiento. Esto permitirá que estos restaurantes mejoren la eficiencia operativa sin incurrir en altos costos tecnológicos.
+
+**Accesibilidad Económica:**
+Creemos que al ofrecer una solución rentable en comparación con los sistemas tecnológicos fragmentados o más caros en el mercado, podemos lograr que al menos el 60% de los restaurantes que evalúen Re'Grill lo consideren como su primera opción debido a su bajo costo de implementación y mantenimiento.
+
+**Adaptación del Personal a la Plataforma:**
+Creemos que al ofrecer una interfaz intuitiva y fácil de aprender, el personal operativo (cocina, servicio y gerentes) podrá adaptarse al uso de Re'Grill en un plazo máximo de 2 semanas, con una reducción del 25% en errores operativos relacionados con la falta de familiarización con la tecnología.
 
 **Mejora en la Eficiencia Operativa:** Creemos que al implementar un sistema integrado para la gestión de mesas, reservas, inventarios y ventas, podemos mejorar la eficiencia operativa de los restaurantes en un 15%. Esto se traducirá en una reducción de errores administrativos y una mejor coordinación entre las distintas áreas del restaurante.
 
@@ -403,11 +443,27 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 <img src="images/CANVAS.jpg">
 
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
+
 1. **Propietarios y Gerentes de Restaurantes Pequeños y Medianos:**
-   Este segmento incluye a dueños y gerentes de restaurantes que buscan optimizar sus operaciones diarias mediante la integración de funciones de gestión como reservas, mesas, cocina, ventas, inventario, y relación con proveedores. La propuesta de valor para este segmento es la mejora de la eficiencia operativa, la reducción del desperdicio, y una mayor satisfacción del cliente gracias a una plataforma todo-en-uno.
+
+<p> Edad: Personas mayores de 25 años.</p>
+<p>Sexo: Femenino o masculino.</p>
+<p>Ubicación: Generalmente localizados en áreas urbanas o semi-urbanas.</p>
+<p>Formación Educativa: No es un requisito específico, aunque muchos cuentan con experiencia o estudios en administración de negocios, gastronomía o áreas afines.</p>
+<p>Poder adquisitivo: Mediano o superior al promedio, interesados en invertir en tecnología que optimice la administración del restaurante.</p>
+<p>Clase Social: Media y Media-Alta.</p>
+<p>Hábitos de Consumo: Enfocados en la búsqueda de soluciones que simplifiquen la gestión diaria de sus restaurantes, desde la reserva de mesas hasta la administración de inventarios.</p>
 
 2. **Proveedor de Insumos para Restaurantes:**
-   Este segmento incluye a empresas y proveedores que suministran alimentos, bebidas, utensilios, y otros productos necesarios para el funcionamiento de los restaurantes. Re-Grill les ofrece una plataforma para interactuar directamente con los restaurantes, ver sus necesidades en tiempo real, y gestionar los pedidos de manera más eficiente. La propuesta de valor para este segmento es la simplificación del proceso de pedidos, reducción de errores de comunicación, y la posibilidad de establecer relaciones más sólidas con sus clientes restauranteros.
+
+<p>Edad: Adultos mayores de 30 años.</p>
+<p>Sexo: Femenino o masculino.</p>
+<p>Ubicación: Generalmente distribuidos en áreas comerciales o industriales.</p>
+<p>Formación Educativa: Personal con conocimientos en comercio, logística o administración de empresas.</p>
+<p>Poder adquisitivo: Medio-Alto, con capacidad para invertir en plataformas que optimicen la relación y gestión de pedidos con sus clientes restauranteros.</p>
+<p>Clase Social: Media-Alta y Alta.</p>
+<p>Hábitos de Consumo: Orientados a la optimización de procesos de distribución, reducción de errores en pedidos y mejora de las relaciones con clientes.</p>
+
 
 
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
