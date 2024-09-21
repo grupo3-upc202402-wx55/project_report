@@ -1917,8 +1917,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <h4 id="bibliography">Bibliografía</h4>
 <h4 id="links">Anexos</h4>
 
-Anexo A: Tabla Comparativa de Competencia
-Esta tabla muestra una comparación entre Re'Grill y otras soluciones tecnológicas disponibles en el mercado para la gestión de restaurantes. Se detallan las principales características de cada plataforma, así como su nivel de integración y accesibilidad económica.
+<h1>Anexo A: Tabla Comparativa de Competencia
+Esta tabla muestra una comparación entre Re'Grill y otras soluciones tecnológicas disponibles en el mercado para la gestión de restaurantes. Se detallan las principales características de cada plataforma, así como su nivel de integración y accesibilidad económica.</h1>
 
 
 | **Característica**              | **Re'Grill**         | Competidor A   | Competidor B   | Competidor C   |
@@ -1931,7 +1931,7 @@ Esta tabla muestra una comparación entre Re'Grill y otras soluciones tecnológi
 | **Actualizaciones automáticas**  | ✔️                   | ✔️              | ❌              | ✔️              |
 
 
-Anexo B: Gráfico de Resultados Operativos
+<h1>Anexo B: Gráfico de Resultados Operativos</h1>
 En este anexo, se incluye un gráfico que ilustra la mejora en la eficiencia operativa de los restaurantes que han implementado Re'Grill. Los datos representan una comparación del rendimiento antes y después de utilizar la plataforma, con un enfoque en la reducción de errores y el aumento de la velocidad de servicio.
 
 | **Indicador**                    | **Antes de Re'Grill** | **Después de Re'Grill** |
