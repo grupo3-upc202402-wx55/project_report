@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/5439c660-7514-4f89-bb89-e82ede11cefb)
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
 <br>
@@ -280,11 +280,11 @@ El principal desafío en la gestión de restaurantes es la falta de una solució
 
 - **What?**
 
-La industria de restaurantes enfrenta desafíos en la gestión de mesas, reservas, pedidos, inventarios y proveedores, lo que afecta la eficiencia operativa y la experiencia del cliente.
+La industria de restaurantes enfrenta desafíos en la gestión de mesas, reservas, pedidos, inventarios y proveedores, lo que afecta la eficiencia operativa y la experiencia del cliente. Los errores comunes incluyen fallos en los pedidos, pérdidas de inventario, demoras en el servicio y coordinación deficiente entre distintas áreas del restaurante junto con los proovedores. Las soluciones actuales suelen ser costosas, dificiles de utilizar o no cuentan con alguna funcionalidad clave.
 
 - **When?**
 
-La problemática se ha agravado en los últimos años debido a la creciente demanda de servicios de restaurantes y la falta de soluciones integradas para la gestión operativa.
+La problemática se ha agravado en los últimos años debido a la creciente demanda de servicios de restaurantes y la falta de funcionalidades dentro de la competencia de la cual podemos encontrar en grandes cantidades.
 
 - **Where?**
 
@@ -292,25 +292,26 @@ La problemática es relevante en restaurantes de todo tipo y tamaño, desde pequ
 
 - **Who?**
 
-Los principales afectados por esta problemática son los propietarios de restaurantes, gerentes, personal de cocina Y servicio, y los clientes que experimentan una atencion posiblemente lenta e ineferciente.
+Los principales afectados por esta problemática son los propietarios de restaurantes, gerentes, personal de cocina Y servicio, y los clientes que experimentan una atencion posiblemente lenta e ineferciente. Finalmente, los proveedores también se ven afectados cuando la gestión deficiente retrasa o envia datos incorrectos a los pedidos .
 
 - **Why?**
 
-La falta de una solución integrada y automatizada para la gestión de restaurantes provoca ineficiencias operativas, errores en los pedidos, pérdida de inventario y una experiencia del cliente insatisfactoria.
+La falta de una solución integrada y automatizada para la gestión de restaurantes provoca ineficiencias operativas, errores en los pedidos, pérdida de inventario y una experiencia del cliente insatisfactoria.Por el lado de proovedores , es necesario porque estos pueden obtener pedidos erroneos o indicados en un rango de tiempo muy corto por lo cual es necesario.
 
 - **How?**
 
-Las soluciones actuales a menudo están divididas en varios sistemas independientes para reservas, ventas, pedidos a proveedores  y gestión de inventario. Esta falta de integración complica la coordinación entre distintos procesos y aumenta la probabilidad de errores.
+Las soluciones actuales a menudo están divididas en varios sistemas independientes o no cuentan con todas las funcionalidades que un negocio podria necesitar para funcionar eficazmente.De esta forma Re grill apareceria como una opcion integrada con todas las funcionalidades clave para los negocios , y prestaria atencion al cliente para poder implementar cualquier deseo de los clientes .
 
 - **How much?**
 
-La falta de una solución integrada para la gestión de restaurantes puede resultar en pérdidas económicas significativas debido a errores en los pedidos, mermas de inventario y una experiencia del cliente insatisfactoria.
+Cuando se habla de el rubro de los restaurantes , no contar con un sistema estandarizado y funcional puede llevar a muchisimos problemas , tanto contables como cualquier otro. Normalmente se tiene problemas con el stock de los productos, al tener mala atencion puede disminuir el flujo de clientes afectando directamente a el centro principal de remuneracion de los restaurantes , puede llevar a problemas con los proovedores por mal manejo y solicitud de informacion , hasta si un alimento se mantiene en buen estado o no , comunicacion eficaz entre los pedidos y la cocina , entre muchos mas . No contar con una solucion de este tipo significa un porcentaje demasiado grande con respecto a los restaurantes.
 
 
 <h4 id="lean-ux">1.2.2 Lean UX Process.</h4>
 <h4 id="lean-ux-problem">1.2.2.1. Lean UX Problem Statements.</h4>
 
-En el sector de restaurantes, estos enfrentan problemas significativos con la gestión de mesas, reservas, inventarios y pedidos de insumos debido a la falta de una solución tecnológica integrada. Esta falta de integración y eficiencia resulta en errores en la administración, mala coordinación entre los distintos procesos operativos y una mala experiencia hacia los clientes. Además, la ausencia de un sistema unificado contribuye a la ineficiencia en el servicio y al incremento de costos operativos.
+Re'Grill busca aprovechar la oportunidad de ofrecer una solución integral que resuelva la fragmentación de los sistemas en los restaurantes, optimizando la eficiencia en la gestión de mesas, reservas, inventarios, y pedidos de insumos. La falta de integración tecnológica ha generado ineficiencias operativas, lo que afecta la experiencia del cliente y aumenta los costos para los propietarios.
+En un mercado altamente competitivo, los restaurantes enfrentan barreras como altos costos de implementación tecnológica o dificultad para adaptarse a el sistema, lo que ha impedido una adopción generalizada de soluciones integradas.La falta de una plataforma asequible y integrada con funcionalidades necesarias hacen que Re'Grill se posicione como líder al proporcionar una solución eficiente, económica y fácil de usar que resuelve los problemas de gestión operativa.
 
 
 <h4 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions.</h4>
@@ -321,72 +322,111 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 
 - Resaltar en el mercado de aplicaciones de gestión de restaurantes con una tasa de adopción del 20% en el primer trimestre.
 
+- Obtener comentarios positivos de los clientes hacia la eficacia de nuestro sistema.
+
 **User Assumptions:**
+**Assumptions Worksheet**<br>
+**¿Quién es el usuario?**
+- La parte administrativa de un restaurante
+- Los proveedores de restaurantes
 
-1. **¿Quien es el usuario?**
+**¿Qué problemas tiene nuestro producto? ¿Resolver?**
+- Gestión con los productos que se tienen en el restaurante
+- Comunicación con los proveedores de alimentos para los ingredientes de sus platillos a la carta
 
-  - Propietarios de restaurantes.
-  - Gerentes de restaurantes.
-  - Personal de cocina y servicio.
-  - Proveedores de insumos.
-  - Clientes de restaurantes.
+**¿Qué características son importantes?**
+- Una mejor forma de contactarse entre la parte administrativa y el proveedor para la reponer los productos
+- Mejorar la atención del cliente con los platillos que se encuentran disponibles en dicho momento.
+- Organización de las cantidades de los productos, ya sea comestibles o de mantenimiento.
+- Interfaz amigable para cualquier usuario que lo use.
 
-2. **¿Qué necesidades tienen los usuarios?**
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+- Para la administración, nuestro producto les ayudará a gestionar los ingredientes de los platos que cocinan, además de conocer los desperdicios que hay al momento de cocinar y las cantidades de mesas, sillas, entre otros.
+- Para los proveedores, el producto los ayudará en mejorar la comunicación entre ellos y la administración del restaurante, además de brindar las cantidades exactas que necesita el restaurante.
 
-  - Simplificar la gestión de mesas y reservas.
-  - Optimizar la coordinación entre la cocina y el servicio.
-  - Facilitar la gestión de inventarios y pedidos de insumos.
-  - Mejorar la experiencia del cliente.
-3. **¿Cómo debería verse o comportarse el producto?**
+**¿Cuándo y cómo es nuestro producto? ¿Usado?**
+- El producto será utilizado cuando la administración del restaurante comienza a gestionar el inventario que posee actualmente, además de ver si las cantidades son las suficientes para las preparaciones al momento de atender.
+- El producto será usado por algunos proveedores de restaurantes, donde podrán visualizar los distintos restaurantes que necesitan contactarse con algún proveedor de algún consumible.
+- El producto será a través de una aplicación web mediante algún dispositivo que usa internet y un navegador como Chrome.
 
-  - Interfaz intuitiva y fácil de usar.
-  - Funcionalidades integradas y automatizadas.
-  - Información clara y accesible.
-  - Personalizable según las necesidades del restaurante.
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+- El diseño de nuestro producto debe ser atractivo y coherente con respecto al diseño del restaurante.
+- La plataforma debe cargar de manera rápida las respuestas a las acciones del usuario para que no se frustre.
+- La navegación de la plataforma debe ser intuitiva y comprensible, donde los usuarios pueden ver los filtros necesarios y las distintas opciones que tiene.
+- Debe mostrar a los clientes con gráficos y una pequeña descripción acerca del plato de comida que busca.
+- Esta plataforma debe ser compatible con algunos dispositivos de dimensiones distintas, como celulares, laptops, tablets y computadoras, donde se usa un diseño responsive.
 
+**Business Outcomes**<br>
+- Convertir nuestro producto como una plataforma indispensable para la gestión de restaurantes, ya sea en la manera de reponer el inventario, organización del mismo local y la atención de los clientes.
+- Un 75% de los usuarios que usaron la página han logrado gestionar de mejor manera los restaurantes.
+- Un 20% de los clientes de restaurantes se muestran insatisfechos con la atención que brinda los restaurantes.
 
-**User Outcomes:**
+**User Benefits**<br>
+- Ahorro de tiempo por la manera de gestionar el inventario.
+- Facilidad en buscar los productos faltantes o desperdiciados.
+- Mejor comunicación entre el proveedor y la administración.
 
+**Assumptions Steps**<br>
+**a. Creo que mis clientes necesitan:**
+  - Visualización de disponibilidad de platillos.
+  - Expresar de manera intuitiva el inventario que se lleva en el local
+  - Comunicarse de manera eficiente con otro tipo de usuario
 
-1.  **Restaurantes:**
+**b. Estas necesidades se pueden resolver con:**
+  - Un sistema que calcula lo que hay en el inventario en general y lo que se usa al día.
+  - Una base de datos que se actualiza cada vez que cambia y se use parte de lo que hay en el inventario.
+  - Un diseño que sea muy atractivo visualmente y a la vez entendible para gestionar el restaurante.
+  - Accesibilidad para su uso en distintos dispositivos según lo que el usuario usará.
 
--   Mejorar la eficiencia operativa en un 15% en la gestión de mesas, reservas y ventas dentro del primer año.
+**c. Mis clientes iniciales son (o serán):**
+  - La parte administrativa de un restaurante.
+  - Los proveedores o vendedores de alimentos para los restaurantes.
 
-3.  **Personal de Restaurante:**
+**d. El valor #1 que un cliente quiere de mi producto es veracidad (utilidad, funcionalidades que le resuelven el problema)**
+  - La garantía de que no habrá problemas en las cantidades con respecto al inventario por la base de datos.
+  - La comunicación de manera directa con el proveedor con respecto a la necesidad del restaurante.
 
--   Reducción del 20% en el tiempo dedicado a la gestión diaria de tareas tras implementar Re'Grill.
+**e. El cliente también puede obtener estos beneficios adicionales:**
+  - Obtener las cantidades de la merma que se obtiene al hacer un plato.
+  - Mejorar la administración del restaurante.          
 
-5.  **Clientes:**
+**f. Voy a adquirir la mayoría de mis clientes a través de:**
+  - Colaboración con un restaurante conocido.
+  - Estrategias de marketing digital con el enfoque en los distintos restaurantes.
 
--   Aumento en la satisfacción del cliente debido a una experiencia más organizada y eficiente.
+**g. Haré dinero a través de:**
+  - Membresías premium con acceso exclusivo y funciones adicionales
 
-**¿Qué está intentando conseguir el usuario?**
+**h. Mi competencia principal en el mercado:**
+  - Tiendas virtuales de restaurantes que se enfocan en las ventas.
+  - Páginas de gestión de restaurantes.
 
--   Restaurantes: Optimizar la gestión de operaciones y mejorar la coordinación entre reservas, ventas y control de inventarios.
+**i. Los venceremos debido a:**
+  - El diseño es atractivo y accesible para cualquier tipo de usuario ya sea la administración o el proveedor.
+  - La base de datos actualizada constantemente con respecto a la necesidad del usuario.
 
--   Personal de Restaurante: Reducir el tiempo y los errores en la administración diaria de tareas.
+**j. Mi mayor riesgo del producto es:**
+  - La desconfianza por parte de los restaurantes con respecto a la correcta función del programa al momento de tener días especiales.
+  - El mal cálculo del inventario al momento de mostrar las cantidades de cada producto que se encuentra disponible.
 
-**¿Cómo se quiere sentir el usuario?**
+**k. Resolveremos esto a través de:**
+  - Mostrando pruebas funcionales de esto y su adaptabilidad ante algún problema que se muestra de manera sorpresiva.
+  - Las constantes verificaciones que se realizará al momento de que se haga alguna compra.
 
--   Restaurantes y Personal: Sentir que las operaciones son más eficientes, organizadas y que el sistema mejora la experiencia general tanto para el personal como para los clientes.
-
-**¿Cómo nuestro producto lo acerca a su objetivo?**
-
--   Restaurantes: Proporciona una solución integral que unifica la gestión de mesas, reservas, inventarios y ventas, optimizando los procesos y reduciendo la carga administrativa.
-
--   Personal de Restaurante: Facilita la gestión de tareas diarias, mejorando la eficiencia operativa y la satisfacción en el trabajo.
-
-**¿Por qué nuestros usuarios se interesarían por nuestro producto?,¿Qué beneficio podrían obtener?**
-
--   Restaurantes: Mejora en la coordinación y eficiencia operativa, reducción de errores y costos, y una mejor experiencia para los clientes.
-
--   Personal de Restaurante: Simplificación en la gestión de tareas y un entorno de trabajo más organizado.
-
-**¿Qué cambio en su comportamiento veremos que nos dirá que nuestro objetivo ha sido logrado?**
-
--   Restaurantes y Personal: Uso consistente de la plataforma en la gestión diaria de operaciones. Esperamos ver una mejora significativa en la eficiencia operativa y una reducción en los problemas reportados. La tasa de retención y adopción de nuevos usuarios también será un indicador clave del éxito del producto.
+**l. ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio / proyecto no funcione?**
+  - Podrá ser que las estrategias de marketing que se usa podrán ayudar a obtener más compañías que le darán uso de la aplicación. En caso se muestre el contrario, podría afectar de manera negativa la inversión del negocio.
+  - Las ventas de las suscripciones para obtener más funciones que les será muy útil para mejorar su experiencia con la página. Si se prueba que es falso, afectaría de manera directa con la generación de ingresos y sostenibilidad del negocio.
 
 <h4 id="lean-ux-hypothesis">1.2.2.3. Lean UX Hypothesis Statements.</h4>
+
+**Adopción Tecnológica por Restaurantes Pequeños y Medianos:**
+Creemos que al ofrecer una plataforma asequible y fácil de implementar, podemos reducir las barreras de entrada para pequeños y medianos restaurantes, logrando que el 40% de ellos adopten la solución de Re'Grill en su primer año de lanzamiento. Esto permitirá que estos restaurantes mejoren la eficiencia operativa sin incurrir en altos costos tecnológicos.
+
+**Accesibilidad Económica:**
+Creemos que al ofrecer una solución rentable en comparación con los sistemas tecnológicos fragmentados o más caros en el mercado, podemos lograr que al menos el 60% de los restaurantes que evalúen Re'Grill lo consideren como su primera opción debido a su bajo costo de implementación y mantenimiento.
+
+**Adaptación del Personal a la Plataforma:**
+Creemos que al ofrecer una interfaz intuitiva y fácil de aprender, el personal operativo (cocina, servicio y gerentes) podrá adaptarse al uso de Re'Grill en un plazo máximo de 2 semanas, con una reducción del 25% en errores operativos relacionados con la falta de familiarización con la tecnología.
 
 **Mejora en la Eficiencia Operativa:** Creemos que al implementar un sistema integrado para la gestión de mesas, reservas, inventarios y ventas, podemos mejorar la eficiencia operativa de los restaurantes en un 15%. Esto se traducirá en una reducción de errores administrativos y una mejor coordinación entre las distintas áreas del restaurante.
 
@@ -403,16 +443,34 @@ En el sector de restaurantes, estos enfrentan problemas significativos con la ge
 <img src="images/CANVAS.jpg">
 
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
+
 1. **Propietarios y Gerentes de Restaurantes Pequeños y Medianos:**
-   Este segmento incluye a dueños y gerentes de restaurantes que buscan optimizar sus operaciones diarias mediante la integración de funciones de gestión como reservas, mesas, cocina, ventas, inventario, y relación con proveedores. La propuesta de valor para este segmento es la mejora de la eficiencia operativa, la reducción del desperdicio, y una mayor satisfacción del cliente gracias a una plataforma todo-en-uno.
+
+<p> Edad: Personas mayores de 25 años.</p>
+<p>Sexo: Femenino o masculino.</p>
+<p>Ubicación: Generalmente localizados en áreas urbanas o semi-urbanas.</p>
+<p>Formación Educativa: No es un requisito específico, aunque muchos cuentan con experiencia o estudios en administración de negocios, gastronomía o áreas afines.</p>
+<p>Poder adquisitivo: Mediano o superior al promedio, interesados en invertir en tecnología que optimice la administración del restaurante.</p>
+<p>Clase Social: Media y Media-Alta.</p>
+<p>Hábitos de Consumo: Enfocados en la búsqueda de soluciones que simplifiquen la gestión diaria de sus restaurantes, desde la reserva de mesas hasta la administración de inventarios.</p>
 
 2. **Proveedor de Insumos para Restaurantes:**
-   Este segmento incluye a empresas y proveedores que suministran alimentos, bebidas, utensilios, y otros productos necesarios para el funcionamiento de los restaurantes. Re-Grill les ofrece una plataforma para interactuar directamente con los restaurantes, ver sus necesidades en tiempo real, y gestionar los pedidos de manera más eficiente. La propuesta de valor para este segmento es la simplificación del proceso de pedidos, reducción de errores de comunicación, y la posibilidad de establecer relaciones más sólidas con sus clientes restauranteros.
+
+<p>Edad: Adultos mayores de 30 años.</p>
+<p>Sexo: Femenino o masculino.</p>
+<p>Ubicación: Generalmente distribuidos en áreas comerciales o industriales.</p>
+<p>Formación Educativa: Personal con conocimientos en comercio, logística o administración de empresas.</p>
+<p>Poder adquisitivo: Medio-Alto, con capacidad para invertir en plataformas que optimicen la relación y gestión de pedidos con sus clientes restauranteros.</p>
+<p>Clase Social: Media-Alta y Alta.</p>
+<p>Hábitos de Consumo: Orientados a la optimización de procesos de distribución, reducción de errores en pedidos y mejora de las relaciones con clientes.</p>
+
 
 
 <h3 id="chapter-2">Capítulo II: Requirements Elicitation & Analysis</h3>
 <h4 id="competitors">2.1. Competidores.</h4>
-Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, TouchBistro y Inforest.
+
+En esta sección se identifican los principales competidores que ofrecen productos digitales similares o parcialmente equivalentes. Entre ellos se destacan soluciones como Toast, TouchBistro e Inforest, cada uno con enfoques específicos en la gestión y la automatización en restaurantes.
+
 <h4 id="competitive-analysis">2.1.1. Análisis competitivo.</h4>
 
 # Competitive Analysis Landscape
@@ -563,17 +621,14 @@ Algunos competidores en el campo de la gestión de restaurantes incluyen Toast, 
 * Edad: 25 años
 * Distrito donde vive: Lima
 
-* Link: https://www.youtube.com/watch?v=GwihqjCG-hs
+
 
 * Momento en el que inicia: 0:00
 * Duracion: 2:25
 * Entrevistador: David Bryan Rodriguez Santos
 * Resumen:
 
-Entrevistada destaca como factores clave para el éxito del restaurante la buena calidad de la comida y el control del inventario. Considera esencial en un software de gestión la integración de los módulos, automatización de procesos y acceso móvil.
-El flujo típico en su restaurante incluye tomar pedidos, transmitirlos a la cocina, servir la comida y revisar las ventas. Los mayores desafíos son el control del inventario y la coordinación del personal.
-Le gustaría optimizar la gestión del inventario y automatizar el seguimiento del personal. Actualmente, usan un sistema POS, software de reservas y contabilidad, pero siente que la falta de integración entre ellos es un problema.
-
+Darla es una mujer de 25 años que vive en Lima. Destaca como factores clave para el éxito de un restaurante la buena calidad de la comida y el control del inventario. Considera esencial en un software de gestión la integración de los módulos, la automatización de procesos y el acceso móvil. El flujo típico en su restaurante incluye tomar pedidos, transmitirlos a la cocina, servir la comida y revisar las ventas. Los mayores desafíos que enfrenta son el control del inventario y la coordinación del personal. Le gustaría optimizar la gestión del inventario y automatizar el seguimiento del personal. Actualmente, usan un sistema POS, software de reservas y contabilidad, pero siente que la falta de integración entre ellos es un problema. Es soltera con ingresos medios y trabaja como gerente de restaurante. Utiliza principalmente smartphone y laptop, y se comunica a través de WhatsApp, correo electrónico y redes sociales profesionales. Es proactiva, orientada a la eficiencia, con habilidades en gestión de personal y operaciones. Está interesada en tecnologías innovadoras para la industria de la restauración. Sus objetivos son mejorar la eficiencia operativa del restaurante e implementar sistemas integrados de gestión. Sus frustraciones incluyen sistemas desconectados que dificultan el control total del negocio y la pérdida de tiempo en procesos manuales. Tiene cinco años de experiencia en la industria y busca constantemente maneras de innovar y mejorar la experiencia tanto para el personal como para los clientes.
 
 - Entrevista 2: Vanfic Gustavok
 
@@ -583,7 +638,7 @@ Le gustaría optimizar la gestión del inventario y automatizar el seguimiento d
 * Edad: 49 años
 * Distrito donde vive: Lima
 
-* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D 
+
 
 
 * Momento en el que inicia: 4:24
@@ -592,8 +647,9 @@ Le gustaría optimizar la gestión del inventario y automatizar el seguimiento d
 
 * Resumen:
 
-El entrevistado considera que un software de gestión de restaurantes debe incluir la gestión de mesas y reservas, el control de inventario, el seguimiento de ventas, la gestión de pedidos en cocina, la integración con proveedores, y capacidades de análisis y reportes financieros. Estas funciones permiten automatizar procesos y optimizar las operaciones diarias.
-
+Vanfic Gustavok es un hombre de 49 años que vive en Lima. Durante una entrevista con Mateo Loechle que comenzó en el minuto 4:24 y duró 2 minutos y 20 segundos, compartió su visión sobre las funcionalidades esenciales de un software de gestión de restaurantes. Vanfic cree que dicho software debe incluir gestión de mesas y reservas, control de inventario, seguimiento de ventas, gestión de pedidos en cocina, integración con proveedores y capacidades de análisis y reportes financieros. Considera que estas funciones son cruciales para automatizar procesos y optimizar las operaciones diarias.
+Como propietario de un restaurante desde hace más de diez años, ha experimentado las dificultades de manejar múltiples sistemas no integrados. Utiliza dispositivos como smartphones y laptops para sus tareas diarias y se comunica principalmente a través de correo electrónico y aplicaciones de mensajería instantánea. Valora la eficiencia y está en constante búsqueda de tecnologías que le permitan mejorar la gestión de su negocio.
+Vanfic se siente frustrado por la falta de integración entre los diferentes sistemas que utiliza actualmente, como el POS, el software de reservas y las herramientas de contabilidad. Su objetivo es encontrar una solución unificada que le facilite el control total de su negocio, reduciendo la carga de trabajo manual y minimizando errores. Es una persona detallista y orientada a la mejora continua, siempre buscando innovar y ofrecer una mejor experiencia tanto para su equipo como para sus clientes.
 
 - Entrevista 1: Anghelo Basauri
 
@@ -611,9 +667,8 @@ El entrevistado considera que un software de gestión de restaurantes debe inclu
 
 * Resumen:
 
-Entre los mayores desafíos, el entrevistado menciona el control preciso del inventario, garantizar la calidad constante de los platos, gestionar eficazmente al personal y proporcionar una excelente experiencia al cliente. Además, manejar la logística de los proveedores y las fluctuaciones en la demanda también son complicados.
- El entrevistado desea optimizar la gestión de inventario y pedidos, asegurando que siempre haya suficientes insumos sin sobrecargar el stock. También le gustaría automatizar la comunicación con los proveedores para reducir tiempos de respuesta y minimizar errores.
-
+Anghelo Basauri es un hombre de 27 años que vive en el distrito de Rímac. La entrevista, realizada por Hardie Holguín, comenzó a las 4:24 y tuvo una duración de 3 minutos y 12 segundos. Entre los mayores desafíos que menciona se encuentran el control preciso del inventario, garantizar la calidad constante de los platos, gestionar eficazmente al personal y proporcionar una excelente experiencia al cliente. También encuentra complicado manejar la logística de los proveedores y las fluctuaciones en la demanda.
+Anghelo desea optimizar la gestión de inventario y pedidos para asegurar que siempre haya suficientes insumos sin sobrecargar el stock. Le gustaría automatizar la comunicación con los proveedores para reducir tiempos de respuesta y minimizar errores. Es gerente de un restaurante y utiliza dispositivos como smartphones y laptops para sus tareas diarias. Se comunica principalmente a través de correo electrónico y aplicaciones de mensajería instantánea. Valora la tecnología como una herramienta para mejorar la eficiencia operativa y está interesado en soluciones que le ayuden a superar los desafíos mencionados.
 
 - Entrevista 1: Keyner Hancco
 
@@ -629,8 +684,8 @@ Entre los mayores desafíos, el entrevistado menciona el control preciso del inv
 * Resumen: Hardie Holguín
 
 * Analisis:
-Para el entrevistado, la rapidez y precisión en el servicio son aspectos críticos, junto con la facilidad para realizar reservas y pedidos. También considera fundamental mejorar la comunicación entre el personal y los clientes para garantizar que sus necesidades sean atendidas eficientemente.
-En general, el entrevistado está satisfecho con las herramientas que utiliza, aunque cree que siempre hay margen de mejora. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
+
+Keyner Hancco es un hombre de 25 años que vive en Santa Anita. Fue entrevistado por Hardie Holguín, comenzando a las 7:10 y con una duración de 5 minutos y 32 segundos. Para él, la rapidez y precisión en el servicio son aspectos críticos, junto con la facilidad para realizar reservas y pedidos. Considera fundamental mejorar la comunicación entre el personal y los clientes para garantizar que sus necesidades sean atendidas eficientemente. En general, está satisfecho con las herramientas que utiliza, aunque cree que siempre hay margen de mejora. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante. Es soltero, supervisor en un restaurante de comida rápida, con ingresos medios. Utiliza smartphone y tablet, y se comunica a través de WhatsApp, correo electrónico y aplicaciones de gestión de restaurantes. Es proactivo, orientado al cliente, con habilidades en gestión de equipos y resolución de problemas. Está interesado en tecnología móvil y aplicaciones que mejoren la eficiencia operativa. Sus objetivos son mejorar la experiencia del cliente mediante servicios más rápidos y precisos e implementar sistemas que faciliten las reservas y pedidos en línea. Sus frustraciones incluyen herramientas poco intuitivas que dificultan el flujo de trabajo e integración deficiente con proveedores que causa demoras. Tiene cinco años de experiencia en la industria de la restauración y siempre busca formas de implementar soluciones digitales que mejoren tanto la eficiencia operativa como la satisfacción del cliente.
 
 - Entrevista 1: Elismar Sarmiento
 
@@ -643,40 +698,58 @@ En general, el entrevistado está satisfecho con las herramientas que utiliza, a
 * Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 
-
 * Momento en el que inicia: 12:57
 * Duracion: 4:10
 * Entrevistador: Gabriel Braihuate
 * Resumen:
 
- El entrevistado utiliza un software de gestión que integra la toma de pedidos, la gestión de inventario, las reservas y el procesamiento de pagos. También emplea herramientas de análisis de datos para entender mejor las tendencias de consumo y ajustar la oferta en consecuencia. Le gustaría que algunas funciones fueran más intuitivas y que la integración con los proveedores fuera más fluida. También menciona que la personalización de ciertos reportes sería una mejora importante.
-
+Elismar Sarmiento es una mujer de 25 años que vive en Pueblo Libre, Lima, Perú. Está casada y tiene ingresos medios. Utiliza Google Chrome como buscador principal y LinkedIn es su canal principal de interacción digital. Trabaja en el área de proveedores, donde sus funciones incluyen el contacto directo con clientes, organizar pedidos y entregas, y gestionar la información relacionada. Cree que la calidad de los alimentos utilizados en los restaurantes es clave para su éxito y que la tecnología es importante para la gestión y comunicación con los clientes. Ofrece productos de alta calidad como verduras, frutas, lácteos y especias, principalmente a restaurantes, casinos y hoteles. Utiliza WhatsApp y Outlook para comunicarse y Excel para gestionar los pedidos, pero no está completamente satisfecha con estas herramientas porque le resulta tedioso transferir datos del correo a Excel y a veces los pedidos se pierden en WhatsApp o correo debido al gran volumen de mensajes. Su principal dificultad es la comunicación con sus clientes.
 
 <h4 id="interviews-analysis">2.2.3. Análisis de entrevistas.</h4>
 
- <p>Administrador de Restaurante:</p>
-<p>Durante las entrevistas con administradores de restaurante, se identificaron varios puntos clave que destacan sus principales necesidades y desafíos. En primer lugar, señalaron la importancia de contar con un sistema eficiente para gestionar las reservas y la asignación de mesas, ya que una mala organización en este aspecto puede afectar negativamente la experiencia del cliente. Además, enfatizaron la necesidad de una herramienta integral que permita un control exhaustivo del inventario y de los proveedores, lo cual impacta directamente en la reducción de costos y en la optimización del proceso de abastecimiento. Otro aspecto recurrente fue la importancia de generar reportes y estadísticas en tiempo real, especialmente en relación con las ventas, el desperdicio de alimentos, y el uso de ingredientes. Los administradores también valoran la capacidad de tener un cierre de caja detallado y preciso, así como una visión clara de la rentabilidad de cada plato para mejorar la toma de decisiones estratégicas.</p>
+#### Administrador de Restaurante:
 
- <p> Proveedor:</p>
- <p>En cuanto a los proveedores, las entrevistas revelaron que su principal interés radica en la simplificación y mejora de la comunicación con los restaurantes. Mencionaron la importancia de contar con un sistema que les permita gestionar pedidos de manera más ágil y estructurada, evitando errores y reduciendo el tiempo de espera entre la orden y la entrega. Asimismo, expresaron la necesidad de tener visibilidad sobre las previsiones de demanda y el historial de compras de los restaurantes, lo que les ayudaría a planificar mejor su producción y entrega. Los proveedores también señalaron que valoran los sistemas que permiten una integración directa con los inventarios de los restaurantes, de modo que puedan ajustar sus ofertas y volúmenes de productos según las necesidades reales del cliente, mejorando así la eficiencia en toda la cadena de suministro.</p>
+Durante las entrevistas con los administradores de restaurante, se identificaron varios puntos clave que destacan sus principales necesidades y desafíos. En primer lugar, enfatizaron la importancia de contar con un sistema eficiente para gestionar las reservas y la asignación de mesas, ya que una mala organización en este aspecto puede afectar negativamente la experiencia del cliente. Asimismo, señalaron la necesidad de una herramienta integral que permita un control exhaustivo del inventario y de los proveedores, lo cual impacta directamente en la reducción de costos y en la optimización del proceso de abastecimiento.
+Un tema recurrente fue la importancia de generar reportes y estadísticas en tiempo real, especialmente en relación con las ventas, el desperdicio de alimentos y el uso de ingredientes. Los administradores valoran la capacidad de tener un cierre de caja detallado y preciso, así como una visión clara de la rentabilidad de cada plato para mejorar la toma de decisiones estratégicas. También destacaron desafíos como garantizar la calidad constante de los platos, gestionar eficazmente al personal y mejorar la comunicación entre el equipo y los clientes para atender sus necesidades de manera eficiente.
+Además, manifestaron que la falta de integración entre los sistemas actuales (como POS, software de reservas y contabilidad) es un problema común. Desean herramientas más intuitivas que permitan una mejor integración con los proveedores y la personalización de reportes. La automatización de procesos, como el seguimiento del personal y la gestión de pedidos en cocina, fue mencionada como una mejora importante para optimizar las operaciones diarias.
+
+#### Proveedor:
+
+En cuanto a los proveedores, las entrevistas revelaron que su principal interés radica en la simplificación y mejora de la comunicación con los restaurantes. Mencionaron la importancia de contar con un sistema que les permita gestionar pedidos de manera más ágil y estructurada, evitando errores y reduciendo el tiempo de espera entre la orden y la entrega. La comunicación a través de herramientas como WhatsApp y correo electrónico a veces resulta ineficiente, llevando a la pérdida de pedidos y a procesos tediosos como la transferencia manual de datos.
+Los proveedores expresaron la necesidad de tener visibilidad sobre las previsiones de demanda y el historial de compras de los restaurantes, lo que les ayudaría a planificar mejor su producción y entrega. También valoran los sistemas que permiten una integración directa con los inventarios de los restaurantes, de modo que puedan ajustar sus ofertas y volúmenes de productos según las necesidades reales del cliente, mejorando así la eficiencia en toda la cadena de suministro. Consideran que la tecnología juega un rol crucial en modernizar estas interacciones y en facilitar una gestión más eficiente y efectiva de los pedidos y comunicaciones.
 
 <h4 id="needfinding">2.3. Needfinding.</h4>
 <h4 id="user-personas">2.3.1. User Personas.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Martín es un proveedor de insumos gastronómicos de 42 años. Su principal objetivo es establecer relaciones comerciales duraderas con restaurantes, automatizar pedidos y ofrecer un servicio confiable. Tiene buena organización, pero nivel medio en tecnología. Está frustrado por la falta de sistemas centralizados y la competencia que ofrece precios bajos. Prefiere canales como LinkedIn y las interacciones cara a cara.
+
 <img src = "/images/user-persona/user-persona-1.png" alt="User Persona 1"/>
 
 #### Segmento: Proveedor
+
+Laura es administradora de un restaurante de 45 años. Busca optimizar la gestión, reducir desperdicios y mejorar la satisfacción del cliente. Tiene experiencia en organización y se maneja bien con la tecnología. Sus principales frustraciones son la falta de integración de sistemas y el desperdicio de insumos. Sus canales favoritos son Facebook, LinkedIn y las interacciones cara a cara.
+
 <img src = "/images/user-persona/user-persona-2.png" alt="User Persona 2"/>
 
 <h4 id="user-task-matrix">2.3.2. User Task Matrix.</h4>
 
-| Tarea                                  | Persona               | Frecuencia | Importancia |
-|----------------------------------------|-----------------------|------------|-------------|
-| Gestionar inventario y stock           | Laura, Administradora | Diaria     | Alta        |
-| Coordinar pedidos con proveedores      | Laura, Administradora | Semanal    | Alta        |
-| Gestionar comunicación con proveedores | Laura, Administradora | Diaria     | Media       |
-| Revisar reportes de ventas             | Laura, Administradora | Semanal    | Alta        |
+
+| **Tareas**                                        | **Frecuencia** | **Usuario Principal** | **Objetivo del Usuario**                                                                 | **Frustraciones del Usuario**                                                                 | **Oportunidades de la Plataforma**                                                                                           |
+|---------------------------------------------------|----------------|-----------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
+| **Gestionar pedidos de insumos**                  | Diaria          | Ambos                 | Laura solicita insumos y Martín los procesa y gestiona                                  | Laura: Dificultad para controlar el inventario <br> Martín: Errores manuales en los pedidos    | Automatización en tiempo real de los pedidos y gestión del inventario para reducir errores y mejorar tiempos de entrega.      |
+| **Coordinar entregas y logística**                | Diaria          | Ambos                 | Martín organiza el envío y Laura recibe los insumos puntualmente                        | Laura: Entregas retrasadas <br> Martín: Mala coordinación logística                           | Sistema de seguimiento en tiempo real que notifique a ambos usuarios del estado de las entregas.                              |
+| **Monitorear niveles de stock**                   | Semanal         | Laura                 | Mantener el stock en niveles óptimos para evitar escasez o sobreabastecimiento           | Laura: Desperdicio de insumos o escasez de productos                                          | Plataforma que automatice la actualización de stock, basada en los pedidos y las ventas del restaurante.                      |
+| **Actualizar catálogo de productos**              | Semanal         | Martín                | Asegurar que sus clientes vean los productos disponibles y ofertas                      | Martín: Falta de visibilidad de su catálogo de productos                                      | Sección centralizada donde Martín pueda actualizar su catálogo y Laura acceda a él en tiempo real, incluyendo ofertas.        |
+| **Negociar condiciones de compra y precios**      | Mensual         | Ambos                 | Laura busca precios competitivos y Martín quiere establecer relaciones comerciales sólidas | Martín: Competencia con precios bajos <br> Laura: Falta de opciones competitivas            | Funcionalidad para negociar directamente desde la plataforma, agilizando acuerdos y condiciones comerciales.                   |
+| **Generar y enviar facturas**                     | Semanal         | Ambos                 | Martín necesita facturar y Laura debe controlar los gastos del restaurante               | Martín: Falta de automatización en la facturación <br> Laura: Problemas para controlar costos | Facturación automática vinculada a los pedidos, con reportes que faciliten la administración y el control financiero.         |
+| **Revisar informes de pedidos y consumo**         | Mensual         | Ambos                 | Evaluar el rendimiento de los productos, las ventas y los pedidos                        | Laura: Falta de información clara sobre el uso de insumos <br> Martín: Poca visibilidad de ventas | Informes detallados que incluyan estadísticas de pedidos, ventas y stock, para tomar mejores decisiones estratégicas.        |
+| **Ofrecer descuentos y promociones**              | Ocasional       | Martín                | Atraer nuevos clientes y fidelizar a los actuales                                        | Martín: Poca visibilidad de sus ofertas                                                       | Plataforma que permita la creación y promoción de descuentos y ofertas, visibles para clientes como Laura.                    |
+| **Gestionar devoluciones y reclamos**             | Ocasional       | Ambos                 | Resolver incidencias relacionadas con la calidad o entrega de los insumos                | Laura: Mala calidad o entregas tardías <br> Martín: Reclamos que afectan la relación comercial | Integrar una funcionalidad para gestionar devoluciones y reclamos, facilitando la comunicación y resolución rápida.            |
+| **Capacitar al equipo en nuevas herramientas**    | Ocasional       | Laura                 | Asegurar que su equipo use eficientemente la plataforma para optimizar operaciones       | Laura: Dificultad de su equipo para adaptarse a nuevas tecnologías                            | Tutoriales integrados en la plataforma y soporte técnico para facilitar el aprendizaje del equipo de Laura.                   |
+| **Solicitar informes de disponibilidad de productos** | Ocasional    | Laura                 | Verificar la disponibilidad de productos antes de hacer pedidos                         | Laura: Falta de información actualizada sobre la disponibilidad                               | Sistema en tiempo real que muestre la disponibilidad de insumos, facilitando la planificación de pedidos.                    |
+
 
 | **Tarea**                             | **Persona**                                                                                             | **Frecuencia** | **Importancia** |
 |---------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|-----------------|
@@ -689,25 +762,53 @@ En general, el entrevistado está satisfecho con las herramientas que utiliza, a
 <h4 id="user-journey-mapping">2.3.3. User Journey Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Los usuarios sienten ansiedad por la curva de aprendizaje del equipo, lo que destaca la necesidad de mejorar la accesibilidad del producto y ofrecer tutoriales más fáciles de seguir.
+A pesar de la satisfacción con la reducción de desperdicios, los usuarios expresan frustraciones con la interfaz, lo que sugiere oportunidades para recibir retroalimentación constante y mejorar la usabilidad del sistema.
+
 <img src="/images/user-journey-mapping/user-journey-mapping-1.png" alt="user-journey-mapping-1">
 
 #### Segmento: Proveedor
+
+Los usuarios buscan automatizar la gestión de pedidos, pero tienen preocupaciones sobre la compatibilidad con sus sistemas actuales, lo que indica la importancia de resaltar la facilidad de integración en los materiales promocionales.
+Aunque se muestra satisfacción con la reducción de errores, los usuarios aún experimentan frustraciones con algunos aspectos de la interfaz, lo que señala la necesidad de mejorar y personalizarla, especialmente para proveedores.
+
 <img src="/images/user-journey-mapping/user-journey-mapping-2.png" alt="user-journey-mapping-2">
 
 <h4 id="empathy-mapping">2.3.4. Empathy Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Los usuarios sienten ansiedad por posibles fallas del sistema y buscan mejorar la eficiencia del personal, sintiendo alivio cuando las operaciones fluyen sin problemas.
+Escuchan quejas de clientes sobre demoras en pedidos, sugerencias del personal para mejorar procesos y notificaciones del sistema sobre inventarios bajos.
+Suelen ver informes de stock y ventas, menús, listas de precios, reservas y pedidos en línea, además de los movimientos del personal.
+
 <img src="/images/empathy-map/empathy-map-1.png" alt="empathy-mapping-1">
 
 #### Segmento: Proveedor
+
+Los usuarios se preocupan por la exactitud y puntualidad de los pedidos, con ansiedad sobre la compatibilidad de NoNucleus con sus sistemas actuales, aunque sienten alivio cuando las entregas son sin complicaciones.
+Escuchan comentarios sobre la puntualidad de los pedidos, sugerencias de clientes para mejorar la entrega y notificaciones del sistema sobre nuevos pedidos.
+Observan detalles de pedidos recibidos y pendientes en NoNucleus, notificaciones de cambios en las solicitudes y reportes sobre cantidad y tiempos de entrega.
+
 <img src="/images/empathy-map/empathy-map-2.png" alt="empathy-mapping-2">
 
 <h4 id="as-is-scenario-mapping">2.3.5. As-is Scenario Mapping.</h4>
 
 #### Segmento: Administrador de restaurantes
+
+Pasos y acciones: Llega temprano, revisa inventario y stock, asigna tareas al personal, supervisa las operaciones, resuelve problemas del día y cierra revisando ventas e inventario.
+Pensamientos: Preocupación por el stock y las responsabilidades del personal, buscando asegurar eficiencia en el servicio y resolver problemas rápidamente. Al final del día, reflexiona sobre posibles mejoras para mañana.
+Sentimientos: Preocupación, ansiedad al inicio del día, satisfacción tras una buena jornada, frustración ante problemas y alivio al cerrar el día.
+
 <img src="/images/as-is-scenary-map/as-is-scenary-map-1.png" alt="as-is-scenary-map-1"/>
 
 #### Segmento: Proveedor
+
+Pasos y acciones: Inicia revisando pedidos, verifica que estén organizados, coordina las rutas de entrega, supervisa las entregas, recibe feedback y actualiza NoNucleus.
+Pensamientos: Preocupación por el stock y la organización de los pedidos, buscando que las entregas sean puntuales y sin errores. Reflexiona sobre problemas potenciales y cómo mejorar la próxima vez.
+Sentimientos: Preocupación y ansiedad al inicio, determinación durante el proceso, frustración si surgen problemas y alivio tras recibir feedback y cerrar el día.
+
 <img src="/images/as-is-scenary-map/as-is-scenary-map-2.png" alt="as-is-scenary-map-2"/>
 
 <h4 id="ubiquitous-language">2.4. Ubiquitous Language.</h4>
@@ -789,293 +890,130 @@ Este lenguaje será usado consistentemente en la documentación, comunicación y
     </p>
     <p>Dentro de las dimensiones que adoptaremos en le tono de comunicación y lenguaje aplicado tendremos que será serio, formal, respetuoso y sereno ya que se trata del manejo de inventario de una empresa del rubro de restaurantes lo cual requiere todo lo mencionado.
 </p>
+<h4 id="style-guidelines">4.1. Style Guidelines.</h4>
+<p>
+  En este capítulo se desarrollará las bases para contar con un repositorio central y organizado de uso común que incluye assets, fonts. Esto con el fin de mantener una presentación consistente y enfocada.
+</p>
+<h4 id="general-style-guidelines">4.1.1. General Style Guidelines.</h4>
 
-## 4.1. Style Guidelines. <a name ="4.1.">
-### 4.1.1. General Style Guidelines. <a name ="4.1.1.">
+Branding:
 
-El diseño de la página de destino de RE-GRILL encarna los principios de eficiencia, innovación y apoyo en la gestión de operaciones para restaurantes. Los elementos visuales se eligen para respaldar estos valores fundamentales y ofrecer una experiencia amigable para el usuario.
+- Este logo simboliza nuestro rubro a la administracion de inventarios para restaurantes. Al obtener nuestros servicios, las empresan podrán tener mejores margenes de ganancias al mejorar su administracion
+    <img src="/images/RE-GRILL.png"></img><br>
 
-- **Branding**:  
-  RE-GRILL refleja una marca comprometida con proporcionar soluciones integrales que optimizan la gestión de restaurantes. La esencia de la marca es la innovación y la eficiencia, orientadas a mejorar la experiencia del cliente.
+Typography:
+- La tipografía de nuestro logo tendrá un estilo marcado el cual es Arial teniendo diversas ventajas, especialmente en términos de legibilidad, compatibilidad y simplicidad. Con esta tipografía reflejamos la innovación así como la creatividad que es lo que sobresale de nuestra aplicación.
+- Otro factor por el cual elegimos Arial se debe a su gran rendimiento dado que es una tipografía preinstalada, lo que hace que no sea necesario cargarla desde un servidor externo, reduciendo el tiempo de carga de la página web.
 
-- **Logo**:  
-  El logotipo de  combina mantiene un único color que refleja confiabilidad y estabilidad. Su simpleza lo hace facil de reconocer y recordar. Además su figura da a entender hasta cierto punto qué es RE-GRILL.
+Colors:
+- Nosotros elegimos la paleta de colores para que el usuario al visitar nuestro sitio web ellos se sientan cómodos y que sobre todo les brinde seguridad y confort. El azul oscuro (#004080) demuestra confianza, profesionalismo y estabilidad. El blanco (#ffffff)
+  <img src="/images/COLORES-WEB.png"></img><br> 
 
-- **Colors**:
-  - **Azul Oscuro (#004080)**: Utilizado para el encabezado, pie de página y elementos de navegación para transmitir confianza y profesionalismo.
-  - **Azul Oscuro 2(003060)**: De igual manera que el anterior, utilizado para el encabezado, pie de página y elementos de navegación para resaltar aún más diferentes segmentos.
-  - **Naranja (#ff7300)**: Utilizado en los botones de llamada a la acción y elementos destacados, este color añade dinamismo y dirige la atención del usuario hacia las acciones esenciales.
-  - **Blanco (#FFFFFF)**: Empleado como color de fondo predominante para garantizar claridad y un diseño limpio y organizado.
-  - **Gris (#333, #555)**: Utilizado para texto secundario y detalles menores, proporcionando buena legibilidad mientras mantiene una presencia visual sutil.
 
-- **Typography**:
-  - **Fuentes Usadas**: 'Roboto' y 'Varela Round' se emplean para proporcionar una estética moderna y accesible. Estas fuentes son adecuadas para una amplia audiencia y aseguran consistencia visual a través de diferentes dispositivos.
-  - **Estilos y Tamaños**:
-    - **Títulos**: Grandes y en negrita para captar la atención.
-    - **Texto del Cuerpo**: Tamaños moderados para asegurar legibilidad y una experiencia de usuario cómoda.
+<h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
+   
 
-- **Communication Tones**
+<h4 id="web-style-guidelines">4.1.2. Web Style Guidelines.</h4>
 
-  - **Formal/Approachable**: El estilo de comunicación es profesional pero accesible, entregando la información de manera clara y atractiva.
-  - **Respectful/Enthusiastic**: El tono mantiene una postura respetuosa y empática mientras combina entusiasmo para promover la plataforma y sus beneficios.
+Icons:
+- Al desarrollar una página web, los ícenos son fundamentales para crear una interfaz de usuario que sea clara e intuitiva. Estos pequeños elementos visuales son clave para facilitar la comprensión de distintas secciones de la página web. Los íconos ayudan a lo usuarios a identifica rápidamente la función de cada componente , y su diseño simple y claro garantiza que sean fácilmente interpretables, además, usar íconos de manera coherente en toda la página es esencial para reducir la confusión y mejorara la experiencial de usuario.
+- Los íconos que utilizaremos serán los breakpoints, de los cuales usaremos con mayor frecuencia serán los 768px y 1024px, debido a que son los más comunes del mercado actual.
 
-### 4.1.2. Web Style Guidelines. <a name ="4.1.2.">
 
-- **Fonts**:
-  - **Roboto** y **Varela Round**: Estas fuentes son elegidas por su apariencia moderna y limpia, mejorando la legibilidad y manteniendo un estilo consistente en todo el sitio web. 'Roboto' se utiliza principalmente para el texto del cuerpo debido a su claridad, mientras que 'Varela Round' añade un toque de amabilidad a los títulos y subtítulos.
+<h4 id="information-architecture">4.2. Information Architecture.</h4>
+<h4 id="organization-systems">4.2.1. Organization Systems.</h4>
+- Al entrar a nuestra página web, el usuario podrá viausalizar diferentes secciones: inicio, Request Demo, about us, plans, contacto Us.
+<h4 id="labeling-systems">4.2.2. Labeling Systems.</h4>
 
-- **Colors**:
-  - **Azul Oscuro (#004080)**: Utilizado para el encabezado, pie de página y elementos de navegación, este color transmite confianza y profesionalismo, proporcionando un fondo estable que complementa los acentos dinámicos.
-  - **Azul Oscuro 2(003060)**: De igual manera que el anterior, utilizado para el encabezado, pie de página y elementos de navegación para resaltar aún más diferentes segmentos.
-  - **Naranja (#ff7300)**: Este color vibrante se utiliza para los botones de llamada a la acción y los aspectos destacados importantes. Llama la atención y guía a los usuarios hacia acciones deseadas, como "Solicitar una Demo" o "Comprar Ahora."
-  - **Blanco (#FFFFFF)**: Predominantemente usado como color de fondo para mantener una interfaz limpia y despejada, mejorando la legibilidad del texto y el confort visual.
-  - **Gris (#333, #555)**: Empleado para elementos de texto secundarios y algunas casillas, este color mantiene la legibilidad mientras contrasta sutilmente con el fondo blanco.
+-En nuestra página web tendremos un sistema de etiquetado que son los siguientes:
 
-- **Graphics**:
-  - **Logo**: Posicionado de manera prominente en el encabezado, el logo refuerza la identidad de la marca. El diseño limpio y sencillo se alinea con la estética general del sitio.
-  - **Background Images**: Diferentes secciones, como Hero, Features, y Contact Us en la landing page, utilizan imágenes de fondo temáticas que se alinean con su contenido respectivo, añadiendo interés visual y contexto.
-  - **Icons**: Los iconos de redes sociales y otros elementos gráficos se utilizan para facilitar la participación del usuario y la navegación. Los iconos de Facebook, Twitter e Instagram se muestran claramente en el pie de página.
+- About Us
+- Features
+- Plans
+- Benefits
+- Q&A
+- Contact Us
+- Idioma 
 
-- **Components**:
-  - **Buttons**: Los botones de llamada a la acción (CTA) son audaces y claramente definidos, con bordes redondeados y un color naranja brillante para asegurar que se destaquen contra los colores de fondo más oscuros. Se aplican efectos hover para mejorar la interactividad.
-  - **Sliders and Carousels**: Utilizados para mostrar múltiples características o testimonios de clientes de manera dinámica, proporcionando una forma más atractiva de presentar la información.
-  - **Text Fields and Forms**: Los formularios de contacto son sencillos y fáciles de usar, con etiquetas claras y suficiente espacio para facilitar la entrada del usuario.
-  - **Plan Cards**: Los planes de precios se presentan en formato de tarjetas con bordes distintos y efectos hover, facilitando a los usuarios la comparación de opciones y la toma de decisiones.
 
+<h4 id="information-architecture">4.2. Information Architecture.</h4>
+<h4 id="organization-systems">4.2.1. Organization Systems.</h4>
 
-## 4.2. Information Architecture. <a name ="4.2.">
+- Al entrar a nuestra página web, el usuario podrá visualizar diferentes secciones: inicio, Request Demo, about us, plans, contacto Us.
 
-### 4.2.1. Organization Systems. <a name ="4.2.1.">
+<h4 id="labeling-systems">4.2.2. Labeling Systems.</h4>
 
-|**Página/Sección**                  | **Descripción**                                                                                                                                                  |
-|------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Gestión de Inventario**          | Permite a los usuarios agregar y revisar el stock actual, registrar la merma y revisar el historial de inventario. Accesible para el rol de **Administrador**.          |
-| **Costos de Producción**           | Consultar y modificar costos de producción, ajustando recetas y monitorizando el gasto en ingredientes. Solo disponible para el **Administrador de Cocina**.           |
-| **Facturación y Pedidos**          | Sección destinada a roles como **Caja** para la generación de facturas, registro de pedidos y su historial.                                                          |
-| **Reportes y Estadísticas**        | Los **Administradores** pueden acceder a reportes detallados sobre la gestión de ingredientes, mermas y ventas, proporcionando insights para la optimización operativa.|
-| **Pedidos y Mesas**                | Gestión de asignación de mesas y control de pedidos, disponible para el rol de **Mesero**.                                                                           |
-| **Perfil de Usuario**              | Cada usuario puede gestionar su perfil, cambiar contraseñas y modificar su información personal.                                                                     |
+- En nuestra página web tendremos un sistema de etiquetado que son los siguientes: 
+* About Us 
+* Features 
+* Plans
+* benefits
+* Q&A
+* Contact Us
+* Idioma
 
-### 4.2.2. Labeling Systems. <a name ="4.2.2.">
 
-| **Etiqueta**                | **Descripción**                                                                                      |
-|-----------------------------|------------------------------------------------------------------------------------------------------|
-| **Inventory**               | Sección para agregar y visualizar stock de productos y registrar la merma.                           |
-| **Production Costs**        | Consultar y modificar costos de producción, disponible solo para roles administrativos.               |
-| **Orders and Billing**      | Generar y revisar facturas, además de gestionar pedidos.                                              |
-| **Reports**                 | Reportes de ventas, uso de ingredientes, y mermas. Accesible a **Administradores**.                   |
-| **Tables Management**       | Asignar mesas y gestionar pedidos, accesible para el rol de **Mesero**.                               |
+<h4 id="seo-tags-and-meta-tags">4.2.3. SEO Tags and Meta Tags</h4>
+- Poner etiquetas meta en HTML son cruciales para brindar información y metadatos que no son visibles para los usuarios, pero que resultan útiles para los navegadores y los rastreadores web. Ayudan en el análisis y la gestión del contenido, además de ser clave para mejorar el posicionamiento en los motores de búsqueda. Vamos a emplear estas etiquetas para optimizar nuestro sitio web.
 
-### 4.2.3. SEO Tags and Meta Tags <a name ="4.2.3.">
+- titulo: esta etiqueta es de mucha importancia y generalmente se situa antes que otra metaetiqueta en los encabezados
+    ```<title>Register your processes with RE-GRILL </title> ```
 
-Para mejorar la visibilidad de la aplicación web de RE-Grill en motores de búsqueda y facilitar su descubrimiento, se han implementado las siguientes etiquetas SEO y meta:
+- Autor y Derechos de Autor:
+  Esta etiqueta se emplea para registrar la información del autor y los derechos de propiedad de la página web.
+``` 
+<meta name="author" content="RE-GRILL"/>
+<meta name="copyright" content="Copyright RE-GRILL team" />
+```
 
-- **Title**: RE-Grill | Gestión Integral para Restaurantes
-- **Description**: Plataforma de RE-Grill - Solución avanzada para la gestión eficiente de reservas, inventarios, pedidos, y proveedores en restaurantes.
-- **Keywords**: Gestión de restaurantes, reservas online, control de inventarios, pedidos automatizados, análisis de datos, software para restaurantes.
-- **Author**: Equipo de RE-Grill
-- **Canonical**: https://app.regrill.com/
+<h4 id="searching-systems">4.2.4. Searching Systems.</h4>
 
-### 4.2.4. Searching Systems. <a name ="4.2.4.">
+Es muy importante que los administradores de los restaurant puedan distinguir y filtrar la información necesaria de los registros almacenados en la apliación web de gestión de restaurantes. Nuestro principal objetivo del sistema es presentar de manera efectiva, sencilla y rápida la gran cantidad de datos que serán ingresados por los restaurantes.
 
-| **Sistema de Búsqueda**     | **Descripción**                                                                                      |
-|-----------------------------|------------------------------------------------------------------------------------------------------|
-| **Búsqueda Global**         | Permite buscar información clave en diferentes áreas de la aplicación, ajustada según el rol del usuario.|
-| **Filtros Avanzados**       | Opciones para filtrar resultados por categorías específicas como inventario, costos, o pedidos.       |
 
-### 4.2.5. Navigation Systems. <a name ="4.2.5.">
 
-| **Sistema de Navegación**   | **Descripción**                                                                                      |
-|-----------------------------|------------------------------------------------------------------------------------------------------|
-| **Navbar**                  | Menú principal que ofrece acceso rápido a todas las secciones clave, con opciones de menú desplegable según el rol.|
-| **Menú de Subsecciones**     | Para áreas más complejas como inventario o reportes, se ofrecen menús adicionales que detallan acciones específicas.|
-| **Panel de Administración de Usuarios** | Accesible solo por administradores para gestionar roles y permisos.                                 |
+<h4 id="navigation-systems">4.2.5. Navigation Systems.</h4>
 
+Los principales sistemas de navegación en la Landing Page son los menús ubicados en la parte superior e inferior. Las etiquetas guían a los usuarios hacia secciones específicas dentro de la página. Si estos enlaces no se utilizan, la página se desplazará hacia abajo de manera automática. En la aplicación, los usuarios seguirán un proceso estructurado en fases, con secciones numeradas y visibles sobre los registros de cada etapa. Tienen la posibilidad de saltar entre fases o seguir un orden consecutivo. Los botones representan acciones como abrir, confirmar o finalizar un registro, lo que facilita la continuación del proceso en una nueva pantalla.
 
+- *Navegación principal o global:* Este es el sistema de navegación más común, visible en todas las secciones de la página y generalmente representado por la barra de navegación y el pie de página.
+<h4 id="landing-page-ui">4.3. Landing Page UI Design.</h4>
 
-## 4.3. Landing Page UI Design. <a name ="4.3.">
 
-En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, se usuará la herramienta de diseño web Figma, debido a sus funciones y plugins que nos permite desarrollar el prototipo sin dificultades. Asimismo se evidenciará el uso de los Style Guidelines e Information architecture.
+En el lado izquierdo de la pantalla observamos la distribución del menú como la gestión de inventarios, costo de producción, control de merma, facturación, pedidos y mesas, reportes y estadísticas, perfil, así como el cerrar sesión. En lo que queda de la pantalla podemos observar una imagen del platillo así como como el nombre del mismo.
 
-### 4.3.1. Landing Page Wireframe. <a name ="4.3.1.">
+<img src="/images/vista_de_platos.png"></img><br> 
 
-Trabajando con los wireframes anteriormente mostrados, luego se aplicó los Style Guidelines para el uso de los colores. Como se aprecia, estos tienen un contraste llamativo en cada sección de la landing page.
 
-- Desktop:
-  
-  <img src="./resources/wireframes/desktop.png" alt="wireframe desktop"/>
 
-- Mobile:
 
-  <img src="./resources/wireframes/mobile.png" alt="wireframe mobile"/>
+<h4 id="landing-page-wireframe">4.3.1. Landing Page Wireframe.</h4>
 
-### 4.3.2. Landing Page Mock-up. <a name ="4.3.2.">
+  <img src="/images/MOCKUP-web.png"></img><br> 
 
-Después de haber trabajado con los wireframes previamente diseñados, se procedió a aplicar los Style Guidelines para definir la paleta de colores a utilizar. Se puede observar que estos colores presentan un contraste llamativo en cada sección de la landing page, lo que contribuye a destacar visualmente los distintos elementos y mejorar la legibilidad y la estética general del diseño.
+<h4 id="landing-page-mockup">4.3.2. Landing Page Mock-up.</h4>
 
-<img src="./resources/mockup/mockup.png" alt="mockup"/>
 
-#### Enlace para ver el Figma:
+  <img src="/images/MOCK-UP_MOBILE.png"></img><br> 
 
-[Link Figma](https://www.figma.com/design/wFyfD3jahh7mqHvwN2Vgst/Landing-Page-Wireframe-re-gril?node-id=0-1&t=Y6wxyMupDN9tDuuE-1)
+<h4 id="web-application-ux-ui">4.4. Web Applications UX/UI Design.</h4>
+<h4 id="web-application-wireframes">4.4.1. Web Applications Wireframes.</h4>
+<h4 id="web-application-wireflow">4.4.2. Web Applications Wireflow Diagrams.</h4>
+<h4 id="web-appliaction-mockups">4.4.2. Web Applications Mock-ups.</h4>
+<h4 id="user-flow-diagrams">4.4.3. Web Applications User Flow Diagrams.</h4>
+<h4 id="web-applications-prototyping">4.5. Web Applications Prototyping.</h4>
+<h4 id="domain-driven-software-architecture">4.6. Domain-Driven Software Architecture.</h4>
+<h4 id="software-architecture-context-diagram">4.6.1. Software Architecture Context Diagram.</h4>
+<h4 id="software-architecture-container-diagrams">4.6.2. Software Architecture Container Diagrams.</h4>
+<h4 id="software-architecture-components-diagrams">4.6.3. Software Architecture Components Diagrams.</h4>
+<h4 id="software-object-oriented-design">4.7. Software Object-Oriented Design.</h4>
+<h4 id="class-diagrams">4.7.1. Class Diagrams.</h4>
 
-## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
-### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
-- **Wireframe Vista de platos**<br>
-  En este wireframe vemos la vista de los platos que hay en el restaurante, donde al momento de seleccionar una de las imágenes mostrará más detalles sobre las recetas.
-  <img src="./resources/Vista de platos.png" alt="Wireframe-Platos">
-- **Wireframe Registro de Mermas**<br>
-  En este wireframe vemos el registro de las mermas que se realiza al momento de registrar una merma dealizada por un plato.
-  <img src="./resources/Registro de mermasWire.png" alt="Wireframe-RegistroMermas">
-- **Wireframe Información de la receta**<br>
-  En este wireframe vemos la información que tiene cada receta del restaurante, mostrando sus ingredientes y el costo de cada uno de ellos.
-  <img src="./resources/InfoReceta.png" alt="Wireframe-Recetas">
-- **Wireframe Buscar receta para eliminar o modificar**<br>
-  En este wireframe vemos la lista de recetas donde el administrador busca una de ellas para modificar o eliminarla de la plataforma.
-  <img src="./resources/ELIMINAR O MODIFCAR RECETA.png" alt="Wireframe-BuscarReceta">
-- **Wireframe Receta eliminada**<br>
-  En este wireframe vemos la confirmación sobre una eliminación de una receta.<br>
-  <img src="./resources/ELIMINADO.png" alt="Wireframe-Eliminacion">
+<img src="/images/diagram.png"></img><br> 
 
-### 4.4.2. Web Applications Wireflow Diagrams. <a name ="4.4.2.">
-**Wireflow Pedidos y Mesas**<br>
-Para este wireflow se tomó el funcionamiento de las mesas, donde se podrá reservar una mesa y las órdenes que pidió el cliente, observando el pedido y los detalles de este.
-<img src="./resources/wireflowMesas.png" alt="Wireflow-Mesas">
-<br>
-
-**Wireflow Costo de Produccion**<br>
-En este wireflow se tomó el proceso que se realiza al momento de ver el costo de producción de un restaurante, mostrando las recetas de los platos que cocina, el ingreso de los distintos ingredientes que lleva dicho plato, entre otros detalles adicionales.
-<img src="./resources/wireflowProduccion.png" alt="Wireflow-Produccion">
-
-### 4.4.3. Web Applications Mock-ups. <a name ="4.4.3.">
-
-Para este mock-upc se muestra las recetas disponibles al administrador de la cocina en el cual él tiene la opcion de añadir recetas, ver la receta y eliminar la receta
-
-  <img src="./resources/recetas.png" alt="recetas"/>
-
-Para este mock-upc se muestra el registro de perdida de insumos del restaurante para que puede tener un buen control de caja
-
-<img src="./resources/Registro de mermas.png" alt="merma"/>
-
-Para este mock-upc se muestra la receta ya editada por el chef y el aumento de precio respectivo
-
-<img src="./resources/PLato editado-costo.png" alt="plato"/>
-
-Para este mock-upc se muestra el area del restaurante al mesero para que pueda seleccinar los pedidos
-
-<img src="./resources/AREA restaurante.png" alt="restaurante"/>
-
-Para este mock-upc se muestra las ordenes que tiene los proveedores con los restaurantes
-
-<img src="./resources/orden-provedores.png" alt="orden"/>
-
-Para este mock-upc el registro de facturas del restaurante
-
-<img src="./resources/Historial facturas.png" alt="factura"/>
-
-
-### 4.4.4. Web Applications User Flow Diagrams. <a name ="4.4.4.">
-**User Flow Registro en la plataforma**<br>
-En esta User Flow se mostrará como el usuario se registrará en la plataforma, ya sea si es la primera vez que lo usa o ya uso con anterioridad la plataforma, donde irá a la opción de Inicio de Sesión. Además, al momento de registrarse se verificará si el usuario quiere tener un plan premium o usar un plan gratuito.
-<img src="./resources/UserFlow.png" alt="UserFlow-Registro">
-
-## 4.5. Web Applications Prototyping. <a name ="4.5.">
-Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyecto en general, mostrando paso a paso las secciones enlazadas y como es el punto de vista del proveedor y del administrador de cocina del restaurante. A continuación se presentará una captura sobre este prototipo y como se uso.
-
-<img src="./resources/PrototypeVideo.png" alt="Prototype-Video">
-
-## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
-### 4.6.1. Software Architecture Context Diagram. <a name ="4.6.1.">
-<img src="resources/c4 diagram/contexto.png" alt="Context Diagram">
-
-### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
-<img src="resources/c4 diagram/contenedor.png" alt="Context Diagram">
-
-### 4.6.3. Software Architecture Components Diagrams. <a name ="4.6.3.">
-<ul>
-  <li>
-    <p>Usuarios</p>
-    <img src="resources/c4 diagram/usuario.png" alt="Component Usuarios">
-  </li>
-  <li>
-    <p>Ventas</p>
-    <img src="resources/c4 diagram/ventas.png" alt="Component Ventas">
-  </li>
-  <li>
-    <p>Reservas</p>
-    <img src="resources/c4 diagram/reserva.png" alt="Component Reservas">
-  </li>
-  <li>
-    <p>Rendimiento</p>
-    <img src="resources/c4 diagram/rendimiento.png" alt="Component Rendimiento">
-  </li>
-  <li>
-    <p>Inventario</p>
-    <img src="resources/c4 diagram/inventario.png" alt="Component Inventario">
-  </li>
-  <li>
-    <p>Gestor de proveedores</p>
-    <img src="resources/c4 diagram/gestor.png" alt="Component Gestor">
-  </li>
-  <li>
-    <p>Ajustes</p>
-    <img src="resources/c4 diagram/ajustes.png" alt="Component Ajustes">
-  </li>
-</ul>
-
-## 4.7. Software Object-Oriented Design. <a name ="4.7.">
-### 4.7.1. Class Diagrams. <a name ="4.7.1.">
-
-<tr><img src="resources\dc.png" /><tr>
-
-### 4.7.2. Class Dictionary. <a name ="4.7.2.">
-
-
-#### User
-
-Representa a cualquier usuario que interactúa con el sistema (clientes, administradores o camareros). Gestiona las credenciales y el acceso al sistema.
-#### Administrator
-
-Extiende la clase User y representa a los administradores del sistema, quienes tienen permisos especiales para gestionar reportes de ventas, inventario y usuarios.
-#### Waiter
-
-Extiende la clase User y representa a los camareros, quienes pueden registrar pedidos y gestionar el estado de las mesas.
-#### Reservation
-
-Representa las reservas de mesas hechas por los clientes. Permite la creación, cancelación y verificación de las reservas.
-#### Table
-
-Representa una mesa en el restaurante. Permite la gestión del estado de las mesas (disponible, ocupada, reservada).
-#### Order
-
-Representa los pedidos que hacen los clientes. Incluye la lista de productos pedidos y su estado.
-#### Product
-
-Representa los productos o platos disponibles en el restaurante. Permite la gestión de su precio y disponibilidad en el inventario.
-#### Stock
-
-Representa el inventario del restaurante, incluyendo la cantidad de productos disponibles y su gestión.
-#### Invoice
-
-Representa las facturas generadas por los pedidos. Permite la creación y visualización de facturas para los clientes.
-#### Supplier
-
-Representa a los proveedores que suministran productos al restaurante. Gestiona los productos suministrados y el contacto con el proveedor.
-#### KitchenOrder
-
-Representa los pedidos enviados a la cocina para su preparación. Permite la gestión y seguimiento de los pedidos dentro de la cocina.
-#### SalesReport
-
-Genera reportes de ventas dentro de un periodo específico. Ayuda a analizar el rendimiento de ventas del restaurante.
-#### StockReport
-
-Genera reportes del inventario, proporcionando información sobre los niveles actuales de stock y productos disponibles.
-#### OrderReport
-
-Genera reportes sobre los pedidos realizados, detallando los productos pedidos y otros datos relevantes.
-
-## 4.8. Database Design. <a name ="4.8.">
-### 4.8.1. Database Diagram. <a name ="4.8.1.">
+<h4 id="class-dictionary">4.7.2. Class Dictionary.</h4>
+<h4 id="database-design">4.8. Database Design.</h4>
+<h4 id="database-diagram">4.8.1. Database Diagram.</h4>
 
 <tr><img src="resources\databasediagram.jpg" /><tr>
 
