@@ -1089,7 +1089,7 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
 
 ## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
 ### 4.6.1. Software Architecture Context Diagram. <a name ="4.6.1.">
-<img src="/images/c4 diagram/contexto.png" alt="Context Diagram">
+<img src="/images/contexto.png" alt="Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
 <img src="resources/c4 diagram/contenedor.png" alt="Context Diagram">
