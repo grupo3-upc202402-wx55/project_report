@@ -322,70 +322,97 @@ En un mercado altamente competitivo, los restaurantes enfrentan barreras como al
 - Obtener comentarios positivos de los clientes hacia la eficacia de nuestro sistema.
 
 **User Assumptions:**
+**Assumptions Worksheet**<br>
+**¿Quién es el usuario?**
+- La parte administrativa de un restaurante
+- Los proveedores de restaurantes
 
-1. **¿Quien es el usuario?**
+**¿Qué problemas tiene nuestro producto? ¿Resolver?**
+- Gestión con los productos que se tienen en el restaurante
+- Comunicación con los proveedores de alimentos para los ingredientes de sus platillos a la carta
 
-  - Propietarios de restaurantes.
-  - Gerentes de restaurantes.
-  - Personal de cocina y servicio.
-  - Proveedores de insumos.
-  - Clientes de restaurantes.
+**¿Qué características son importantes?**
+- Una mejor forma de contactarse entre la parte administrativa y el proveedor para la reponer los productos
+- Mejorar la atención del cliente con los platillos que se encuentran disponibles en dicho momento.
+- Organización de las cantidades de los productos, ya sea comestibles o de mantenimiento.
+- Interfaz amigable para cualquier usuario que lo use.
 
-2. **¿Qué necesidades tienen los usuarios?**
+**¿Dónde encaja nuestro producto en su trabajo o vida?**
+- Para la administración, nuestro producto les ayudará a gestionar los ingredientes de los platos que cocinan, además de conocer los desperdicios que hay al momento de cocinar y las cantidades de mesas, sillas, entre otros.
+- Para los proveedores, el producto los ayudará en mejorar la comunicación entre ellos y la administración del restaurante, además de brindar las cantidades exactas que necesita el restaurante.
 
-- Simplificar la gestión de mesas y reservas: Actualmente, muchos restaurantes pequeños y medianos dependen de sistemas separados o manuales, lo que lleva a errores de coordinación y tiempos de espera elevados.
-- Optimizar la coordinación entre la cocina y el servicio: La falta de una plataforma integrada provoca fallos en la transmisión de pedidos y tiempos de servicio inconsistentes.
-- Facilitar la gestión de inventarios y pedidos de insumos: Restaurantes pequeños y medianos enfrentan pérdidas significativas debido a errores en el inventario y falta de coordinación con los proveedores.
-- Mejorar la experiencia del cliente: Una mejor experiencia del cliente, con tiempos de espera más cortos y un servicio más fluido, puede aumentar las tasas de fidelización en un 15-20%.
+**¿Cuándo y cómo es nuestro producto? ¿Usado?**
+- El producto será utilizado cuando la administración del restaurante comienza a gestionar el inventario que posee actualmente, además de ver si las cantidades son las suficientes para las preparaciones al momento de atender.
+- El producto será usado por algunos proveedores de restaurantes, donde podrán visualizar los distintos restaurantes que necesitan contactarse con algún proveedor de algún consumible.
+- El producto será a través de una aplicación web mediante algún dispositivo que usa internet y un navegador como Chrome.
 
-3. **¿Cómo debería verse o comportarse el producto?**
+**¿Cómo debe verse nuestro producto y cómo comportarse?**
+- El diseño de nuestro producto debe ser atractivo y coherente con respecto al diseño del restaurante.
+- La plataforma debe cargar de manera rápida las respuestas a las acciones del usuario para que no se frustre.
+- La navegación de la plataforma debe ser intuitiva y comprensible, donde los usuarios pueden ver los filtros necesarios y las distintas opciones que tiene.
+- Debe mostrar a los clientes con gráficos y una pequeña descripción acerca del plato de comida que busca.
+- Esta plataforma debe ser compatible con algunos dispositivos de dimensiones distintas, como celulares, laptops, tablets y computadoras, donde se usa un diseño responsive.
 
-- Interfaz intuitiva y fácil de usar: Los usuarios sin formación técnica deberían poder aprender a usar la plataforma en menos de 1 hora.
-- Funcionalidades integradas y automatizadas: Todas las funciones deben estar conectadas de manera que los datos se actualicen en tiempo real. Ejemplo: Cuando se realiza una reserva, debe actualizar automáticamente la disponibilidad de mesas y el inventario relacionado.
-- Información clara y accesible: Los gerentes deben poder acceder a reportes operativos (reservas, ventas, stock) en menos de 3 clics desde el panel principal.
-- Personalizable según las necesidades del restaurante: El producto debe permitir adaptarse a restaurantes con diferentes 
-necesidades respectivamente.
+**Business Outcomes**<br>
+- Convertir nuestro producto como una plataforma indispensable para la gestión de restaurantes, ya sea en la manera de reponer el inventario, organización del mismo local y la atención de los clientes.
+- Un 75% de los usuarios que usaron la página han logrado gestionar de mejor manera los restaurantes.
+- Un 20% de los clientes de restaurantes se muestran insatisfechos con la atención que brinda los restaurantes.
 
-**User Outcomes:**
+**User Benefits**<br>
+- Ahorro de tiempo por la manera de gestionar el inventario.
+- Facilidad en buscar los productos faltantes o desperdiciados.
+- Mejor comunicación entre el proveedor y la administración.
 
+**Assumptions Steps**<br>
+**a. Creo que mis clientes necesitan:**
+  - Visualización de disponibilidad de platillos.
+  - Expresar de manera intuitiva el inventario que se lleva en el local
+  - Comunicarse de manera eficiente con otro tipo de usuario
 
-1.  **Restaurantes:**
+**b. Estas necesidades se pueden resolver con:**
+  - Un sistema que calcula lo que hay en el inventario en general y lo que se usa al día.
+  - Una base de datos que se actualiza cada vez que cambia y se use parte de lo que hay en el inventario.
+  - Un diseño que sea muy atractivo visualmente y a la vez entendible para gestionar el restaurante.
+  - Accesibilidad para su uso en distintos dispositivos según lo que el usuario usará.
 
--   Mejorar la eficiencia operativa en un 15% en la gestión de mesas, reservas y ventas dentro del primer año.
+**c. Mis clientes iniciales son (o serán):**
+  - La parte administrativa de un restaurante.
+  - Los proveedores o vendedores de alimentos para los restaurantes.
 
-2.  **Personal de Restaurante:**
+**d. El valor #1 que un cliente quiere de mi producto es veracidad (utilidad, funcionalidades que le resuelven el problema)**
+  - La garantía de que no habrá problemas en las cantidades con respecto al inventario por la base de datos.
+  - La comunicación de manera directa con el proveedor con respecto a la necesidad del restaurante.
 
--   Reducción del 20% en el tiempo dedicado a la gestión diaria de tareas tras implementar Re'Grill.
+**e. El cliente también puede obtener estos beneficios adicionales:**
+  - Obtener las cantidades de la merma que se obtiene al hacer un plato.
+  - Mejorar la administración del restaurante.          
 
-3.  **Clientes:**
+**f. Voy a adquirir la mayoría de mis clientes a través de:**
+  - Colaboración con un restaurante conocido.
+  - Estrategias de marketing digital con el enfoque en los distintos restaurantes.
 
--   Aumento en la satisfacción del cliente debido a una experiencia más organizada y eficiente.
+**g. Haré dinero a través de:**
+  - Membresías premium con acceso exclusivo y funciones adicionales
 
-**¿Qué está intentando conseguir el usuario?**
+**h. Mi competencia principal en el mercado:**
+  - Tiendas virtuales de restaurantes que se enfocan en las ventas.
+  - Páginas de gestión de restaurantes.
 
--   Restaurantes: Optimizar la gestión de operaciones y mejorar la coordinación entre reservas, ventas y control de inventarios.
+**i. Los venceremos debido a:**
+  - El diseño es atractivo y accesible para cualquier tipo de usuario ya sea la administración o el proveedor.
+  - La base de datos actualizada constantemente con respecto a la necesidad del usuario.
 
--   Personal de Restaurante: Reducir el tiempo y los errores en la administración diaria de tareas.
+**j. Mi mayor riesgo del producto es:**
+  - La desconfianza por parte de los restaurantes con respecto a la correcta función del programa al momento de tener días especiales.
+  - El mal cálculo del inventario al momento de mostrar las cantidades de cada producto que se encuentra disponible.
 
-**¿Cómo se quiere sentir el usuario?**
+**k. Resolveremos esto a través de:**
+  - Mostrando pruebas funcionales de esto y su adaptabilidad ante algún problema que se muestra de manera sorpresiva.
+  - Las constantes verificaciones que se realizará al momento de que se haga alguna compra.
 
--   Restaurantes y Personal: Sentir que las operaciones son más eficientes, organizadas y que el sistema mejora la experiencia general tanto para el personal como para los clientes.
-
-**¿Cómo nuestro producto lo acerca a su objetivo?**
-
--   Restaurantes: Proporciona una solución integral que unifica la gestión de mesas, reservas, inventarios y ventas, optimizando los procesos y reduciendo la carga administrativa.
-
--   Personal de Restaurante: Facilita la gestión de tareas diarias, mejorando la eficiencia operativa y la satisfacción en el trabajo.
-
-**¿Por qué nuestros usuarios se interesarían por nuestro producto?,¿Qué beneficio podrían obtener?**
-
--   Restaurantes: Mejora en la coordinación y eficiencia operativa, reducción de errores y costos, y una mejor experiencia para los clientes.
-
--   Personal de Restaurante: Simplificación en la gestión de tareas y un entorno de trabajo más organizado.
-
-**¿Qué cambio en su comportamiento veremos que nos dirá que nuestro objetivo ha sido logrado?**
-
--   Restaurantes y Personal: Uso consistente de la plataforma en la gestión diaria de operaciones. Esperamos ver una mejora significativa en la eficiencia operativa y una reducción en los problemas reportados. La tasa de retención y adopción de nuevos usuarios también será un indicador clave del éxito del producto.
+**l. ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio / proyecto no funcione?**
+  - Podrá ser que las estrategias de marketing que se usa podrán ayudar a obtener más compañías que le darán uso de la aplicación. En caso se muestre el contrario, podría afectar de manera negativa la inversión del negocio.
+  - Las ventas de las suscripciones para obtener más funciones que les será muy útil para mejorar su experiencia con la página. Si se prueba que es falso, afectaría de manera directa con la generación de ingresos y sostenibilidad del negocio.
 
 <h4 id="lean-ux-hypothesis">1.2.2.3. Lean UX Hypothesis Statements.</h4>
 
