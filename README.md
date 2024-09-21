@@ -277,11 +277,11 @@ El principal desafío en la gestión de restaurantes es la falta de una solució
 
 - **What?**
 
-La industria de restaurantes enfrenta desafíos en la gestión de mesas, reservas, pedidos, inventarios y proveedores, lo que afecta la eficiencia operativa y la experiencia del cliente.
+La industria de restaurantes enfrenta desafíos en la gestión de mesas, reservas, pedidos, inventarios y proveedores, lo que afecta la eficiencia operativa y la experiencia del cliente. Los errores comunes incluyen fallos en los pedidos, pérdidas de inventario, demoras en el servicio y coordinación deficiente entre distintas áreas del restaurante junto con los proovedores. Las soluciones actuales suelen ser costosas, dificiles de utilizar o no cuentan con alguna funcionalidad clave.
 
 - **When?**
 
-La problemática se ha agravado en los últimos años debido a la creciente demanda de servicios de restaurantes y la falta de soluciones integradas para la gestión operativa.
+La problemática se ha agravado en los últimos años debido a la creciente demanda de servicios de restaurantes y la falta de funcionalidades dentro de la competencia de la cual podemos encontrar en grandes cantidades.
 
 - **Where?**
 
@@ -289,19 +289,19 @@ La problemática es relevante en restaurantes de todo tipo y tamaño, desde pequ
 
 - **Who?**
 
-Los principales afectados por esta problemática son los propietarios de restaurantes, gerentes, personal de cocina Y servicio, y los clientes que experimentan una atencion posiblemente lenta e ineferciente.
+Los principales afectados por esta problemática son los propietarios de restaurantes, gerentes, personal de cocina Y servicio, y los clientes que experimentan una atencion posiblemente lenta e ineferciente. Finalmente, los proveedores también se ven afectados cuando la gestión deficiente retrasa o envia datos incorrectos a los pedidos .
 
 - **Why?**
 
-La falta de una solución integrada y automatizada para la gestión de restaurantes provoca ineficiencias operativas, errores en los pedidos, pérdida de inventario y una experiencia del cliente insatisfactoria.
+La falta de una solución integrada y automatizada para la gestión de restaurantes provoca ineficiencias operativas, errores en los pedidos, pérdida de inventario y una experiencia del cliente insatisfactoria.Por el lado de proovedores , es necesario porque estos pueden obtener pedidos erroneos o indicados en un rango de tiempo muy corto por lo cual es necesario.
 
 - **How?**
 
-Las soluciones actuales a menudo están divididas en varios sistemas independientes para reservas, ventas, pedidos a proveedores  y gestión de inventario. Esta falta de integración complica la coordinación entre distintos procesos y aumenta la probabilidad de errores.
+Las soluciones actuales a menudo están divididas en varios sistemas independientes o no cuentan con todas las funcionalidades que un negocio podria necesitar para funcionar eficazmente.De esta forma Re grill apareceria como una opcion integrada con todas las funcionalidades clave para los negocios , y prestaria atencion al cliente para poder implementar cualquier deseo de los clientes .
 
 - **How much?**
 
-La falta de una solución integrada para la gestión de restaurantes puede resultar en pérdidas económicas significativas debido a errores en los pedidos, mermas de inventario y una experiencia del cliente insatisfactoria.
+Cuando se habla de el rubro de los restaurantes , no contar con un sistema estandarizado y funcional puede llevar a muchisimos problemas , tanto contables como cualquier otro. Normalmente se tiene problemas con el stock de los productos, al tener mala atencion puede disminuir el flujo de clientes afectando directamente a el centro principal de remuneracion de los restaurantes , puede llevar a problemas con los proovedores por mal manejo y solicitud de informacion , hasta si un alimento se mantiene en buen estado o no , comunicacion eficaz entre los pedidos y la cocina , entre muchos mas . No contar con una solucion de este tipo significa un porcentaje demasiado grande con respecto a los restaurantes.
 
 
 <h4 id="lean-ux">1.2.2 Lean UX Process.</h4>
@@ -319,6 +319,8 @@ En un mercado altamente competitivo, los restaurantes enfrentan barreras como al
 
 - Resaltar en el mercado de aplicaciones de gestión de restaurantes con una tasa de adopción del 20% en el primer trimestre.
 
+- Obtener comentarios positivos de los clientes hacia la eficacia de nuestro sistema.
+
 **User Assumptions:**
 
 1. **¿Quien es el usuario?**
@@ -331,18 +333,18 @@ En un mercado altamente competitivo, los restaurantes enfrentan barreras como al
 
 2. **¿Qué necesidades tienen los usuarios?**
 
-  - Simplificar la gestión de mesas y reservas.
-  - Optimizar la coordinación entre la cocina y el servicio.
-  - Facilitar la gestión de inventarios y pedidos de insumos.
-  - Mejorar la experiencia del cliente.
+- Simplificar la gestión de mesas y reservas: Actualmente, muchos restaurantes pequeños y medianos dependen de sistemas separados o manuales, lo que lleva a errores de coordinación y tiempos de espera elevados.
+- Optimizar la coordinación entre la cocina y el servicio: La falta de una plataforma integrada provoca fallos en la transmisión de pedidos y tiempos de servicio inconsistentes.
+- Facilitar la gestión de inventarios y pedidos de insumos: Restaurantes pequeños y medianos enfrentan pérdidas significativas debido a errores en el inventario y falta de coordinación con los proveedores.
+- Mejorar la experiencia del cliente: Una mejor experiencia del cliente, con tiempos de espera más cortos y un servicio más fluido, puede aumentar las tasas de fidelización en un 15-20%.
 
 3. **¿Cómo debería verse o comportarse el producto?**
 
-  - Interfaz intuitiva y fácil de usar.
-  - Funcionalidades integradas y automatizadas.
-  - Información clara y accesible.
-  - Personalizable según las necesidades del restaurante.
-
+- Interfaz intuitiva y fácil de usar: Los usuarios sin formación técnica deberían poder aprender a usar la plataforma en menos de 1 hora.
+- Funcionalidades integradas y automatizadas: Todas las funciones deben estar conectadas de manera que los datos se actualicen en tiempo real. Ejemplo: Cuando se realiza una reserva, debe actualizar automáticamente la disponibilidad de mesas y el inventario relacionado.
+- Información clara y accesible: Los gerentes deben poder acceder a reportes operativos (reservas, ventas, stock) en menos de 3 clics desde el panel principal.
+- Personalizable según las necesidades del restaurante: El producto debe permitir adaptarse a restaurantes con diferentes 
+necesidades respectivamente.
 
 **User Outcomes:**
 
@@ -386,6 +388,15 @@ En un mercado altamente competitivo, los restaurantes enfrentan barreras como al
 -   Restaurantes y Personal: Uso consistente de la plataforma en la gestión diaria de operaciones. Esperamos ver una mejora significativa en la eficiencia operativa y una reducción en los problemas reportados. La tasa de retención y adopción de nuevos usuarios también será un indicador clave del éxito del producto.
 
 <h4 id="lean-ux-hypothesis">1.2.2.3. Lean UX Hypothesis Statements.</h4>
+
+**Adopción Tecnológica por Restaurantes Pequeños y Medianos:**
+Creemos que al ofrecer una plataforma asequible y fácil de implementar, podemos reducir las barreras de entrada para pequeños y medianos restaurantes, logrando que el 40% de ellos adopten la solución de Re'Grill en su primer año de lanzamiento. Esto permitirá que estos restaurantes mejoren la eficiencia operativa sin incurrir en altos costos tecnológicos.
+
+**Accesibilidad Económica:**
+Creemos que al ofrecer una solución rentable en comparación con los sistemas tecnológicos fragmentados o más caros en el mercado, podemos lograr que al menos el 60% de los restaurantes que evalúen Re'Grill lo consideren como su primera opción debido a su bajo costo de implementación y mantenimiento.
+
+**Adaptación del Personal a la Plataforma:**
+Creemos que al ofrecer una interfaz intuitiva y fácil de aprender, el personal operativo (cocina, servicio y gerentes) podrá adaptarse al uso de Re'Grill en un plazo máximo de 2 semanas, con una reducción del 25% en errores operativos relacionados con la falta de familiarización con la tecnología.
 
 **Mejora en la Eficiencia Operativa:** Creemos que al implementar un sistema integrado para la gestión de mesas, reservas, inventarios y ventas, podemos mejorar la eficiencia operativa de los restaurantes en un 15%. Esto se traducirá en una reducción de errores administrativos y una mejor coordinación entre las distintas áreas del restaurante.
 
