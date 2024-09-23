@@ -267,6 +267,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>WebStorm</strong> Un entorno de desarrollo integrado (IDE) potente y completo, que ofrece herramientas avanzadas para el desarrollo de aplicaciones. Será utilizado para escribir, depurar y gestionar el código del proyecto, aprovechando sus características de soporte para múltiples lenguajes y sistemas de control de versiones.</li>
     <li><strong>HTML5:</strong> El lenguaje estándar de marcado para la creación de páginas web. Será empleado en el desarrollo del frontend de la aplicación, estructurando el contenido de manera semántica y accesible.</li>
     <li><strong>CSS:</strong> Hojas de estilo en cascada utilizadas para diseñar y estilizar la presentación visual de la aplicación web. Permitirá definir el diseño responsivo y adaptativo del frontend.</li>
+    <li><strong>TypeScript:</strong> Un superconjunto tipado de JavaScript que proporciona una mayor seguridad y productividad en el desarrollo de aplicaciones web. Será utilizado en el frontend para mejorar la calidad y mantenibilidad del código.</li>
+    <li><strong>Angular:</strong> Un framework de desarrollo de aplicaciones web de código abierto, mantenido por Google. Será utilizado para la creación del frontend de la aplicación, aprovechando su estructura modular y su capacidad de creación de componentes reutilizables.</li>
 </ul>
 
 <p><strong>Rutas de referencia:</strong></p>
@@ -274,6 +276,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><a href="https://www.jetbrains.com/webstorm/" target="_blank">www.jetbrains.com/webstorm/</a></li>
     <li><a href="https://lenguajehtml.com/html/" target="_blank">lenguajehtml.com/html/</a></li>
     <li><a href="https://google.github.io/styleguide/htmlcssguide.html" target="_blank">google.github.io/styleguide/htmlcssguide.html</a></li>
+    <li><a href="https://www.typescriptlang.org/" target="_blank">www.typescriptlang.org/</a></li>
+    <li><a href="https://angular.io/" target="_blank">angular.io/</a></li>
 </ul>
 
 <h4>Software Deployment</h4>
