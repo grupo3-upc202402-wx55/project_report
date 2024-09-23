@@ -64,7 +64,7 @@
 
 ## Project Report Collaboration Insights
 
-<p>Link del repositorio de git-hub: https://github.com/grupo3-upc202402-wx55/project_report </p>
+<p>Link del repositorio de git-hub: "https://github.com/grupo3-upc202402-wx55/project_report" </p>
 
 
   <td rowspan="3"><img src="/INS.jpeg"></td>
@@ -164,12 +164,34 @@
 
 
 <h4 id="student-outcome"> Student Outcome</h4>
-Criterio: Demuestra capacidad de comunicarse efectivamente con un rango de audiencias
-<p>En el siguiente cuadro se describe las acciones realizadas y enunciados de 
-conclusiones cual por parte del grupo, que permiten sustentar el haber 
-alcanzado el logro del ABET – EAC - Student Outcome 3.</p>
 
+El curso contribuye al cumplimiento del **Student Outcome ABET: ABET – EAC - Student Outcome 3** Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
 
+<table border="1">
+  <tr>
+    <th>Criterio Especifico</th>
+    <th>Acciones Realizadas</th>
+    <th>Conclusiones</th>
+  </tr>
+  <tr>
+    <td>
+    Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto en ingeniería
+    </td>
+    <td>
+    Gonzalo Quedena:<br> TB1: Todo el equipo de trabajo colaboró en el desarrollo del sistema, dividiendo de manera equitativa las tareas entre los miembros. Además, colaboramos conjuntamente en aspectos clave, como las entrevistas con los usuarios, el desarrollo de la landing page. Este enfoque integral y cooperativo nos permitió garantizar la calidad y eficiencia en todas las etapas del proyecto. <br>Johan Principe:<br> TB1: Presenté el análisis competitivo y las estrategias de forma clara, adaptada a diferentes niveles jerárquicos. En las entrevistas, expuse los hallazgos clave de manera concisa para facilitar la comprensión de nuestros segmentos objetivos.Durante la fase de needfinding, comuniqué los resultados del User Journey Mapping y Empathy Mapping, asegurando que todos entendieran los insights esenciales para alinear el proyecto. <br>Sebastian Aiquipa:<br> TB1: Se desarrollo el mockup y wireframe de la landing page y la web application, asegurando una estructura visual clara y funcional. También el flow de cada funcionalidad, detallando la interacción y navegación del usuario para garantizar una experiencia intuitiva y eficiente.<br>Andre Arroyo:<br>TB1: Para esta entrega se desarrolló todo el capítulo 3, todos los diagramas c4 del capitulo 4, y en el capituo V se elaboro el 5.1.1, 5.1.2, 5.13 y los 2 primeros puntos del sprint 1
+    <br> 
+    </td>
+    <td>Su texto de conclusion</td>
+  </tr>
+  <tr>
+    <td>Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería</td>
+    <td>Gonzalo Quedena:<br> TB1:  Para esta entrega, se analizaron las necesidades de los segmentos de productores agricolas y distribuidores mediante la realización y análisis de entrevistas. Además, se aplicó un diseño UX/UI adecuado asegurando una experiencia óptima para todos los usuarios. Asimismo, se llevó a cabo un análisis exhaustivo de la competencia, con el fin de identificar cómo nuestro sistema de gestión del ciclo agrícola puede diferenciarse, tomando en cuenta los antecedentes y desafíos relacionados con la optimización de las actividades agrícolas, desde la siembra hasta la distribución.<br> 
+    Johan Principe:<br> TB1: Documenté el análisis competitivo y las entrevistas de forma precisa y accesible para distintos equipos. Esto permitió que los hallazgos fueran  fácilmente tomados en cuenta para el desarrollo de la aplicación. Los resultados del User Task Matrix y otros mapas se presentaron de manera clara, facilitando la toma de   decisiones basada en las necesidades de los usuarios. <br>Sebastian Aiquipa:<br> TB1: Desarrolle los wireframes y mock-ups del proyecto para Landing Page y Web Application. Durante su elaboracion se documento los diferentes elementos necesarios para elaborar los diseños. Pero con el principal objetivo de mantener un orden y tener claro las   caracteristicas y modelos que tiene que seguir el equipo.<br>André Arroyo:<br>TB1: Para esta entrega me dedique al desarrollo del capítulo 3 el cual es muy importante ya   que al comprender mejor a nuestros segmentos objetivos podemos elaborar las soluciones que satisfagan sus necesidades y por lo tanto obtenemos los requerimientos de nuestro  software. La elaboración de los diagramas c4 nos sirve para comprender de mejor manera como se desarrollara el sistema de backend y en el capitulo 5  nos dedicamos a documentar las tecnologías usadas en el trabajo, asi como documentar la elaboración de nuestra landing page.</td>
+    <td>Su texto de conclusion</td>
+  </tr>
+</table>  
+
+<br/>
 <table><thead>
   <tr>
     <th>Criterio específico</th>
@@ -643,7 +665,7 @@ Darla es una mujer de 25 años que vive en Lima. Destaca como factores clave par
 * Edad: 49 años
 * Distrito donde vive: Lima
 
-* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+* Link: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
 
 
 * Momento en el que inicia: 4:24
@@ -664,7 +686,7 @@ Vanfic se siente frustrado por la falta de integración entre los diferentes sis
 * Edad: 27 años
 * Distrito donde vive: Rimac
 
-* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+* Link: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
 
 * Momento en el que inicia: 4:24
 * Duracion: 3:12
@@ -682,7 +704,7 @@ Anghelo desea optimizar la gestión de inventario y pedidos para asegurar que si
 * Edad: 25 años
 * Distrito donde vive: Santa Anita
 
-* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+* Link: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
 
 * Momento en el que inicia: 7:10
 * Duracion: 5:32
@@ -700,7 +722,7 @@ Keyner Hancco es un hombre de 25 años que vive en Santa Anita. Fue entrevistado
 * Edad: 25 años
 * Distrito donde vive: Callao
 
-* Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+* Link: "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202220250_upc_edu_pe/ET0b7nkH9IZDviA0pdi0o9QBh9uleEn3GtrOeE16Mgkniw?e=d3Er84&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"
 
 
 * Momento en el que inicia: 12:57
@@ -982,7 +1004,7 @@ Para mejorar la visibilidad de la aplicación web de RE-Grill en motores de bús
 - **Description**: Plataforma de RE-Grill - Solución avanzada para la gestión eficiente de reservas, inventarios, pedidos, y proveedores en restaurantes.
 - **Keywords**: Gestión de restaurantes, reservas online, control de inventarios, pedidos automatizados, análisis de datos, software para restaurantes.
 - **Author**: Equipo de RE-Grill
-- **Canonical**: https://app.regrill.com/
+- **Canonical**: "https://app.regrill.com/"
 
 ### 4.2.4. Searching Systems. <a name ="4.2.4.">
 
@@ -1025,7 +1047,7 @@ Después de haber trabajado con los wireframes previamente diseñados, se proced
 
 #### Enlace para ver el Figma:
 
-[Link Figma](https://www.figma.com/design/wFyfD3jahh7mqHvwN2Vgst/Landing-Page-Wireframe-re-gril?node-id=0-1&t=Y6wxyMupDN9tDuuE-1)
+"https://www.figma.com/design/wFyfD3jahh7mqHvwN2Vgst/Landing-Page-Wireframe-re-gril?node-id=0-1&t=Y6wxyMupDN9tDuuE-1"
 
 ## 4.4. Web Applications UX/UI Design. <a name ="4.4.">
 ### 4.4.1. Web Applications Wireframes. <a name ="4.4.1.">
@@ -1882,7 +1904,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
         <td>x</td>
     </tr>
-    <tr><td>https://github.com/grupo3-upc202402-wx55/frontend</td></tr>
+    <tr><td>"https://github.com/grupo3-upc202402-wx55/frontend"</td></tr>
 
 
 </table>
@@ -1936,17 +1958,17 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <h1 id="about-the-team">Video About-the-Team.</h1>
 <h1 id="bibliography">Bibliografía</h1>
 
-- Zhao, X., & Wang, H. (2020). The role of technology in restaurant operations. International Journal of Hospitality Management, 88, 102-110. https://doi.org/10.1016/j.ijhm.2019.102110
+- Zhao, X., & Wang, H. (2020). The role of technology in restaurant operations. International Journal of Hospitality Management, 88, 102-110. https://doi.org/10.1016/j.ijhm.2019.102110"
 
-- Chen, J., & Lee, C. (2018). Automation and efficiency in restaurant operations: A case study. Journal of Foodservice Business Research, 21(3), 247-263. https://doi.org/10.1080/15378020.2018.1447282
+- Chen, J., & Lee, C. (2018). Automation and efficiency in restaurant operations: A case study. Journal of Foodservice Business Research, 21(3), 247-263. https://doi.org/10.1080/15378020.2018.1447282"
 
-- Restaurant Dive. (2023, March 15). How technology is changing the restaurant industry. https://www.restaurantdive.com/news/how-technology-is-changing-the-restaurant-industry/600000/
+- Restaurant Dive. (2023, March 15). How technology is changing the restaurant industry. "https://www.restaurantdive.com/news/how-technology-is-changing-the-restaurant-industry/600000/"
 
-- National Restaurant Association. (2022). The state of the restaurant industry. https://restaurant.org/research/state-of-the-industry
+- National Restaurant Association. (2022). The state of the restaurant industry. "https://restaurant.org/research/state-of-the-industry"
 
-- Technomic. (2023). Restaurant technology trends 2023. https://www.technomic.com/research/restaurant-technology-trends
+- Technomic. (2023). Restaurant technology trends 2023. "https://www.technomic.com/research/restaurant-technology-trends"
 
-- McKinsey & Company. (2021). The future of restaurant operations: Insights from the pandemic. https://www.mckinsey.com/industries/restaurants/our-insights
+- McKinsey & Company. (2021). The future of restaurant operations: Insights from the pandemic. "https://www.mckinsey.com/industries/restaurants/our-insights"
 <h1 id="links">Anexos</h1>
 
 <h2>Anexo A: Tabla Comparativa de Competencia</h2>
