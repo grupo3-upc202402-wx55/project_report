@@ -311,7 +311,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <ul>
     <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55/landing-page">github.com/grupo3-upc202402-wx55/landing-page</a></li>
     <li><strong>Project Report</strong>: <a href="https://github.com/grupo3-upc202402-wx55/project_report">github.com/grupo3-upc202402-wx55/project_report</a></li>
-    
+    <li><strong>Front-end</strong>: <a href="https://github.com/grupo3-upc202402-wx55/front-end">github.com/grupo3-upc202402-wx55/front-end</a></li>
+
 </ul>
 <p>Cada repositorio alojará el código fuente correspondiente a su respectivo producto, además de incluir archivos de pruebas unitarias e integración en el caso de los Web Services.</p>
 
@@ -914,7 +915,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
         <td>x</td>
     </tr>
-    <tr><td>https://github.com/grupo3-upc202402-wx55/frontend</td></tr>
+    <tr><td><a href="https://github.com/grupo3-upc202402-wx55/front-end">https://github.com/grupo3-upc202402-wx55/front-end</a> </td></tr>
 
 
 </table>
