@@ -821,46 +821,57 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
 <!--US01 -->  
     <tr>
-        <td>USX</td>
-        <td>x</td>
+        <td>US01</td>
+        <td>Acceso a Cantidades de Stock</td>
         <td>WI01</td>
-        <td>x</td>
-        <td>X</td>
-        <td>4</td>
-        <td>X</td>
+        <td>Visualización de cantidades de stock</td>
+        <td>Desarrollar la funcionalidad que permita al administrador visualizar las cantidades actuales de cada ingrediente en stock, así como recibir alertas cuando el stock esté bajo niveles predefinidos.</td>
+        <td>8</td>
+        <td>Adrian Alonso Calle Huayanca</td>
         <td>In Process</td>
     </tr>
 <!--US02 --> 
     <tr>
-        <td>USX</td>
-        <td>X</td>
+        <td>US02</td>
+        <td>Ingreso de Stock</td>
         <td>WI02</td>
-        <td>X</td>
-        <td>X</td>
-        <td>12</td>
-        <td>X</td>
+        <td>Registro de nuevas entradas de inventario</td>
+        <td>Desarrollar la funcionalidad que permita al proveedor registrar nuevas entradas de ingredientes, incluyendo cantidad y fecha de ingreso, y actualizar automáticamente el stock disponible.</td>
+        <td>8</td>
+        <td>Mateo Italo Loechle Arias</td>  
         <td>In Process</td>
     </tr>
-<!--US03 --> 
+<!--US03 -->
     <tr>
-        <td>USX</td>
-        <td>X</td>
+        <td>US03</td>
+        <td>Tomar Pedidos desde la Mesa</td>
+        <td>WI04</td>
+        <td>Introducción de pedidos desde la mesa</td>
+        <td>Desarrollar la funcionalidad que permita al administrador introducir pedidos directamente en la aplicación desde la mesa, enviándolos automáticamente al sistema de cocina.</td>
+        <td>8</td>
+        <td>Hardie Alfonso Holguín Gamarra</td>
+        <td>In Process</td>
+    </tr>
+<!--US04 --> 
+    <tr>
+        <td>US04</td>
+        <td>Cálculo del Costo de Producción</td>
         <td>WI03</td>
-        <td>X</td>
-        <td>X</td>
-        <td>6</td>
-        <td>X</td>
+        <td>Consulta de costos de producción por plato</td>
+        <td>Desarrollar la funcionalidad que permita al administrador consultar los costos detallados de los ingredientes y el costo total de producción de un plato específico.</td>
+        <td>8</td>
+        <td>David Bryan Rodriguez Santos</td>
         <td>In Process</td>
     </tr> 
-<!--US04 -->
+<!--US13 -->
     <tr>
-        <td>USX</td>
-        <td>X</td>
-        <td>WI04</td>
-        <td>X</td>
-        <td>X</td>
+        <td>US13</td>
+        <td>Asignación de Mesas</td>
+        <td>WI05</td>
+        <td>Gestión de la asignación de mesas</td>
+        <td>Desarrollar la funcionalidad que permita a los meseros actualizar el estado de una mesa a "ocupada" cuando se asigne un cliente a la misma, asegurando que el estado se refleje correctamente en el sistema.</td>
         <td>8</td>
-        <td>X</td>
+        <td>Gabriel Anthony Braithuaite Toledo</td>
         <td>In Process</td>
     </tr>
 </table>
@@ -876,7 +887,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Commited on (Date) </td>
     </tr>
     <tr>
-        <td>Gaboo04/frontend </td>
+        <td>Gaboo04/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
@@ -884,7 +895,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
     </tr>
     <tr>
-        <td>HOLGUINUPC/frontend </td>
+        <td>HOLGUINUPC/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
@@ -892,7 +903,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
     </tr>
     <tr>
-        <td>LowMathzzz/frontend </td>
+        <td>LowMathzzz/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
@@ -900,7 +911,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
     </tr>
     <tr>
-        <td>DavidBryanRodriguezSantos/frontend </td>
+        <td>DavidBryanRodriguezSantos/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
@@ -908,7 +919,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
     </tr>    
     <tr>
-        <td>U202011657/frontend </td>
+        <td>U202011657/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
