@@ -785,7 +785,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
     <tr>
         <td>Sprint 2 Goal </td>
-        <td>Our focus is on developing an interactive and user-friendly frontend interface for Re-Grill. We believe it delivers a seamless experience and improved accessibility to product features for our users. This will be confirmed when the frontend components are live and user feedback indicates increased satisfaction and ease of use.</td>
+        <td>Our focus is on developing a first version of our interactive and user-friendly frontend interface for Re-Grill, this version will integrate a fake API, and will allow the admin to add ingredients to the inventory, the admin could register orders and add recipes . We believe it delivers a seamless experience and improved accessibility to product features for our users. This will be confirmed when the frontend components are live and user feedback indicates increased satisfaction and ease of use.</td>
     </tr>
     <tr>
         <td>Sprint 1 Velocity </td>
