@@ -954,6 +954,28 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>X</td>
     </tr>
 </table>
+
+<h4 id="execution-evidence-for-sprint-review"> 5.2.2.5 Execution Evidence for Sprint Review.</h4>
+<p>En este Sprint, se logró desarrollar y desplegar exitosamente la primera versión del frontend de la aplicación web de Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La interfaz frontend refleja fielmente el diseño y la funcionalidad esperados, proporcionando una experiencia interactiva y amigable para los usuarios. Las primeras funcionalidades añadidas en este sprint fueron la de agregar ingredientes en la sección "Stock", agregar un registro de órdenes en la sección "Orders" y visualizar la primera versión de la sección "Home".</p>
+<h5>Screenshots de las Principales Vistas Implementadas</h5>
+<p>Se adjuntan capturas de pantalla de las principales vistas de la aplicación web de Re-Grill desarrollada en el Sprint 2, mostrando el diseño y la estructura de la página.</p>
+
+<p>Se implementó la sección de Stock</p>
+<p>En esta sección se pueden observar las cantidades de stock de los ingredientes, así como la posibilidad de agregar nuevos ingredientes al stock.</p>
+<img src="images/frontend-stock.png" alt="Stock section image">
+
+<p>Se implementó la sección de Orders</p>
+<p>En esta sección se pueden observar las órdenes registradas por el administrador, así como la posibilidad de agregar nuevas órdenes. Las órdenes tienen ID, Table, Client, Time y Status.</p>
+<img src="images/frontend-orders.png" alt="Orders section image">
+
+<p>Se implementó la sección de Home</p>
+<p>En esta sección se puede observar la primera versión de la página principal de la aplicación web de Re-Grill, mostrando los platillos disponibles.</p>
+<img src="images/frontend-home.png" alt="Home section image">
+
+<h4 id="services-documentation-evidence-for-sprint-review"> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h4>
+<p>En este Sprint, el enfoque principal fue el desarrollo y despliegue de la parte frontend de la aplicación web de Re-Grill. No se implementaron Web Services en esta etapa, por lo que no se incluye documentación relacionada con endpoints o servicios web. La implementación y documentación de Web Services será abordada en Sprints futuros, conforme se expanda la funcionalidad del producto.</p>
+
+
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
 <h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
