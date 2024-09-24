@@ -58,16 +58,59 @@
 ## Registro de Versiones del Informe
 
 
-| Versión |   Fecha    | Autor | Descripción de modificación                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        | 
-|:-------:|:----------:|:-----:|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| 
-|   TB1   | 05/09/2024 |Todos los integrantes |      Todo el equipo participó en la definición de la solución propuesta, realizando un análisis de Lean UX y determinando el segmento objetivo. Se recopilaron todos los requisitos necesarios para desarrollar las herramientas requeridas, como User Personas, User Stories, Product Backlog e Impact Mapping, entre otros. Luego, se diseñaron los mockups y prototipos de la página de inicio utilizando la información recopilada. Finalmente, se completó la creación de la página de inicio con la ayuda del sprint backlog, lo que permitió un control eficaz del progreso realizado.                                                                                                                                                                                                                                                                                                                               |
+<div align="center">
+
+
+| Version | Fecha      | Autor   | Descripcion de Modificacion                                                                                             |
+|---------|------------|---------|-------------------------------------------------------------------------------------------------------------------------|
+| 0.0     | 01/09/2024 | David   | Crea documento                                                                                                          |
+| 0.4     | 05/09/2024 | Mateo   | Se aplican mejoras a las secciones del chapter 1 y 2 siendo especificamente Journey Mapping, Entrevistas y Competidores |
+| 0.5     | 12/09/2024 | Gabriel | Se realiza un review a los mockups y wireframes                                                                         |
+| 0.6     | 15/09/2024 | Gabriel | Realiza cambios en diagramas de clases y user flow                                                                      |
+| 0.7     | 20/09/2024 | Hardie  | Se realizan cambios a la investigacion y el lean UX                                                                     |
+| 0.8     | 20/09/2024 | Gabriel | Se realizan cambios a toda la seccion 5.1                                                                               |
+| 1.1     | 21/09/2024 | Mateo   | Realiza correcciones observadas en clase                                                                                |
+| 1.2     | 21/09/2024 | David   | Finaliza proceso LeanUX corregido                                                                                       |
+| 1.3     | 22/09/2024 | Hardie  | Se realizan cambios en la seccion de entrevistas 2.2.2                                                                  |
+| 1.4     | 22/09/2024 | Hardie  | Realiza correcciones observadas en user personas                                                                        |
+| 1.5     | 22/09/2024 | Hardie  | Realiza cambios en la bibliografia, cambio de formato a APA                                                             |
+| 1.6     | 23/09/2024 | Hardie  | Realiza cambios en los user stories                                                                                     |
+| 1.7     | 24/09/2024 | Hardie  | Realiza cambios en los user stories                                                                                     |
+
+
+</div>
 
 ## Project Report Collaboration Insights
+
+### TB1
+
+Para la entrega del TB1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow saludable y se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de sub indices por cada capitulo a los integrantes del grupo dejando la posibilidad de realizar correcciones entre los mismos integrantes.
+
+Se muestran evidencias de los commits realizados en la entrega de la TB1
 
 <p>Link del repositorio de git-hub: "https://github.com/grupo3-upc202402-wx55/project_report" </p>
 
 
   <td rowspan="3"><img src="/INS.jpeg"></td>
+
+
+[Colaboraciones del repositorio]
+
+<img src="assets/colaboration-insights/commits.png" alt="imagen de los commits">  
+[Registro de los commits donde se realizaron la mayor cantidad]
+
+En ambos casos se puede observar el incremento de modificaciones y revisiones en la primera semana de abril.
+
+---
+
+### TP1
+
+Para la entrega del TP1 se han hecho las respectivas divisiones por cada
+capítulo con el objetivo de mejorar la calidad del trabajo y se pueda realizar 
+una retroalimentación activa, para cada actividad asignada se ha entregado un 
+conjunto de subíndices por cada capítulo a los integrantes del grupo dejando
+la posibilidad de realizar correcciones entre los mismos integrantes.
+
 
 ## Contenido
 ### Tabla de contenidos:
@@ -2124,20 +2167,9 @@ Esta tabla muestra una comparación entre Re'Grill y otras soluciones tecnológi
 | **Actualizaciones automáticas**  | ✔️                   | ✔️              | ❌              | ✔️              |
 
 
-<h2>Anexo B: Gráfico de Resultados Operativos</h2>
-En este anexo, se incluye un gráfico que ilustra la mejora en la eficiencia operativa de los restaurantes que han implementado Re'Grill. Los datos representan una comparación del rendimiento antes y después de utilizar la plataforma, con un enfoque en la reducción de errores y el aumento de la velocidad de servicio.
-
-| **Indicador**                    | **Antes de Re'Grill** | **Después de Re'Grill** |
-|----------------------------------|----------------------|-------------------------|
-| **Errores en Pedidos (%)**       | 15%                  | 5%                      |
-| **Tiempo Medio de Servicio (min)** | 25                   | 15                      |
-| **Satisfacción del Cliente (%)** | 60%                  | 85%                     |
-| **Tiempos de Coordinación Interna (min)** | 20            | 12                      |
-
-Gráfico: Comparación del Rendimiento Operativo (Antes y Después de Re'Grill)
 
 
-<h2>Anexo C: Mapa del Proceso de Pedido a Cocina</h2>
+<h2>Anexo B: Mapa del Proceso de Pedido a Cocina</h2>
 Este mapa detalla los pasos y flujos que sigue un pedido desde el momento en que el cliente lo solicita hasta su preparación y entrega por la cocina. Se destaca cómo Re'Grill automatiza varios pasos, optimizando tiempos y reduciendo errores en la gestión.
 
 1.-Cliente hace una reserva o pedido
@@ -2155,7 +2187,7 @@ Este mapa detalla los pasos y flujos que sigue un pedido desde el momento en que
 - Actualización del estado del pedido en la plataforma.</p>
 - Coordinación con meseros para la entrega.</p>
 
-<h2>Anexo D: Validación de Hypotheses Statements</h2>
+<h2>Anexo C: Validación de Hypotheses Statements</h2>
 Este anexo presenta los resultados obtenidos de las validaciones realizadas en relación con los Hypotheses Statements propuestos durante el proceso de Lean UX para Re'Grill.
 
 | **Hipótesis**                                          | **Resultado**                                             |
@@ -2163,7 +2195,6 @@ Este anexo presenta los resultados obtenidos de las validaciones realizadas en r
 | **Adopción tecnológica por restaurantes pequeños y medianos** | El 40% de los restaurantes adoptó la solución en su primer año. |
 | **Accesibilidad económica**                            | El 60% de los restaurantes que probaron Re'Grill lo seleccionaron como su opción preferida. |
 | **Adaptación del personal a la plataforma**            | El personal redujo los errores operativos en un 25% después de 2 semanas de uso. |
-| **Mejora en la eficiencia operativa**                  | La eficiencia operativa mejoró en un 20%.                   |
 | **Optimización de la gestión de inventarios**          | Reducción del 20% en el tiempo dedicado a la gestión de inventarios. |
 | **Mejora en la experiencia del cliente**               | La satisfacción del cliente aumentó en un 25%.              |
 
