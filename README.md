@@ -555,7 +555,9 @@ En esta sección se identifican los principales competidores que ofrecen product
   </tr>
   <tr>
     <th colspan="2"></th>
-    <th>NoNocleus</th>
+    <th>NoNocleus 
+    
+<img src="images/123.jpeg">
     <th>Toast</th>
     <th>TouchBistro</th>
     <th>Inforest</th>
