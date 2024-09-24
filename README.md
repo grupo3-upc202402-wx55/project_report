@@ -558,13 +558,13 @@ En esta sección se identifican los principales competidores que ofrecen product
     <th>NoNocleus 
     
 <img src="images/123.jpeg">
-    <th>Toast</th>
+    <th>Toast
 
 <img src="images/toast.png">
-    <th>TouchBistro</th>
+    <th>TouchBistro
 
 <img src="images/22.jpg">
-    <th>Inforest</th>
+    <th>Inforest
 
 <img src="images/11.jpeg">
   </tr>
