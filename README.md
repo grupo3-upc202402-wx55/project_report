@@ -1068,6 +1068,14 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
   </tbody>
 </table>
 
+<h4 id="software-deployment-evidence-for-sprint-review"> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h4>
+<p>Durante el Sprint 2, nos enfocamos en el despliegue de la primera versión del frontend de la aplicación web de Re-Grill. El objetivo fue asegurar que la interfaz esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en GitHub Pages, y la automatización de ciertas tareas para facilitar futuros despliegues.
+
+<h5>Evidencias Gráficas del Despliegue</h5>
+<p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
+<img src="images/frontend-stock.png" alt="Stock section image">
+<img src="images/frontend-orders.png" alt="Orders section image">
+<img src="images/frontend-home.png" alt="Home section image">
 
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
 <h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
