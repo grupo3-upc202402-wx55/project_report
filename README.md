@@ -559,8 +559,14 @@ En esta sección se identifican los principales competidores que ofrecen product
     
 <img src="images/123.jpeg">
     <th>Toast</th>
+
+<img src="images/toast.png">
     <th>TouchBistro</th>
+
+<img src="images/22.jpg">
     <th>Inforest</th>
+
+<img src="images/11.jpeg">
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
