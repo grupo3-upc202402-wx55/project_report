@@ -1077,11 +1077,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <img src="images/frontend-orders.png" alt="Orders section image">
 <img src="images/frontend-home.png" alt="Home section image">
 
-<h4 id="validation-interviews">5.3. Validation Interviews.</h4>
-<h4 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h4>
-<h4 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h4>
-<h4 id="heuristic-exam">5.3.3. Evaluaciones según heurísticas.</h4> 
-<h4 id="about-the-productions">5.4. Video About-the-Product.</h4>
+
 <h4 id="conclusions">Conclusiones</h4>
 <h4 id="recomendations">Conclusiones y recomendaciones.</h4>
 <h4 id="about-the-team">Video About-the-Team.</h4>
