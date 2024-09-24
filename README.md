@@ -799,7 +799,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <h4 id="spring-backlog-x">5.2.2.2. Sprint Backlog 2.</h4>
 
-<p>El Sprint Backlog para el Sprint #2 tiene como objetivo principal el desarrollo de la parte frontend de la aplicación web de Re-Grill. Este sprint se centrará en la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
+<p>El Sprint Backlog para el Sprint #2 tiene como objetivo principal el desarrollo de la parte frontend de la aplicación web de Re-Grill. Este sprint se centrará en la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente. En esta primera versión del desarrollo de la parte frontend se espera que el admin pueda agregar ingredientes para el stock del bounded context "inventory", en el mismo bounded context se espera que el admin pueda registrar órdenes y recetas.</p>
 <p><a href="https://trello.com/b/LSbTHu4A/open-source">trello.com/b/LSbTHu4A/open-source</a></p>
 
 <table>
