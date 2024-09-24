@@ -1257,6 +1257,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><strong>WebStorm</strong> Un entorno de desarrollo integrado (IDE) potente y completo, que ofrece herramientas avanzadas para el desarrollo de aplicaciones. Será utilizado para escribir, depurar y gestionar el código del proyecto, aprovechando sus características de soporte para múltiples lenguajes y sistemas de control de versiones.</li>
     <li><strong>HTML5:</strong> El lenguaje estándar de marcado para la creación de páginas web. Será empleado en el desarrollo del frontend de la aplicación, estructurando el contenido de manera semántica y accesible.</li>
     <li><strong>CSS:</strong> Hojas de estilo en cascada utilizadas para diseñar y estilizar la presentación visual de la aplicación web. Permitirá definir el diseño responsivo y adaptativo del frontend.</li>
+    <li><strong>TypeScript:</strong> Un superconjunto tipado de JavaScript que proporciona una mayor seguridad y productividad en el desarrollo de aplicaciones web. Será utilizado en el frontend para mejorar la calidad y mantenibilidad del código.</li>
+    <li><strong>Angular:</strong> Un framework de desarrollo de aplicaciones web de código abierto, mantenido por Google. Será utilizado para la creación del frontend de la aplicación, aprovechando su estructura modular y su capacidad de creación de componentes reutilizables.</li>
 </ul>
 
 <p><strong>Rutas de referencia:</strong></p>
@@ -1264,6 +1266,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     <li><a href="https://www.jetbrains.com/webstorm/" target="_blank">www.jetbrains.com/webstorm/</a></li>
     <li><a href="https://lenguajehtml.com/html/" target="_blank">lenguajehtml.com/html/</a></li>
     <li><a href="https://google.github.io/styleguide/htmlcssguide.html" target="_blank">google.github.io/styleguide/htmlcssguide.html</a></li>
+    <li><a href="https://www.typescriptlang.org/" target="_blank">www.typescriptlang.org/</a></li>
+    <li><a href="https://angular.io/" target="_blank">angular.io/</a></li>
 </ul>
 
 <h4>Software Deployment</h4>
@@ -1301,7 +1305,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <ul>
     <li><strong>Landing Page</strong>: <a href="https://github.com/grupo3-upc202402-wx55/landing-page">github.com/grupo3-upc202402-wx55/landing-page</a></li>
     <li><strong>Project Report</strong>: <a href="https://github.com/grupo3-upc202402-wx55/project_report">github.com/grupo3-upc202402-wx55/project_report</a></li>
-    
+    <li><strong>Front-end</strong>: <a href="https://github.com/grupo3-upc202402-wx55/front-end">github.com/grupo3-upc202402-wx55/front-end</a></li>
+
 </ul>
 <p>Cada repositorio alojará el código fuente correspondiente a su respectivo producto, además de incluir archivos de pruebas unitarias e integración en el caso de los Web Services.</p>
 
@@ -1770,7 +1775,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
     <tr>
         <td>Sprint 2 Goal </td>
-        <td>Our focus is on developing an interactive and user-friendly frontend interface for Re-Grill. We believe it delivers a seamless experience and improved accessibility to product features for our users. This will be confirmed when the frontend components are live and user feedback indicates increased satisfaction and ease of use.</td>
+        <td>Our focus is on developing a first version of our interactive and user-friendly frontend interface for Re-Grill, this version will integrate a fake API, and will allow the admin to add ingredients to the inventory, the admin could register orders and add recipes . We believe it delivers a seamless experience and improved accessibility to product features for our users. This will be confirmed when the frontend components are live and user feedback indicates increased satisfaction and ease of use.</td>
     </tr>
     <tr>
         <td>Sprint 1 Velocity </td>
@@ -1784,7 +1789,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 
 <h4 id="spring-backlog-x">5.2.2.2. Sprint Backlog 2.</h4>
 
-<p>El Sprint Backlog para el Sprint #2 tiene como objetivo principal el desarrollo de la parte frontend de la aplicación web de Re-Grill. Este sprint se centrará en la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente.</p>
+<p>El Sprint Backlog para el Sprint #2 tiene como objetivo principal el desarrollo de la parte frontend de la aplicación web de Re-Grill. Este sprint se centrará en la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La lista de tareas y user stories asociadas a este sprint se ha diseñado para garantizar que se cumpla este objetivo de manera eficiente. En esta primera versión del desarrollo de la parte frontend se espera que el admin pueda agregar ingredientes para el stock del bounded context "inventory", en el mismo bounded context se espera que el admin pueda registrar órdenes y recetas.</p>
 <p><a href="https://trello.com/b/LSbTHu4A/open-source">trello.com/b/LSbTHu4A/open-source</a></p>
 
 <table>
@@ -1810,46 +1815,57 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
 <!--US01 -->  
     <tr>
-        <td>USX</td>
-        <td>x</td>
+        <td>US01</td>
+        <td>Acceso a Cantidades de Stock</td>
         <td>WI01</td>
-        <td>x</td>
-        <td>X</td>
-        <td>4</td>
-        <td>X</td>
+        <td>Visualización de cantidades de stock</td>
+        <td>Desarrollar la funcionalidad que permita al administrador visualizar las cantidades actuales de cada ingrediente en stock, así como recibir alertas cuando el stock esté bajo niveles predefinidos.</td>
+        <td>8</td>
+        <td>Adrian Alonso Calle Huayanca</td>
         <td>In Process</td>
     </tr>
 <!--US02 --> 
     <tr>
-        <td>USX</td>
-        <td>X</td>
+        <td>US02</td>
+        <td>Ingreso de Stock</td>
         <td>WI02</td>
-        <td>X</td>
-        <td>X</td>
-        <td>12</td>
-        <td>X</td>
+        <td>Registro de nuevas entradas de inventario</td>
+        <td>Desarrollar la funcionalidad que permita al proveedor registrar nuevas entradas de ingredientes, incluyendo cantidad y fecha de ingreso, y actualizar automáticamente el stock disponible.</td>
+        <td>8</td>
+        <td>Mateo Italo Loechle Arias</td>  
         <td>In Process</td>
     </tr>
-<!--US03 --> 
+<!--US03 -->
     <tr>
-        <td>USX</td>
-        <td>X</td>
+        <td>US03</td>
+        <td>Tomar Pedidos desde la Mesa</td>
+        <td>WI04</td>
+        <td>Introducción de pedidos desde la mesa</td>
+        <td>Desarrollar la funcionalidad que permita al administrador introducir pedidos directamente en la aplicación desde la mesa, enviándolos automáticamente al sistema de cocina.</td>
+        <td>8</td>
+        <td>Hardie Alfonso Holguín Gamarra</td>
+        <td>In Process</td>
+    </tr>
+<!--US04 --> 
+    <tr>
+        <td>US04</td>
+        <td>Cálculo del Costo de Producción</td>
         <td>WI03</td>
-        <td>X</td>
-        <td>X</td>
-        <td>6</td>
-        <td>X</td>
+        <td>Consulta de costos de producción por plato</td>
+        <td>Desarrollar la funcionalidad que permita al administrador consultar los costos detallados de los ingredientes y el costo total de producción de un plato específico.</td>
+        <td>8</td>
+        <td>David Bryan Rodriguez Santos</td>
         <td>In Process</td>
     </tr> 
-<!--US04 -->
+<!--US13 -->
     <tr>
-        <td>USX</td>
-        <td>X</td>
-        <td>WI04</td>
-        <td>X</td>
-        <td>X</td>
+        <td>US13</td>
+        <td>Asignación de Mesas</td>
+        <td>WI05</td>
+        <td>Gestión de la asignación de mesas</td>
+        <td>Desarrollar la funcionalidad que permita a los meseros actualizar el estado de una mesa a "ocupada" cuando se asigne un cliente a la misma, asegurando que el estado se refleje correctamente en el sistema.</td>
         <td>8</td>
-        <td>X</td>
+        <td>Gabriel Anthony Braithuaite Toledo</td>
         <td>In Process</td>
     </tr>
 </table>
@@ -1865,7 +1881,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Commited on (Date) </td>
     </tr>
     <tr>
-        <td>Gaboo04/frontend </td>
+        <td>Gaboo04/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
@@ -1873,7 +1889,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
     </tr>
     <tr>
-        <td>HOLGUINUPC/frontend </td>
+        <td>HOLGUINUPC/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
@@ -1881,7 +1897,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
     </tr>
     <tr>
-        <td>LowMathzzz/frontend </td>
+        <td>LowMathzzz/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
@@ -1889,7 +1905,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
     </tr>
     <tr>
-        <td>DavidBryanRodriguezSantos/frontend </td>
+        <td>DavidBryanRodriguezSantos/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
@@ -1897,14 +1913,15 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>x</td>
     </tr>    
     <tr>
-        <td>U202011657/frontend </td>
+        <td>U202011657/front-end </td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
         <td>x</td>
     </tr>
-    <tr><td>"https://github.com/grupo3-upc202402-wx55/frontend"</td></tr>
+    <tr><td><a href="https://github.com/grupo3-upc202402-wx55/front-end">https://github.com/grupo3-upc202402-wx55/front-end</a> </td></tr>
+
 
 
 </table>
@@ -1928,6 +1945,128 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>X</td>
     </tr>
 </table>
+<h4 id="execution-evidence-for-sprint-review"> 5.2.2.5 Execution Evidence for Sprint Review.</h4>
+<p>En este Sprint, se logró desarrollar y desplegar exitosamente la primera versión del frontend de la aplicación web de Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La interfaz frontend refleja fielmente el diseño y la funcionalidad esperados, proporcionando una experiencia interactiva y amigable para los usuarios. Las primeras funcionalidades añadidas en este sprint fueron la de agregar ingredientes en la sección "Stock", agregar un registro de órdenes en la sección "Orders" y visualizar la primera versión de la sección "Home".</p>
+<h5>Screenshots de las Principales Vistas Implementadas</h5>
+<p>Se adjuntan capturas de pantalla de las principales vistas de la aplicación web de Re-Grill desarrollada en el Sprint 2, mostrando el diseño y la estructura de la página.</p>
+
+<p>Se implementó la sección de Stock</p>
+<p>En esta sección se pueden observar las cantidades de stock de los ingredientes, así como la posibilidad de agregar nuevos ingredientes al stock.</p>
+<img src="images/frontend-stock.png" alt="Stock section image">
+
+<p>Se implementó la sección de Orders</p>
+<p>En esta sección se pueden observar las órdenes registradas por el administrador, así como la posibilidad de agregar nuevas órdenes. Las órdenes tienen ID, Table, Client, Time y Status.</p>
+<img src="images/frontend-orders.png" alt="Orders section image">
+
+<p>Se implementó la sección de Home</p>
+<p>En esta sección se puede observar la primera versión de la página principal de la aplicación web de Re-Grill, mostrando los platillos disponibles.</p>
+<img src="images/frontend-home.png" alt="Home section image">
+
+<h4 id="services-documentation-evidence-for-sprint-review"> 5.2.2.6. Services Documentation Evidence for Sprint Review.</h4>
+<p>En este sprint, hemos implementado y documentado varios endpoints a través de una fake API utilizando json-server. Aunque no se ha utilizado OpenAPI, hemos documentado los endpoints relevantes con sus respectivos métodos HTTP y ejemplos de respuesta para simular las interacciones con el backend. Esto nos permitirá preparar la integración futura con una API real y garantizar que las funcionalidades estén correctamente alineadas.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Acción</th>
+      <th>Verbo HTTP</th>
+      <th>Descripción</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de llamada</th>
+      <th>Ejemplo de respuesta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/order</td>
+      <td>Obtener todas las órdenes</td>
+      <td>GET</td>
+      <td>Recupera la lista completa de órdenes en el sistema.</td>
+      <td>Ninguno</td>
+      <td>GET /order</td>
+      <td>
+        <pre>
+[ 
+  { "id": 1, "table": 1, "client": "John Doe", "time": "12:00", "status": "In preparation" }, 
+  { "id": 2, "table": "1", "client": "Andy Polo", "time": "2024-09-22T18:17:42.634Z", "status": "In progress" } 
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/order</td>
+      <td>Crear una nueva orden</td>
+      <td>POST</td>
+      <td>Permite registrar una nueva orden en el sistema.</td>
+      <td>Ninguno (requiere cuerpo con los datos de la orden)</td>
+      <td>
+        POST /order
+        <pre>
+{
+  "table": "2",
+  "client": "Pepe",
+  "time": "13:00",
+  "status": "IN PROGRESS"
+}
+        </pre>
+      </td>
+      <td>
+        <pre>
+{
+  "id": 7,
+  "table": "2",
+  "client": "Pepe",
+  "time": "13:00",
+  "status": "IN PROGRESS"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/stock</td>
+      <td>Obtener todo el stock</td>
+      <td>GET</td>
+      <td>Recupera la lista completa de ingredientes y cantidades en stock.</td>
+      <td>Ninguno</td>
+      <td>GET /stock</td>
+      <td>
+        <pre>
+[
+  { "id": 2, "ingredient": "ada", "quantity": "13" },
+  { "id": 4, "ingredient": "Carne", "quantity": "4k" }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/stock/{id}</td>
+      <td>Actualizar cantidad de un ingrediente en stock</td>
+      <td>PUT</td>
+      <td>Actualiza la cantidad de un ingrediente específico.</td>
+      <td>id (número), quantity (número)</td>
+      <td>PUT /stock/4</td>
+      <td>
+        <pre>
+{
+  "id": 4,
+  "ingredient": "Carne",
+  "quantity": "10k"
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<h4 id="software-deployment-evidence-for-sprint-review"> 5.2.2.7. Software Deployment Evidence for Sprint Review. </h4>
+<p>Durante el Sprint 2, nos enfocamos en el despliegue de la primera versión del frontend de la aplicación web de Re-Grill. El objetivo fue asegurar que la interfaz esté accesible para los usuarios finales a través de un entorno de producción confiable. A continuación, se detalla el proceso de despliegue, incluyendo la creación de cuentas necesarias, la configuración de recursos en GitHub Pages, y la automatización de ciertas tareas para facilitar futuros despliegues.
+
+<h5>Evidencias Gráficas del Despliegue</h5>
+<p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
+<img src="images/frontend-stock.png" alt="Stock section image">
+<img src="images/frontend-orders.png" alt="Orders section image">
+<img src="images/frontend-home.png" alt="Home section image">
+
 <h1 id="validation-interviews">5.3. Validation Interviews.</h1>
 <h1 id="interview-design-2">5.3.1. Diseño de Entrevistas.</h1>
 <h1 id="interview-registry-2">5.3.2. Registro de Entrevistas.</h1>
