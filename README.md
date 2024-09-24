@@ -735,6 +735,7 @@ Laura es administradora de un restaurante de 45 años. Busca optimizar la gesti�
 
 <h4 id="user-task-matrix">2.3.2. User Task Matrix.</h4>
 
+Esta tabla describe una serie de tareas clave que Laura (administradora del restaurante) y Martín (proveedor) deben realizar en su colaboración. Las tareas incluyen la gestión diaria de pedidos de insumos, la coordinación logística, y la supervisión de niveles de stock, así como la actualización del catálogo de productos, negociación de precios, facturación, y la revisión de informes de consumo.
 
 | **Tareas**                                        | **Frecuencia** | **Usuario Principal** | **Objetivo del Usuario**                                                                 | **Frustraciones del Usuario**                                                                 | **Oportunidades de la Plataforma**                                                                                           |
 |---------------------------------------------------|----------------|-----------------------|-----------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -750,14 +751,6 @@ Laura es administradora de un restaurante de 45 años. Busca optimizar la gesti�
 | **Capacitar al equipo en nuevas herramientas**    | Ocasional       | Laura                 | Asegurar que su equipo use eficientemente la plataforma para optimizar operaciones       | Laura: Dificultad de su equipo para adaptarse a nuevas tecnologías                            | Tutoriales integrados en la plataforma y soporte técnico para facilitar el aprendizaje del equipo de Laura.                   |
 | **Solicitar informes de disponibilidad de productos** | Ocasional    | Laura                 | Verificar la disponibilidad de productos antes de hacer pedidos                         | Laura: Falta de información actualizada sobre la disponibilidad                               | Sistema en tiempo real que muestre la disponibilidad de insumos, facilitando la planificación de pedidos.                    |
 
-
-| **Tarea**                             | **Persona**                                                                                             | **Frecuencia** | **Importancia** |
-|---------------------------------------|---------------------------------------------------------------------------------------------------------|----------------|-----------------|
-| 1. Revisar pedidos de insumos         | Martin, Proveedor                                                                                       | Diaria         | Alta            |
-| 2. Ofertar productos                  | Martín, Proveedor                                                                                       | Diaria         | Alta            |
-| 3. Confirmar recepción de pagos       | Martín, Proveedor                                                                                       | Semanal        | Media           |
-| 4. Actualizar catálogo de productos   | Martín, Proveedor                                                                                       | Mensual        | Alta            |
-| 5. Coordinar entregas                 | Martín, Proveedor                                                                                       | Diaria         | Alta            |
 
 <h4 id="user-journey-mapping">2.3.3. User Journey Mapping.</h4>
 
