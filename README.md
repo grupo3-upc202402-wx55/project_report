@@ -972,8 +972,101 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <p>En esta sección se puede observar la primera versión de la página principal de la aplicación web de Re-Grill, mostrando los platillos disponibles.</p>
 <img src="images/frontend-home.png" alt="Home section image">
 
-<h4 id="services-documentation-evidence-for-sprint-review"> 5.2.1.6. Services Documentation Evidence for Sprint Review.</h4>
-<p>En este Sprint, el enfoque principal fue el desarrollo y despliegue de la parte frontend de la aplicación web de Re-Grill. No se implementaron Web Services en esta etapa, por lo que no se incluye documentación relacionada con endpoints o servicios web. La implementación y documentación de Web Services será abordada en Sprints futuros, conforme se expanda la funcionalidad del producto.</p>
+<h4 id="services-documentation-evidence-for-sprint-review"> 5.2.2.6. Services Documentation Evidence for Sprint Review.</h4>
+<p>En este sprint, hemos implementado y documentado varios endpoints a través de una fake API utilizando json-server. Aunque no se ha utilizado OpenAPI, hemos documentado los endpoints relevantes con sus respectivos métodos HTTP y ejemplos de respuesta para simular las interacciones con el backend. Esto nos permitirá preparar la integración futura con una API real y garantizar que las funcionalidades estén correctamente alineadas.</p>
+<table>
+  <thead>
+    <tr>
+      <th>Endpoint</th>
+      <th>Acción</th>
+      <th>Verbo HTTP</th>
+      <th>Descripción</th>
+      <th>Parámetros</th>
+      <th>Ejemplo de llamada</th>
+      <th>Ejemplo de respuesta</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>/order</td>
+      <td>Obtener todas las órdenes</td>
+      <td>GET</td>
+      <td>Recupera la lista completa de órdenes en el sistema.</td>
+      <td>Ninguno</td>
+      <td>GET /order</td>
+      <td>
+        <pre>
+[ 
+  { "id": 1, "table": 1, "client": "John Doe", "time": "12:00", "status": "In preparation" }, 
+  { "id": 2, "table": "1", "client": "Andy Polo", "time": "2024-09-22T18:17:42.634Z", "status": "In progress" } 
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/order</td>
+      <td>Crear una nueva orden</td>
+      <td>POST</td>
+      <td>Permite registrar una nueva orden en el sistema.</td>
+      <td>Ninguno (requiere cuerpo con los datos de la orden)</td>
+      <td>
+        POST /order
+        <pre>
+{
+  "table": "2",
+  "client": "Pepe",
+  "time": "13:00",
+  "status": "IN PROGRESS"
+}
+        </pre>
+      </td>
+      <td>
+        <pre>
+{
+  "id": 7,
+  "table": "2",
+  "client": "Pepe",
+  "time": "13:00",
+  "status": "IN PROGRESS"
+}
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/stock</td>
+      <td>Obtener todo el stock</td>
+      <td>GET</td>
+      <td>Recupera la lista completa de ingredientes y cantidades en stock.</td>
+      <td>Ninguno</td>
+      <td>GET /stock</td>
+      <td>
+        <pre>
+[
+  { "id": 2, "ingredient": "ada", "quantity": "13" },
+  { "id": 4, "ingredient": "Carne", "quantity": "4k" }
+]
+        </pre>
+      </td>
+    </tr>
+    <tr>
+      <td>/stock/{id}</td>
+      <td>Actualizar cantidad de un ingrediente en stock</td>
+      <td>PUT</td>
+      <td>Actualiza la cantidad de un ingrediente específico.</td>
+      <td>id (número), quantity (número)</td>
+      <td>PUT /stock/4</td>
+      <td>
+        <pre>
+{
+  "id": 4,
+  "ingredient": "Carne",
+  "quantity": "10k"
+}
+        </pre>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 
 <h4 id="validation-interviews">5.3. Validation Interviews.</h4>
