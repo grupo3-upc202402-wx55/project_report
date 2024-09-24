@@ -556,10 +556,10 @@ En esta sección se identifican los principales competidores que ofrecen product
   <tr>
     <th colspan="2"></th>
     <th>NoNocleus 
+    
 <img src="images/123.jpeg">
-
-<th colspan="3"></th>
     <th>Toast
+
 <img src="images/toast.png">
     <th>TouchBistro
 
