@@ -113,9 +113,12 @@ Se muestran evidencias de los commits realizados en la entrega de la TB1
 <img src="./images/CM2.jpeg" alt="imagen de los commits">  
 
 [Registro de los commits donde se realizaron la mayor cantidad]
-En ambos casos se puede observar el incremento de modificaciones y revisiones en la segundo semana de septiembre.
 
 <img src="./images/IN1.jpeg" alt="imagen de los commits"> 
+
+En ambos casos se puede observar el incremento de modificaciones y revisiones en la segundo semana de septiembre.
+
+
 
 
 ## Contenido
