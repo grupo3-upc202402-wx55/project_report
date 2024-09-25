@@ -2,7 +2,7 @@
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
 <br>
-<img src="/images/upc-logo.png"></img><br>
+<img src="./images/upc-logo.png"></img><br>
 <br>
     <strong>Ingeniería de Software - 5to Ciclo</strong><br>
 <br>
@@ -91,7 +91,7 @@ Se muestran evidencias de los commits realizados en la entrega de la TB1
 <p>Link del repositorio de git-hub: "https://github.com/grupo3-upc202402-wx55/project_report" </p>
 
 
-  <td rowspan="3"><img src="/INS.jpeg"></td>
+  <td rowspan="3"><img src="./INS.jpeg"></td>
 
 
 
@@ -255,7 +255,7 @@ La idea detrás de nuestra aplicación, la cual lleva el nombre de “Re’Grill
 
 <table><thead>
   <tr>
-    <td rowspan="3"> <img src="images/gabriel.jpg"> </td>
+    <td rowspan="3"> <img src="./images/gabriel.jpg"> </td>
     <td>Nombres y Apellidos:Gabriel Anthony Braithuaite Toledo</td>
   </tr>
   <tr>
@@ -266,7 +266,7 @@ La idea detrás de nuestra aplicación, la cual lleva el nombre de “Re’Grill
   </tr></thead>
 <tbody>
   <tr>
-    <td rowspan="3"><img src="images/hardie.jpg"></td>
+    <td rowspan="3"><img src="./images/hardie.jpg"></td>
     <td>Nombres y Apellidos:Hardie Alfonso Holguín Gamarra</td>
   </tr>
   <tr>
@@ -276,7 +276,7 @@ La idea detrás de nuestra aplicación, la cual lleva el nombre de “Re’Grill
     <td>Sobre ti: Soy Hardie Holguín, Estudio la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Soy una persona disciplinada y organizada. En mi tiempo libre me gusta entrenar en el gimnasio y jugar futbol.</td>
   </tr>
   <tr>
-    <td rowspan="3"><img src="images/mateo.jpg"></td>
+    <td rowspan="3"><img src="./images/mateo.jpg"></td>
     <td>Nombres y Apellidos:Mateo Italo Loechle Arias</td>
   </tr>
   <tr>
@@ -286,7 +286,7 @@ La idea detrás de nuestra aplicación, la cual lleva el nombre de “Re’Grill
     <td>Sobre ti:Hola, soy Mateo Italo Loechle Arias, estudiante de Ingeniería de Software apasionado por la tecnología y el desarrollo . Me gustan las cosas relacionadas a mi carrera. Además, la música es uno de mis hobbies favoritos, siempre me acompaña en mi día a día. Me considero una persona responsable y comprometida, siempre buscando mejorar y aprender para enfrentar nuevos desafíos.</td>
   </tr>
   <tr>
-    <td rowspan="3"><img src="images/alonso.jpg"></td>
+    <td rowspan="3"><img src="./images/alonso.jpg"></td>
     <td>Nombres y Apellidos:Adrian Alonso Calle Huayanca</td>
   </tr>
   <tr>
@@ -296,7 +296,7 @@ La idea detrás de nuestra aplicación, la cual lleva el nombre de “Re’Grill
     <td>Sobre ti:Soy Adrian Alonso Calle Huayanca, estoy cursando el 5to ciclo de la carrera de ingeniería de software<br>Me gusta mucho el mundo de las computadoras y redes <br>Terminando la carrera quisiera especializarme en seguridad bancaria. Mi hobby es practicar natación, jugar videojuegos y leer sobre programación</td>
   </tr>
   <tr>
-    <td rowspan="3"><img src="images/david.jpg"></td>
+    <td rowspan="3"><img src="./images/david.jpg"></td>
     <td>Nombres y Apellidos:David Bryan Rodriguez Santos</td>
   </tr>
   <tr>
@@ -356,106 +356,78 @@ En un mercado altamente competitivo, los restaurantes enfrentan barreras como al
 
 <h4 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions.</h4>
 
-**Business Outcomes:**
+#### - Features
+- Gestión del inventario de productos en restaurantes.
+- Comunicación eficiente con proveedores para reabastecimiento de ingredientes.
+- Interfaz amigable para gestionar pedidos y disponibilidad de productos en tiempo real.
 
-- Lograr un crecimiento con al menos 10 restaurantes utilizando Re’Grill en el primer año.
+#### - Business Outcomes
+Nuestros objetivos comerciales para **Re-Grill** incluyen:
+- Alcanzar al menos 10 restaurantes que utilicen Re'Grill durante el primer año.
+- Destacar en el mercado de aplicaciones de gestión de restaurantes con una tasa de adopción del 20% en el primer trimestre.
+- Obtener comentarios positivos de los clientes sobre la eficiencia de nuestro sistema en la gestión de restaurantes.
 
-- Resaltar en el mercado de aplicaciones de gestión de restaurantes con una tasa de adopción del 20% en el primer trimestre.
+#### - Users
+**Administradores de restaurantes**  
+Ellos necesitan optimizar la gestión del inventario de productos, mejorar la atención a los clientes y organizar el restaurante de manera eficiente.
 
-- Obtener comentarios positivos de los clientes hacia la eficacia de nuestro sistema.
+**Proveedores de restaurantes**  
+Los proveedores buscan mejorar la comunicación con los restaurantes para optimizar la reposición de productos y realizar entregas oportunas.
 
-**User Assumptions:**
-**Assumptions Worksheet**<br>
-**¿Quién es el usuario?**
-- La parte administrativa de un restaurante
-- Los proveedores de restaurantes
+#### - User Outcomes & Benefits
+**Administradores de restaurantes:**
+- Ahorro de tiempo y mejora en la organización gracias a una gestión eficiente del inventario.
+- Mayor control sobre los ingredientes disponibles para ofrecer un mejor servicio a los clientes.
+- Comunicación fluida con proveedores para garantizar el abastecimiento necesario.
 
-**¿Qué problemas tiene nuestro producto? ¿Resolver?**
-- Gestión con los productos que se tienen en el restaurante
-- Comunicación con los proveedores de alimentos para los ingredientes de sus platillos a la carta
+**Proveedores:**
+- Mejora en la comunicación con los restaurantes, lo que permite una entrega de productos más precisa y rápida.
+- Reducción de errores en el suministro de ingredientes gracias a la visibilidad en tiempo real de las necesidades del restaurante.
 
-**¿Qué características son importantes?**
-- Una mejor forma de contactarse entre la parte administrativa y el proveedor para la reponer los productos
-- Mejorar la atención del cliente con los platillos que se encuentran disponibles en dicho momento.
-- Organización de las cantidades de los productos, ya sea comestibles o de mantenimiento.
-- Interfaz amigable para cualquier usuario que lo use.
+#### - User Assumptions
 
-**¿Dónde encaja nuestro producto en su trabajo o vida?**
-- Para la administración, nuestro producto les ayudará a gestionar los ingredientes de los platos que cocinan, además de conocer los desperdicios que hay al momento de cocinar y las cantidades de mesas, sillas, entre otros.
-- Para los proveedores, el producto los ayudará en mejorar la comunicación entre ellos y la administración del restaurante, además de brindar las cantidades exactas que necesita el restaurante.
+**¿Quién es el usuario?**  
+El usuario principal de **Re-Grill** es la parte administrativa de los restaurantes que necesita una solución eficiente para gestionar el inventario y los pedidos. También consideramos como usuarios a los proveedores que suministran los ingredientes a los restaurantes.
 
-**¿Cuándo y cómo es nuestro producto? ¿Usado?**
-- El producto será utilizado cuando la administración del restaurante comienza a gestionar el inventario que posee actualmente, además de ver si las cantidades son las suficientes para las preparaciones al momento de atender.
-- El producto será usado por algunos proveedores de restaurantes, donde podrán visualizar los distintos restaurantes que necesitan contactarse con algún proveedor de algún consumible.
-- El producto será a través de una aplicación web mediante algún dispositivo que usa internet y un navegador como Chrome.
+**¿Dónde encaja nuestro producto en sus trabajos o vidas?**  
+Para los administradores de restaurantes, el producto facilita la gestión del inventario, permite controlar las cantidades disponibles, los desperdicios y las reservas. Para los proveedores, mejora la comunicación con los restaurantes, facilitando la reposición de productos de manera oportuna.
 
-**¿Cómo debe verse nuestro producto y cómo comportarse?**
-- El diseño de nuestro producto debe ser atractivo y coherente con respecto al diseño del restaurante.
-- La plataforma debe cargar de manera rápida las respuestas a las acciones del usuario para que no se frustre.
-- La navegación de la plataforma debe ser intuitiva y comprensible, donde los usuarios pueden ver los filtros necesarios y las distintas opciones que tiene.
-- Debe mostrar a los clientes con gráficos y una pequeña descripción acerca del plato de comida que busca.
-- Esta plataforma debe ser compatible con algunos dispositivos de dimensiones distintas, como celulares, laptops, tablets y computadoras, donde se usa un diseño responsive.
+**¿Qué problema resuelve nuestro producto?**  
+Re-Grill resuelve la falta de eficiencia en la gestión del inventario y la comunicación entre restaurantes y proveedores, permitiendo una mejor planificación y organización de recursos y productos.
 
-**Business Outcomes**<br>
-- Convertir nuestro producto como una plataforma indispensable para la gestión de restaurantes, ya sea en la manera de reponer el inventario, organización del mismo local y la atención de los clientes.
-- Un 75% de los usuarios que usaron la página han logrado gestionar de mejor manera los restaurantes.
-- Un 20% de los clientes de restaurantes se muestran insatisfechos con la atención que brinda los restaurantes.
+**¿Cuándo y cómo es usado nuestro producto?**  
+El producto se utiliza diariamente para gestionar el inventario, tomar pedidos y coordinar con los proveedores. Los usuarios acceden a la aplicación web desde dispositivos conectados a internet para monitorear y gestionar las operaciones en tiempo real.
 
-**User Benefits**<br>
-- Ahorro de tiempo por la manera de gestionar el inventario.
-- Facilidad en buscar los productos faltantes o desperdiciados.
-- Mejor comunicación entre el proveedor y la administración.
+**¿Qué características son importantes?**  
+- Gestión en tiempo real de los productos disponibles en el restaurante.
+- Comunicación fluida con los proveedores para reabastecer los ingredientes.
+- Interfaz intuitiva y adaptable a dispositivos de distintas dimensiones.
+- Reportes sobre el estado del inventario y sugerencias de compras basadas en necesidades.
 
-**Assumptions Steps**<br>
-**a. Creo que mis clientes necesitan:**
-  - Visualización de disponibilidad de platillos.
-  - Expresar de manera intuitiva el inventario que se lleva en el local
-  - Comunicarse de manera eficiente con otro tipo de usuario
+**¿Cómo debería verse y comportarse nuestro producto?**  
+El diseño debe ser atractivo, coherente con la identidad visual del restaurante, y rápido en la respuesta a las acciones de los usuarios. La navegación debe ser simple, permitiendo a los usuarios ver las cantidades de productos, realizar pedidos y contactar a los proveedores fácilmente. Además, debe ser responsivo, adaptable a cualquier dispositivo.
 
-**b. Estas necesidades se pueden resolver con:**
-  - Un sistema que calcula lo que hay en el inventario en general y lo que se usa al día.
-  - Una base de datos que se actualiza cada vez que cambia y se use parte de lo que hay en el inventario.
-  - Un diseño que sea muy atractivo visualmente y a la vez entendible para gestionar el restaurante.
-  - Accesibilidad para su uso en distintos dispositivos según lo que el usuario usará.
-
-**c. Mis clientes iniciales son (o serán):**
-  - La parte administrativa de un restaurante.
-  - Los proveedores o vendedores de alimentos para los restaurantes.
-
-**d. El valor #1 que un cliente quiere de mi producto es veracidad (utilidad, funcionalidades que le resuelven el problema)**
-  - La garantía de que no habrá problemas en las cantidades con respecto al inventario por la base de datos.
-  - La comunicación de manera directa con el proveedor con respecto a la necesidad del restaurante.
-
-**e. El cliente también puede obtener estos beneficios adicionales:**
-  - Obtener las cantidades de la merma que se obtiene al hacer un plato.
-  - Mejorar la administración del restaurante.          
-
-**f. Voy a adquirir la mayoría de mis clientes a través de:**
-  - Colaboración con un restaurante conocido.
-  - Estrategias de marketing digital con el enfoque en los distintos restaurantes.
-
-**g. Haré dinero a través de:**
-  - Membresías premium con acceso exclusivo y funciones adicionales
-
-**h. Mi competencia principal en el mercado:**
-  - Tiendas virtuales de restaurantes que se enfocan en las ventas.
-  - Páginas de gestión de restaurantes.
-
-**i. Los venceremos debido a:**
-  - El diseño es atractivo y accesible para cualquier tipo de usuario ya sea la administración o el proveedor.
-  - La base de datos actualizada constantemente con respecto a la necesidad del usuario.
-
-**j. Mi mayor riesgo del producto es:**
-  - La desconfianza por parte de los restaurantes con respecto a la correcta función del programa al momento de tener días especiales.
-  - El mal cálculo del inventario al momento de mostrar las cantidades de cada producto que se encuentra disponible.
-
-**k. Resolveremos esto a través de:**
-  - Mostrando pruebas funcionales de esto y su adaptabilidad ante algún problema que se muestra de manera sorpresiva.
-  - Las constantes verificaciones que se realizará al momento de que se haga alguna compra.
-
-**l. ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio / proyecto no funcione?**
-  - Podrá ser que las estrategias de marketing que se usa podrán ayudar a obtener más compañías que le darán uso de la aplicación. En caso se muestre el contrario, podría afectar de manera negativa la inversión del negocio.
-  - Las ventas de las suscripciones para obtener más funciones que les será muy útil para mejorar su experiencia con la página. Si se prueba que es falso, afectaría de manera directa con la generación de ingresos y sostenibilidad del negocio.
+#### - Business Assumptions
+- **Creemos que nuestros clientes necesitan**:  
+  Una plataforma que les permita gestionar de manera eficiente su inventario, pedidos y la comunicación con proveedores.
+- **Estas necesidades se pueden resolver con**:  
+  Un sistema que actualice automáticamente el inventario, comunique con los proveedores y organice los pedidos de forma eficiente.
+- **El valor #1 que mi cliente quiere de mi producto es**:  
+  La fiabilidad y precisión en la gestión del inventario y la comunicación con proveedores.
+- **El cliente también puede obtener estos beneficios adicionales**:  
+  Optimización de los recursos del restaurante, mejora en la atención a los clientes, y reducción de los desperdicios.
+- **Voy a adquirir la mayoría de mis clientes a través de**:  
+  Colaboraciones con restaurantes y campañas de marketing digital enfocadas en soluciones para restaurantes.
+- **Haré dinero a través de**:  
+  Ofrecimiento de membresías premium con funciones avanzadas para una gestión más detallada.
+- **Mi competencia principal en el mercado es**:  
+  Otras aplicaciones de gestión de restaurantes que se enfocan en el inventario o las ventas.
+- **Los venceremos debido a**:  
+  Nuestro diseño intuitivo, la actualización automática del inventario y la integración eficiente con los proveedores.
+- **El mayor riesgo es**:  
+  Que los restaurantes desconfíen de la precisión del sistema en días con alta demanda o eventos especiales.
+- **Resolveremos esto a través de**:  
+  Pruebas rigurosas de la plataforma en condiciones de alta demanda y mantenimiento constante de la base de datos.
 
 <h4 id="lean-ux-hypothesis">1.2.2.3. Lean UX Hypothesis Statements.</h4>
 
@@ -480,7 +452,7 @@ Creemos que al ofrecer una interfaz intuitiva y fácil de aprender, el personal 
 
 <h4 id="lean-ux-canvas">1.2.2.4. Lean UX Canvas.</h4>
 
-<img src="images/CANVAS.jpg">
+<img src="./images/CANVAS.jpg">
 
 <h4 id="target-segments">1.3. Segmentos objetivo.</h4>
 
@@ -528,16 +500,16 @@ En esta sección se identifican los principales competidores que ofrecen product
     <th colspan="2"></th>
     <th>NoNocleus 
     
-<img src="images/123.jpeg">
+<img src="./images/123.jpeg">
     <th>Toast
 
-<img src="images/toast.png">
+<img src="./images/toast.png">
     <th>TouchBistro
 
-<img src="images/22.jpg">
+<img src="./images/22.jpg">
     <th>Inforest
 
-<img src="images/11.jpeg">
+<img src="./images/11.jpeg">
   </tr>
   <tr>
     <td rowspan="2">Perfil</td>
@@ -664,7 +636,7 @@ En esta sección se identifican los principales competidores que ofrecen product
 
 - Entrevista 1: Darla
 
-<img src="/images/interview/user-1.png">
+<img src="./images/interview/user-1.png">
 
 * Sexo: Femenino
 * Edad: 25 años
@@ -682,7 +654,7 @@ Darla es una mujer de 25 años que vive en Lima. Destaca como factores clave par
 
 - Entrevista 2: Vanfic Gustavok
 
-<img src="/images/interview/m.jpeg"> 
+<img src="./images/interview/m.jpeg"> 
 
 * Sexo: Masculino
 * Edad: 49 años
@@ -703,7 +675,7 @@ Vanfic se siente frustrado por la falta de integración entre los diferentes sis
 
 - Entrevista 1: Anghelo Basauri
 
-<img src="/images/interview/ha.jpeg">
+<img src="./images/interview/ha.jpeg">
 
 * Sexo: Masculino
 * Edad: 27 años
@@ -722,7 +694,7 @@ Anghelo desea optimizar la gestión de inventario y pedidos para asegurar que si
 
 - Entrevista 1: Keyner Hancco
 
-<img src="/images/interview/hk.jpeg">
+<img src="./images/interview/hk.jpeg">
 * Sexo: Masculino
 * Edad: 25 años
 * Distrito donde vive: Santa Anita
@@ -739,7 +711,7 @@ Keyner Hancco es un hombre de 25 años que vive en Santa Anita. Fue entrevistado
 
 - Entrevista 1: Elismar Sarmiento
 
-<img src="/images/interview/gl.jpeg">
+<img src="./images/interview/gl.jpeg">
 
 * Sexo: Femenino
 * Edad: 25 años
@@ -775,13 +747,13 @@ Los proveedores expresaron la necesidad de tener visibilidad sobre las prevision
 
 Martín es un proveedor de insumos gastronómicos de 42 años. Su principal objetivo es establecer relaciones comerciales duraderas con restaurantes, automatizar pedidos y ofrecer un servicio confiable. Tiene buena organización, pero nivel medio en tecnología. Está frustrado por la falta de sistemas centralizados y la competencia que ofrece precios bajos. Prefiere canales como LinkedIn y las interacciones cara a cara.
 
-<img src = "/images/user-persona/user-persona-1.png" alt="User Persona 1"/>
+<img src = "./images/user-persona/user-persona-1.png" alt="User Persona 1"/>
 
 #### Segmento: Proveedor
 
 Laura es administradora de un restaurante de 45 años. Busca optimizar la gestión, reducir desperdicios y mejorar la satisfacción del cliente. Tiene experiencia en organización y se maneja bien con la tecnología. Sus principales frustraciones son la falta de integración de sistemas y el desperdicio de insumos. Sus canales favoritos son Facebook, LinkedIn y las interacciones cara a cara.
 
-<img src = "/images/user-persona/user-persona-2.png" alt="User Persona 2"/>
+<img src = "./images/user-persona/user-persona-2.png" alt="User Persona 2"/>
 
 <h4 id="user-task-matrix">2.3.2. User Task Matrix.</h4>
 
@@ -816,14 +788,14 @@ Laura es administradora de un restaurante de 45 años. Busca optimizar la gesti�
 Los usuarios sienten ansiedad por la curva de aprendizaje del equipo, lo que destaca la necesidad de mejorar la accesibilidad del producto y ofrecer tutoriales más fáciles de seguir.
 A pesar de la satisfacción con la reducción de desperdicios, los usuarios expresan frustraciones con la interfaz, lo que sugiere oportunidades para recibir retroalimentación constante y mejorar la usabilidad del sistema.
 
-<img src="/images/user-journey-mapping/user-journey-mapping-1.png" alt="user-journey-mapping-1">
+<img src="./images/user-journey-mapping/user-journey-mapping-1.png" alt="user-journey-mapping-1">
 
 #### Segmento: Proveedor
 
 Los usuarios buscan automatizar la gestión de pedidos, pero tienen preocupaciones sobre la compatibilidad con sus sistemas actuales, lo que indica la importancia de resaltar la facilidad de integración en los materiales promocionales.
 Aunque se muestra satisfacción con la reducción de errores, los usuarios aún experimentan frustraciones con algunos aspectos de la interfaz, lo que señala la necesidad de mejorar y personalizarla, especialmente para proveedores.
 
-<img src="/images/user-journey-mapping/user-journey-mapping-2.png" alt="user-journey-mapping-2">
+<img src="./images/user-journey-mapping/user-journey-mapping-2.png" alt="user-journey-mapping-2">
 
 <h4 id="empathy-mapping">2.3.4. Empathy Mapping.</h4>
 
@@ -833,7 +805,7 @@ Los usuarios sienten ansiedad por posibles fallas del sistema y buscan mejorar l
 Escuchan quejas de clientes sobre demoras en pedidos, sugerencias del personal para mejorar procesos y notificaciones del sistema sobre inventarios bajos.
 Suelen ver informes de stock y ventas, menús, listas de precios, reservas y pedidos en línea, además de los movimientos del personal.
 
-<img src="/images/empathy-map/empathy-map-1.png" alt="empathy-mapping-1">
+<img src="./images/empathy-map/empathy-map-1.png" alt="empathy-mapping-1">
 
 #### Segmento: Proveedor
 
@@ -841,7 +813,7 @@ Los usuarios se preocupan por la exactitud y puntualidad de los pedidos, con ans
 Escuchan comentarios sobre la puntualidad de los pedidos, sugerencias de clientes para mejorar la entrega y notificaciones del sistema sobre nuevos pedidos.
 Observan detalles de pedidos recibidos y pendientes en NoNucleus, notificaciones de cambios en las solicitudes y reportes sobre cantidad y tiempos de entrega.
 
-<img src="/images/empathy-map/empathy-map-2.png" alt="empathy-mapping-2">
+<img src="./images/empathy-map/empathy-map-2.png" alt="empathy-mapping-2">
 
 <h4 id="as-is-scenario-mapping">2.3.5. As-is Scenario Mapping.</h4>
 
@@ -851,7 +823,7 @@ Pasos y acciones: Llega temprano, revisa inventario y stock, asigna tareas al pe
 Pensamientos: Preocupación por el stock y las responsabilidades del personal, buscando asegurar eficiencia en el servicio y resolver problemas rápidamente. Al final del día, reflexiona sobre posibles mejoras para mañana.
 Sentimientos: Preocupación, ansiedad al inicio del día, satisfacción tras una buena jornada, frustración ante problemas y alivio al cerrar el día.
 
-<img src="/images/as-is-scenary-map/as-is-scenary-map-1.png" alt="as-is-scenary-map-1"/>
+<img src="./images/as-is-scenary-map/as-is-scenary-map-1.png" alt="as-is-scenary-map-1"/>
 
 #### Segmento: Proveedor
 
@@ -859,7 +831,7 @@ Pasos y acciones: Inicia revisando pedidos, verifica que estén organizados, coo
 Pensamientos: Preocupación por el stock y la organización de los pedidos, buscando que las entregas sean puntuales y sin errores. Reflexiona sobre problemas potenciales y cómo mejorar la próxima vez.
 Sentimientos: Preocupación y ansiedad al inicio, determinación durante el proceso, frustración si surgen problemas y alivio tras recibir feedback y cerrar el día.
 
-<img src="/images/as-is-scenary-map/as-is-scenary-map-2.png" alt="as-is-scenary-map-2"/>
+<img src="./images/as-is-scenary-map/as-is-scenary-map-2.png" alt="as-is-scenary-map-2"/>
 
 <h4 id="ubiquitous-language">2.4. Ubiquitous Language.</h4>
 
@@ -876,8 +848,8 @@ Este lenguaje será usado consistentemente en la documentación, comunicación y
 <h3 id="chapter-3">Capítulo III: Requirements Specification</h3>
 <h4 id="to-be-scenario-mapping">3.1. To-Be Scenario Mapping.</h4>
 
-<img src="/images/ad.jpeg"></img><br>
-<img src="/images/pr.jpeg"></img><br>
+<img src="./images/ad.jpeg"></img><br>
+<img src="./images/pr.jpeg"></img><br>
  
 <h4 id="user-stories">3.2. User Stories.</h4>
 
@@ -933,8 +905,8 @@ Este lenguaje será usado consistentemente en la documentación, comunicación y
 Ambos mapas proporcionan una hoja de ruta para el desarrollo de sistemas que satisfagan las 
 necesidades tanto de proveedores como de administradores, optimizando la operación de los restaurantes.
 
-<img src="/images/mp.jpeg"></img><br>
-<img src="/images/mpi.jpeg"></img><br>
+<img src="./images/mp.jpeg"></img><br>
+<img src="./images/mpi.jpeg"></img><br>
 <h4 id="product-backlog">3.4. Product Backlog.</h4>
 
 
@@ -978,7 +950,7 @@ necesidades tanto de proveedores como de administradores, optimizando la operaci
 | 36     |US-26                | Programar una reunión con el restaurante                | Como proveedor, quiero programar una reunión con el restaurante para discutir posibles acuerdos de colaboración.                                                                                                                                              | 3                        |
 
 
-<img src="/images/PT.jpeg"></img><br>
+<img src="./images/PT.jpeg"></img><br>
 
 <h3 id="chapter-4">Capítulo IV: Product Design</h3>
 <p>
@@ -1185,47 +1157,47 @@ Para esta parte, se realizó un prototipo sobre como funcionaría nuestro proyec
 
 ## 4.6. Domain-Driven Software Architecture. <a name ="4.6.">
 ### 4.6.1. Software Architecture Context Diagram. <a name ="4.6.1.">
-<img src="/images/contexto.png" alt="Context Diagram">
+<img src="./images/contexto.png" alt="Context Diagram">
 
 ### 4.6.2. Software Architecture Container Diagrams. <a name ="4.6.2.">
-<img src="/images/contenedor.png" alt="Context Diagram">
+<img src="RE-GRILL.png/images/contenedor.png" alt="Context Diagram">
 
 ### 4.6.3. Software Architecture Components Diagrams. <a name ="4.6.3.">
 <ul>
   <li>
     <p>Usuarios</p>
-    <img src="/images/usuario.png" alt="Component Usuarios">
+    <img src="./images/usuario.png" alt="Component Usuarios">
   </li>
   <li>
     <p>Ventas</p>
-    <img src="/images/ventas.png" alt="Component Ventas">
+    <img src="./images/ventas.png" alt="Component Ventas">
   </li>
   <li>
     <p>Reservas</p>
-    <img src="/images/reserva.png" alt="Component Reservas">
+    <img src="./images/reserva.png" alt="Component Reservas">
   </li>
   <li>
     <p>Rendimiento</p>
-    <img src="/images/rendimiento.png" alt="Component Rendimiento">
+    <img src="./images/rendimiento.png" alt="Component Rendimiento">
   </li>
   <li>
     <p>Inventario</p>
-    <img src="/images/inventario.png" alt="Component Inventario">
+    <img src="./images/inventario.png" alt="Component Inventario">
   </li>
   <li>
     <p>Gestor de proveedores</p>
-    <img src="/images/gestor.png" alt="Component Gestor">
+    <img src="./images/gestor.png" alt="Component Gestor">
   </li>
   <li>
     <p>Ajustes</p>
-    <img src="/images/ajustes.png" alt="Component Ajustes">
+    <img src="./images/ajustes.png" alt="Component Ajustes">
   </li>
 </ul>
 
 ## 4.7. Software Object-Oriented Design. <a name ="4.7.">
 ### 4.7.1. Class Diagrams. <a name ="4.7.1.">
 
-<tr><img src="/images/dc.png" /><tr>
+<tr><img src="./images/dc.png" /><tr>
 
 ### 4.7.2. Class Dictionary. <a name ="4.7.2.">
 
@@ -1276,7 +1248,7 @@ Genera reportes sobre los pedidos realizados, detallando los productos pedidos y
 ## 4.8. Database Design. <a name ="4.8.">
 ### 4.8.1. Database Diagram. <a name ="4.8.1.">
 
-<tr><img src="/images/databasediagram.jpg" /><tr>
+<tr><img src="./images/databasediagram.jpg" /><tr>
 
 
 <h3 id="chapter-5">Capítulo V: Product Implementation, Validation & Deployment</h3>
@@ -1739,17 +1711,17 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 <p>Se adjuntan capturas de pantalla de las principales vistas de la landing page desarrollada en el Sprint 1, mostrando el diseño y la estructura de la página.</p>
 <h5>Se implementó el Header</h5>
 <p>En esta sección se pueden observar las principales opciones de la página, un call to action y una descripción sobre nuestra compañía y nuestros valores. </p>
-<img src="/images/landing-page-header-img.png" alt="Landing page header img">
-<img src="/images/landing-page-body-img.png" alt="Descripción del producto">
+<img src="./images/landing-page-header-img.png" alt="Landing page header img">
+<img src="./images/landing-page-body-img.png" alt="Descripción del producto">
 <h5>Se implementó la sección de features y plans.</h5>
 <p>En estas secciones se describen las principales características que tiene Re-grill, así como los diferentes planes de suscripción ques se ofrece.</p>
-<img src="/images/landing-page-feature-plans-img.png" alt="Features and plans del producto">
+<img src="./images/landing-page-feature-plans-img.png" alt="Features and plans del producto">
 <h5>Se implementó la sección de Benefits y Questions & Answers </h5>
 <p>En esta sección se describen los beneficios de Re-Grill y se resuelven las preguntas más frecuentes que los usuarios puedan tener.</p>
-<img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers">
+<img src="./images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers">
 <h5>Se implementó el footer con la opción de contacto</h5>
 <p>En esta sección se muestra la información de contacto de la empresa, así como un formulario para que los usuarios puedan enviar sus consultas.</p>
-<img src="/images/landing-page-contact-footer-img.png" alt="Footer de la landing page">
+<img src="./images/landing-page-contact-footer-img.png" alt="Footer de la landing page">
 
 <h4 id="services-documentation-evidence-for-sprint-review">5.2.1.6. Services Documentation Evidence for Sprint Review.</h4>
 <p>En este Sprint, el enfoque principal fue el desarrollo y despliegue de la landing page de Re-Grill. No se implementaron Web Services en esta etapa, por lo que no se incluye documentación relacionada con endpoints o servicios web. La implementación y documentación de Web Services será abordada en Sprints futuros, conforme se expanda la funcionalidad del producto.</p>
@@ -1766,11 +1738,11 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         </ul>
 <h5>Evidencias Gráficas del Despliegue</h5>
 <p>A continuación, se muestran capturas de pantalla que ilustran el proceso despliegue:</p>
-<img src="/images/landing-page-header-img.png" alt="Header de la landing page">
-<img src="/images/landing-page-body-img.png" alt="Body de la landing page">
-<img src="/images/landing-page-feature-plans-img.png" alt="Features and plans de la landing page">
-<img src="/images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers de la landing page">
-<img src="/images/landing-page-contact-footer-img.png" alt="Contact Footer de la landing page">
+<img src="./images/landing-page-header-img.png" alt="Header de la landing page">
+<img src="./images/landing-page-body-img.png" alt="Body de la landing page">
+<img src="./images/landing-page-feature-plans-img.png" alt="Features and plans de la landing page">
+<img src="./images/landing-page-benefits-q&a-img.png" alt="Benefits and Questions & Answers de la landing page">
+<img src="./images/landing-page-contact-footer-img.png" alt="Contact Footer de la landing page">
 
 <h4 id="team-collaboration-insights-during-sprint">5.2.1.8. Team Collaboration Insights during Sprint.</h4>
 <p>
@@ -1802,8 +1774,8 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
         <td>Implementación del switching de idioma realizando una versión en español del landing page en el index-es.html.</td>
     </tr>
 </table>
-<img src="/images/commits-1.png" alt="Commits 1">
-<img src="/images/commits-2.png" alt="Commits 2">
+<img src="./images/commits-1.png" alt="Commits 1">
+<img src="./images/commits-2.png" alt="Commits 2">
 
 <!-- 5.2.2. Sprint 2 -->
 
@@ -1959,10 +1931,10 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
     <tr>
         <td>HOLGUINUPC/front-end </td>
-        <td>x</td>
-        <td>x</td>
-        <td>x</td>
-        <td>x</td>
+        <td>main</td>
+        <td>65d0d26</td>
+        <td>feat: added stock</td>
+        <td>feat: added stock</td>
         <td>x</td>
     </tr>
     <tr>
@@ -1996,24 +1968,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 </table>
 <h4 id="testing-suite-evidence-for-sprint-review">5.2.2.4. Testing Suite Evidence for Sprint Review.</h4>
 <p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas para la parte frontend de la aplicación web de Re-Grill, desarrollada en el Sprint 2. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la interfaz frontend. Las pruebas de aceptación se diseñaron para garantizar que la interfaz cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
-<table>
-    <tr>
-        <td>Repository</td>
-        <td>Branch</td>
-        <td>Commit Id </td>
-        <td>Commit Message </td>
-        <td>Commit Message Body</td>
-        <td>Commited on (Date) </td>
-    </tr>
-    <tr>
-        <td>x</td>
-        <td>x</td>
-        <td>x</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-    </tr>
-</table>
+
 <h4 id="execution-evidence-for-sprint-review"> 5.2.2.5 Execution Evidence for Sprint Review.</h4>
 <p>En este Sprint, se logró desarrollar y desplegar exitosamente la primera versión del frontend de la aplicación web de Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La interfaz frontend refleja fielmente el diseño y la funcionalidad esperados, proporcionando una experiencia interactiva y amigable para los usuarios. Las primeras funcionalidades añadidas en este sprint fueron la de agregar ingredientes en la sección "Stock", agregar un registro de órdenes en la sección "Orders" y visualizar la primera versión de la sección "Home".</p>
 <h5>Screenshots de las Principales Vistas Implementadas</h5>
