@@ -362,106 +362,78 @@ En un mercado altamente competitivo, los restaurantes enfrentan barreras como al
 
 <h4 id="lean-ux-assumptions">1.2.2.2. Lean UX Assumptions.</h4>
 
-**Business Outcomes:**
+#### - Features
+- Gestión del inventario de productos en restaurantes.
+- Comunicación eficiente con proveedores para reabastecimiento de ingredientes.
+- Interfaz amigable para gestionar pedidos y disponibilidad de productos en tiempo real.
 
-- Lograr un crecimiento con al menos 10 restaurantes utilizando Re’Grill en el primer año.
+#### - Business Outcomes
+Nuestros objetivos comerciales para **Re-Grill** incluyen:
+- Alcanzar al menos 10 restaurantes que utilicen Re'Grill durante el primer año.
+- Destacar en el mercado de aplicaciones de gestión de restaurantes con una tasa de adopción del 20% en el primer trimestre.
+- Obtener comentarios positivos de los clientes sobre la eficiencia de nuestro sistema en la gestión de restaurantes.
 
-- Resaltar en el mercado de aplicaciones de gestión de restaurantes con una tasa de adopción del 20% en el primer trimestre.
+#### - Users
+**Administradores de restaurantes**  
+Ellos necesitan optimizar la gestión del inventario de productos, mejorar la atención a los clientes y organizar el restaurante de manera eficiente.
 
-- Obtener comentarios positivos de los clientes hacia la eficacia de nuestro sistema.
+**Proveedores de restaurantes**  
+Los proveedores buscan mejorar la comunicación con los restaurantes para optimizar la reposición de productos y realizar entregas oportunas.
 
-**User Assumptions:**
-**Assumptions Worksheet**<br>
-**¿Quién es el usuario?**
-- La parte administrativa de un restaurante
-- Los proveedores de restaurantes
+#### - User Outcomes & Benefits
+**Administradores de restaurantes:**
+- Ahorro de tiempo y mejora en la organización gracias a una gestión eficiente del inventario.
+- Mayor control sobre los ingredientes disponibles para ofrecer un mejor servicio a los clientes.
+- Comunicación fluida con proveedores para garantizar el abastecimiento necesario.
 
-**¿Qué problemas tiene nuestro producto? ¿Resolver?**
-- Gestión con los productos que se tienen en el restaurante
-- Comunicación con los proveedores de alimentos para los ingredientes de sus platillos a la carta
+**Proveedores:**
+- Mejora en la comunicación con los restaurantes, lo que permite una entrega de productos más precisa y rápida.
+- Reducción de errores en el suministro de ingredientes gracias a la visibilidad en tiempo real de las necesidades del restaurante.
 
-**¿Qué características son importantes?**
-- Una mejor forma de contactarse entre la parte administrativa y el proveedor para la reponer los productos
-- Mejorar la atención del cliente con los platillos que se encuentran disponibles en dicho momento.
-- Organización de las cantidades de los productos, ya sea comestibles o de mantenimiento.
-- Interfaz amigable para cualquier usuario que lo use.
+#### - User Assumptions
 
-**¿Dónde encaja nuestro producto en su trabajo o vida?**
-- Para la administración, nuestro producto les ayudará a gestionar los ingredientes de los platos que cocinan, además de conocer los desperdicios que hay al momento de cocinar y las cantidades de mesas, sillas, entre otros.
-- Para los proveedores, el producto los ayudará en mejorar la comunicación entre ellos y la administración del restaurante, además de brindar las cantidades exactas que necesita el restaurante.
+**¿Quién es el usuario?**  
+El usuario principal de **Re-Grill** es la parte administrativa de los restaurantes que necesita una solución eficiente para gestionar el inventario y los pedidos. También consideramos como usuarios a los proveedores que suministran los ingredientes a los restaurantes.
 
-**¿Cuándo y cómo es nuestro producto? ¿Usado?**
-- El producto será utilizado cuando la administración del restaurante comienza a gestionar el inventario que posee actualmente, además de ver si las cantidades son las suficientes para las preparaciones al momento de atender.
-- El producto será usado por algunos proveedores de restaurantes, donde podrán visualizar los distintos restaurantes que necesitan contactarse con algún proveedor de algún consumible.
-- El producto será a través de una aplicación web mediante algún dispositivo que usa internet y un navegador como Chrome.
+**¿Dónde encaja nuestro producto en sus trabajos o vidas?**  
+Para los administradores de restaurantes, el producto facilita la gestión del inventario, permite controlar las cantidades disponibles, los desperdicios y las reservas. Para los proveedores, mejora la comunicación con los restaurantes, facilitando la reposición de productos de manera oportuna.
 
-**¿Cómo debe verse nuestro producto y cómo comportarse?**
-- El diseño de nuestro producto debe ser atractivo y coherente con respecto al diseño del restaurante.
-- La plataforma debe cargar de manera rápida las respuestas a las acciones del usuario para que no se frustre.
-- La navegación de la plataforma debe ser intuitiva y comprensible, donde los usuarios pueden ver los filtros necesarios y las distintas opciones que tiene.
-- Debe mostrar a los clientes con gráficos y una pequeña descripción acerca del plato de comida que busca.
-- Esta plataforma debe ser compatible con algunos dispositivos de dimensiones distintas, como celulares, laptops, tablets y computadoras, donde se usa un diseño responsive.
+**¿Qué problema resuelve nuestro producto?**  
+Re-Grill resuelve la falta de eficiencia en la gestión del inventario y la comunicación entre restaurantes y proveedores, permitiendo una mejor planificación y organización de recursos y productos.
 
-**Business Outcomes**<br>
-- Convertir nuestro producto como una plataforma indispensable para la gestión de restaurantes, ya sea en la manera de reponer el inventario, organización del mismo local y la atención de los clientes.
-- Un 75% de los usuarios que usaron la página han logrado gestionar de mejor manera los restaurantes.
-- Un 20% de los clientes de restaurantes se muestran insatisfechos con la atención que brinda los restaurantes.
+**¿Cuándo y cómo es usado nuestro producto?**  
+El producto se utiliza diariamente para gestionar el inventario, tomar pedidos y coordinar con los proveedores. Los usuarios acceden a la aplicación web desde dispositivos conectados a internet para monitorear y gestionar las operaciones en tiempo real.
 
-**User Benefits**<br>
-- Ahorro de tiempo por la manera de gestionar el inventario.
-- Facilidad en buscar los productos faltantes o desperdiciados.
-- Mejor comunicación entre el proveedor y la administración.
+**¿Qué características son importantes?**  
+- Gestión en tiempo real de los productos disponibles en el restaurante.
+- Comunicación fluida con los proveedores para reabastecer los ingredientes.
+- Interfaz intuitiva y adaptable a dispositivos de distintas dimensiones.
+- Reportes sobre el estado del inventario y sugerencias de compras basadas en necesidades.
 
-**Assumptions Steps**<br>
-**a. Creo que mis clientes necesitan:**
-  - Visualización de disponibilidad de platillos.
-  - Expresar de manera intuitiva el inventario que se lleva en el local
-  - Comunicarse de manera eficiente con otro tipo de usuario
+**¿Cómo debería verse y comportarse nuestro producto?**  
+El diseño debe ser atractivo, coherente con la identidad visual del restaurante, y rápido en la respuesta a las acciones de los usuarios. La navegación debe ser simple, permitiendo a los usuarios ver las cantidades de productos, realizar pedidos y contactar a los proveedores fácilmente. Además, debe ser responsivo, adaptable a cualquier dispositivo.
 
-**b. Estas necesidades se pueden resolver con:**
-  - Un sistema que calcula lo que hay en el inventario en general y lo que se usa al día.
-  - Una base de datos que se actualiza cada vez que cambia y se use parte de lo que hay en el inventario.
-  - Un diseño que sea muy atractivo visualmente y a la vez entendible para gestionar el restaurante.
-  - Accesibilidad para su uso en distintos dispositivos según lo que el usuario usará.
-
-**c. Mis clientes iniciales son (o serán):**
-  - La parte administrativa de un restaurante.
-  - Los proveedores o vendedores de alimentos para los restaurantes.
-
-**d. El valor #1 que un cliente quiere de mi producto es veracidad (utilidad, funcionalidades que le resuelven el problema)**
-  - La garantía de que no habrá problemas en las cantidades con respecto al inventario por la base de datos.
-  - La comunicación de manera directa con el proveedor con respecto a la necesidad del restaurante.
-
-**e. El cliente también puede obtener estos beneficios adicionales:**
-  - Obtener las cantidades de la merma que se obtiene al hacer un plato.
-  - Mejorar la administración del restaurante.          
-
-**f. Voy a adquirir la mayoría de mis clientes a través de:**
-  - Colaboración con un restaurante conocido.
-  - Estrategias de marketing digital con el enfoque en los distintos restaurantes.
-
-**g. Haré dinero a través de:**
-  - Membresías premium con acceso exclusivo y funciones adicionales
-
-**h. Mi competencia principal en el mercado:**
-  - Tiendas virtuales de restaurantes que se enfocan en las ventas.
-  - Páginas de gestión de restaurantes.
-
-**i. Los venceremos debido a:**
-  - El diseño es atractivo y accesible para cualquier tipo de usuario ya sea la administración o el proveedor.
-  - La base de datos actualizada constantemente con respecto a la necesidad del usuario.
-
-**j. Mi mayor riesgo del producto es:**
-  - La desconfianza por parte de los restaurantes con respecto a la correcta función del programa al momento de tener días especiales.
-  - El mal cálculo del inventario al momento de mostrar las cantidades de cada producto que se encuentra disponible.
-
-**k. Resolveremos esto a través de:**
-  - Mostrando pruebas funcionales de esto y su adaptabilidad ante algún problema que se muestra de manera sorpresiva.
-  - Las constantes verificaciones que se realizará al momento de que se haga alguna compra.
-
-**l. ¿Qué otras suposiciones tenemos? ¿Eso, si se prueba que es falso, causará que nuestro negocio / proyecto no funcione?**
-  - Podrá ser que las estrategias de marketing que se usa podrán ayudar a obtener más compañías que le darán uso de la aplicación. En caso se muestre el contrario, podría afectar de manera negativa la inversión del negocio.
-  - Las ventas de las suscripciones para obtener más funciones que les será muy útil para mejorar su experiencia con la página. Si se prueba que es falso, afectaría de manera directa con la generación de ingresos y sostenibilidad del negocio.
+#### - Business Assumptions
+- **Creemos que nuestros clientes necesitan**:  
+  Una plataforma que les permita gestionar de manera eficiente su inventario, pedidos y la comunicación con proveedores.
+- **Estas necesidades se pueden resolver con**:  
+  Un sistema que actualice automáticamente el inventario, comunique con los proveedores y organice los pedidos de forma eficiente.
+- **El valor #1 que mi cliente quiere de mi producto es**:  
+  La fiabilidad y precisión en la gestión del inventario y la comunicación con proveedores.
+- **El cliente también puede obtener estos beneficios adicionales**:  
+  Optimización de los recursos del restaurante, mejora en la atención a los clientes, y reducción de los desperdicios.
+- **Voy a adquirir la mayoría de mis clientes a través de**:  
+  Colaboraciones con restaurantes y campañas de marketing digital enfocadas en soluciones para restaurantes.
+- **Haré dinero a través de**:  
+  Ofrecimiento de membresías premium con funciones avanzadas para una gestión más detallada.
+- **Mi competencia principal en el mercado es**:  
+  Otras aplicaciones de gestión de restaurantes que se enfocan en el inventario o las ventas.
+- **Los venceremos debido a**:  
+  Nuestro diseño intuitivo, la actualización automática del inventario y la integración eficiente con los proveedores.
+- **El mayor riesgo es**:  
+  Que los restaurantes desconfíen de la precisión del sistema en días con alta demanda o eventos especiales.
+- **Resolveremos esto a través de**:  
+  Pruebas rigurosas de la plataforma en condiciones de alta demanda y mantenimiento constante de la base de datos.
 
 <h4 id="lean-ux-hypothesis">1.2.2.3. Lean UX Hypothesis Statements.</h4>
 
