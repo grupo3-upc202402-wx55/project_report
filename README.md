@@ -1937,10 +1937,10 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
     </tr>
     <tr>
         <td>HOLGUINUPC/front-end </td>
-        <td>x</td>
-        <td>x</td>
-        <td>x</td>
-        <td>x</td>
+        <td>main</td>
+        <td>65d0d26</td>
+        <td>feat: added stock</td>
+        <td>feat: added stock</td>
         <td>x</td>
     </tr>
     <tr>
@@ -1974,24 +1974,7 @@ Trello se ha para la gestión del proyecto, permitiendo la visualización y actu
 </table>
 <h4 id="testing-suite-evidence-for-sprint-review">5.2.2.4. Testing Suite Evidence for Sprint Review.</h4>
 <p>En esta sección, presentamos las evidencias relacionadas con las pruebas de aceptación automatizadas para la parte frontend de la aplicación web de Re-Grill, desarrollada en el Sprint 2. A lo largo de este sprint, se lograron los objetivos planteados: planificación, desarrollo y despliegue de la interfaz frontend. Las pruebas de aceptación se diseñaron para garantizar que la interfaz cumpla con los requisitos y expectativas definidos en los User Stories correspondientes. </p>
-<table>
-    <tr>
-        <td>Repository</td>
-        <td>Branch</td>
-        <td>Commit Id </td>
-        <td>Commit Message </td>
-        <td>Commit Message Body</td>
-        <td>Commited on (Date) </td>
-    </tr>
-    <tr>
-        <td>x</td>
-        <td>x</td>
-        <td>x</td>
-        <td>X</td>
-        <td>X</td>
-        <td>X</td>
-    </tr>
-</table>
+
 <h4 id="execution-evidence-for-sprint-review"> 5.2.2.5 Execution Evidence for Sprint Review.</h4>
 <p>En este Sprint, se logró desarrollar y desplegar exitosamente la primera versión del frontend de la aplicación web de Re-Grill. Se completaron todas las tareas planificadas, incluyendo la creación de las páginas y componentes necesarios para permitir a los usuarios acceder a las funcionalidades del producto de manera intuitiva y eficiente. La interfaz frontend refleja fielmente el diseño y la funcionalidad esperados, proporcionando una experiencia interactiva y amigable para los usuarios. Las primeras funcionalidades añadidas en este sprint fueron la de agregar ingredientes en la sección "Stock", agregar un registro de órdenes en la sección "Orders" y visualizar la primera versión de la sección "Home".</p>
 <h5>Screenshots de las Principales Vistas Implementadas</h5>
