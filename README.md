@@ -243,38 +243,6 @@ El curso contribuye al cumplimiento del **Student Outcome ABET: ABET – EAC - S
   </tr>
 </table>  
 
-<br/>
-<table><thead>
-  <tr>
-    <th>Criterio específico</th>
-    <th>Acciones realizadas</th>
-    <th>Conclusiones</th>
-  </tr></thead>
-<tbody>
-  <tr>
-    <td>Demuestra capacidad de comunicarse efectivamente con un rango de audiencias</td>
-    <td><b> Gabriel Anthony Braithuaite Toledo:</b><br>
-TB1: En este caso yo realize todo el capitulo numero 5 , el cual incluye Software Configuration Management, Landing Page, Services & Applications Implementation y Validation Interviews.
-
-<br><b> Adrian Alonso Calle Huayanca</b>   <br>
-TB1: Para esta entrega yo realize el punto 4, el cual incluye Product design,Styles guidelines,Information architecture,Landing page and  UI design
-
-<br><b> Hardie Alfonso Holguín Gamarra</b><br>
-TB1: Yo me encargue de el capitulo 3 , el cual incluye Requirements Specification, To-Be Scenario Mapping, User Stories, Impact Mapping y Product Backlog.
-
-<br><b> Mateo Italo Loechle Arias:</b> <br>
-
-TB1: En esta entrega , se implemento todo el capitulo 1 , en este caso el startup profile , el solution profile , los antecedentes y problematica y todos los puntos del Lean UX Process.
-<br><br><b> David Bryan Rodriguez Santos</b>
-TB1: Yo realize todo el capitulo 2 para esta entrega , incluyendo los competidores , las entrevistas , el needfinding y el ubiquitous language.
-</td>
-    <td>Se lograron los objetivos establecidos<br>gracias a la constante comunicación y<br>organización de<br>nuestro equipo para la correcta elaboración e<br>implementación del presente proyecto</td>
-  </tr>
-  <tr>
-  </tr>
-</tbody>
-</table>
-
 
 
 <h3 id="chapter-1">Capítulo I: Introducción</h3>
