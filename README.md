@@ -94,14 +94,6 @@ Se muestran evidencias de los commits realizados en la entrega de la TB1
   <td rowspan="3"><img src="/INS.jpeg"></td>
 
 
-[Colaboraciones del repositorio]
-
-<img src="assets/colaboration-insights/commits.png" alt="imagen de los commits">  
-[Registro de los commits donde se realizaron la mayor cantidad]
-
-En ambos casos se puede observar el incremento de modificaciones y revisiones en la primera semana de abril.
-
----
 
 ### TP1
 
@@ -110,6 +102,20 @@ capítulo con el objetivo de mejorar la calidad del trabajo y se pueda realizar
 una retroalimentación activa, para cada actividad asignada se ha entregado un 
 conjunto de subíndices por cada capítulo a los integrantes del grupo dejando
 la posibilidad de realizar correcciones entre los mismos integrantes.
+
+Se muestran evidencias de los commits realizados en la entrega de la TB1
+
+<p>Link del repositorio de git-hub: "https://github.com/grupo3-upc202402-wx55/project_report" </p>
+
+
+[Colaboraciones del repositorio]
+
+<img src="./images/CM2.jpeg" alt="imagen de los commits">  
+
+[Registro de los commits donde se realizaron la mayor cantidad]
+En ambos casos se puede observar el incremento de modificaciones y revisiones en la segundo semana de septiembre.
+
+<img src="./images/IN1.jpeg" alt="imagen de los commits"> 
 
 
 ## Contenido
